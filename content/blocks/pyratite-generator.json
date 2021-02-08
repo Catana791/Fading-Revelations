@@ -1,0 +1,41 @@
+{
+  "type": "SingleTypeGenerator",
+  "name": "Pyratite Generator",
+  "description": "Uses the high flammability of pyratite to make a decent amou nt of power.",
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "itemDuration": 135,
+  "powerProduction": 8,
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "pyratite",
+          "amount": 1
+        }
+      ],
+      "optional": true
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 70
+    },
+    {
+      "item": "lead",
+      "amount": 100
+    },
+    {
+      "item": "titanium",
+      "amount": 60
+    },
+    {
+      "item": "silicon",
+      "amount": 60
+    }
+  ],
+  "category": "power",
+  "research": "solar-panel"
+}

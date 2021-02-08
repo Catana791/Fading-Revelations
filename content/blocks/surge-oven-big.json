@@ -1,0 +1,59 @@
+{
+  "type": "GenericSmelter",
+  "name": "Surge-Alloy-Forge",
+  "description": "A better forge alloy forge that is more costefficient.",
+  "size": 4,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 120,
+  "craftEffect": "pulverizeRedder",
+  "updateEffect": "hitMeltdown",
+  "consumes": {
+    "power": 6,
+    "items": {
+      "items": [
+        {
+          "item": "copper",
+          "amount": 3
+        },
+        {
+          "item": "lead",
+          "amount": 4
+        },
+        {
+          "item": "titanium",
+          "amount": 2
+        },
+        {
+          "item": "silicon",
+          "amount": 3
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 160
+    },
+    {
+      "item": "thorium",
+      "amount": 140
+    },
+    {
+      "item": "silicon",
+      "amount": 160
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 25
+    }
+  ],
+  "category": "crafting",
+  "research": "alloy-smelter",
+  "outputItem": {
+    "item": "surge-alloy",
+    "amount": 4
+  }
+}

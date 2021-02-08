@@ -1,0 +1,9 @@
+{
+  "name": "Explosive Ammo",
+  "description": "Ammo made from blast compound. Decent damage and has a frag effect in some turrets.",
+  "cost": 2.5,
+  "color": "df0505",
+  "hardness": 3,
+  "flammability": 1,
+  "explosiveness": 1
+}

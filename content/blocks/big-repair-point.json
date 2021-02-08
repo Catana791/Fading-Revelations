@@ -1,0 +1,29 @@
+{
+  "type": "repairPoint",
+  "name": "Advanced Reparaturpunkt",
+  "description": "A better repair point that needs no power! How good is that?!",
+  "health": 100,
+  "range": 240,
+  "hasPower": true,
+  "healPercent": 22,
+  "size": 2,
+  "consumes": {
+    "power": 0.8
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 30
+    },
+    {
+      "item": "lead",
+      "amount": 30
+    },
+    {
+      "item": "silicon",
+      "amount": 30
+    }
+  ],
+  "category": "units",
+  "research": "repair-point"
+}

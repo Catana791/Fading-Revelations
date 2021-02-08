@@ -1,0 +1,32 @@
+{
+  "name": "Titanium Drill",
+  "description": "A cheap drill for everything.",
+  "type": "Drill",
+  "size": 2,
+  "tier": 5,
+  "drillTime": 400,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.05,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [
+    {
+      "item": "titanium",
+      "amount": 20
+    },
+    {
+      "item": "silicon",
+      "amount": 10
+    },
+    {
+      "item": "graphite",
+      "amount": 10
+    }
+  ],
+  "category": "production",
+  "research": "pneumatic-drill"
+}

@@ -1,0 +1,56 @@
+{
+  "type": "ItemTurret",
+  "name": "Sniper",
+  "description": "A long range, high damage sniper turret.",
+  "health": 900,
+  "maxAmmo": 600,
+  "reloadTime": 350,
+  "range": 500,
+  "ammoPerShot": 1,
+  "size": 3,
+  "targetAir": false,
+  "targetGround": true,
+  "rotatespeed": 8,
+  "recoilAmount": 1,
+  "shootSound": "shoot",
+  "buildCostMultiplier": 0.2,
+  "ammoTypes": {
+    "ammo-level-2": {
+      "damage": 120,
+      "speed": 50,
+      "pierce": true,
+      "splashDamageRadius": 10,
+      "splashDamage": 60,
+      "status": "burning",
+      "statusDuration": 150,
+      "fragBullets": 1,
+      "fragBullet": {
+        "damage": 50,
+        "speed": 40,
+        "pierce": false,
+        "splashDamageRadius": 3,
+        "splashDamage": 10
+      }
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 255
+    },
+    {
+      "item": "lead",
+      "amount": 180
+    },
+    {
+      "item": "titanium",
+      "amount": 120
+    },
+    {
+      "item": "plastanium",
+      "amount": 55
+    }
+  ],
+  "category": "turret",
+  "research": "hail"
+}

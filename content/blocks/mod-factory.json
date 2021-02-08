@@ -1,0 +1,79 @@
+{
+  "type": "unitFactory",
+  "name": "Mod-Factory",
+  "description": "Creates units from the mod.",
+  "size": 7,
+  "consumes": {
+    "power": 25
+  },
+  "plans": [
+    {
+      "unit": "king",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 1400
+        },
+        {
+          "item": "plastanium",
+          "amount": 700
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 600
+        },
+        {
+          "item": "phase-fabric",
+          "amount": 500
+        }
+      ],
+      "time": 12000
+    },
+    {
+      "unit": "tentacle",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 1400
+        },
+        {
+          "item": "plastanium",
+          "amount": 700
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 600
+        },
+        {
+          "item": "phase-fabric",
+          "amount": 500
+        }
+      ],
+      "time": 12000
+    }
+  ],
+  "requirements": [
+    {
+      "item": "titanium",
+      "amount": 450
+    },
+    {
+      "item": "plastanium",
+      "amount": 400
+    },
+    {
+      "item": "silicon",
+      "amount": 450
+    },
+    {
+      "item": "thorium",
+      "amount": 450
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 400
+    }
+  ],
+  "category": "units",
+  "research": "air-factory"
+}

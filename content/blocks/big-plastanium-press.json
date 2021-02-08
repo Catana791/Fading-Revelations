@@ -1,0 +1,51 @@
+{
+  "type": "GenericCrafter",
+  "name": "Plastanium-Forgee",
+  "description": "A better plastanium forge that is more cost-efficient.",
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "craftTime": 30,
+  "liquidCapacity": 84,
+  "consumes": {
+    "power": 3.75,
+    "items": {
+      "items": [
+        {
+          "item": "titanium",
+          "amount": 3
+        }
+      ]
+    },
+    "liquid": {
+      "liquid": "oil",
+      "amount": 0.7
+    }
+  },
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 160
+    },
+    {
+      "item": "titanium",
+      "amount": 140
+    },
+    {
+      "item": "silicon",
+      "amount": 160
+    },
+    {
+      "item": "plastanium",
+      "amount": 25
+    }
+  ],
+  "category": "crafting",
+  "research": "plastanium-compressor",
+  "outputItem": {
+    "item": "plastanium",
+    "amount": 2
+  },
+  "health": 600
+}

@@ -1,0 +1,25 @@
+{
+  "type": "ItemBridge",
+  "name": "Titan Bridge Conveyor",
+  "description": "A faster bridge conveyor with more range. Quite useful.",
+  "health": 250,
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 4
+    },
+    {
+      "item": "copper",
+      "amount": 4
+    },
+    {
+      "item": "titanium",
+      "amount": 4
+    }
+  ],
+  "range": 8,
+  "transportTime": 4,
+  "hasPower": false,
+  "category": "distribution",
+  "research": "bridge-conveyor"
+}

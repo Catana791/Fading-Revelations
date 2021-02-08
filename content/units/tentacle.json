@@ -1,0 +1,41 @@
+{
+  "type": "flying",
+  "name": "Tentacle",
+  "description": "Heavy damage sniper drone. Has this name because of the tentacle-like shielding on it's back.",
+  "drag": 0.15,
+  "speed": 0.8,
+  "research": "toxopid",
+  "maxVelocity": 0.68,
+  "mass": 10,
+  "commandLimit": 10,
+  "hitsize": 45,
+  "health": 12000,
+  "flying": true,
+  "rotateWeapon": true,
+  "engineOffset": 26,
+  "engineSize": 5.5,
+  "rotatespeed": 0.06,
+  "baseRotateSpeed": 0.05,
+  "weapons": [
+    {
+      "name": "nothing",
+      "range": 200,
+      "x": 0,
+      "y": -2,
+      "reload": 250,
+      "shootcone": 360,
+      "spacing": 0,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 40,
+        "damage": 100,
+        "lifetime": 300,
+        "pierce": true,
+        "range": 200,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    }
+  ]
+}

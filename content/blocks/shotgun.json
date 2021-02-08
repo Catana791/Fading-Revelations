@@ -1,0 +1,52 @@
+{
+  "type": "BurstTurret",
+  "name": "Shotgun",
+  "description": "A shotgun turret. More damage the closer the enemies are to it's barrel.",
+  "health": 800,
+  "maxAmmo": 10,
+  "reloadTime": 100,
+  "range": 200,
+  "shots": 15,
+  "inaccuracy": 20,
+  "velocityInaccuracy": 0.10,
+  "size": 3,
+  "targetAir": false,
+  "targetGround": true,
+  "rotatespeed": 5,
+  "recoilAmount": 1,
+  "shootSound": "shoot",
+  "buildCostMultiplier": 0.2,
+  "ammoTypes": {
+    "shotgun-shells": {
+      "damage": 15,
+      "speed": 8,
+      "type": "BasicBulletType",
+      "lifetime": 30,
+      "width": 4,
+      "height": 7,
+      "frontColor": "ff0000",
+      "backColor": "ff0000",
+      "shrinkY": 0.10
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 255
+    },
+    {
+      "item": "lead",
+      "amount": 180
+    },
+    {
+      "item": "titanium",
+      "amount": 120
+    },
+    {
+      "item": "graphite",
+      "amount": 100
+    }
+  ],
+  "category": "turret",
+  "research": "ripple"
+}

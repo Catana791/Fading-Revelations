@@ -1,0 +1,67 @@
+{
+  "type": "ItemTurret",
+  "name": "Hurricane",
+  "description": "An enhanced version of the cyclone.",
+  "health": 1905,
+  "maxAmmo": 600,
+  "ammoPerShot": 1,
+  "reloadTime": 10,
+  "range": 200,
+  "size": 3,
+  "targetAir": true,
+  "targetGround": true,
+  "rotatespeed": 8,
+  "inaccuracy": 7,
+  "shots": 2,
+  "xRand": 4,
+  "recoilAmount": 2,
+  "restitution": 0.8,
+  "shootSound": "shoot",
+  "buildCostMultiplier": 0.2,
+  "ammoTypes": {
+    "phase-fabric": {
+      "type": "MissileBulletType",
+      "damage": 14,
+      "splashDamageRadius": 40,
+      "splashDamage": 7,
+      "speed": 8,
+      "lifetime": 25,
+      "height": 10,
+      "width": 5,
+      "ammoMultiplier": 2,
+      "homingPower": 0.55,
+      "hitEffect": "plasticExplosion",
+      "statusEffect": "shocked",
+      "statusDuration": 600
+    },
+    "surge-alloy": {
+      "type": "BasicBulletType",
+      "damage": 14,
+      "height": 15,
+      "width": 5,
+      "speed": 10,
+      "lifetime": 25,
+      "ammoMultiplier": 1,
+      "pierce": true,
+      "hitEffect": "hitBulletBig",
+      "statusEffect": "shocked",
+      "statusDuration": 600
+    }
+  },
+  "requirements": [
+    {
+      "item": "titanium",
+      "amount": 300
+    },
+    {
+      "item": "plastanium",
+      "amount": 150
+    },
+    {
+      "item": "copper",
+      "amount": 500
+    }
+  ],
+  "category": "turret",
+  "research": "cyclone"
+}

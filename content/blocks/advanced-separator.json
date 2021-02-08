@@ -1,0 +1,91 @@
+{
+  "type": "Separator",
+  "name": "Advanced Seperator",
+  "description": "An even more advanced Seperator. Needs slag and metallglass to run. Outputs a lot more items.",
+  "size": 4,
+  "hasPower": true,
+  "solid": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "liquidCapacity": 60,
+  "craftTime": 10,
+  "spinnerSpeed": -5,
+  "consumes": {
+    "power": 5.4,
+    "liquid": {
+      "liquid": "slag",
+      "amount": 0.3
+    },
+    "items": {
+      "items": [
+        {
+          "item": "metaglass",
+          "amount": 4
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 300
+    },
+    {
+      "item": "titanium",
+      "amount": 275
+    },
+    {
+      "item": "graphite",
+      "amount": 275
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 30
+    },
+    {
+      "item": "plastanium",
+      "amount": 30
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 30
+    }
+  ],
+  "results": [
+    {
+      "item": "thorium",
+      "amount": 4
+    },
+    {
+      "item": "titanium",
+      "amount": 6
+    },
+    {
+      "item": "copper",
+      "amount": 10
+    },
+    {
+      "item": "lead",
+      "amount": 10
+    },
+    {
+      "item": "coal",
+      "amount": 10
+    },
+    {
+      "item": "scrap",
+      "amount": 10
+    },
+    {
+      "item": "graphite",
+      "amount": 6
+    },
+    {
+      "item": "sand",
+      "amount": 8
+    }
+  ],
+  "category": "crafting",
+  "research": "disassembler",
+  "health": 690
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Homing Ammo",
+  "description": "Ammo made from thorium. Good damage and has a homing effect.",
+  "cost": 2.5,
+  "color": "df21fa",
+  "hardness": 1,
+  "flammability": 2,
+  "explosiveness": 3
+}
