@@ -11,4 +11,4 @@ Here are some useful links:
 
 [Mindustry GitHub](https://github.com/Anuken/Mindustry)
 
-[License](../blob/master/LICENSE)
+[License](https://github.com/Fresh791/mindustry-extended/blob/main/LICENSE)
