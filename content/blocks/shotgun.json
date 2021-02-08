@@ -17,7 +17,7 @@
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
   "ammoTypes": {
-    "shotgun-shells": {
+    "ammo-level-2": {
       "damage": 15,
       "speed": 8,
       "type": "BasicBulletType",
