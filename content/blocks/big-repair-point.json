@@ -1,6 +1,6 @@
 {
   "type": "repairPoint",
-  "name": "Advanced Reparaturpunkt",
+  "name": "Advanced Repair Point",
   "description": "A better repair point that needs no power! How good is that?!",
   "health": 100,
   "range": 240,
