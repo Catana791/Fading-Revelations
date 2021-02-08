@@ -39,7 +39,7 @@
     }
   ],
   "category": "crafting",
-  "research": "pyratite-mixer",
+  "research": "heal-ammo-crafter",
   "outputItem": {
     "item": "homing-ammo",
     "amount": 2
