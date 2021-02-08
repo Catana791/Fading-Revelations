@@ -7,4 +7,8 @@ A mod for the game "Mindustry" that focuses on extending it in fun but not op wa
 
 There are a lot of blocks that are hopefully fun to use!
 
-[Mindustry GitHub:](https://github.com/Anuken/Mindustry)
+Here are some useful links: 
+
+[Mindustry GitHub](https://github.com/Anuken/Mindustry)
+
+[License](../blob/master/LICENSE)
