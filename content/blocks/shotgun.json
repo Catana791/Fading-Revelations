@@ -5,7 +5,7 @@
   "health": 800,
   "maxAmmo": 10,
   "reloadTime": 200,
-  "range": 200,
+  "range": 175,
   "shots": 25,
   "inaccuracy": 20,
   "velocityInaccuracy": 0.10,
