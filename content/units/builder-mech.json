@@ -1,0 +1,45 @@
+{
+  "type": "flying",
+  "name": "Tentacle",
+  "description": "Defends the Atom core from enemies. Builds structures and slows enemies.",
+  "drag": 0.15,
+  "speed": 1.2,
+  "research": "poly",
+  "maxVelocity": 2,
+  "canBuild": true,
+  "buildSpeed": 300,
+  "mineSpeed": 1600,
+  "mineTier": 5,
+  "armor": 10,
+  "buildTier": 5,
+  "mass": 10,
+  "commandLimit": 8,
+  "health": 310,
+  "flying": true,
+  "rotateWeapon": true,
+  "rotatespeed": 0.06,
+  "baseRotateSpeed": 0.05,
+  "weapons": [
+    {
+      "name": "nothing",
+      "range": 200,
+      "x": 0,
+      "y": -2,
+      "reload": 50,
+      "shootcone": 360,
+      "spacing": 0,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBoltBulletType",
+        "speed": 40,
+        "healPercent": 7.5,
+        "damage": 10,
+        "lifetime": 300,
+        "pierce": false,
+        "range": 200,
+        "status": "slow",
+        "satusDuration": 5
+      }
+    }
+  ]
+}
