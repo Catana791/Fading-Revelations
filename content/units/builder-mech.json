@@ -30,7 +30,7 @@
       "spacing": 0,
       "shootSound": "laser",
       "bullet": {
-        "type": "LaserBoltBulletType",
+        "type": "BasicBulletType",
         "speed": 40,
         "collidesTeam": true,
         "canHeal": true,
