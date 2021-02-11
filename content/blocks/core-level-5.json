@@ -9,35 +9,35 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 13//000
+      "amount": 13000
     },
     {
       "item": "lead",
-      "amount": 13//000
+      "amount": 13000
     },
     {
       "item": "titanium",
-      "amount": 11//000
+      "amount": 11000
     },
     {
       "item": "silicon",
-      "amount": 9//000
+      "amount": 9000
     },
     {
       "item": "thorium",
-      "amount": 12//000
+      "amount": 12000
     },
     {
       "item": "phase-fabric",
-      "amount": 25//00
+      "amount": 2500
     },
     {
       "item": "plastanium",
-      "amount": 20//00
+      "amount": 2000
     },
     {
       "item": "surge-alloy",
-      "amount": 15//00
+      "amount": 1500
     }
   ],
   "category": "effect",
