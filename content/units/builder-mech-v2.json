@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "name": "Creator Mech",
-  "description": "Defends the Element core from enemies. Builds structures and slows enemies.",
+  "description": "Defends the Element core from enemies. Builds structures and slows enemies. Also has a chance to further slow enemies and even reduce their HP!",
   "drag": 0.15,
   "speed": 2.5,
   "research": "builder-mech",
@@ -40,7 +40,9 @@
         "pierce": true,
         "range": 150,
         "status": "slow",
-        "satusDuration": 10
+        "satusDuration": 35,
+        "status": "sapped",
+        "statusDuration": 35
       }
     }
   ]
