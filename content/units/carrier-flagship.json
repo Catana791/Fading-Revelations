@@ -1,0 +1,19 @@
+{
+  "type": "naval",
+  "name": "Carrier Flagship",
+  "description": "A water flagship carrier. Has no weapons but constructs horizon, flare and mono units.",
+  "drag": 0.15,
+  "speed": 0.8,
+  "category": "unit",
+  "research": "omura",
+  "maxVelocity": 0.95,
+  "mass": 10,
+  "commandLimit": 10,
+  "hitsize": 45,
+  "health": 12000,
+  "flying": false,
+  "rotateWeapon": false,
+  "rotatespeed": 0.03,
+  "weapons": [
+  ]
+}
