@@ -9,7 +9,12 @@ There are a lot of blocks that are hopefully fun to use!
 
 This mod adds 50+ new Blocks, A few new units and some new ammo types!
 
-All textured and coded with love. 
+All textured and coded with love.
+
+Software used:
+
+ - [Piskel (for the Sprites)] (https://www.piskelapp.com/)
+ - Json Editor (You can get it from the Microsoft Store e.g.)
 
 Here are some useful links: 
 
