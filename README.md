@@ -1,4 +1,4 @@
-# mindustry-enhanced
+# mindustry-extended
 A mod for the game "Mindustry" that focuses on extending it in fun but not op ways.
 
 
