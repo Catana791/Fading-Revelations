@@ -1,6 +1,6 @@
 {
   "type": "flying",
-  "name": "Tentacle",
+  "name": "Builder Mech",
   "description": "Defends the Atom core from enemies. Builds structures and slows enemies.",
   "drag": 0.15,
   "speed": 1.2,
