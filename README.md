@@ -7,6 +7,10 @@ A mod for the game "Mindustry" that focuses on extending it in fun but not op wa
 
 There are a lot of blocks that are hopefully fun to use!
 
+This mod adds 50+ new Blocks, A few new units and some new ammo types!
+
+All textured and coded with love. 
+
 Here are some useful links: 
 
 [Mindustry GitHub](https://github.com/Anuken/Mindustry)
