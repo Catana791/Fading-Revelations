@@ -18,7 +18,7 @@
   "buildCostMultiplier": 0.2,
   "ammoTypes": {
     "ammo-level-2": {
-      "damage": 15,
+      "damage": 10,
       "speed": 8,
       "type": "BasicBulletType",
       "lifetime": 30,
