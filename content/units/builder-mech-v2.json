@@ -32,6 +32,8 @@
       "bullet": {
         "type": "LaserBoltBulletType",
         "speed": 40,
+        "canHeal": true,
+        "collidesTeam": true,
         "healPercent": 10,
         "damage": 10,
         "lifetime": 300,
