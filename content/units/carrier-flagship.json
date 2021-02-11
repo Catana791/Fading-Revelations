@@ -1,5 +1,5 @@
 {
-  "type": "naval",
+  "type": "flying",
   "name": "Carrier Flagship",
   "description": "A water flagship carrier. Has no weapons but constructs horizon, flare and mono units.",
   "drag": 0.15,
