@@ -1,0 +1,45 @@
+{
+  "type": "flying",
+  "name": "Creator Mech",
+  "description": "Defends the Element core from enemies. Builds structures and slows enemies.",
+  "drag": 0.15,
+  "speed": 1.2,
+  "research": "builder-mech",
+  "maxVelocity": 2,
+  "canBuild": true,
+  "buildSpeed": 400,
+  "mineSpeed": 2000,
+  "mineTier": 5,
+  "armor": 15,
+  "buildTier": 5,
+  "mass": 10,
+  "commandLimit": 10,
+  "health": 420,
+  "flying": true,
+  "rotateWeapon": true,
+  "rotatespeed": 0.06,
+  "baseRotateSpeed": 0.05,
+  "weapons": [
+    {
+      "name": "nothing",
+      "range": 200,
+      "x": 0,
+      "y": -2,
+      "reload": 50,
+      "shootcone": 360,
+      "spacing": 0,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBoltBulletType",
+        "speed": 40,
+        "healPercent": 10,
+        "damage": 10,
+        "lifetime": 300,
+        "pierce": true,
+        "range": 200,
+        "status": "slow",
+        "satusDuration": 10
+      }
+    }
+  ]
+}
