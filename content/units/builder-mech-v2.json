@@ -7,8 +7,8 @@
   "research": "builder-mech",
   "maxVelocity": 3,
   "canBuild": true,
-  "buildSpeed": 400,
-  "mineSpeed": 2000,
+  "buildSpeed": 4,
+  "mineSpeed": 20,
   "mineTier": 5,
   "armor": 15,
   "buildTier": 5,
@@ -22,7 +22,7 @@
   "weapons": [
     {
       "name": "nothing",
-      "range": 200,
+      "range": 150,
       "x": 0,
       "y": -2,
       "reload": 50,
@@ -38,7 +38,7 @@
         "damage": 10,
         "lifetime": 10,
         "pierce": true,
-        "range": 200,
+        "range": 150,
         "status": "slow",
         "satusDuration": 10
       }
