@@ -5,7 +5,7 @@
   "drag": 0.15,
   "speed": 0.8,
   "category": "unit",
-  "research": "omura"
+  "research": "omura",
   "flying": true,
   "maxVelocity": 0.95,
   "mass": 10,
