@@ -38,6 +38,6 @@
   ],
   "category": "effect",
   "research": "core-nucleus",
-  "unitType": "build-mech",
+  "unitType": "builder-mech",
   "unitCapModifier": 32
 }
