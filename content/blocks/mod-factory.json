@@ -52,7 +52,7 @@
       "time": 12000
     },
     {
-      "unit": "silicon",
+      "unit": "carrier-flagship",
       "requirements": [
         {
           "item": "silicon",
