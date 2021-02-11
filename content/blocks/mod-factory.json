@@ -50,6 +50,28 @@
         }
       ],
       "time": 12000
+    },
+    {
+      "unit": "silicon",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 1000
+        },
+        {
+          "item": "plastanium",
+          "amount": 350
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 200
+        },
+        {
+          "item": "phase-fabric",
+          "amount": 200
+        }
+      ],
+      "time": 7500
     }
   ],
   "requirements": [
