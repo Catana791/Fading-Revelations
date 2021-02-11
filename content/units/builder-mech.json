@@ -22,7 +22,7 @@
   "weapons": [
     {
       "name": "nothing",
-      "range": 200,
+      "range": 150,
       "x": 0,
       "y": -2,
       "reload": 50,
@@ -38,7 +38,7 @@
         "damage": 10,
         "lifetime": 10,
         "pierce": false,
-        "range": 200,
+        "range": 150,
         "status": "slow",
         "satusDuration": 5
       }
