@@ -12,7 +12,6 @@
   "commandLimit": 10,
   "hitsize": 45,
   "health": 12000,
-  "flying": false,
   "rotateWeapon": false,
   "rotatespeed": 0.03,
   "weapons": [
