@@ -36,7 +36,7 @@
         "collidesTeam": true,
         "healPercent": 10,
         "damage": 10,
-        "lifetime": 10,
+        "lifetime": 7,
         "pierce": true,
         "range": 150,
         "status": "slow",
