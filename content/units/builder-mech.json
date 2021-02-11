@@ -36,7 +36,7 @@
         "canHeal": true,
         "healPercent": 7.5,
         "damage": 10,
-        "lifetime": 300,
+        "lifetime": 10,
         "pierce": false,
         "range": 200,
         "status": "slow",
