@@ -13,7 +13,7 @@ All textured and coded with love.
 
 Software used:
 
- - [Piskel (for the Sprites)] (https://www.piskelapp.com/)
+ - [Piskel] (https://www.piskelapp.com/) Sprites
  - Json Editor (You can get it from the Microsoft Store e.g.)
 
 Here are some useful links: 
