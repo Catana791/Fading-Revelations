@@ -9,31 +9,31 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 10//000
+      "amount": 10000
     },
     {
       "item": "lead",
-      "amount": 10//000
+      "amount": 10000
     },
     {
       "item": "titanium",
-      "amount": 80//00
+      "amount": 8000
     },
     {
       "item": "silicon",
-      "amount": 60//00
+      "amount": 6000
     },
     {
       "item": "thorium",
-      "amount": 10//000
+      "amount": 10000
     },
     {
       "item": "phase-fabric",
-      "amount": 10//00
+      "amount": 1000
     },
     {
       "item": "plastanium",
-      "amount": 10//00
+      "amount": 1000
     }
   ],
   "category": "effect",
