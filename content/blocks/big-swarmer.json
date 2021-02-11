@@ -30,7 +30,7 @@
       "hitSize": 12,
       "hitSound": "artillery",
       "speed": 6,
-      "damage": 32,
+      "damage": 20,
       "splashDamage": 45,
       "splashDamageRadius": 32,
       "ammoMultiplier": 4,
