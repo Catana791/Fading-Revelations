@@ -9,39 +9,39 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 13000
+      "amount": 13//000
     },
     {
       "item": "lead",
-      "amount": 13000
+      "amount": 13//000
     },
     {
       "item": "titanium",
-      "amount": 11000
+      "amount": 11//000
     },
     {
       "item": "silicon",
-      "amount": 9000
+      "amount": 9//000
     },
     {
       "item": "thorium",
-      "amount": 12000
+      "amount": 12//000
     },
     {
       "item": "phase-fabric",
-      "amount": 2500
+      "amount": 25//00
     },
     {
       "item": "plastanium",
-      "amount": 2000
+      "amount": 20//00
     },
     {
       "item": "surge-alloy",
-      "amount": 1500
+      "amount": 15//00
     }
   ],
   "category": "effect",
   "research": "core-level-4",
-  "unitType": "build-mech-v2",
+  "unitType": "builder-mech-v2",
   "unitCapModifier": 42
 }
