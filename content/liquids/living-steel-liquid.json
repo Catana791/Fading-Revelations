@@ -1,11 +1,10 @@
 {
   "name": "Living Steel Liquid",
   "description": "Living Steel that was infused with oil thus making it a liquid.",
+  "viscosity": 0.5,
+  "heatCapacity": 0.9,
+  "explosiveness": 0,
+  "temperature": 0.25,
   "viscosity": 0.1,
-  "heatCapacity": 0.3,
-  "explosiveness": 0.2,
-  "temperature": 0.5,
-  "viscosity": 0.1,
-  "flammability": 1,
-  "effect": "sapped"
+  "flammability": 0,
 }
