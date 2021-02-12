@@ -13,7 +13,7 @@
     "damage": 30
   },
   "rotateSpeed": 100,
-  "powerUse": 1,
+  "powerUse": 3.2,
   "targetAir": true,
   "targetGround": false,
   "heatColor": "ff0000",
