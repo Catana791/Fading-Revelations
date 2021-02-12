@@ -5,6 +5,7 @@
   "heatCapacity": 0.9,
   "explosiveness": 0,
   "temperature": 0.25,
+  "color": "9000a4",
   "viscosity": 0.1,
   "flammability": 0,
 }
