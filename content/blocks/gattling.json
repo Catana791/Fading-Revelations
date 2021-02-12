@@ -5,6 +5,15 @@
   "health": 900,
   "maxAmmo": 600,
   "reloadTime": 5,
+  "consumes": {
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.1,
+      "booster": true,
+      "optional": true,
+    }
+  },
+  "liquidBoostIntensity": 1.8,
   "range": 200,
   "ammoPerShot": 1,
   "size": 4,
