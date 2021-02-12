@@ -6,6 +6,15 @@
   "reloadTime": 8,
   "heatColor": "ff2020",
   "alternate": true,
+  "consumes": {
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.1,
+      "booster": true,
+      "optional": true,
+    }
+  },
+  "liquidBoostIntensity": 1.8,
   "shots": 7,
   "spread": 3,
   "shootCone": 20,
