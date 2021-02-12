@@ -1,5 +1,5 @@
-const cd1 = 60;
-const cd2 = 70;
+const cd1 = 55;
+const cd2 = 65;
 
 const LsW1 = extendContent(Block, "living-steel-wall", {});
 LsW1.size = 1;
