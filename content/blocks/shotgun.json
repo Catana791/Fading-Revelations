@@ -39,6 +39,7 @@
       "backColor": "af00b5",
       "shrinkX": 0.1,
       "shrinkY": 0.1
+    }
   },
   "requirements": [
     {
@@ -60,5 +61,4 @@
   ],
   "category": "turret",
   "research": "ripple"
-}
 }
