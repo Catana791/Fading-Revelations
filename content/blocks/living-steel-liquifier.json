@@ -1,7 +1,7 @@
 {
   "type": "GenericSmelter",
-  "name": "Living Steel Softening Chamber",
-  "description": "Softens living steel by infusing it with oil.",
+  "name": "Living Steel Liquifying Chamber",
+  "description": "Liquifies living steel by infusing it with oil.",
   "size": 2,
   "hasPower": true,
   "hasItems": true,
@@ -41,8 +41,8 @@
   ],
   "category": "crafting",
   "research": "enhanced-blast-mixer",
-  "outputItem": {
-    "item": "living-steel-soft",
+  "outputLiquid": {
+    "liquid": "living-steel-liquid",
     "amount": 1
   }
 }
