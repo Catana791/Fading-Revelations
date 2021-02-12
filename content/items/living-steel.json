@@ -1,0 +1,9 @@
+{
+  "name": "Living Steel",
+  "description": "A living piece of metal. Titanium infused with spores.",
+  "cost": 2.5,
+  "color": "430077",
+  "hardness": 1,
+  "flammability": 0.5,
+  "explosiveness": 0
+}
