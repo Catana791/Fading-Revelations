@@ -9,6 +9,15 @@
   "hasPower": true,
   "shootLength": 14,
   "bulletDamage": 32,
+  "consumes": {
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.1,
+      "booster": true,
+      "optional": true,
+    }
+  },
+  "liquidBoostIntensity": 1.8,
   "reloadTime": 10,
   "consumes": {
     "power": 10,
