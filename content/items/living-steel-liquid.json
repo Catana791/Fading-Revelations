@@ -1,9 +1,9 @@
 {
   "name":"Liquid Living Steel",
-  "description": "Liquified Living Steel used as a booster."
-  "temperature: 30
-  "flammability: 50
-  "heatCapacity: 10
-  "explosiveness: 0
+  "description": "Liquified Living Steel used as a booster.",
+  "temperature": 30,
+  "flammability": 50,
+  "heatCapacity": 10,
+  "explosiveness": 0,
   "viscosity": 0.7
 }
