@@ -8,6 +8,15 @@
   "range": 500,
   "ammoPerShot": 1,
   "size": 3,
+  "consumes": {
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.1,
+      "booster": true,
+      "optional": true,
+    }
+  },
+  "liquidBoostIntensity": 1.8,
   "targetAir": false,
   "targetGround": true,
   "rotatespeed": 8,
