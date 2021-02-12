@@ -11,7 +11,7 @@ LsW1.blockGround = BlockGroup.walls;
 LsW1.buildType = () => extend(Building, { 
   update(){
     if((this.health < 461 && this.timer.get(0, cd2))){
-      this.health += 4;
+      this.health += 7;
     }
   }
 });
@@ -27,7 +27,7 @@ LsW2.blockGround = BlockGroup.walls;
 LsW2.buildType = () => extend(Building, { 
   update(){
     if((this.health < 1821 && this.timer.get(0, cd1))){
-      this.health += 8;
+      this.health += 13;
     }
   } 
 });
