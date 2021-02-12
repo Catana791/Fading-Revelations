@@ -34,7 +34,7 @@
       "type": "BasicBulletType",
       "lifetime": 24,
       "width": 3,
-      "height: 6,
+      "height": 6,
       "frontColor": "8b0091",
       "backColor": "af00b5",
       "shrinkX": 0.1,
