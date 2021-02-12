@@ -1,10 +1,9 @@
 {
-  "type": "liquid",
-  "name": "Softened Living Steel",
-  "description": "Living steel that was infuses with oil to make it into a liquid that can be used as a booster.",
-  "cost": 2.5,
-  "color": "3a0066",
-  "hardness": 0.4,
-  "flammability": 0.9,
-  "explosiveness": 0.2
+  "name":"Liquid Living Steel",
+  "description": "Liquified Living Steel used as a booster."
+  "temperature: 30
+  "flammability: 50
+  "heatCapacity: 10
+  "explosiveness: 0
+  "viscosity": 0.7
 }
