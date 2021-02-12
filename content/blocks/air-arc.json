@@ -21,7 +21,7 @@
       "liquid": "living-steel-liquid",
       "amount": 0.1,
       "booster": true,
-      "optional": true
+      "optional": true,
     }
   },
   "liquidBoostIntensity": 1.2,
