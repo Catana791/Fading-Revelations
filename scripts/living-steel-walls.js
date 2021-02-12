@@ -1,5 +1,5 @@
-const cd1 = 85;
-const cd2 = 95;
+const cd1 = 60;
+const cd2 = 70;
 
 const LsW1 = extendContent(Block, "living-steel-wall", {});
 LsW1.size = 1;
@@ -11,7 +11,7 @@ LsW1.blockGround = BlockGroup.walls;
 LsW1.buildType = () => extend(Building, { 
   update(){
     if((this.health < 461 && this.timer.get(0, cd2))){
-      this.health += 10;
+      this.health += 12;
     }
   }
 });
@@ -27,7 +27,7 @@ LsW2.blockGround = BlockGroup.walls;
 LsW2.buildType = () => extend(Building, { 
   update(){
     if((this.health < 1821 && this.timer.get(0, cd1))){
-      this.health += 20;
+      this.health += 24;
     }
   } 
 });
