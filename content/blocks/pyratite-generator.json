@@ -1,7 +1,7 @@
 {
   "type": "SingleTypeGenerator",
   "name": "Pyratite Generator",
-  "description": "Uses the high flammability of pyratite to make a decent amou nt of power.",
+  "description": "Uses the high flammability of pyratite to make a decent amount of power.",
   "size": 2,
   "hasPower": true,
   "hasItems": true,
