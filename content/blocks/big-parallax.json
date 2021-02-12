@@ -8,6 +8,15 @@
   "targetGround": false,
   "scaledForce": 11,
   "health": 780,
+  "consumes": {
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.1,
+      "booster": true,
+      "optional": true,
+    }
+  },
+  "liquidBoostIntensity": 1.8,
   "range": 256,
   "damage": 25,
   "rotateSpeed": 10,
