@@ -27,7 +27,18 @@
       "frontColor": "ff0000",
       "backColor": "ff0000",
       "shrinkY": 0.10
-    }
+    },
+    "living-steel": {
+      "damage": 7,
+      "speed": 6,
+      "type": "BasicBulletType",
+      "lifetime": 24,
+      "width": 3,
+      "height: 6,
+      "frontColor": "8b0091",
+      "backColor": "af00b5",
+      "shrinkX": 0.1,
+      "shrinkY": 0.1
   },
   "requirements": [
     {
