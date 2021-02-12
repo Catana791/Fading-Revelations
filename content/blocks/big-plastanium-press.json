@@ -14,13 +14,13 @@
       "items": [
         {
           "item": "titanium",
-          "amount": 3
+          "amount": 6
         }
       ]
     },
     "liquid": {
       "liquid": "oil",
-      "amount": 0.7
+      "amount": 0.5
     }
   },
   "requirements": [
