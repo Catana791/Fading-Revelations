@@ -15,19 +15,19 @@
       "items": [
         {
           "item": "copper",
-          "amount": 4
+          "amount": 6
         },
         {
           "item": "lead",
-          "amount": 4
+          "amount": 6
         },
         {
           "item": "titanium",
-          "amount": 3
+          "amount": 5
         },
         {
           "item": "silicon",
-          "amount": 3
+          "amount": 4
         }
       ]
     }
