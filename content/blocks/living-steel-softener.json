@@ -19,12 +19,11 @@
         }
       ]
     },
-    "liquids": [
-        {
-          "liquid": "oil",
-          "amount": 0.3
-        }  
-    ]
+    "liquid": 
+      {
+        "liquid": "oil",
+        "amount": 0.3
+      }  
   },
   "requirements": [
     {
