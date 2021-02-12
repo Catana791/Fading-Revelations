@@ -1,0 +1,47 @@
+{
+  "type": "GenericSmelter",
+  "name": "Living Steel Infusion Chamber",
+  "description": "Crafts living steel by infusing titanium with spores.",
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 30,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 0.8,
+    "items": {
+      "items": [
+        {
+          "item": "titanium",
+          "amount": 1
+        },
+        {
+          "item": "spore-pod",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 150
+    },
+    {
+      "item": "lead",
+      "amount": 120
+    },
+    {
+      "item": "titanium",
+      "amount": 50
+    }
+  ],
+  "category": "crafting",
+  "research": "enhanced-blast-mixer",
+  "outputItem": {
+    "item": "living-steel",
+    "amount": 1
+  }
+}
