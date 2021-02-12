@@ -1,5 +1,5 @@
 {
-  "name": "Living Steel Liquid,
+  "name": "Living Steel Liquid",
   "description": "Living Steel that was infused with oil thus making it a liquid.",
   "viscosity": 0.1,
   "heatCapacity": 0.3,
@@ -7,5 +7,5 @@
   "temperature": 0.5,
   "viscosity": 0.1,
   "flammability": 1,
-  "effect": sapped
+  "effect": "sapped"
 }
