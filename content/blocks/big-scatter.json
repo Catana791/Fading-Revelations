@@ -9,6 +9,15 @@
   "inaccuracy": 0.5,
   "reloadTime": 40,
   "recoilAmount": 1,
+  "consumes": {
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.1,
+      "booster": true,
+      "optional": true,
+    }
+  },
+  "liquidBoostIntensity": 1.8,
   "ammoUseEffect": "casing3",
   "shootCone": 25,
   "maxAmmo": 50,
