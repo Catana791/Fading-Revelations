@@ -5,6 +5,7 @@
 "hasItems": true,
 "configurable": true,
 "localizedName": "Bullet Silo",
+"research": "vault",
 "description": "A player-activatable block that scatters bullets everywhere upon use.",
 "category": "turret",
 "requirements": [
