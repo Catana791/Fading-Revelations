@@ -63,6 +63,17 @@
       "backColor": "98ffa9",
       "frontColor": "ffffff",
       "speed": 5.5
+    },
+    "living-steel": {
+      "type": "BasicBulletType",
+      "damage": 20,
+      "splashDamage": 8,
+      "splashDamageRadius": 10,
+      "speed": 8,
+      "height": 12,
+      "width": 6,
+      "statusEffect": "slow",
+      "statusDuration": 20
     }
   },
   "requirements": [
