@@ -1,0 +1,13 @@
+{
+  "name": "Living Steel Wall",
+  "description": "A wall made of Living Steel. Heals itself sometimes.",
+  "type": "Wall",
+  "requirements": [
+    {
+      "item": "living-steel-hard",
+      "amount": 6
+    }
+  ],
+  "category": "defense",
+  "research": "mend-projector"
+}
