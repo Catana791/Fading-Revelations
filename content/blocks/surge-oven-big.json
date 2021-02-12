@@ -6,7 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "craftTime": 120,
+  "craftTime": 130,
   "craftEffect": "pulverizeRedder",
   "updateEffect": "hitMeltdown",
   "consumes": {
@@ -15,19 +15,19 @@
       "items": [
         {
           "item": "copper",
-          "amount": 3
+          "amount": 1
         },
         {
           "item": "lead",
-          "amount": 4
+          "amount": 1
         },
         {
           "item": "titanium",
-          "amount": 2
+          "amount": 1
         },
         {
           "item": "silicon",
-          "amount": 3
+          "amount": 1
         }
       ]
     }
