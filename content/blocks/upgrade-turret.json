@@ -4,6 +4,15 @@
   "description": "A turret that can shoot with different types of ammo.",
   "health": 900,
   "maxAmmo": 600,
+  "consumes": {
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.1,
+      "booster": true,
+      "optional": true,
+    }
+  },
+  "liquidBoostIntensity": 1.8,
   "reloadTime": 25,
   "range": 200,
   "ammoPerShot": 1,
