@@ -1,5 +1,6 @@
 {
   "name": "Living Steel Wall Large",
+  "health": 3320,
   "description": "A large wall made of Living Steel. Heals itself sometimes.",
   "requirements": [
     {
