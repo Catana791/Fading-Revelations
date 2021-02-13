@@ -1,5 +1,6 @@
 {
   "name": "Living Steel Wall",
+  "health: 880,
   "description": "A wall made of Living Steel. Heals itself sometimes.",
   "requirements": [
     {
