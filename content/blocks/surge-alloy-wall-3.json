@@ -1,6 +1,6 @@
 {
   "name": "Gigantic Surge-Alloy-Wall",
-  "description": "A gigantic wall made of surg alloy.",
+  "description": "A gigantic wall made of surge alloy.",
   "type": "Wall",
   "lightningChance": 0.20,
   "lighningDamage": 30,
