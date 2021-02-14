@@ -1,17 +1,18 @@
 {
   "name": "Living Steel Wall",
-  "description": "A wall made from living steel that heals itself and close-by blocks slowly.",
+  "description": "A wall made from living steel that heals itself slowly.",
   "type": "MendProjector",
-  "health": 1000,
-  "size": 2,
+  "health": 880,
+  "size": 1,
   "range": 1,
   "itemCapacity": 0,
+  "hasItems": false,
   "reload": 275,
   "healPercent": 5,
   "requirements": [
     {
       "item": "living-steel-hard",
-      "amount": 24
+      "amount": 6
     }
   ],
   "category": "defense",
