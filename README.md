@@ -16,10 +16,11 @@ This mod adds:
 
 All textured and coded with love.
 
-#Screenshots:
+Screenshots:
 
 Release 1.02: The living steel update:
 
+<img src="https://github.com/Fresh791/mindustry-extended/blob/main/github/screenshot-v.1.02.jpeg">
 
 Software used:
 
