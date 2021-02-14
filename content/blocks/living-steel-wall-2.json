@@ -3,7 +3,7 @@
   "description": "A large wall made of Living Steel. Heals itself sometimes.",
   "type": "Wall",
   "health": 3320,
-  "size": 2
+  "size": 2,
   "requirements": [
     {
       "item": "living-steel-hard",
