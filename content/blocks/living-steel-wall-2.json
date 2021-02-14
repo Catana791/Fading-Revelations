@@ -3,7 +3,7 @@
   "description": "A large wall made of Living Steel. Heals itself slowly.",
   "type": "MendProjector",
   "health": 3320,
-  "healPercent": 5,
+  "healPercent": 1,
   "reload": 350,
   "range": 1,
   "hasItems": false,
