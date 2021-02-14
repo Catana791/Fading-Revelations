@@ -7,8 +7,8 @@
   "range": 1,
   "itemCapacity": 0,
   "hasItems": false,
-  "reload": 275,
-  "healPercent": 5,
+  "reload": 230,
+  "healPercent": 1,
   "requirements": [
     {
       "item": "living-steel-hard",
