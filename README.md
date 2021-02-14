@@ -19,6 +19,7 @@ Software used:
 
  - [Piskel](https://www.piskelapp.com/) (Sprites) 
  - Json Editor (You can get it from the Microsoft Store e.g.)
+ - [Shield.io](https://shields.io) (Badges)
 
 Here are some useful links: 
 
