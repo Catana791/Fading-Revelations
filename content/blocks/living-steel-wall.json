@@ -5,6 +5,7 @@
   "health": 1000,
   "size": 2,
   "range": 1,
+  "itemCapacity": 0,
   "reload": 275,
   "healPercent": 5,
   "requirements": [
