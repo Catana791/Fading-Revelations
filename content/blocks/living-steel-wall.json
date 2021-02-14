@@ -7,7 +7,7 @@
   "range": 1,
   "itemCapacity": 0,
   "hasItems": false,
-  "reload": 450,
+  "reload": 500,
   "healPercent": 1,
   "requirements": [
     {
