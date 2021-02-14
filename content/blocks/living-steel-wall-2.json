@@ -4,7 +4,7 @@
   "type": "MendProjector",
   "health": 2820,
   "healPercent": 1,
-  "reload": 2000,
+  "reload": 2500,
   "range": 1,
   "hasItems": false,
   "itemCapacity": 0,
