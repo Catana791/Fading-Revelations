@@ -1,7 +1,7 @@
 {
   "type": "GenericSmelter",
-  "name": "Living Steel Infusion Chamber",
-  "description": "Crafts living steel by infusing titanium with spores.",
+  "name": "Living Steel Softening Chamber",
+  "description": "Softens living steel by infusing it with oil.",
   "size": 2,
   "hasPower": true,
   "hasItems": true,
@@ -14,15 +14,17 @@
     "items": {
       "items": [
         {
-          "item": "titanium",
-          "amount": 1
-        },
-        {
-          "item": "spore-pod",
+          "item": "living-steel",
           "amount": 1
         }
       ]
-    }
+    },
+    "liquids": [
+        {
+          "liquid": "oil",
+          "amount": 0.3
+        }  
+    ]
   },
   "requirements": [
     {
@@ -41,7 +43,7 @@
   "category": "crafting",
   "research": "enhanced-blast-mixer",
   "outputItem": {
-    "item": "living-steel",
+    "item": "living-steel-soft",
     "amount": 1
   }
 }

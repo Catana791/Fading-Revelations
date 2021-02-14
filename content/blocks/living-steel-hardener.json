@@ -1,7 +1,7 @@
 {
   "type": "GenericSmelter",
-  "name": "Living Steel Infusion Chamber",
-  "description": "Crafts living steel by infusing titanium with spores.",
+  "name": "Living Steel Hardening Chamber",
+  "description": "Hardens living steel by infusing it with thorium.",
   "size": 2,
   "hasPower": true,
   "hasItems": true,
@@ -14,11 +14,11 @@
     "items": {
       "items": [
         {
-          "item": "titanium",
+          "item": "living-steel",
           "amount": 1
         },
         {
-          "item": "spore-pod",
+          "item": "thorium",
           "amount": 1
         }
       ]
@@ -41,7 +41,7 @@
   "category": "crafting",
   "research": "enhanced-blast-mixer",
   "outputItem": {
-    "item": "living-steel",
+    "item": "living-steel-hard",
     "amount": 1
   }
 }
