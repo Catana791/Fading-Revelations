@@ -20,19 +20,19 @@ A mod for the game "Mindustry" that focuses on extending it in fun but not op wa
 
 ### All textured and coded with love.
 
-### Screenshots:
+## Screenshots:
 
 ### Release 1.02: The living steel update:
 
 <img src="https://github.com/Fresh791/mindustry-extended/blob/main/github/screenshot-v.1.02.jpeg">
 
-### Software used:
+## Software used:
 
  - [Piskel](https://www.piskelapp.com/) (Sprites) 
  - Json Editor (You can get it from the Microsoft Store e.g.)
  - [Shield.io](https://shields.io) (Badges)
 
-Here are some useful links: 
+## Useful Links:
 
 [Mindustry GitHub](https://github.com/Anuken/Mindustry)
 
