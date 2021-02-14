@@ -1,5 +1,5 @@
 {
-  "type": "naval",
+  "type": "flying",
   "name": "Carrier Flagship",
   "description": "A water flagship carrier. Has no weapons but constructs horizon, flare and mono units.",
   "drag": 0.15,
@@ -9,6 +9,7 @@
   "maxVelocity": 0.95,
   "mass": 10,
   "commandLimit": 10,
+  "flying": true,
   "hitsize": 45,
   "health": 12000,
   "rotateWeapon": false,
