@@ -38,11 +38,7 @@
         "damage": 10,
         "lifetime": 7,
         "pierce": true,
-        "range": 150,
-        "status": "slow",
-        "satusDuration": 35,
-        "status": "sapped",
-        "statusDuration": 35
+        "range": 150
       }
     }
   ]
