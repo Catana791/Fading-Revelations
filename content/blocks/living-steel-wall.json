@@ -1,45 +1,18 @@
 {
-  "name": "Rapair Dome",
-  "description": "Heals nearby blocks rapidly.",
+  "name": "Living Steel Wall",
+  "description": "A wall made from living steel that heals itself and close-by blocks slowly.",
   "type": "MendProjector",
   "health": 1000,
-  "size": 3,
-  "range": 120,
-  "reload": 100,
-  "phase": "#720874",
-  "color": "#17C50B",
+  "size": 2,
+  "range": 1,
+  "reload": 275,
   "healPercent": 5,
-  "consumes": {
-    "power": 5,
-    "items": {
-      "items": [
-        {
-          "amount": 5,
-          "item": "phase-fabric"
-        }
-      ],
-      "optional": true,
-      "booster": true
-    }
-  },
   "requirements": [
     {
-      "item": "graphite",
-      "amount": 60
-    },
-    {
-      "item": "silicon",
-      "amount": 140
-    },
-    {
-      "item": "titanium",
-      "amount": 150
-    },
-    {
-      "item": "phase-fabric",
-      "amount": 40
+      "item": "living-steel-hard",
+      "amount": 24
     }
   ],
-  "category": "effect",
+  "category": "defense",
   "research": "mend-projector"
 }
