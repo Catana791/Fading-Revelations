@@ -18,7 +18,7 @@ A mod for the game "Mindustry" that focuses on extending it in fun but not op wa
  - Some new ammo types,
  - Larger Core Blocks (with fitting drones)
 
-All textured and coded with love.
+### All textured and coded with love.
 
 ### Screenshots:
 
