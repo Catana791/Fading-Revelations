@@ -6,7 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "craftTime": 30,
+  "craftTime": 55,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
@@ -42,6 +42,6 @@
   "research": "enhanced-blast-mixer",
   "outputItem": {
     "item": "living-steel-hard",
-    "amount": 1
+    "amount": 2
   }
 }
