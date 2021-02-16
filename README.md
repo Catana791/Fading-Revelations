@@ -34,7 +34,7 @@ A mod for the game "Mindustry" that focuses on extending it in fun but not op wa
 
 ## Useful Links:
 
-[Mindustry GitHub](https://github.com/Anuken/Mindustry)
+[Mindustry-GitHub](https://github.com/Anuken/Mindustry)
 
 [License](https://github.com/Fresh791/mindustry-extended/blob/main/LICENSE)
 
