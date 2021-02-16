@@ -96,7 +96,9 @@
       "hitEffect": "blockExplosion",
       "despawnEffect": "blockExplosion",
       "weaveScale": 8,
-      "weaveMag": 3
+      "weaveMag": 3,
+      "status": "blasted",
+      "statusDuration": 10
     }
   },
   "requirements": [
