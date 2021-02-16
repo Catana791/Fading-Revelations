@@ -7,3 +7,5 @@
 #### Comment: Your name, your suggestion and the date. Also ping me using @Fresh791
 
 If your idea/proposal makes it into the mod, I will not add a comment saying that you proposed the change. It will just be there.
+
+Thank you to anyone who contributes, though!
