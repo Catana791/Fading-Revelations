@@ -1,0 +1,36 @@
+{
+  "shootSound": "laser",
+  "type": "flying",
+  "name": "Lancer Drohne",
+  "description": "Shießt mit einer Miniaturversion eines Lancers.",
+  "speed": 1,
+  "research": "aquarius",
+  "flying": true,
+  "health": 200,
+  "commandLimit": 6,
+  "engineOffset": 5.5,
+  "range": 26,
+  "weapons": [
+    {
+      "name": "chrome-blaster",
+      "length": 1.5,
+      "reload": 90,
+      "alternate": true,
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 170,
+        "sideAngle": 20,
+        "sideWidth": 2.5,
+        "sideLength": 170,
+        "width": 50,
+        "lenght": 980,
+        "shootEffect": "shockwave",
+        "colors": [
+          "ec7458aa",
+          "ff9c5a",
+          "ffffff"
+        ]
+      }
+    }
+  ]
+}
