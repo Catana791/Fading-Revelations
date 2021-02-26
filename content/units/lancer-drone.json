@@ -4,7 +4,7 @@
   "name": "Lancer Drohne",
   "description": "Shießt mit einer Miniaturversion eines Lancers.",
   "speed": 1,
-  "research": "aquarius",
+  "research": "horizon",
   "flying": true,
   "health": 200,
   "commandLimit": 6,
