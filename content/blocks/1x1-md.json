@@ -8,7 +8,7 @@
   "consumes": {
     "liquid": {
       "liquid": "water",
-      "amount": 0.02,
+      "amount": 0.009,
       "optional": true,
       "booster": true
     }
