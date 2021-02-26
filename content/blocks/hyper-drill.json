@@ -4,6 +4,7 @@
   "type": "Drill",
   "size": 5,
   "hasPower": true,
+  "drawRim": true,
   "hasLiquids": true,
   "liquidCapacity": 40,
   "hasItems": true,
