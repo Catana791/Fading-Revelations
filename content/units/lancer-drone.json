@@ -1,9 +1,9 @@
 {
   "shootSound": "laser",
   "type": "flying",
-  "name": "Lancer Drohne",
-  "description": "Shießt mit einer Miniaturversion eines Lancers.",
-  "speed": 1,
+  "name": "Lancer Drone",
+  "description": "Shoots using a miniature Lancer.",
+  "speed": 1.5,
   "research": "horizon",
   "flying": true,
   "health": 200,
@@ -19,9 +19,6 @@
       "bullet": {
         "type": "LaserBulletType",
         "damage": 170,
-        "sideAngle": 20,
-        "sideWidth": 2.5,
-        "sideLength": 170,
         "width": 15,
         "lenght": 980,
         "shootEffect": "shockwave",
