@@ -3,7 +3,7 @@
   "description": "A small version of the mechanical drill for tight spaces.",
   "type": "Drill",
   "size": 1,
-  "tier": 1,
+  "tier": 2,
   "drillTime": 600,
   "consumes": {
     "liquid": {
