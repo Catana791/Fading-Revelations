@@ -10,7 +10,7 @@
   "hasItems": true,
   "itemCapacity": 20,
   "tier": 5,
-  "drillTime": 105,
+  "drillTime": 125,
   "rotateSpeed": 10
   "consumes": {
     "power": 4,
