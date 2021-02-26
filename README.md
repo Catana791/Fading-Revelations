@@ -26,6 +26,10 @@ A mod for the game "Mindustry" that focuses on extending it in fun but not op wa
 
 <img src="https://github.com/Fresh791/mindustry-extended/blob/main/github/screenshot-v.1.02.jpeg">
 
+### Release 1.03: The Drill and Laser update:
+
+<img src="https://github.com/Fresh791/mindustry-extended/blob/main/github/the-drill-and-laser-update.jpg">
+
 ## Software used:
 
  - [Piskel](https://www.piskelapp.com/) (Sprites) 
