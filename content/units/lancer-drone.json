@@ -1,5 +1,5 @@
 {
-  "shootSound": "laser",
+  "shootSound": "lasershoot",
   "type": "flying",
   "name": "Lancer Drone",
   "description": "Shoots using a miniature Lancer.",
