@@ -9,7 +9,7 @@
   "hasItems": true,
   "itemCapacity": 20,
   "tier": 5,
-  "drillTime": 140,
+  "drillTime": 130,
   "consumes": {
     "power": 4,
     "liquid": {
