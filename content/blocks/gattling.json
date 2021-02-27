@@ -88,6 +88,15 @@
       "inaccuracy": 4,
       "status": "slow",
       "statusDuration": 3
+    },
+    "nano-ammo": {
+      "type": "BasicBulletType",
+      "damage": 3,
+      "speed": 20,
+      "splashDamage": 1,
+      "splashDamageRadius": 1,
+      "status": "burning",
+      "statusDuration": 8000000
     }
   },
   "requirements": [
