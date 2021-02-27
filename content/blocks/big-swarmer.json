@@ -3,7 +3,7 @@
   "name": "Swarmer NEO",
   "description": "A better version of the swarmer. More damage and attack speed.",
   "health": 1800,
-  "reloadTime": 10,
+  "reloadTime": 15,
   "heatColor": "ff2020",
   "alternate": true,
   "consumes": {
@@ -99,6 +99,15 @@
       "weaveMag": 3,
       "status": "blasted",
       "statusDuration": 10
+    },
+    "nano-ammo": {
+      "type": "BasicBulletType",
+      "speed": 6,
+      "damage": 3,
+      "splashDamage": 1,
+      "splashDamageRadius": 2,
+      "status": "burning",
+      "statusDuration": 8000000
     }
   },
   "requirements": [
