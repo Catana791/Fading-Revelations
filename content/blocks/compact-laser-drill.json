@@ -1,0 +1,39 @@
+{
+  "name": "Compact Laser Drill",
+  "description": "A smaller version version of the pneumatic drill.",
+  "type": "Drill",
+  "size": 2,
+  "itemCapacity": 4,
+  "drawRim": true,
+  "tier": 4,
+  "drillTime": 32,
+  "consumes": {
+    "power": 0.8,
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.018,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 25
+    },
+    {
+      "item": "graphite",
+      "amount": 20
+    },
+    {
+      "item": "titanium",
+      "amount": 10
+    },
+    {
+      "item": "silicon",
+      "amount": 20
+    }
+  ],
+  "category": "production",
+  "research": "laser-drill"
+}
