@@ -40,6 +40,20 @@
         "splashDamageRadius": 3,
         "splashDamage": 10
       }
+    },
+    "living-steel": {
+      "type": "BasicBulletType",
+      "damage": 120,
+      "status": "slow",
+      "statusDuration": 150
+    },
+    "nano-ammo": {
+      "type": "BasicBulletType",
+      "damage": 30,
+      "splashDamage": 10,
+      "splashDamageRadius": 3,
+      "status": "burning",
+      "statusDuration": 8000000
     }
   },
   "requirements": [
