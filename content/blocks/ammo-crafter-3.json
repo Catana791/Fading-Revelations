@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Level 3 Ammocrafter",
   "description": "Crafts explosive ammo out of blast compound and coal.",
   "size": 2,
