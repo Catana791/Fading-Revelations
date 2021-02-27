@@ -4,7 +4,7 @@
   "type": "Drill",
   "size": 1,
   "tier": 2,
-  "drillTime": 1100,
+  "drillTime": 550,
   "consumes": {
     "liquid": {
       "liquid": "water",
