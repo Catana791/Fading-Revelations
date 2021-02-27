@@ -6,7 +6,7 @@
   "itemCapacity": 4,
   "drawRim": true,
   "tier": 4,
-  "drillTime": 100,
+  "drillTime": 250,
   "consumes": {
     "power": 0.8,
     "liquid": {
