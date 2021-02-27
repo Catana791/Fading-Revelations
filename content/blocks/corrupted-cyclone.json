@@ -55,6 +55,20 @@
       "hitEffect": "hitBulletBig",
       "statusEffect": "shocked",
       "statusDuration": 600
+    },
+    "living-steel": {
+      "type": "BasicBulletType",
+      "speed": 10,
+      "damage": 9,
+      "status": "slow",
+      "statusDuration": 350
+    },
+    "nano-ammo": {
+      "type": "BasicBulletType",
+      "speed": 9,
+      "damage": 3,
+      "status": "burning",
+      "statusDuration": 8000000
     }
   },
   "requirements": [
