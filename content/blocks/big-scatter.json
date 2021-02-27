@@ -111,6 +111,15 @@
       "speed": 14,
       "status": "slow",
       "statusDuration": 10
+    },
+    "nano-ammo": {
+      "type": "BasicBulletType",
+      "damage": 3,
+      "splashDamage": 1,
+      "splashDamageRadius": 2,
+      "speed": 12,
+      "status": "melting",
+      "statusDuration": 8000000
     }
   },
   "requirements": [
