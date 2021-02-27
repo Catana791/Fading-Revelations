@@ -1,0 +1,9 @@
+{
+  "name": "Nano Ammo",
+  "description": "Ammo made from living steel that infects enemies with nano bots which burn them from the inside.",
+  "cost": 2.5,
+  "color": "6e0268",
+  "hardness": 0.5,
+  "flammability": 0,
+  "explosiveness": 0.3
+}
