@@ -48,6 +48,15 @@
       "backColor": "af00b5",
       "shrinkX": 0.1,
       "shrinkY": 0.1
+    },
+    "nano-ammo": {
+      "type": "BasicBulletType",
+      "speed": 9,
+      "damage": 3,
+      "splashDamage": 1,
+      "splashDamageRadius": 1,
+      "status": "burning",
+      "statusDuration": 8000000
     }
   },
   "requirements": [
