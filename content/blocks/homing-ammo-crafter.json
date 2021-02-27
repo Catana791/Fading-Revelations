@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Homing-Ammo Crafter",
   "description": "Crafts homing ammo out of thorium and coal.",
   "size": 2,
