@@ -3,6 +3,7 @@
   "description": "A tiny version of the pneumatic drill.",
   "type": "Drill",
   "size": 1,
+  "itemCapacity": 3,
   "tier": 3,
   "drillTime": 160,
   "consumes": {
