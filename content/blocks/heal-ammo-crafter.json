@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Heal-Ammo Crafter",
   "description": "Crafts healing ammunition using spore pods and coal. Used in turrets, this ammo can heal allied blocks.",
   "size": 2,
