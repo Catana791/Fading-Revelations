@@ -18,7 +18,7 @@
       "alternate": true,
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 170,
+        "damage": 40,
         "width": 15,
         "lenght": 980,
         "shootEffect": "shockwave",
