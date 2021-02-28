@@ -54,5 +54,5 @@
     ["lancer-drone", "laser-drone-t2"]
   ],
   "category": "units",
-  "research": "additive-reconstructor",
+  "research": "ground-factory",
 }
