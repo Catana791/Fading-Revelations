@@ -1,0 +1,33 @@
+{
+  "shootSound": "lasershoot",
+  "type": "flying",
+  "name": "Lancer Drone Tier II",
+  "description": "Shoots using a miniature Lancer. Is the upgraded version of the Lancer Drone.",
+  "speed": 2.3,
+  "research": "lancer-drone",
+  "flying": true,
+  "health": 400,
+  "commandLimit": 10,
+  "engineOffset": 5.5,
+  "range": 26,
+  "weapons": [
+    {
+      "name": "chrome-blaster",
+      "length": 1.5,
+      "reload": 75,
+      "alternate": true,
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 60,
+        "width": 15,
+        "lenght": 980,
+        "shootEffect": "shockwave",
+        "colors": [
+          "ec7458aa",
+          "ff9c5a",
+          "ffffff"
+        ]
+      }
+    }
+  ]
+}
