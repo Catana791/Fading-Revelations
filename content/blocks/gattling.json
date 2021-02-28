@@ -3,6 +3,8 @@
   "name": "Gattling",
   "description": "A rapid fire turret that is capable of firing with different types of ammo. Good luck keeping it supplied with ammo.",
   "health": 900,
+  "hasLiquids": true,
+  "liquidCapacity": 20,
   "maxAmmo": 600,
   "reloadTime": 5,
   "consumes": {
