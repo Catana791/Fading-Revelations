@@ -8,7 +8,7 @@
   "tier": 4,
   "drillTime": 250,
   "consumes": {
-    "power": 0.8,
+    "power": 0.6,
     "liquid": {
       "liquid": "water",
       "amount": 0.018,
