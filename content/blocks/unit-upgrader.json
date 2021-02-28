@@ -4,7 +4,7 @@
     "description": "Upgrades mod units by increasing their offensive, defensive and movement capabilities as well as increasing their speed.",
     "health": 950,
     "size": 7,
-    "constructTime": 1620,
+    "constructTime": 3260,
     "upgrades": [
         ["lancer-drone","lancer-drone-t2"]
     ],
