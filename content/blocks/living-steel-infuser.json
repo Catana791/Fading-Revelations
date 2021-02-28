@@ -15,7 +15,7 @@
       "items": [
         {
           "item": "titanium",
-          "amount": 1
+          "amount": 2
         },
         {
           "item": "spore-pod",
@@ -42,6 +42,6 @@
   "research": "enhanced-blast-mixer",
   "outputItem": {
     "item": "living-steel",
-    "amount": 3
+    "amount": 2
   }
 }
