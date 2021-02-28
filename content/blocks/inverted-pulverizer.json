@@ -11,7 +11,7 @@
   "hasPower": true,
   "hasLiquids": false,
   "hasItems": true,
-  "craftTime": 40,
+  "craftTime": 50,
   "updateEffect": "pulverizeSmall",
   "consumes": {
     "power": 0.5,
