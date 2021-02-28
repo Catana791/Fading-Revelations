@@ -1,58 +1,53 @@
 {
-  "type": "Reconstructor",
-  "health": 900,
-  "name": "Unit Upgrader",
-  "description": "Upgrades mod units by increasing their offensive and defensive powers and also their speed and command limit.",
-  "size": 7,
-  "consumes": {
-    "power": 0.8,
-    "items": {
-      "items": [
-        {
-          "item": "titanium",
-          "amount": 25
+    "type": "Reconstructor",
+    "health": 950,
+    "size": 5,
+    "constructTime": 1620,
+    "upgrades": [
+        ["horizon","t3A_copter"],
+        ["minke","t3A_naval"]
+    ],
+    "consumes": {
+        "power": 4,
+        "items": {
+            "items": [
+                {
+                    "item": "silicon",
+                    "amount": 80
+                },
+                {
+                    "item": "titanium",
+                    "amount": 120
+                },
+                {
+                    "item": "plastanium",
+                    "amount": 40
+                }
+            ]
         },
-        {
-          "item": "living-steel",
-          "amount": 20
-        },
-        {
-          "item": "living-steel-hard",
-          "amount": 15
-        },
-        {
-          "item": "phase-fabric",
-          "amount": 10
-        },
-        {
-          "item": "surge-alloy",
-          "amount": 8,
+        "liquid": {
+            "liquid": "oil",
+            "amount": 0.5
         }
-      ]
-    }
-  },
-  "constructTime": 500,
-  "requirements": [
-    {
-      "item": "copper",
-      "amount": 350
     },
-    {
-      "item": "lead",
-      "amount": 180
-    },
-    {
-      "item": "titanium",
-      "amount": 100
-    },
-    {
-      "item": "surge-alloy",
-      "amount": 80
-    }
-  ],
-  "upgrades": [
-    ["lancer-drone", "laser-drone-t2"]
-  ],
-  "category": "units",
-  "research": "ground-factory",
+    "requirements": [
+        {
+            "item": "lead",
+            "amount": 500
+        },
+        {
+            "item": "titanium",
+            "amount": 500
+        },
+        {
+            "item": "thorium",
+            "amount": 550
+        },
+        {
+            "item": "plastanium",
+            "amount": 450
+        }
+    ],
+    "category": "units",
+    "research": "additive-reconstructor"
 }
