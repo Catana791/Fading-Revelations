@@ -1,5 +1,6 @@
 {
   "type": "Reconstructor",
+  "health": 900,
   "name": "Unit Upgrader",
   "description": "Upgrades mod units by increasing their offensive and defensive powers and also their speed and command limit.",
   "size": 7,
@@ -50,9 +51,7 @@
     }
   ],
   "upgrades": [
-    {
-      "lancer-drone", "lancer-drone-t2"
-    }
+    ["lancer-drone", "laser-drone-t2"]
   ],
   "category": "units",
   "research": "additive-reconstructor",
