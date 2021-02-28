@@ -6,7 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": true,
-  "craftTime": 30,
+  "craftTime": 60,
   "liquidCapacity": 84,
   "consumes": {
     "power": 3.75,
@@ -45,7 +45,7 @@
   "research": "plastanium-compressor",
   "outputItem": {
     "item": "plastanium",
-    "amount": 2
+    "amount": 4
   },
   "health": 600
 }
