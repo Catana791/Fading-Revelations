@@ -1,5 +1,5 @@
 {
-  "name": "Nuclear Reactor",
+  "name": "SingleTypeGenerator",
   "type": "NuclearReactor",
   "description": "Creates power from nuclear burning rods.",
   "itemCapacity": 12,
