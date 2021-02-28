@@ -4,8 +4,7 @@
     "size": 5,
     "constructTime": 1620,
     "upgrades": [
-        ["horizon","t3A_copter"],
-        ["minke","t3A_naval"]
+        ["lancer-drone","lancer-drone-t2"]
     ],
     "consumes": {
         "power": 4,
