@@ -1,0 +1,58 @@
+{
+    "type": "Reconstructor",
+    "name": "Unit Upgrader",
+    "description": "Upgrades mod units by increasing their offensive, defensive and movement capabilities as well as increasing their speed.",
+    "health": 950,
+    "size": 7,
+    "constructTime": 1620,
+    "upgrades": [
+        ["lancer-drone","lancer-drone-t2"]
+    ],
+    "consumes": {
+        "power": 0.8,
+        "items": {
+            "items": [
+                {
+                    "item": "titanium",
+                    "amount": 100
+                },
+                {
+                    "item": "living-steel",
+                    "amount": 50
+                },
+                {
+                  "item": "living-steel-hard",
+                  "amount": 40
+                },
+                {
+                  "item": "phase-fabric",
+                  "amount": 60
+                },
+                {
+                  "item": "surge-alloy",
+                  "amount": 50
+                }
+            ]
+        }
+    },
+    "requirements": [
+        {
+            "item": "lead",
+            "amount": 500
+        },
+        {
+            "item": "titanium",
+            "amount": 500
+        },
+        {
+            "item": "thorium",
+            "amount": 550
+        },
+        {
+            "item": "plastanium",
+            "amount": 450
+        }
+    ],
+    "category": "units",
+    "research": "additive-reconstructor"
+}
