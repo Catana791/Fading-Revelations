@@ -8,19 +8,15 @@
   "hasLiquids": true,
   "hasItems": true,
   "liquidCapacity": 60,
-  "craftTime": 10,
+  "craftTime": 1,
   "spinnerSpeed": -5,
   "consumes": {
     "power": 5.4,
-    "liquid": {
-      "liquid": "slag",
-      "amount": 0.3
-    },
     "items": {
       "items": [
         {
           "item": "metaglass",
-          "amount": 4
+          "amount": 1
         }
       ]
     }
