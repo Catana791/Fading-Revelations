@@ -13,7 +13,7 @@
   "health": 1000,
   "shootCone": 360,
   "rotateSpeed": 10,
-  "range": 295,
+  "range": 292,
   "ammoTypes":{
     "phase-fabric":{
 		"type": "BasicBulletType",
