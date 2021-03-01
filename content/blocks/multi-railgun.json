@@ -24,7 +24,7 @@
   "spread": 7,
   "ammoUseEffect": "casing3",
   "rotateSpeed": 0.3,
-  "range": 500,
+  "range": 450,
   "consumes": {
     "power": 16
   },
