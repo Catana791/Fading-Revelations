@@ -18,7 +18,7 @@
     "phase-fabric":{
 		"type": "BasicBulletType",
 		"speed": 2,
-		"lifetime": 180,
+		"lifetime": 140,
 		"collides": true,
 		"damage": 120,
 		"fragBullets": 6,
@@ -41,7 +41,7 @@
     "ammo-level-1": {
     "type": "BasicBulletType",
 		"speed": 2,
-		"lifetime": 180,
+		"lifetime": 140,
 		"collides": true,
 		"damage": 60,
 		"fragBullets": 6,
@@ -64,7 +64,7 @@
     "ammo-level-2": {
     "type": "BasicBulletType",
 		"speed": 2,
-		"lifetime": 180,
+		"lifetime": 140,
 		"pierce": true,
 		"collides": true,
 		"damage": 75,
@@ -88,7 +88,7 @@
     "homing-ammo": {
          "type": "MissileBulletType",
 		"speed": 2,
-		"lifetime": 180,
+		"lifetime": 140,
 		"collides": true,
 		"damage": 85,
 		"homingPower": 0.001,
@@ -114,7 +114,7 @@
     "nano-ammo": {
          "type": "BasicBulletType",
 		"speed": 2,
-		"lifetime": 180,
+		"lifetime": 140,
 		"collides": true,
 		"damage": 3,
 		"fragBullets": 6,
@@ -141,7 +141,7 @@
     "living-steel": {
          "type": "BasicBulletType",
 		"speed": 2,
-		"lifetime": 180,
+		"lifetime": 140,
 		"collides": true,
 		"damage": 50,
 		"fragBullets": 6,
