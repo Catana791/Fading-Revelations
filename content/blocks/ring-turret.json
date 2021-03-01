@@ -168,7 +168,7 @@
   },
   "category": "turret",
   "shootSound": "explosion",
-  "research": "destroyer",
+  "research": "salvo",
   "requirements": [
     {
       "item": "copper",
