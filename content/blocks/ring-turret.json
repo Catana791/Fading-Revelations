@@ -1,0 +1,194 @@
+{
+  "type": "ItemTurret",
+  "name": "S.E.R.O.B.B",
+  "description": "Stands for Super Epic Ring Of Bullets Bombard. Fires (like the name says rings of frag Bullets at enemies that deal low damage but cover a lot of area. Don't place too many or it might become laggy.",
+  "targetAir": true,
+  "targetGround": true,
+  "shots": 42,
+  "reloadTime": 200,
+  "spread": 10,
+  "recoilAmount": 0,
+  "inaccuracy": 0,
+  "size": 4,
+  "health": 1000,
+  "shootCone": 360,
+  "rotateSpeed": 10,
+  "range": 200,
+  "ammoTypes":{
+    "phase-fabric":{
+		"type": "BasicBulletType",
+		"speed": 1.5,
+		"lifetime": 100,
+		"collides": true,
+		"damage": 120,
+		"fragBullets": 6,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 1.5,
+		  "damage": 12, 
+  		"lifetime": 30,
+		  "collides": true,
+	  	"fragBullets": 4,
+	  	"fragBullet":{
+	    	"type": "BasicBulletType",
+	    	"speed": 1,
+	    	"lifetime": 20,
+	    	"damage": 4,
+	    	"collides": true
+        }
+      }
+    },
+    "ammo-level-1": {
+    "type": "BasicBulletType",
+		"speed": 1.5,
+		"lifetime": 100,
+		"collides": true,
+		"damage": 60,
+		"fragBullets": 6,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 1.5,
+		  "damage": 6, 
+  		"lifetime": 30,
+		  "collides": true,
+	  	"fragBullets": 4,
+	  	"fragBullet":{
+	    	"type": "BasicBulletType",
+	    	"speed": 1,
+	    	"lifetime": 20,
+	    	"damage": 1,
+	    	"collides": true
+        }
+      }
+    },
+    "ammo-level-2": {
+    "type": "BasicBulletType",
+		"speed": 1.5,
+		"lifetime": 100,
+		"pierce": true,
+		"collides": true,
+		"damage": 75,
+		"fragBullets": 6,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 1.5,
+		  "damage": 10, 
+  		"lifetime": 30,
+		  "collides": true,
+	  	"fragBullets": 4,
+	  	"fragBullet":{
+	    	"type": "BasicBulletType",
+	    	"speed": 1,
+	    	"lifetime": 20,
+	    	"damage": 3,
+	    	"collides": true
+        }
+      }
+    },
+    "homing-ammo": {
+         "type": "MissileBulletType",
+		"speed": 1.5,
+		"lifetime": 100,
+		"collides": true,
+		"damage": 85,
+		"homingPower": 0.001,
+		"fragBullets": 6,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 1.5,
+		  "damage": 10,
+		  "homingPower": 0.0008,
+  		"lifetime": 30,
+		  "collides": true,
+	  	"fragBullets": 4,
+	  	"fragBullet":{
+	    	"type": "BasicBulletType",
+	    	"speed": 1,
+	    	"homingPower": 0.00009,
+	    	"lifetime": 20,
+	    	"damage": 5,
+	    	"collides": true
+        }
+      }
+    },
+    "nano-ammo": {
+         "type": "BasicBulletType",
+		"speed": 1.5,
+		"lifetime": 100,
+		"collides": true,
+		"damage": 3,
+		"fragBullets": 6,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 1.5,
+		  "status": "burning",
+		  "statusDuration": 8000000,
+		  "damage": 2, 
+  		"lifetime": 30,
+		  "collides": true,
+	  	"fragBullets": 4,
+	  	"fragBullet":{
+	    	"type": "BasicBulletType",
+	    	"speed": 1,
+	    	"status": "burning",
+	    	"statusDuration": 8000000,
+	    	"lifetime": 20,
+	    	"damage": 1,
+	    	"collides": true
+        }
+      }
+    },
+    "living-steel": {
+         "type": "BasicBulletType",
+		"speed": 1.5,
+		"lifetime": 100,
+		"collides": true,
+		"damage": 50,
+		"fragBullets": 6,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 1.5,
+		  "damage": 10,
+		  "status": "slow",
+		  "statusDuration": 100,
+  		"lifetime": 30,
+		  "collides": true,
+	  	"fragBullets": 4,
+	  	"fragBullet":{
+	    	"type": "BasicBulletType",
+	    	"speed": 1,
+	    	"lifetime": 20,
+	    	"damage": 4,
+	    	"status": "slow",
+	    	"statusDuration": 100,
+	    	"collides": true
+        }
+      }
+    }
+  },
+  "category": "turret",
+  "shootSound": "explosion",
+  "research": "destroyer",
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 200
+    },
+    {
+      "item": "lead",
+      "amount": 100
+    },
+    {
+      "item": "graphite",
+      "amount": 200
+    },
+    {
+      "item": "titanium",
+      "amount": 200
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 100
+    }
+  ]
+}
