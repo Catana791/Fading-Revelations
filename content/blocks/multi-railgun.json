@@ -9,7 +9,7 @@
   "inaccuracy": 0,
   "reloadTime": 180,
   "maxAmmo": 20,
-  "ammoPerShot": 10,
+  "ammoPerShot": 5,
   "shootSound": "railgun",
   "shootEffect": {
     "type": "ParticleEffect",
@@ -37,6 +37,7 @@
       "frontColor": "80008e",
       "backColor": "05ecec",
       "splashDamage": 10,
+      "ammoMultiplier": 2,
       "splashDamageRadius": 10
     },
     "nano-ammo": {
