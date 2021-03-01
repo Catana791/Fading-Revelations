@@ -7,7 +7,7 @@
   "size": 10,
   "health": 3600,
   "inaccuracy": 0,
-  "reloadTime": 5000,
+  "reloadTime": 400,
   "maxAmmo": 20,
   "ammoPerShot": 10,
   "shootSound": "railgun",
