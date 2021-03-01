@@ -11,7 +11,7 @@
   "inaccuracy": 0,
   "size": 4,
   "health": 1000,
-  "shootCone": 360,
+  "shootCone": 180,
   "rotateSpeed": 10,
   "range": 293,
   "ammoTypes":{
@@ -27,15 +27,7 @@
 		  "speed": 1.5,
 		  "damage": 12, 
   		"lifetime": 30,
-		  "collides": true,
-	  	"fragBullets": 4,
-	  	"fragBullet":{
-	    	"type": "BasicBulletType",
-	    	"speed": 1,
-	    	"lifetime": 20,
-	    	"damage": 4,
-	    	"collides": true
-        }
+		  "collides": true
       }
     },
     "ammo-level-1": {
@@ -48,17 +40,9 @@
 		"fragBullet":{
 		  "type": "BasicBulletType",
 		  "speed": 1.5,
-		  "damage": 6, 
+		  "damage": 20, 
   		"lifetime": 30,
-		  "collides": true,
-	  	"fragBullets": 4,
-	  	"fragBullet":{
-	    	"type": "BasicBulletType",
-	    	"speed": 1,
-	    	"lifetime": 20,
-	    	"damage": 1,
-	    	"collides": true
-        }
+		  "collides": true
       }
     },
     "ammo-level-2": {
@@ -72,17 +56,10 @@
 		"fragBullet":{
 		  "type": "BasicBulletType",
 		  "speed": 1.5,
-		  "damage": 10, 
+		  "damage": 30, 
   		"lifetime": 30,
 		  "collides": true,
-	  	"fragBullets": 4,
-	  	"fragBullet":{
-	    	"type": "BasicBulletType",
-	    	"speed": 1,
-	    	"lifetime": 20,
-	    	"damage": 3,
-	    	"collides": true
-        }
+	  
       }
     },
     "homing-ammo": {
@@ -100,15 +77,8 @@
 		  "homingPower": 0.0008,
   		"lifetime": 30,
 		  "collides": true,
-	  	"fragBullets": 4,
-	  	"fragBullet":{
-	    	"type": "BasicBulletType",
-	    	"speed": 1,
-	    	"homingPower": 0.00009,
-	    	"lifetime": 20,
-	    	"damage": 5,
-	    	"collides": true
-        }
+	  	
+
       }
     },
     "nano-ammo": {
@@ -123,19 +93,9 @@
 		  "speed": 1.5,
 		  "status": "burning",
 		  "statusDuration": 8000000,
-		  "damage": 2, 
+		  "damage": 60, 
   		"lifetime": 30,
-		  "collides": true,
-	  	"fragBullets": 4,
-	  	"fragBullet":{
-	    	"type": "BasicBulletType",
-	    	"speed": 1,
-	    	"status": "burning",
-	    	"statusDuration": 8000000,
-	    	"lifetime": 20,
-	    	"damage": 1,
-	    	"collides": true
-        }
+		  "collides": true
       }
     },
     "living-steel": {
@@ -148,21 +108,11 @@
 		"fragBullet":{
 		  "type": "BasicBulletType",
 		  "speed": 1.5,
-		  "damage": 10,
+		  "damage": 60,
 		  "status": "slow",
 		  "statusDuration": 100,
   		"lifetime": 30,
-		  "collides": true,
-	  	"fragBullets": 4,
-	  	"fragBullet":{
-	    	"type": "BasicBulletType",
-	    	"speed": 1,
-	    	"lifetime": 20,
-	    	"damage": 4,
-	    	"status": "slow",
-	    	"statusDuration": 100,
-	    	"collides": true
-        }
+		  "collides": true
       }
     }
   },
