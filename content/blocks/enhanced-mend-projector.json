@@ -1,5 +1,5 @@
 {
-  "name": "Rapair Dome",
+  "name": "Repair Dome",
   "description": "Heals nearby blocks rapidly.",
   "type": "MendProjector",
   "health": 1000,
