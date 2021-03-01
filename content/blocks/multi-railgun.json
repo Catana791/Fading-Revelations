@@ -31,7 +31,7 @@
   "ammoTypes": {
     "living-steel": {
       "speed": 10,
-      "damage": 40,
+      "damage": 220,
       "sprite": "railgun-bolt",
       "pierce": true,
       "frontColor": "80008e",
@@ -41,7 +41,7 @@
     },
     "nano-ammo": {
       "speed": 10,
-      "damage": 60,
+      "damage": 250,
       "sprite": "railgun-bolt",
       "pierce": true,
       "frontColor": "02acd0",
@@ -50,6 +50,28 @@
       "splashDamageRadius": 12
     }
   },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 2000
+    },
+    {
+      "item": "lead",
+      "amount": 750
+    },
+    {
+      "item": "graphite",
+      "amount": 620
+    },
+    {
+      "item": "silicon",
+      "amount": 700
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 600
+    }
+  ],
   "category": "turret",
   "research": "meltdown"
 }
