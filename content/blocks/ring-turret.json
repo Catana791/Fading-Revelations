@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
-  "name": "S.E.R.O.B.B",
-  "description": "Stands for Super Epic Ring Of Bullets Bombard. Fires (like the name says rings of frag Bullets at enemies that deal low damage but cover a lot of area. Don't place too many or it might become laggy.",
+  "name": "S.E.H.R.O.B.B",
+  "description": "Stands for Super Epic Half Ring Of Bullets Bombard. Fires (like the name says rings of frag Bullets at enemies that deal low damage but cover a lot of area. Don't place too many or it might become laggy.",
   "targetAir": true,
   "targetGround": true,
   "shots": 18,
@@ -9,7 +9,7 @@
   "spread": 2,
   "recoilAmount": 0,
   "inaccuracy": 0,
-  "size": 4,
+  "size": 5,
   "health": 1000,
   "shootCone": 180,
   "rotateSpeed": 10,
