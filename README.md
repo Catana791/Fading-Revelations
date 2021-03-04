@@ -1,5 +1,5 @@
 
-# mindustry-extended
+# mindustry-extended (aka Extendustry)
 A mod for the game "Mindustry" that focuses on extending it in fun but not op ways.
 
 Join the official mindustry extended Discord server! 
