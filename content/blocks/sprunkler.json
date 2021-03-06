@@ -12,6 +12,7 @@
     "water": {
       "type": "LiquidBulletType",
       "damage": 0,
+      "lifetime": 300,
       "knockback": 0,
       "amount": 0.003
       "liquid": "water"
