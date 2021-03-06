@@ -7,11 +7,12 @@
   "shootSound": "wave",
   "shootCone": 360,
   "shots": 100,
-  "spread": 3,  
+  "spread": 5,  
   "ammoTypes": {
     "water": {
       "type": "LiquidBulletType",
       "damage": 0,
+      "bulletWidth": 10,
       "lifetime": 57,
       "knockback": 0,
       "amount": 0.003
