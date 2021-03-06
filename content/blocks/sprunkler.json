@@ -13,7 +13,7 @@
       "type": "LiquidBulletType",
       "damage": 0,
       "knockback": 0,
-      "ammoMultiplier": 0.1,
+      "amount": 0.003
       "liquid": "water"
     }
   },
