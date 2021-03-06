@@ -15,7 +15,7 @@
       "bulletWidth": 10,
       "lifetime": 57,
       "knockback": 0,
-      "amount": 0.003
+      "amount": 0.003,
       "liquid": "water"
     }
   },
