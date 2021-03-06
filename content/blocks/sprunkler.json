@@ -11,7 +11,7 @@
     "colorFrom": "0053e8",
     "colorTo": "0046c2",
     "cone": 360,
-    "lifetime": 1
+    "lifetime": 50
   },
   "shots": 100,
   "spread": 5,  
