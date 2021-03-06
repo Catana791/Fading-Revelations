@@ -6,6 +6,13 @@
   "reloadTime": 1,
   "shootSound": "wave",
   "shootCone": 360,
+  "shootEffect": {
+    "type": "ParticleEffect",
+    "colorFrom": "0053e8",
+    "colorTo": "0046c2",
+    "cone": 360,
+    "lifetime": 1
+  },
   "shots": 100,
   "spread": 5,  
   "ammoTypes": {
