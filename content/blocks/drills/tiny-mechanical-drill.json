@@ -1,0 +1,25 @@
+{
+  "name": "Tiny Mechanical Drill",
+  "description": "A tiny version of the mechanical drill.",
+  "type": "Drill",
+  "size": 1,
+  "tier": 2,
+  "itemCapacity": 3,
+  "drillTime": 550,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.009,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 4
+    }
+  ],
+  "category": "production",
+  "research": "mechanical-drill"
+}

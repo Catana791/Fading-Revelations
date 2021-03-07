@@ -1,0 +1,18 @@
+{
+  "name": "Gigantic Surge-Alloy-Wall",
+  "description": "A gigantic wall made of surge alloy.",
+  "type": "Wall",
+  "lightningChance": 0.20,
+  "lighningDamage": 30,
+  "lightningLength": 22,
+  "health": 14720,
+  "size": 4,
+  "requirements": [
+    {
+      "item": "surge-alloy",
+      "amount": 500
+    }
+  ],
+  "category": "defense",
+  "research": "surge-alloy-wall-2"
+}

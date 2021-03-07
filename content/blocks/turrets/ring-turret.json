@@ -1,0 +1,144 @@
+{
+  "type": "ItemTurret",
+  "name": "S.E.H.R.O.B.B",
+  "description": "Stands for Super Epic Half Ring Of Bullets Bombard. Fires (like the name says half rings of frag Bullets at enemies that deal low damage but cover a lot of area. Don't place too many or it might become laggy.",
+  "targetAir": true,
+  "targetGround": true,
+  "shots": 21,
+  "reloadTime": 200,
+  "spread": 3,
+  "recoilAmount": 0,
+  "inaccuracy": 0,
+  "size": 4,
+  "health": 1000,
+  "shootCone": 180,
+  "rotateSpeed": 10,
+  "range": 293,
+  "ammoTypes":{
+    "phase-fabric":{
+		"type": "BasicBulletType",
+		"speed": 2,
+		"lifetime": 140,
+		"collides": true,
+		"damage": 120,
+		"fragBullets": 10,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 3,
+		  "damage": 10, 
+  		"lifetime": 45,
+		  "collides": true
+      }
+    },
+    "ammo-level-1": {
+    "type": "BasicBulletType",
+		"speed": 2,
+		"lifetime": 140,
+		"collides": true,
+		"damage": 60,
+		"fragBullets": 10,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 3,
+		  "damage": 17, 
+  		"lifetime": 45,
+		  "collides": true
+      }
+    },
+    "ammo-level-2": {
+    "type": "BasicBulletType",
+		"speed": 2,
+		"lifetime": 140,
+		"pierce": true,
+		"collides": true,
+		"damage": 75,
+		"fragBullets": 10,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 3,
+		  "damage": 26, 
+  		"lifetime": 45,
+		  "collides": true,
+	  
+      }
+    },
+    "homing-ammo": {
+         "type": "MissileBulletType",
+		"speed": 2,
+		"lifetime": 140,
+		"collides": true,
+		"damage": 85,
+		"homingPower": 0.001,
+		"fragBullets": 10,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 3,
+		  "damage": 9,
+		  "homingPower": 0.0008,
+  		"lifetime": 45,
+		  "collides": true,
+	  	
+
+      }
+    },
+    "nano-ammo": {
+         "type": "BasicBulletType",
+		"speed": 2,
+		"lifetime": 140,
+		"collides": true,
+		"damage": 3,
+		"fragBullets": 10,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 3,
+		  "status": "burning",
+		  "statusDuration": 8000000,
+		  "damage": 2, 
+  		"lifetime": 45,
+		  "collides": true
+      }
+    },
+    "living-steel": {
+         "type": "BasicBulletType",
+		"speed": 2,
+		"lifetime": 140,
+		"collides": true,
+		"damage": 50,
+		"fragBullets": 10,
+		"fragBullet":{
+		  "type": "BasicBulletType",
+		  "speed": 3,
+		  "damage": 20,
+		  "status": "slow",
+		  "statusDuration": 100,
+  		"lifetime": 45,
+		  "collides": true
+      }
+    }
+  },
+  "category": "turret",
+  "shootSound": "explosion",
+  "research": "salvo",
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 200
+    },
+    {
+      "item": "lead",
+      "amount": 100
+    },
+    {
+      "item": "graphite",
+      "amount": 200
+    },
+    {
+      "item": "titanium",
+      "amount": 200
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 100
+    }
+  ]
+}

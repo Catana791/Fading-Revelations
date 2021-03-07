@@ -1,0 +1,52 @@
+{
+  "name": "Sprinkler",
+  "description": "A fast paced water spray turret that is good at putting out fires but deals no damage and has no knockback so it should probably not be used for combat.",
+  "size": 3,
+  "range": 200,
+  "reloadTime": 1,
+  "shootSound": "pew",
+  "shootCone": 360,
+  "shootEffect": {
+    "type": "ParticleEffect",
+    "colorFrom": "0053e8",
+    "colorTo": "0046c2",
+    "cone": 360,
+    "lifetime": 50
+  },
+  "shots": 100,
+  "spread": 5,  
+  "ammoTypes": {
+    "water": {
+      "type": "LiquidBulletType",
+      "damage": 0,
+      "bulletWidth": 10,
+      "lifetime": 57,
+      "knockback": 0,
+      "amount": 0.003,
+      "liquid": "water"
+    }
+  },
+  "rotateSpeed": 200,
+  "powerUse": 0.25,
+  "targetAir": true,
+  "targetGround": true,
+  "recoilAmount": 0,
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 50
+    },
+    {
+      "item": "silicon",
+      "amount": 15
+    },
+    {
+      "item": "graphite",
+      "amount": 20
+    }
+  ],
+  "category": "turret",
+  "type": "LiquidTurret",
+  "health": 200,
+  "research": "wave"
+}

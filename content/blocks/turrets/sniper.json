@@ -1,0 +1,97 @@
+{
+  "type": "ItemTurret",
+  "name": "Sniper",
+  "description": "A long range, high damage, piercing turret.",
+  "targetGround": true,
+  "targetAir": false,
+  "health": 1200,
+  "size": 3,
+  "inaccuracy": 0,
+  "reloadTime": 400,
+  "recoilAmount": 1,
+  "ammoUseEffect": "casing3",
+  "shootCone": 25,
+  "maxAmmo": 50,
+  "rotateSpeed": 8,
+  "range": 500,
+  "ammoTypes": {
+    "scrap": {
+      "speed": 25,
+      "collidesTiles": false,
+      "damage": 40,
+      "collides": false,
+      "splashDamage": 10,
+      "collidesTeam": false,
+      "collidesAir": false,
+      "splashDamageRadius": 6,
+      "ammoMultiplier": 5,
+      "width": 8,
+      "height": 12
+    },
+    "ammo-level-2": {
+      "speed": 25,
+      "collidesTiles": false,
+      "damage": 120,
+      "splashDamage": 60,
+      "collides": false,
+      "splashDamageRadius": 32,
+      "ammoMultiplier": 2,
+      "width": 8,
+      "collidesTeam": false,
+      "collidesAir": false,
+      "height": 12,
+      "pierce": true,
+      "status": "burning",
+      "statusDuration": 200
+    },
+    "nano-ammo": {
+      "speed": 25,
+      "collidesTiles": false,
+      "damage": 30,
+      "splashDamage": 10,
+      "splashDamageRadius": 12,
+      "ammoMultiplier": 2,
+      "width": 8,
+      "height": 12,
+      "collides": false,
+      "collidesTeam": false,
+      "collidesAir": false,
+      "status": "burning",
+      "statusDuration": 8000000
+    },
+    "living-steel": {
+      "speed": 25,
+      "collidesTiles": false,
+      "damage": 120,
+      "collidesTeam": false,
+      "collidesAir": false,
+      "ammoMultiplier": 2,
+      "collides": false,
+      "width": 10,
+      "height": 14,
+      "status": "slow",
+      "statusDuration": 250
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 255
+    },
+    {
+      "item": "lead",
+      "amount": 180
+    },
+    {
+      "item": "titanium",
+      "amount": 120
+    },
+    {
+      "item": "plastanium",
+      "amount": 55
+    }
+  ],
+  "category": "turret",
+  "research": "hail",
+  "buildVisibility": "shown"
+}

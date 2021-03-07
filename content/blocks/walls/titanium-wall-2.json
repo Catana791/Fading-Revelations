@@ -1,0 +1,15 @@
+{
+  "name": "Huge Titanium-Wall",
+  "description": "A huge wall made from titanium.",
+  "type": "Wall",
+  "health": 3960,
+  "size": 3,
+  "requirements": [
+    {
+      "item": "titanium",
+      "amount": 300
+    }
+  ],
+  "category": "defense",
+  "research": "titanium-wall-large"
+}

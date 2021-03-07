@@ -1,0 +1,55 @@
+{
+  "type": "GenericSmelter",
+  "name": "Pyratite Forge",
+  "description": "A stronger pyratite mixer. Gets very hot so needs graphite for isolation.",
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 85,
+  "craftEffect": "pulverizeRed",
+  "updateEffect": "pulverizeRed",
+  "consumes": {
+    "power": 0.4,
+    "items": {
+      "items": [
+        {
+          "item": "coal",
+          "amount": 1
+        },
+        {
+          "item": "lead",
+          "amount": 2
+        },
+        {
+          "item": "sand",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 150
+    },
+    {
+      "item": "lead",
+      "amount": 120
+    },
+    {
+      "item": "graphite",
+      "amount": 60
+    },
+    {
+      "item": "titanium",
+      "amount": 30
+    }
+  ],
+  "category": "crafting",
+  "research": "pyratite-mixer",
+  "outputItem": {
+    "item": "pyratite",
+    "amount": 4
+  }
+}

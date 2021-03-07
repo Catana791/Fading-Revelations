@@ -1,0 +1,43 @@
+{
+  "type": "CoreBlock",
+  "name": "Core: Atom",
+  "description": "Core of the base. Very well armored and stores a good amount of resources.",
+  "details": "Is protected by the builder drone.",
+  "size": 6,
+  "health": 8000,
+  "itemCapacity": 16000,
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 10000
+    },
+    {
+      "item": "lead",
+      "amount": 10000
+    },
+    {
+      "item": "titanium",
+      "amount": 8000
+    },
+    {
+      "item": "silicon",
+      "amount": 6000
+    },
+    {
+      "item": "thorium",
+      "amount": 10000
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 1000
+    },
+    {
+      "item": "plastanium",
+      "amount": 1000
+    }
+  ],
+  "category": "effect",
+  "research": "core-nucleus",
+  "unitType": "builder-mech",
+  "unitCapModifier": 32
+}

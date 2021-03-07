@@ -1,0 +1,16 @@
+{
+  "name": "Huge Plastanium-Wall",
+  "description": "A huge wall made from plastanium",
+  "type": "Wall",
+  "insulated": true,
+  "health": 6840,
+  "size": 3,
+  "requirements": [
+    {
+      "item": "plastanium",
+      "amount": 300
+    }
+  ],
+  "category": "defense",
+  "research": "plastanium-wall-large"
+}

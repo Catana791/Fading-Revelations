@@ -1,0 +1,146 @@
+{
+  "type": "ItemTurret",
+  "name": "Scatter, V2",
+  "description": "A better version of the scatter.",
+  "targetAir": true,
+  "targetGround": false,
+  "health": 1200,
+  "size": 3,
+  "inaccuracy": 0.5,
+  "reloadTime": 40,
+  "recoilAmount": 1,
+  "consumes": {
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.1,
+      "booster": true,
+      "optional": true,
+    }
+  },
+  "liquidBoostIntensity": 1.8,
+  "ammoUseEffect": "casing3",
+  "shootCone": 25,
+  "maxAmmo": 50,
+  "rotateSpeed": 8,
+  "range": 256,
+  "ammoTypes": {
+    "scrap": {
+      "speed": 25,
+      "collidesTiles": false,
+      "damage": 8,
+      "splashDamage": 3,
+      "splashDamageRadius": 3,
+      "ammoMultiplier": 5,
+      "frontColor": "ab5300",
+      "backColor": "7e7e7e",
+      "width": 8,
+      "height": 12
+    },
+    "lead": {
+      "speed": 25,
+      "collidesTiles": false,
+      "damage": 10,
+      "splashDamage": 6,
+      "splashDamageRadius": 5,
+      "ammoMultiplier": 4,
+      "frontColor": "83008b",
+      "backColor": "7e7e7e",
+      "width": 8,
+      "height": 12
+    },
+    "metaglass": {
+      "speed": 25,
+      "collidesTiles": false,
+      "damage": 10,
+      "splashDamage": 10,
+      "splashDamageRadius": 8,
+      "ammoMultiplier": 3,
+      "frontColor": "dfdfdf",
+      "backColor": "7e7e7e",
+      "width": 8,
+      "height": 12,
+      "fragVelocityMin": 0.9,
+      "fragVelocityMax": 1.5,
+      "fragBullets": 3,
+      "fragBullet": {
+        "speed": 25,
+        "collidesTiles": false,
+        "damage": 10,
+        "splashDamage": 5,
+        "splashDamageRadius": 5,
+        "width": 4,
+        "heigth": 6,
+        "hitEffect": "flakExplosion",
+        "frontColor": "dfdfdf",
+        "backColor": "7e7e7e"
+      }
+    },
+    "pyratite": {
+      "speed": 25,
+      "collidesTiler": false,
+      "damage": 15,
+      "splashDamage": 30,
+      "splashDamageRadius": 10,
+      "ammoMultiplier": 4,
+      "frontColor": "ff8b1e",
+      "backColor": "7e7e7e",
+      "width": 10,
+      "height": 14,
+      "status": "burning",
+      "fragVelocityMin": 0.9,
+      "fragVelocityMax": 1.5,
+      "fragBullets": 2,
+      "fragBullet": {
+        "speed": 25,
+        "collidesTiles": false,
+        "damage": 8,
+        "splashDamage": 4,
+        "splashDamageRadius": 8,
+        "width": 5,
+        "heigth": 7,
+        "hitEffect": "flakExplosion",
+        "frontColor": "ff8b1e",
+        "backColor": "7e7e7e"
+      }
+    },
+    "living-steel": {
+      "type": "BasicBulletType",
+      "damage": 11,
+      "splashDamage": 3,
+      "splashDamageRadius": 4,
+      "speed": 14,
+      "status": "slow",
+      "statusDuration": 10
+    },
+    "nano-ammo": {
+      "type": "BasicBulletType",
+      "damage": 3,
+      "splashDamage": 1,
+      "splashDamageRadius": 2,
+      "speed": 12,
+      "status": "melting",
+      "statusDuration": 8000000
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 200
+    },
+    {
+      "item": "lead",
+      "amount": 150
+    },
+    {
+      "item": "graphite",
+      "amount": 100
+    },
+    {
+      "item": "titanium",
+      "amount": 25
+    }
+  ],
+  "category": "turret",
+  "research": "scatter",
+  "buildVisibility": "shown"
+}

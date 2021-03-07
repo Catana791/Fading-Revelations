@@ -1,0 +1,134 @@
+{
+  "type": "ItemTurret",
+  "name": "Swarmer NEO",
+  "description": "A better version of the swarmer. More damage and attack speed.",
+  "health": 1800,
+  "reloadTime": 15,
+  "heatColor": "ff2020",
+  "alternate": true,
+  "consumes": {
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.1,
+      "booster": true,
+      "optional": true,
+    }
+  },
+  "liquidBoostIntensity": 1.8,
+  "shots": 7,
+  "spread": 3,
+  "shootCone": 20,
+  "shootShake": 0.3,
+  "inaccuracy": 1,
+  "recoilAmount": 2.6,
+  "size": 3,
+  "range": 190,
+  "restitution": 0.07,
+  "cooldown": 0.07,
+  "acceptCoolant": false,
+  "coolantMultiplier": 0,
+  "maxAmmo": 75,
+  "ammoTypes": {
+    "blast-compound": {
+      "type": "MissileBulletType",
+      "trailColor": "ff6f20",
+      "frontColor": "f6482d",
+      "backColor": "abcdef",
+      "width": 8,
+      "height": 8,
+      "hitSize": 8,
+      "hitSound": "artillery",
+      "speed": 6,
+      "damage": 18,
+      "splashDamage": 12,
+      "splashDamageRadius": 16,
+      "ammoMultiplier": 2,
+      "homingRange": 150,
+      "homingPower": 0.2,
+      "status": "burning",
+      "lifetime": 47.5,
+      "hitEffect": "blockExplosion",
+      "despawnEffect": "blockExplosion",
+      "weaveScale": 8,
+      "weaveMag": 3
+    },
+    "pyratite": {
+      "type": "MissileBulletType",
+      "trailColor": "ff6f20",
+      "frontColor": "f6972d",
+      "backColor": "abcdef",
+      "width": 8,
+      "height": 8,
+      "hitSize": 8,
+      "hitSound": "artillery",
+      "speed": 6,
+      "status": "burning",
+      "damage": 16,
+      "splashDamage": 10,
+      "splashDamageRadius": 15,
+      "ammoMultiplier": 2,
+      "homingRange": 150,
+      "homingPower": 0.2,
+      "lifetime": 47.5,
+      "hitEffect": "blockExplosion",
+      "despawnEffect": "blockExplosion",
+      "weaveScale": 8,
+      "weaveMag": 3
+    },
+    "surge-alloy": {
+      "type": "MissileBulletType",
+      "trailColor": "ff6f20",
+      "frontColor": "f8fb34",
+      "backColor": "abcdef",
+      "width": 8,
+      "height": 8,
+      "hitSize": 8,
+      "hitSound": "artillery",
+      "speed": 6,
+      "damage": 20,
+      "splashDamage": 15,
+      "status": "shocked",
+      "splashDamageRadius": 16,
+      "ammoMultiplier": 3,
+      "homingRange": 150,
+      "homingPower": 0.2,
+      "lifetime": 47.5,
+      "hitEffect": "blockExplosion",
+      "despawnEffect": "blockExplosion",
+      "weaveScale": 8,
+      "weaveMag": 3,
+      "status": "blasted",
+      "statusDuration": 10
+    },
+    "nano-ammo": {
+      "type": "BasicBulletType",
+      "speed": 6,
+      "damage": 3,
+      "splashDamage": 1,
+      "splashDamageRadius": 2,
+      "status": "burning",
+      "statusDuration": 8000000
+    }
+  },
+  "requirements": [
+    {
+      "item": "graphite",
+      "amount": 70
+    },
+    {
+      "item": "titanium",
+      "amount": 70
+    },
+    {
+      "item": "silicon",
+      "amount": 60
+    },
+    {
+      "item": "plastanium",
+      "amount": 70
+    }
+  ],
+  "shootSound": "missile",
+  "category": "turret",
+  "research": "swarmer"
+}

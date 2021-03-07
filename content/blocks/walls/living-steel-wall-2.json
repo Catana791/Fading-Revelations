@@ -1,0 +1,20 @@
+{
+  "name": "Living Steel Wall Large",
+  "description": "A large wall made of Living Steel. Heals itself slowly.",
+  "type": "MendProjector",
+  "health": 2820,
+  "healPercent": 1,
+  "reload": 2500,
+  "range": 1,
+  "hasItems": false,
+  "itemCapacity": 0,
+  "size": 2,
+  "requirements": [
+    {
+      "item": "living-steel-hard",
+      "amount": 24
+    }
+  ],
+  "category": "defense",
+  "research": "mend-projector"
+}

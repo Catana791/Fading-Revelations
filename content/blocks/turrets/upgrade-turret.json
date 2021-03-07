@@ -1,0 +1,117 @@
+{
+  "type": "ItemTurret",
+  "name": "Van Turretheim",
+  "description": "A turret that can shoot with different types of ammo.",
+  "health": 900,
+  "maxAmmo": 600,
+  "consumes": {
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.1,
+      "booster": true,
+      "optional": true,
+    }
+  },
+  "liquidBoostIntensity": 1.8,
+  "reloadTime": 25,
+  "range": 200,
+  "ammoPerShot": 1,
+  "size": 2,
+  "targetAir": true,
+  "targetGround": true,
+  "rotatespeed": 8,
+  "shots": 3,
+  "recoilAmount": 2,
+  "restitution": 0.8,
+  "shootSound": "shoot",
+  "buildCostMultiplier": 0.2,
+  "ammoTypes": {
+    "ammo-level-1": {
+      "type": "BasicBulletType",
+      "damage": 11,
+      "splashDamageRadius": 5,
+      "splashDamage": 2,
+      "speed": 8,
+      "lifetime": 25,
+      "height": 10,
+      "inaccuracy": 8,
+      "width": 5,
+      "ammoMultiplier": 2
+    },
+    "ammo-level-2": {
+      "type": "BasicBulletType",
+      "damage": 20,
+      "splashDamageRadius": 10,
+      "splashDamage": 8,
+      "speed": 12,
+      "lifetime": 25,
+      "height": 10,
+      "width": 5,
+      "pierce": true,
+      "inaccuracy": 5,
+      "ammoMultiplier": 2
+    },
+    "ammo-level-3": {
+      "type": "MissileBulletType",
+      "damage": 30,
+      "splashDamageRadius": 20,
+      "splashDamage": 14,
+      "speed": 10,
+      "lifetime": 25,
+      "height": 12,
+      "width": 6,
+      "inaccuracy": 2,
+      "ammoMultiplier": 1
+    },
+    "heal-ammo": {
+      "type": "LaserBoltBulletType",
+      "shootEffect": "shootHeal",
+      "damage": 0,
+      "healPercent": 5,
+      "collidesTeam": true,
+      "backColor": "98ffa9",
+      "frontColor": "ffffff",
+      "speed": 5.5
+    },
+    "living-steel": {
+      "type": "BasicBulletType",
+      "damage": 20,
+      "splashDamage": 8,
+      "splashDamageRadius": 10,
+      "speed": 8,
+      "height": 12,
+      "width": 6,
+      "statusEffect": "slow",
+      "statusDuration": 20
+    },
+    "nano-ammo": {
+      "type": "BasicBulletType",
+      "speed": 10,
+      "damage": 3,
+      "status": "burning",
+      "statusDuration": 8000000,
+      "splashDamage": 1,
+      "splashDamageRadius": 1
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 200
+    },
+    {
+      "item": "lead",
+      "amount": 150
+    },
+    {
+      "item": "titanium",
+      "amount": 60
+    },
+    {
+      "item": "plastanium",
+      "amount": 25
+    }
+  ],
+  "category": "turret",
+  "research": "salvo"
+}
