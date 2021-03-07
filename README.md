@@ -19,7 +19,8 @@ https://discord.gg/YB3ky9tJR4
  - 60+ new Blocks, 
  - A few new units,
  - Some new ammo types,
- - Larger Core Blocks (with fitting drones)
+ - Larger Core Blocks (with fitting drones),
+ - A unit upgrading system that takes mod units and buffs their stats!
 
 ### All textured and coded with love.
 
