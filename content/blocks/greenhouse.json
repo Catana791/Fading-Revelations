@@ -1,0 +1,37 @@
+{
+  "type": "GenericSmelter",
+  "name": "Greenhouse",
+  "description": "A better cultivator that creates a lot more spore pods.",
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 65,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "pulverizeBlue",
+  "consumes": {
+    "liquid": "water",
+    "amount": 0.5,
+    "power": 1.4
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 75
+    },
+    {
+      "item": "lead",
+      "amount": 75
+    },
+    {
+      "item": "silicon",
+      "amount": 30
+    }
+  ],
+  "category": "crafting",
+  "research": "cultivator",
+  "outputItem": {
+    "item": "spore-pod",
+    "amount": 2
+  }
+}
