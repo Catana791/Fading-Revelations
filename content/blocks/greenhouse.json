@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Greenhouse",
   "description": "A better cultivator that creates a lot more spore pods.",
   "size": 3,
