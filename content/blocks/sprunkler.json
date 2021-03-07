@@ -4,7 +4,7 @@
   "size": 3,
   "range": 200,
   "reloadTime": 1,
-  "shootSound": "wave",
+  "shootSound": "pew",
   "shootCone": 360,
   "shootEffect": {
     "type": "ParticleEffect",
