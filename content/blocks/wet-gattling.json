@@ -3,7 +3,7 @@
   "description": "A high speed Liquid Gattling that deals low damage but puts effects on enemies and looks cool while doing so.",
   "size": 3,
   "range": 200,
-  "reloadTime": 6,
+  "reloadTime": 4,
   "shootSound": "wave",
   "shootCone": 360,
   "inaccuracy": 22,
