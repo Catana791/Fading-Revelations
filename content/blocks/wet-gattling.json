@@ -6,13 +6,13 @@
   "reloadTime": 6,
   "shootSound": "wave",
   "shootCone": 360,
-  "inaccuracy": 10,
+  "inaccuracy": 30,
   "ammoTypes": {
     "water": {
       "type": "LiquidBulletType",
       "damage": 6,
       "knockback": 1,
-      "ammoMultiplier": 0.3,
+      "ammoMultiplier": 0.2,
       "liquid": "water",
       "status": "wet",
       "statusDuration": 10
@@ -21,7 +21,7 @@
       "type": "LiquidBulletType",
       "damage": 9,
       "knockback": 0.2,
-      "ammoMultiplier": 0.2,
+      "ammoMultiplier": 0.1,
       "liquid": "slag",
       "status": "burning",
       "statusDuration": 10
@@ -30,7 +30,7 @@
       "type": "LiquidBulletType",
       "damage": 7,
       "knockback": 0.4,
-      "ammoMultiplier": 0.1,
+      "ammoMultiplier": 0.05,
       "liquid": "cryofluid",
       "status": "freezing",
       "statusDuration": 10
@@ -39,7 +39,7 @@
       "type": "LiquidBulletType",
       "damage": 7,
       "knockback": 0.1,
-      "ammoMultiplier": 0.2,
+      "ammoMultiplier": 0.1,
       "liquid": "oil",
       "status": "tarred",
       "statusDuration": 10
@@ -48,7 +48,7 @@
       "type": "LiquidBulletType",
       "damage": 3,
       "knockback": 0.1,
-      "ammoMultiplier": 0.3,
+      "ammoMultiplier": 0.2,
       "liquid": "living-steel-liquid",
       "status": "slow",
       "statusDuration": 6
