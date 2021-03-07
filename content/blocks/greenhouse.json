@@ -8,7 +8,7 @@
   "hasLiquids": false,
   "craftTime": 65,
   "craftEffect": "smeltsmoke",
-  "updateEffect": "pulverizeBlue",
+  "updateEffect": "pulverize",
   "consumes": {
     "power": 1.4,
     "liquid": {
