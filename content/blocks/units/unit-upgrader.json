@@ -6,7 +6,8 @@
     "size": 7,
     "constructTime": 3260,
     "upgrades": [
-        ["lancer-drone","lancer-drone-t2"]
+        ["lancer-drone","lancer-drone-t2"],
+        ["king","king-t2"]
     ],
     "consumes": {
         "power": 0.8,
