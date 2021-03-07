@@ -10,11 +10,11 @@
   "craftEffect": "smeltsmoke",
   "updateEffect": "pulverizeBlue",
   "consumes": {
+    "power": 1.4,
     "liquid": {
       "liquid": "water",
       "amount": 0.5,
-    },
-    "power": 1.4
+    }
   },
   "requirements": [
     {
