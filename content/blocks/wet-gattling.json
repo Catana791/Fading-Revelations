@@ -6,8 +6,7 @@
   "reloadTime": 6,
   "shootSound": "wave",
   "shootCone": 360,
-  "shots": 10,
-  "inaccuracy": 6,
+  "inaccuracy": 10,
   "ammoTypes": {
     "water": {
       "type": "LiquidBulletType",
