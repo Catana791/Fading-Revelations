@@ -1,9 +1,9 @@
 {
   "name": "Liquid Minigun",
   "description": "A high speed Liquid Gattling that deals low damage but puts effects on enemies and looks cool while doing so.",
-  "size": 3,
+  "size": 2,
   "range": 200,
-  "reloadTime": 4,
+  "reloadTime": 6,
   "shootSound": "wave",
   "shootCone": 360,
   "inaccuracy": 22,
