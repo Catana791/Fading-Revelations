@@ -4,7 +4,7 @@
   "size": 2,
   "range": 200,
   "reloadTime": 6,
-  "shootSound": "wave",
+  "shootSound": "pew",
   "shootCone": 360,
   "inaccuracy": 22,
   "ammoTypes": {
