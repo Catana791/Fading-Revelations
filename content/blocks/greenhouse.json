@@ -10,7 +10,7 @@
   "craftEffect": "smeltsmoke",
   "updateEffect": "pulverize",
   "consumes": {
-    "power": 1.4,
+    "power": 1.33,
     "liquid": {
       "liquid": "water",
       "amount": 0.5,
