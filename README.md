@@ -16,7 +16,7 @@ https://discord.gg/YB3ky9tJR4
 ### There are a lot of blocks that are hopefully fun to use!
 
 ## This mod adds:
- - 50+ new Blocks, 
+ - 60+ new Blocks, 
  - A few new units,
  - Some new ammo types,
  - Larger Core Blocks (with fitting drones)
