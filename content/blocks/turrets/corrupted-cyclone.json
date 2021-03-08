@@ -9,15 +9,6 @@
   "range": 200,
   "size": 3,
   "targetAir": true,
-  "consumes": {
-    "liquid": {
-      "liquid": "living-steel-liquid",
-      "amount": 0.1,
-      "booster": true,
-      "optional": true,
-    }
-  },
-  "liquidBoostIntensity": 1.8,
   "targetGround": true,
   "rotatespeed": 8,
   "inaccuracy": 7,
