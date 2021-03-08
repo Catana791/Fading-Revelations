@@ -16,15 +16,6 @@
   "powerUse": 3.2,
   "targetAir": true,
   "targetGround": false,
-  "consumes": {
-    "liquid": {
-      "liquid": "living-steel-liquid",
-      "amount": 0.1,
-      "booster": true,
-      "optional": true,
-    }
-  },
-  "liquidBoostIntensity": 1.2,
   "heatColor": "ff0000",
   "shootEffect": "lightningShoot",
   "recoilAmount": 1,
