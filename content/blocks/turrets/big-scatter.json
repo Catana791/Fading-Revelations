@@ -7,7 +7,7 @@
   "health": 1200,
   "size": 3,
   "inaccuracy": 0.5,
-  "reloadTime": 40,
+  "reloadTime": 35,
   "recoilAmount": 1,
   "ammoUseEffect": "casing3",
   "shootCone": 25,
