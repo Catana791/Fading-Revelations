@@ -3,7 +3,7 @@ name: Balancing Issue
 about: Report a balancing issue
 title: Balance Issue
 labels: documentation
-assignees: ''
+assignees: Fresh791
 
 ---
 

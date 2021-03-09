@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help improve the mod
 title: Bug/Issue
 labels: bug
-assignees: ''
+assignees: Fresh791
 
 ---
 
