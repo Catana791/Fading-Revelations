@@ -1,0 +1,23 @@
+name: "me"
+displayName: "[accent]Mindustry-Extended"
+author: 
+  '''
+  [accent] Developer:
+      Fresh791
+      
+  Contributers:
+      Boopas172 (Balance Playtesting / Ideas)
+      Rem-Armiger (Balance Playtesting / Ideas)
+  '''
+description: 
+  '''
+  A mod that focuses on adding cool but not op content.
+  
+  Supported Languages: English, German
+  
+  Please note that the content will be in the language that your game is
+  in. (If your game is in English, the content will be so, too).
+  '''
+version: 1.05
+minGameVersion: 121
+repo: Fresh791/mindustry-extended
