@@ -1,6 +1,6 @@
 {
   "name": "Compact Laser Drill",
-  "description": "A smaller version version of the laser drill.",
+  "description": "A smaller version of the laser drill.",
   "type": "Drill",
   "size": 2,
   "itemCapacity": 4,
