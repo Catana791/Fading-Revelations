@@ -1,7 +1,7 @@
 {
     "type": "Reconstructor",
     "name": "Unit Upgrader",
-    "description": "Upgrades mod units by increasing their offensive, defensive and movement capabilities as well as increasing their speed.",
+    "description": "Upgrades mod units by increasing their offensive, defensive and movement capabilities.",
     "health": 950,
     "size": 7,
     "constructTime": 3260,
