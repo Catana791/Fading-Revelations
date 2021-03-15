@@ -8,15 +8,16 @@ author:
   [maroon]Contributers:
       [yellow]Boopas172 (Balance Playtesting / Ideas)
       [yellow]Rem-Armiger (Balance Playtesting / Ideas)
+      [yellow]Hairy Nugget (Spanish Translations)
   '''
 description: 
   '''
   A mod that focuses on adding cool but not op content.
   
-  Supported Languages: English, German
+  Supported Languages: English, German, Spanish
   
   Please note that the content will be in the language that your game is
-  in. (If your game is in English, the content will be so, too).
+  in. (e.g: If your game is in English, the content will be so, too).
   '''
 version: 1.05
 minGameVersion: 121
