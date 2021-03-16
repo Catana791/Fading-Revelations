@@ -32,5 +32,6 @@
     }
   },
   "category": "power",
-  "research": "thorium-reactor"
+  "research": "thorium-reactor",
+  "buildVisibility: "shown"
 }
