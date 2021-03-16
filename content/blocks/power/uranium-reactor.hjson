@@ -7,7 +7,7 @@ hasLiquids: true
 hasItems: true
 itemCapacity: 10
 liquidCapacity: 20
-itemDuration: 4320
+itemDuration: 2160
 powerProduction: 80
 heating: 0.06
 smokeThreshold: 0.58
@@ -16,7 +16,7 @@ explosionDamage: 2000
 flashThreshold: 0.44 
 coolantPower: 0.8 
 consumes: {
- liquid: living-steel-liquid/0.13
+ liquid: living-steel-liquid/0.1
   items: {
    items: [
     uraniumrod/9
