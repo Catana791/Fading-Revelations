@@ -7,7 +7,7 @@ hasLiquids: true
 hasItems: true
 itemCapacity: 10
 liquidCapacity: 20
-itemDuration: 1230
+itemDuration: 1456
 powerProduction: 80
 heating: 0.06
 smokeThreshold: 0.58
