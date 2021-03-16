@@ -1,0 +1,36 @@
+{
+  "type": "NuclearReactor",
+  "name": "Uranium Reactor",
+  "description": "Uses Uraniumrods to produce a significant amount of power.",
+  "size": 4,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "itemCapacity": 10,
+  "liquidCapacity": 20,
+  "itemDuration": 1080,
+  "powerProduction": 80,
+  "heating": 0.06,
+  "smokeThreshold": 0.67,
+  "explosionRadius": 90,
+  "explosionDamage": 2000,
+  "flashThreshold": 0.42,
+  "coolantPower": 1.1,
+  "consumes": {
+    "power": 12,
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.5
+    },
+    "items": {
+      "items": [
+        {
+          "item": "uraniumrod",
+          "amount": 9
+        }
+      ]
+    }
+  },
+  "category": "power",
+  "research": "thorium-reactor"
+}
