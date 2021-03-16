@@ -2,7 +2,7 @@ type: NuclearReactor
 name: "Nuclear Reactor"
 description: "A reactor that uses uraniumrods to create a lot of power."
 size: 4
-hasPower: true
+hasPower: false
 hasLiquids: true
 hasItems: true
 itemCapacity: 10
@@ -16,7 +16,6 @@ explosionDamage: 2000
 flashThreshold: 0.44 
 coolantPower: 0.8 
 consumes: {
- power: 12
  liquid: living-steel-liquid/0.13
   items: {
    items: [
