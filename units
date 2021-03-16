@@ -1,5 +1,8 @@
-    /    |     Unit                  Amount
----------|----------------------------------
-Power    |     1                      60
-Liquids  |     1                      59,23
-Range    |     8                      
+    /           |     Unit                  Amount
+----------------|--------------------------------------
+Power           |     1                      60
+Liquids         |     1                      59,23
+Range (Turrets) |     8                      1 Block
+Item Duration   |     60                     1 Second
+(Generators/Cra-|
+fters)          |
