@@ -1,0 +1,50 @@
+{
+  "type": "legs",
+  "shootSound": "lasershoot",
+  "name": "Mobile Lancer",
+  "description": "A walking unit that shoots using not one but two minified lancers.",
+  "speed": 1.1,
+  "research": "lancer-drone-t2",
+  "flying": false,
+  "health": 1200,
+  "commandLimit": 10,
+  "rotateWeapon": true,
+  "rotateBase": false,
+  "range": 36,
+  "weapons": [
+    {
+      "name": "move-lancer-weapon",
+      "reload": 80,
+      "alternate": false,
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 40,
+        "width": 18,
+        "lenght": 1150,
+        "shootEffect": "shockwave",
+        "colors": [
+          "eb6300",
+          "eb0500",
+          "e6da05"
+        ]
+      }
+    },
+    {
+      "name": "move-lancer-weapon",
+      "reload": 80,
+      "alternate": false,
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 40,
+        "width": 18,
+        "length": 1150,
+        "shootEffect": "shockwave",
+        "colors": [
+          "eb6300",
+          "eb0500",
+          "e6da05"
+        ]
+      }
+    }
+  ]
+}
