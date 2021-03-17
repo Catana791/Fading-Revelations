@@ -4,7 +4,7 @@
   "name": "Mobile Lancer",
   "description": "A walking unit that shoots using not one but two minified lancers.",
   "speed": 1.1,
-  "research": "lancer-drone-t2",
+  "research": "lancer-drone",
   "flying": false,
   "health": 1200,
   "commandLimit": 10,
