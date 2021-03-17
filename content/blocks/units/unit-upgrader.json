@@ -1,12 +1,12 @@
 {
     "type": "Reconstructor",
     "name": "Unit Upgrader",
-    "description": "Upgrades mod units by increasing their offensive, defensive and movement capabilities.",
+    "description": "Upgrades mod units.",
     "health": 950,
     "size": 7,
     "constructTime": 3260,
     "upgrades": [
-        ["lancer-drone","lancer-drone-t2"],
+        ["lancer-drone","move-lancer"],
         ["king","king-t2"],
         ["tentacle","tentacle-t2"]
     ],
