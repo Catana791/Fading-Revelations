@@ -1,4 +1,5 @@
 {
+  "type": "legs",
   "shootSound": "lasershoot",
   "name": "Mobile Lancer",
   "description": "A walking unit that shoots using not one but two minified lancers.",
