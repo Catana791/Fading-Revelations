@@ -1,0 +1,39 @@
+name: "Spike"
+description: "A close range unit with high burst damage and speed but low health."
+flying: true
+speed: 4
+health: 85
+aimDst: 10
+drag: 0.055
+accel: 0.075
+faceTarget: true
+rotateShooting: true
+circleTarget: true
+range: 250
+rotateSpeed: 5
+lowAltitude: true
+omniMovement: true
+weapons: [ 
+{
+name: nothing
+reload: 10
+alternate: true
+shootSound: pew
+rotate: false
+bullet: {
+type: BasicBulletType
+damage: 5
+speed: 2
+drag: -0.0015
+homingPower: 0.01
+homingRange: 15
+pierce: true
+pierceCap: 2
+width: 5
+height: 8
+lifetime: 60
+}
+}
+research: {
+parent: lancer-drone
+}
