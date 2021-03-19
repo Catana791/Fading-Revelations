@@ -9,7 +9,7 @@
   "health": 300,
   "commandLimit": 0,
   "engineOffset": 5.5,
-  "range": 5,
+  "range": 200,
   "weapons": [
     {
       "name": "nothing",
