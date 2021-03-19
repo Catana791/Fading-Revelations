@@ -33,6 +33,7 @@ width: 5
 height: 8
 lifetime: 60
 }
+]
 }
 research: {
 parent: lancer-drone
