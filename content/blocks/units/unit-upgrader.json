@@ -8,7 +8,7 @@
     "upgrades": [
         ["lancer-drone","close-range"],
         ["king","king-t2"],
-        ["tentacle","tentacle-t2"],
+        ["tentacle","move-lancer"],
     ],
     "consumes": {
         "power": 0.8,
