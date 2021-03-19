@@ -9,7 +9,6 @@
         ["lancer-drone","close-range"],
         ["king","king-t2"],
         ["tentacle","tentacle-t2"],
-        ["close-range","move-lancer"]
     ],
     "consumes": {
         "power": 0.8,
