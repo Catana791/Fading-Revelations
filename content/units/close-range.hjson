@@ -16,7 +16,7 @@ omniMovement: true
 weapons: [ 
 {
 name: nothing
-reload: 5
+reload: 4
 alternate: false
 shootSound: pew
 rotate: false
