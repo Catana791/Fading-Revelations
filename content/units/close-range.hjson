@@ -17,7 +17,7 @@ weapons: [
 {
 name: nothing
 reload: 1
-alternate: true
+alternate: false
 shootSound: pew
 rotate: false
 bullet: {
