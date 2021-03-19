@@ -24,7 +24,6 @@
              "lifetime": 15,
              "damage": 15,
              "speed": 3,
-             "shootEffect": "shellEjectBig",
              "splashDamageRadius": 10,
              "splashDamage": 5,
              "hitEffect": "hitMeltdown",
