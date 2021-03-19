@@ -19,23 +19,6 @@
         "type": "LaserBulletType",
         "damage": 40,
         "width": 18,
-        "lenght": 1150,
-        "shootEffect": "shockwave",
-        "colors": [
-          "eb6300",
-          "eb0500",
-          "e6da05"
-        ]
-      }
-    },
-    {
-      "name": "move-lancer-weapon",
-      "reload": 80,
-      "alternate": false,
-      "bullet": {
-        "type": "LaserBulletType",
-        "damage": 40,
-        "width": 18,
         "length": 1150,
         "shootEffect": "shockwave",
         "colors": [
