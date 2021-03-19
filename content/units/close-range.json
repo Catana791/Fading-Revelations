@@ -5,6 +5,7 @@
 	"maxVelocity": 4,
 	"speed": 3.8,
 	"drag": 0.1,
+	"flying": true,
 	"health": 200, 
 	"range": 150,
 	
