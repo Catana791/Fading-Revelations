@@ -9,16 +9,17 @@
 	"health": 200, 
 	"range": 150,
 	
-	"weapon": {
-		"name": "nothing",
-		"range":150,
-		"reload": 7,
-		"alternate": false,
-		"shootSound": "shootBig",
-		"bullet":{
-		     "bulletWidth": 5,
-		     "knockback": 5,
-		     "bulletHeight": 5,
+	"weapons": [
+	{
+	   "name": "nothing",
+	   "range":150,
+       	   "reload": 7,
+	   "alternate": false,
+           "shootSound": "shootBig",
+	   "bullet":{
+           "bulletWidth": 5,
+           "knockback": 5,
+           "bulletHeight": 5,
              "type": "BasicBulletType",
              "lifetime": 15,
              "damage": 15,
@@ -28,9 +29,8 @@
              "splashDamage": 5,
              "hitEffect": "hitMeltdown",
              "despawnEffect": "hitMeltdown", 
-         
-                
-		}
+	   }
 	
 	}
+    ]
 }
