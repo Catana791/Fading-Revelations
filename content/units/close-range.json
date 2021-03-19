@@ -1,5 +1,5 @@
 {
-	"type": "groundUnit",
+	"type": "flying",
 	"name": "Spike",
 	"description": "A fast, high damage, close range unit that has low health.",
 	"maxVelocity": 4,
