@@ -7,7 +7,7 @@
 	"drag": 0.1,
 	"flying": true,
 	"health": 200, 
-	"range": 150,
+	"range": 28,
 	
 	"weapons": [
 	{
