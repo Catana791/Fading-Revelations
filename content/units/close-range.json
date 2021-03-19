@@ -1,31 +1,35 @@
 {
-  "shootSound": "lasershoot",
-  "type": "flying",
-  "name": "Spike",
-  "description": "A close range unit that deals high damage and is very fast but also very fragile.",
-  "speed": 3.7,
-  "research": "move-lancer",
-  "flying": true,
-  "health": 300,
-  "commandLimit": 0,
-  "engineOffset": 5.5,
-  "range": 200,
-  "weapons": [
-    {
-      "name": "nothing",
-      "length": 1.5,
-      "reload": 75,
-      "alternate": true,
-      "bullet": {
-        "type": "BasicBulletType",
-        "damage": 100,
-        "instantDisappear": true,
-        "splashDamage": 150,
-        "splashDamageRadius": 40,
-        "shootEffect": "shockwave",
-        "status": "burning",
-        "statusDuration": 600
-      }
-    }
-  ]
+	"type": "groundUnit",
+	"name": "Spike",
+	"description": "A fast, high damage, close range unit that has low health.",
+	"maxVelocity": 4,
+	"speed": 3.8,
+	"drag": 0.1,
+	"health": 200, 
+	"range": 150,
+	
+	"weapon": {
+		"name": "nothing",
+		"range":150,
+		"reload": 7,
+		"alternate": false,
+		"shootSound": "shootBig",
+		"bullet":{
+		     "bulletWidth": 5,
+		     "knockback": 5,
+		     "bulletHeight": 5,
+             "type": "BasicBulletType",
+             "lifetime": 15,
+             "damage": 15,
+             "speed": 3,
+             "shootEffect": "shellEjectBig",
+             "splashDamageRadius": 10,
+             "splashDamage": 5,
+             "hitEffect": "hitMeltdown",
+             "despawnEffect": "hitMeltdown", 
+         
+                
+		}
+	
+	}
 }
