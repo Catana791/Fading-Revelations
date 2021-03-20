@@ -113,8 +113,8 @@
     {
       "name": "sps-lancer-left",
       "range": 250,
-      "x": -15,
-      "y": 10,
+      "x": -25,
+      "y": 7,
       "targetGround": true,
       "targetAir": false,
       "reload": 80,
