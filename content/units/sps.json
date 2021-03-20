@@ -166,7 +166,7 @@
         "type": "BasicBulletType",
         "speed": 5,
         "width": 21,
-        "lifetime": 12
+        "lifetime": 12,
         "height": 35,
         "damage": 780,
         "pierce": true,
@@ -193,5 +193,6 @@
     "minSpeed": 0.6,
     "maxSpeed": 1,
     "color": "e65555",
+    }
   ]
 }
