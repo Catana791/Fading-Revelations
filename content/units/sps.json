@@ -122,10 +122,10 @@
       "shootSound": "laser",
       "bullet": {
         "type": "LaserBulletType",
-        "speed": 8,
+        "speed": 10,
         "length": 200,
         "damage": 20,
-        "lifetime": 8
+        "lifetime": 9,
         "pierce": true,
         "status": "burning",
         "satusDuration": 60
@@ -143,9 +143,9 @@
       "shootSound": "laser",
       "bullet": {
         "type": "LaserBulletType",
-        "speed": 8,
+        "speed": 10,
         "length": 200,
-        "lifetime": 8
+        "lifetime": 9,
         "damage": 20,
         "pierce": true,
         "status": "burning",
@@ -166,7 +166,7 @@
         "type": "BasicBulletType",
         "speed": 5,
         "width": 21,
-        "lifetime": 20
+        "lifetime": 12
         "height": 35,
         "damage": 780,
         "pierce": true,
