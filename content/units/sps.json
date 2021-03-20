@@ -26,7 +26,7 @@
       "y": 10,
       "reload": 1,
       "shootcone": 360,
-      "shootSound": "mashinegun",
+      "shootSound": "gattling-shoot",
       "bullet": {
         "type": "BasicBulletType",
         "speed": 10,
