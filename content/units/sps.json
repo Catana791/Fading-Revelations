@@ -1,0 +1,163 @@
+{
+  "type": "legs",
+  "name": "Strike Platform Strahl",
+  "description": "Big battleship equipped with a multitude of weapons. Has six anti air cannons, 2 Lancers and a heavy-duty meltdown cannon Is very well armored. The ultimate destroyer.",
+  "drag": 0.15,
+  "speed": 0.96,
+  "research": "toxopid",
+  "maxVelocity": 1.02,
+  "mass": 10,
+  "commandLimit": 21,
+  "hitsize": 45,
+  "health": 30110,
+  "flying": false,
+  "rotateWeapon": true,
+  "rotatespeed": 0.06,
+  "baseRotateSpeed": 0.06,
+  "weapons": [
+    {
+      "name": "air-cannon",
+      "range": 400,
+      "x": 0,
+      "y": -6,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 58,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "air-cannon",
+      "range": 400,
+      "x": 2,
+      "y": -5,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 58,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "air-cannon",
+      "range": 400,
+      "x": 4,
+      "y": -4,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 58,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "air-cannon",
+      "range": 400,
+      "x": -2,
+      "y": -4,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 58,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "air-cannon",
+      "range": 400,
+      "x": -4,
+      "y": -6,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 58,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "sps-lancer",
+      "range": 250,
+      "x": -5,
+      "y": 2,
+      "reload": 80,
+      "shootcone": 360,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBulletType",
+        "speed": 58,
+        "length": 250,
+        "damage": 20,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "sps-lancer",
+      "range": 250,
+      "x": 5,
+      "y": 2,
+      "reload": 80,
+      "shootcone": 360,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBulletType",
+        "speed": 58,
+        "length": 250,
+        "damage": 20,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "sps-main",
+      "range": 350,
+      "x": 0,
+      "y": 4,
+      "reload": 120,
+      "shootcone": 360,
+      "continuous": true,
+      "mirror": false,
+      "shootSound": "beam",
+      "bullet": {
+        "type": "ContinuousLaserBulletType",
+        "length": 315,
+        "lifetime": 300,
+        "drawSize": 400,
+        "damage": 1000,
+        "width": 8,
+        "shake": 13,
+        "colors": ["006e8d", "005269", "c97300", "ff9200", "c32020", "831616"],
+        "tscales": [1, 0.9, 0.8, 0.7, 0.6, 0.3],
+        "strokes": [1.5, 1.2, 1, 0.7, 0.45, 0.2]
+      }
+    }
+  ]
+}
