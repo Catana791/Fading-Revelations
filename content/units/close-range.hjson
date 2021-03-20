@@ -22,13 +22,13 @@ shootSound: pew
 rotate: false
 bullet: {
 type: BasicBulletType
-damage: 13
+damage: 23
 speed: 2
 drag: -0.0015
 homingPower: 0.01
 homingRange: 15
 pierce: true
-pierceCap: 2
+pierceCap: 8
 width: 5
 height: 8
 lifetime: 60
