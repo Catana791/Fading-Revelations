@@ -187,16 +187,8 @@
   ],
   "abilities": [
     {
-    "type": "MoveLightningAbility",
-    "damage": 80,
-    "length": 7,
-    "minSpeed": 0.6,
-    "maxSpeed": 1,
-    "color": "00bdd9",
-    },
-    {
       "type": "ForceFieldAbility",
-      "radius": 120,
+      "radius": 30,
       "regen": 20,
       "max": 4600,
       "cooldown": 250
