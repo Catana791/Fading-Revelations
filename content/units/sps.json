@@ -20,18 +20,18 @@
     {
       "name": "nothing",
       "range": 300,
-      "x": 0,
+      "x": -29,
       "targetGround": true,
       "rotate": false,
       "targetAir": true,
-      "y": 16,
+      "y": 19,
       "reload": 1,
       "shootcone": 360,
       "shootSound": "shoot",
       "bullet": {
         "type": "BasicBulletType",
         "speed": 10,
-        "damage": 5,
+        "damage": 1,
         "pierce": false
       }
     },
