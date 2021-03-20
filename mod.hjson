@@ -10,7 +10,9 @@ author:
       [yellow]Rem-Armiger (Balance Playtesting / Ideas / Spike and Strike Platform Strahl Sprites)
       [yellow]Hairy Nugget (Spanish Translations)
   '''
-description: 
+description:
+
+  Mindustry Extended! Mission Strahl!
   '''
   A mod that focuses on adding cool but not op content.
   
@@ -19,6 +21,6 @@ description:
   Please note that the content will be in the language that your game is
   in. (e.g: If your game is in English, the content will be so, too).
   '''
-version: 1.05
+version: 1.06
 minGameVersion: 121
 repo: Fresh791/mindustry-extended
