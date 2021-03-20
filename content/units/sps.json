@@ -17,6 +17,23 @@
   "baseRotateSpeed": 0.06,
   "weapons": [
     {
+      "name": "nothing",
+      "range": 300,
+      "x": 0,
+      "targetGround": false,
+      "rotate": true,
+      "targetAir": true,
+      "y": 10,
+      "reload": 1,
+      "shootcone": 360,
+      "shootSound": "mashinegun",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 10,
+        "damage": 5,
+        "pierce": false
+      }
+    {
       "name": "sps-air-fr",
       "range": 400,
       "rotate": true,
