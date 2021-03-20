@@ -24,7 +24,25 @@
       "targetGround": true,
       "rotate": true,
       "targetAir": true,
-      "y": 19,
+      "y": 18,
+      "reload": 1,
+      "shootcone": 360,
+      "shootSound": "shoot",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 10,
+        "damage": 1,
+        "pierce": false
+      }
+    },
+    {
+      "name": "nothing",
+      "range": 300,
+      "x": 29,
+      "targetGround": true,
+      "rotate": true,
+      "targetAir": true,
+      "y": 18,
       "reload": 1,
       "shootcone": 360,
       "shootSound": "shoot",
