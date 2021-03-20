@@ -184,5 +184,20 @@
         }
       }
     }
+  ],
+  "abilities": [
+    {
+    "type": "StatusFieldAbility",
+    "duration": 300,
+    "reload": 300,
+    "range": 160,
+    "effect": {
+      "name": "sps-heal",
+      "localizedName": "Strike Platform Strahl Heal",
+      "speedMultiplier": 0.9,
+      "healthMultiplier": 0.8,
+      "damageMultiplier": 0.7
+    }
+   }  
   ]
 }
