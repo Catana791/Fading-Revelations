@@ -27,7 +27,7 @@
       "shootSound": "artillery",
       "bullet": {
         "type": "BasicBulletType",
-        "speed": 58,
+        "speed": 8,
         "damage": 15,
         "pierce": true,
         "status": "burning",
@@ -46,7 +46,7 @@
       "shootSound": "artillery",
       "bullet": {
         "type": "BasicBulletType",
-        "speed": 58,
+        "speed": 8,
         "damage": 15,
         "pierce": true,
         "status": "burning",
@@ -65,7 +65,7 @@
       "shootSound": "artillery",
       "bullet": {
         "type": "BasicBulletType",
-        "speed": 58,
+        "speed": 8,
         "damage": 15,
         "pierce": true,
         "status": "burning",
@@ -84,7 +84,7 @@
       "shootSound": "artillery",
       "bullet": {
         "type": "BasicBulletType",
-        "speed": 58,
+        "speed": 8,
         "damage": 15,
         "pierce": true,
         "status": "burning",
@@ -103,7 +103,7 @@
       "shootSound": "artillery",
       "bullet": {
         "type": "BasicBulletType",
-        "speed": 58,
+        "speed": 8,
         "damage": 15,
         "pierce": true,
         "status": "burning",
