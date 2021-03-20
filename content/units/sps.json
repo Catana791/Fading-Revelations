@@ -236,6 +236,7 @@
         "height": 35,
         "damage": 780,
         "pierce": true,
+        "pierceCap": 22
         "status": "burning",
         "statusDuration": 240,
         "fragBullets": 3,
@@ -244,6 +245,8 @@
           "liquid": "slag",
           "damage": 100,
           "length": 100,
+          "pierce": true,
+          "pierceCap": 6
           "speed": 10,
           "lifetime": 5,
           "status": "burning",
@@ -254,6 +257,8 @@
              "liquid": "slag",
              "damage": 10,
              "speed": 10,
+             "pierce": true,
+             "pierceCap": 2,
              "lifetime": 20,
              "status": "burning",
              "statusDuration": 10
