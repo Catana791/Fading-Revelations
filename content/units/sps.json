@@ -164,6 +164,7 @@
         "type": "BasicBulletType",
         "speed": 50,
         "width": 10,
+        "lifetime": 315
         "height": 30,
         "damage": 780,
         "pierce": true,
@@ -174,8 +175,9 @@
           "type": "LiquidBulletType",
           "liquid": "slag",
           "damage": 10,
-          "speed": 10
-          "status": "burning"
+          "speed": 10,
+          "lifetime": 20,
+          "status": "burning",
           "statusDuration": 10
         }
       }
