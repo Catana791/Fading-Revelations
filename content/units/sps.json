@@ -21,7 +21,7 @@
       "name": "nothing",
       "range": 300,
       "x": 0,
-      "targetGround": false,
+      "targetGround": true,
       "rotate": false,
       "targetAir": true,
       "y": 16,
