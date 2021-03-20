@@ -23,7 +23,7 @@
       "targetGround": false,
       "rotate": false,
       "targetAir": true,
-      "y": 13,
+      "y": 16,
       "reload": 1,
       "shootcone": 360,
       "shootSound": "shoot",
