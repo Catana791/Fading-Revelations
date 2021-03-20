@@ -125,7 +125,7 @@
         "speed": 58,
         "length": 250,
         "damage": 20,
-        "lifetime": 180
+        "lifetime": 20
         "pierce": true,
         "status": "burning",
         "satusDuration": 60
@@ -145,7 +145,7 @@
         "type": "LaserBulletType",
         "speed": 58,
         "length": 250,
-        "lifetime": 180
+        "lifetime": 20
         "damage": 20,
         "pierce": true,
         "status": "burning",
@@ -166,7 +166,7 @@
         "type": "BasicBulletType",
         "speed": 50,
         "width": 10,
-        "lifetime": 200
+        "lifetime": 40
         "height": 30,
         "damage": 780,
         "pierce": true,
