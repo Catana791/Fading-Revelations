@@ -135,29 +135,6 @@
         "status": "burning",
         "satusDuration": 60
       }
-    },
-    {
-      "name": "sps-main",
-      "range": 350,
-      "x": 0,
-      "y": 4,
-      "reload": 120,
-      "shootcone": 360,
-      "continuous": true,
-      "mirror": false,
-      "shootSound": "beam",
-      "bullet": {
-        "type": "ContinuousLaserBulletType",
-        "length": 315,
-        "lifetime": 300,
-        "drawSize": 400,
-        "damage": 1000,
-        "width": 8,
-        "shake": 13,
-        "colors": ["006e8d", "005269", "c97300", "ff9200", "c32020", "831616"],
-        "tscales": [1, 0.9, 0.8, 0.7, 0.6, 0.3],
-        "strokes": [1.5, 1.2, 1, 0.7, 0.45, 0.2]
-      }
     }
   ]
 }
