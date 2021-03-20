@@ -22,16 +22,16 @@ shootSound: pew
 rotate: false
 bullet: {
 type: BasicBulletType
-damage: 23
+damage: 16
 speed: 2
 drag: -0.0015
 homingPower: 0.01
 homingRange: 15
 pierce: true
-pierceCap: 8
+pierceCap: 7
 width: 5
 height: 8
-lifetime: 60
+lifetime: 50
 }
 }
 ]
