@@ -134,10 +134,12 @@
       }
     },
     {
-      "name": "sps-lancer",
+      "name": "sps-lancer-right",
       "range": 250,
-      "x": 15,
-      "y": 10,
+      "x": 25,
+      "y": 7,
+      "shootX": 25,
+      "shootY": 7,
       "reload": 80,
       "targetAir": false,
       "targetGround": true,
