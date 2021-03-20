@@ -214,7 +214,7 @@
         "speed": 5,
         "width": 21,
         "rotate": false,
-        "lifetime": 12,
+        "lifetime": 120,
         "height": 35,
         "damage": 780,
         "pierce": true,
