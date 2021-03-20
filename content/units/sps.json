@@ -22,7 +22,7 @@
       "range": 300,
       "x": -29,
       "targetGround": true,
-      "rotate": false,
+      "rotate": true,
       "targetAir": true,
       "y": 19,
       "reload": 1,
