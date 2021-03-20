@@ -125,7 +125,7 @@
         "speed": 8,
         "length": 200,
         "damage": 20,
-        "lifetime": 1
+        "lifetime": 8
         "pierce": true,
         "status": "burning",
         "satusDuration": 60
@@ -145,7 +145,7 @@
         "type": "LaserBulletType",
         "speed": 8,
         "length": 200,
-        "lifetime": 1
+        "lifetime": 8
         "damage": 20,
         "pierce": true,
         "status": "burning",
@@ -164,10 +164,10 @@
       "shotSound": "flakExplosion",
       "bullet": {
         "type": "BasicBulletType",
-        "speed": 10,
-        "width": 10,
+        "speed": 5,
+        "width": 21,
         "lifetime": 20
-        "height": 30,
+        "height": 35,
         "damage": 780,
         "pierce": true,
         "status": "burning",
