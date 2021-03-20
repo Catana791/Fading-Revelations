@@ -205,7 +205,7 @@
       "name": "sps-rail",
       "range": 500,
       "x": 0,
-      "y": -6,
+      "y": -4,
       "reload": 250,
       "targetAir": false,
       "targetGround": true,
