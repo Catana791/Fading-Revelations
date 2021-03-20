@@ -115,6 +115,8 @@
       "range": 250,
       "x": -25,
       "y": 7,
+      "shootx": -25,
+      "shootY": 7,
       "targetGround": true,
       "targetAir": false,
       "reload": 80,
