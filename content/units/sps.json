@@ -18,8 +18,8 @@
     {
       "name": "sps-air-fr",
       "range": 400,
-      "x": 12,
-      "y": 10,
+      "x": 20,
+      "y": 7,
       "targetGround": false,
       "targetAir": true,
       "reload": 50,
