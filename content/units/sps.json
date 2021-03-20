@@ -193,6 +193,13 @@
     "minSpeed": 0.6,
     "maxSpeed": 1,
     "color": "00bdd9",
+    },
+    {
+      "type": "ForceFieldAbility",
+      "radius": 120,
+      "regen": 20,
+      "max": 4600,
+      "cooldown": 250
     }
   ]
 }
