@@ -8,7 +8,6 @@ drag: 0.055
 accel: 0.075
 faceTarget: true
 rotateShooting: true
-immunities: [wet, shocked, sapped, sporeSlowed, burning, slowed, unmoving, boss, melting, tarred, freezing, knockback]
 circleTarget: true
 range: 250
 rotateSpeed: 5
