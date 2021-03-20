@@ -188,8 +188,8 @@
   "abilities": [
     {
     "type": "MoveLightningAbility",
-    "damage": 50,
-    "length": 26,
+    "damage": 80,
+    "length": 4,
     "minSpeed": 0.6,
     "maxSpeed": 1,
     "color": "e65555",
