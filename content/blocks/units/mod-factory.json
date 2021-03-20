@@ -90,6 +90,24 @@
         }
       ],
       "time": 1000
+    },
+    {
+      "unit": "sps",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 20
+        },
+        {
+          "item": "lead",
+          "amount": 30
+        },
+        {
+          "item": "graphite",
+          "amount": 20
+        }
+      ],
+      "time": 10
     }
   ],
   "requirements": [
