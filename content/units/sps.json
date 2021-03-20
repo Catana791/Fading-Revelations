@@ -1,7 +1,7 @@
 {
   "type": "legs",
   "name": "Strike Platform Strahl",
-  "description": "Big battleship equipped with a multitude of weapons. Has 5 anti air cannons, 2 Lancers and a heavy-duty meltdown cannon Is very well armored. The ultimate destroyer.",
+  "description": "Big battleship equipped with a multitude of weapons. Has 5 anti air cannons, 2 Lancers and a heavy-duty railgun cannon Is very well armored. The ultimate destroyer.",
   "drag": 0.15,
   "rotateWeapon": true,
   "speed": 0.96,
@@ -97,13 +97,33 @@
       }
     },
     {
-      "name": "air-cannon",
+      "name": "sps-air-bk",
       "range": 400,
-      "x": -8,
+      "x": -12,
       "targetGround": false,
       "rotate": true,
       "targetAir": true,
-      "y": -12,
+      "y": -14,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 8,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "sps-air-bk",
+      "range": 400,
+      "x": 12,
+      "targetGround": false,
+      "rotate": true,
+      "targetAir": true,
+      "y": -14,
       "reload": 50,
       "shootcone": 360,
       "shootSound": "artillery",
