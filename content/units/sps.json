@@ -190,7 +190,7 @@
       "type": "UnitSpawnAbility",
       "unit": "lancer-drone",
       "spawnX": 0,
-      "spawnY": -25,
+      "spawnY": -15,
       "spawnTime": 1200
     }
   ]
