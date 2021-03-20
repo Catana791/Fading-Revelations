@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "name": "Orbital Platform Strahl",
-  "description": "Big battleship equipped with a multitude of weapons. Has 5 anti air cannons, 2 Lancers and a heavy-duty railgun cannon Is very well armored. The ultimate destroyer.",
+  "description": "The orbital platform Strahl is one of the most secretive units every made, The unit is known for its destructive potential and deadly range yet it never once was mentioned in any record, while the technologies the Strahl has seemingly pioneered are being implemented by military's across the cluster few will ever know that the unit truly existed fewer still will have ever encountered it and the few that did will have not survived.",
   "drag": 0.15,
   "rotateWeapon": true,
   "speed": 0.96,
