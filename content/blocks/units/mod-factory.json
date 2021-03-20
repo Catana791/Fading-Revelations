@@ -96,7 +96,7 @@
       "requirements": [
         {
           "item": "silicon",
-          "amount": 2000
+          "amount": 900
         },
         {
           "item": "titanium",
@@ -104,7 +104,7 @@
         },
         {
           "item": "plastanium",
-          "amount": 1200
+          "amount": 600
         },
         {
           "item": "surge-alloy",
