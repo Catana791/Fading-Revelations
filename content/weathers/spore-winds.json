@@ -1,0 +1,37 @@
+{
+  "type": "ParticleWeather",
+  "useWindVector": true,
+  "particleRegion": "circle",
+  "opacityMultiplier": 0.2,
+  "color": "06bd64",
+  "drawNoise": true,
+  "noiseColor": "3e925e",
+  "sizeMin": 3,
+  "sizeMax": 17,
+  "minAlpha": 0,
+  "maxAlpha": 0.4,
+  "sound": "wind",
+  "soundVol": 0.18,
+  "baseSpeed": 1.7,
+  "density": 4100,
+  "status": {
+    "name": "spore-wind",
+    "localizedName": "Healing Winds",
+    "color": "06bd60",
+    "damage": -1.7,
+    "healthMultiplier": 1.4,
+    "damageMultiplier": 0.4,
+    "speedMultiplier": 1.56,
+    "effect": {
+      "type": "WaveEffect",
+      "lifetime": 10,
+      "sizeFrom": 1.9,
+      "sizeTo": 0,
+      "strokeFrom": 0.7,
+      "strokeTo": 0,
+      "colorFrom": "3e925e",
+      "colorTo": "420420"
+    },
+    "effectChance": 0.045
+  }
+}
