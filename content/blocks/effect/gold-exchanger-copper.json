@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Copper Exchange Station",
-  "description": "Exchange Station that exchanges 80 copper for 1 gold.",
+  "description": "Exchange Station that exchanges 68 copper for 1 gold.",
   "size": 2,
   "hasItems": true,
   "craftTime": 30,
@@ -13,7 +13,7 @@
       "items": [
         {
           "item": "copper",
-          "amount": 80
+          "amount": 68
         }
       ]
     }
