@@ -4,6 +4,7 @@
   "description": "Exchange Station that exchanges 40 thorium for 1 gold.",
   "size": 2,
   "hasItems": true,
+  "itemCapacity": 160,
   "craftTime": 30,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
