@@ -1,6 +1,6 @@
 require("carrier-flagship");
 require("weathers");
-require("planets");
+//require("planets");
 Events.on(ContentInitEvent, () => {
 	print("[Mindustry Extended] loading finished!")
 });
