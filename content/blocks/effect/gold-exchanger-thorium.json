@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Thorium Exchange Station",
-  "description": "Exchange Station that exchanges 40 thorium for 1 gold.",
+  "description": "Exchange Station that exchanges 24 thorium for 1 gold.",
   "size": 2,
   "hasItems": true,
   "itemCapacity": 160,
@@ -13,7 +13,7 @@
       "items": [
         {
           "item": "thorium",
-          "amount": 40
+          "amount": 24
         }
       ]
     }
