@@ -1,0 +1,36 @@
+{
+  "type": "GenericCrafter",
+  "name": "Copper Exchange Station",
+  "description": "Exchange Station that exchanges 80 copper for 1 gold.",
+  "size": 2,
+  "hasItems": true,
+  "craftTime": 30,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "copper",
+          "amount": 80
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 150
+    },
+    {
+      "item": "lead",
+      "amount": 40
+    }
+  ],
+  "category": "effect",
+  "research": "inverted-pulverizer",
+  "outputItem": {
+    "item": "gold",
+    "amount": 1
+  }
+}

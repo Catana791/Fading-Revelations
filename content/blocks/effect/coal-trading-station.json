@@ -1,0 +1,40 @@
+{
+  "type": "GenericCrafter",
+  "name": "Coal Trading Station",
+  "description": "Exchange Station that exchanges 1 gold for 6 coal.",
+  "size": 2,
+  "hasItems": true,
+  "craftTime": 30,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "gold",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 150
+    },
+    {
+      "item": "lead",
+      "amount": 40
+    },
+    {
+      "item": "coal",
+      "amount": 20
+    }
+  ],
+  "category": "effect",
+  "research": "inverted-pulverizer",
+  "outputItem": {
+    "item": "coal",
+    "amount": 6
+  }
+}
