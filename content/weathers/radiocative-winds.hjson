@@ -1,6 +1,5 @@
-type: ParticleWeather
+type: RainWeather
 useWindVector: true
-particleRegion: circle
 opacityMultiplier: 0.3
 color: 420420
 drawNoise: true
