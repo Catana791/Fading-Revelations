@@ -96,19 +96,19 @@
       "requirements": [
         {
           "item": "silicon",
-          "amount": 900
+          "amount": 2100
         },
         {
           "item": "titanium",
-          "amount": 800
+          "amount": 2200
         },
         {
           "item": "plastanium",
-          "amount": 600
+          "amount": 1450
         },
         {
           "item": "surge-alloy",
-          "amount": 450
+          "amount": 800
         }
       ],
       "time": 13400
