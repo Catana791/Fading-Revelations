@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Titanium Exchange Station",
-  "description": "Exchange Station that exchanges 60 titanium for 1 gold.",
+  "description": "Exchange Station that exchanges 36 titanium for 1 gold.",
   "size": 2,
   "hasItems": true,
   "craftTime": 30,
@@ -13,7 +13,7 @@
       "items": [
         {
           "item": "titanium",
-          "amount": 60
+          "amount": 36
         }
       ]
     }
