@@ -1,6 +1,6 @@
 {
   "type": "ItemBridge",
-  "name": "Titan Bridge Conveyor",
+  "name": "Titanium Bridge Conveyor",
   "description": "A faster bridge conveyor with more range. Quite useful.",
   "health": 250,
   "requirements": [
