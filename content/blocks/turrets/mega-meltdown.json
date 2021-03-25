@@ -25,7 +25,7 @@
     "type": "ContinuousLaserBulletType",
     "damage": 210,
     "length": 295,
-    "width": 50,
+    "width": 20,
     "hitEffect": "hitMeltdown",
     "drawSize": 420,
     "incendChance": 0.45,
