@@ -1,9 +1,9 @@
 {
   "type": "LaserTurret",
   "name": "Multi Meltdown",
-  "description": "Shoots not one and not two but three meltdown lasers at once!",
-  "shots": 5,
-  "spread": 20,
+  "description": "Shoots not one and not two but three meltdown lasers at once! Also shoots a ton of lasers at close range that shortly zap any enemies that dare stand close to the turret.",
+  "shots": 10,
+  "spread": 12,
   "targetAir": true,
   "targetGround": true,
   "powerUse": 20,
@@ -23,7 +23,8 @@
   "shootType": {
     "type": "ContinuousLaserBulletType",
     "damage": 210,
-    "length": 395,
+    "length": 295,
+    "width": 50,
     "hitEffect": "hitMeltdown",
     "drawSize": 420,
     "incendChance": 0.45,
