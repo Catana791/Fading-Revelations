@@ -13,7 +13,7 @@
   "update": true,
   "hasPower": true,
   "shootEffect": "shootBigSmoke2",
-  "shootCone": 10,
+  "shootCone": 30,
   "shootShake": 2.6,
   "range": 275,
   "reloadTime": 80,
