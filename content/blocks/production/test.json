@@ -3,6 +3,7 @@
   "name": "test",
   "alwaysUnlocked": true,
   "craftTime": 30,
+  "hasItems": true,
   "consumes": {
     "items": {
       "items": [
