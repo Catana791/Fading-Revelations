@@ -15,13 +15,13 @@
   "shootEffect": {
     "type": "ParticleEffect",
     "cone": 360,
-    "sizeFrom": 15,
+    "sizeFrom": 150,
     "sizeTo": 0,
     "particles": 50,
     "colorFrom": "e28654",
     "colorTo": "ffcd66",
     "length": 100,
-    "lifetime": 45
+    "lifetime": 450
   },
   "shootEffect": "shootBigSmoke2",
   "shootCone": 30,
@@ -41,15 +41,6 @@
     "incendChance": 0.45,
     "incendSpread": 8,
     "incendAmount": 1.1
-    "fragBullets": 6,
-    "fragBullet": {
-      "type": "LiquidBulletType",
-      "liquid": "slag",
-      "damage": 1,
-      "lifetime": 100,
-      "height": 8,
-      "width": 8
-    }
   },
   "requirements": [
     {
