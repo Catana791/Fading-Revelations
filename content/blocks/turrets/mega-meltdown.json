@@ -30,6 +30,18 @@
     "incendChance": 0.45,
     "incendSpread": 8,
     "incendAmount": 1.1
+    "fragBullets": 6,
+    "fragBullet": {
+      "type": "LiquidBulletType",
+      "liquid": "slag",
+      "damage": 1,
+      "incendChance": 1,
+      "incendSpread": 10,
+      "incendAmount": 0.9,
+      "lifetime": 10,
+      "height": 8,
+      "width": 8
+    }
   },
   "requirements": [
     {
