@@ -1,6 +1,6 @@
 {
   "type": "LaserTurret",
-  "name": "Multi Meltdown",
+  "name": "Mega Meltdown",
   "description": "Shoots one meltdown laser and also shoots a ton of lasers at close range that shortly zap any enemies that dare stand close to the turret.",
   "shots": 6,
   "spread": 15,
@@ -24,7 +24,6 @@
     "type": "ContinuousLaserBulletType",
     "damage": 95,
     "length": 320,
-    "colors": ["d81d1d", "d8351d", "ffd700", "bbc420"],
     "width": 16,
     "hitEffect": "hitMeltdown",
     "drawSize": 420,
