@@ -4,6 +4,7 @@
   "alwaysUnlocked": true,
   "craftTime": 30,
   "hasItems": true,
+  "itemCapacity": 30,
   "consumes": {
     "items": {
       "items": [
@@ -16,5 +17,13 @@
   },
   "research": "duo",
   "category": "distribution",
-  "buildVisibility": "shown"
+  "buildVisibility": "shown",
+  "outputItems": {
+    "items":[
+      {
+        "item": "lead",
+        "amount": 3
+      }
+    ]
+  }
 }
