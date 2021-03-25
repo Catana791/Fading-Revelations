@@ -17,6 +17,7 @@
     "cone": 360,
     "sizeFrom": 15,
     "sizeTo": 0,
+    "particles": 50,
     "colorFrom": "e28654",
     "colorTo": "ffcd66",
     "length": 100,
