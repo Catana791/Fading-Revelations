@@ -3,14 +3,14 @@
   "alwaysUnlocked": true,
   "craftTime": 30,
   "consumes": {
-    "items": [
-      "items": {
+    "items": {
+      "items": [
         {
           "item": "gold",
           "amount": 1,
         }
-      }
-    ]
+      ]
+    }
   },
   "research": "duo",
   "category": "turrets",
