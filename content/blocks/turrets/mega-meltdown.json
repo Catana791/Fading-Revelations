@@ -35,9 +35,6 @@
       "type": "LiquidBulletType",
       "liquid": "slag",
       "damage": 1,
-      "incendChance": 1,
-      "incendSpread": 10,
-      "incendAmount": 0.9,
       "lifetime": 100,
       "height": 8,
       "width": 8
