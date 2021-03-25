@@ -53,7 +53,7 @@
   "consumes": {
     "liquid": {
       "liquid": "living-steel-liquid",
-      "amount": 0.0567
+      "amount": 0.166
     }
   }
 }
