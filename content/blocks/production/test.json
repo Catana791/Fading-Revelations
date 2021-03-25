@@ -1,5 +1,6 @@
 {
   "type": "ItemSource",
+  "name": "test",
   "alwaysUnlocked": true,
   "craftTime": 30,
   "consumes": {
@@ -13,6 +14,6 @@
     }
   },
   "research": "duo",
-  "category": "turrets",
+  "category": "distribution",
   "buildVisibility": "shown"
 }
