@@ -16,6 +16,7 @@
   "shootCone": 10,
   "shootShake": 2.6,
   "range": 275,
+  "shootDuration": 60,
   "reloadTime": 80,
   "firingMoveFract": 0.78,
   "shootDuration": 245,
