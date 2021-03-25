@@ -5,6 +5,7 @@
   "craftTime": 30,
   "hasItems": true,
   "itemCapacity": 30,
+  "hasInventory": true,
   "consumes": {
     "items": {
       "items": [
