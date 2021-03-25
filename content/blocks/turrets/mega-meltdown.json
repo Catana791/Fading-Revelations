@@ -3,6 +3,7 @@
   "name": "Multi Meltdown",
   "description": "Shoots not one and not two but three meltdown lasers at once!",
   "shots": 3,
+  "angle": 5,
   "spread": 7,
   "targetAir": true,
   "targetGround": true,
