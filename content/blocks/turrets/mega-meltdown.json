@@ -1,0 +1,59 @@
+{
+  "type": "LaserTurret",
+  "targetAir": true,
+  "targetGround": true,
+  "powerUse": 20,
+  "coolantMultiplier": 3,
+  "health": 3450,
+  "size": 5,
+  "update": true,
+  "hasPower": true,
+  "shootEffect": "shootBigSmoke2",
+  "shootCone": 60,
+  "shootShake": 2.6,
+  "range": 275,
+  "reloadTime": 80,
+  "firingMoveFract": 0.78,
+  "shootDuration": 245,
+  "shootSound": "laserbig",
+  "shootType": {
+    "type": "ContinuousLaserBulletType",
+    "damage": 210,
+    "length": 395,
+    "hitEffect": "hitMeltdown",
+    "drawSize": 420,
+    "incendChance": 0.45,
+    "incendSpread": 8,
+    "incendAmount": 1.1
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 1500
+    },
+    {
+      "item": "lead",
+      "amount": 750
+    },
+    {
+      "item": "graphite",
+      "amount": 500
+    },
+    {
+      "item": "silicon",
+      "amount": 520
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 390
+    }
+  ],
+  "category": "turret",
+  "research": "meltdown",
+  "consumes": {
+    "liquid": {
+      "liquid": "living-steel-liquid",
+      "amount": 0.0567
+    }
+  }
+}
