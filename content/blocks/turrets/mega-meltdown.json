@@ -26,7 +26,7 @@
   "shootCone": 30,
   "shootShake": 2.6,
   "range": 275,
-  "reloadTime": 700,
+  "reloadTime": 220,
   "firingMoveFract": 0.78,
   "shootDuration": 245,
   "shootSound": "laserbig",
