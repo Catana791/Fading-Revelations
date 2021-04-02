@@ -1,0 +1,16 @@
+{
+	"type": "battery",
+	"name": "Power Reserve",
+  "description": "A HUGE battery capable of storing vast amounts of power.",
+	"size": 6,
+	"health": 1480,
+	"category": "power",
+	"requirements": [
+		{"item": "lead", "amount": 300},
+		{"item": "titanium", "amount": 120},
+		{"item": "silicon", "amount": 100},
+		{"item": "surge-alloy", "amount": 25}
+	],
+	"consumes": { "powerBuffered": 500000 },
+	"research": "battery-large"
+}
