@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "name": "HIVE",
-  "description": "WIP.",
+  "description": "A massive spawning ship that spawns support and attack units. Is pretty fragile itself but has a very strong force generator.",
   "drag": 0.15,
   "rotateWeapon": true,
   "speed": 0.96,
@@ -11,7 +11,7 @@
   "mass": 10,
   "commandLimit": 21,
   "hitsize": 45,
-  "health": 30110,
+  "health": 9100,
   "rotatespeed": 0.06,
   "baseRotateSpeed": 0.06,
   "weapons": [
