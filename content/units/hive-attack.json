@@ -26,8 +26,8 @@
         "type": "MissileBulletType",
         "speed": 20,
         "damage": 26,
-        "homingPower": 0.1,
-        "homingRange": 22
+        "homingPower": 1,
+        "homingRange": 120
       }
     }
   ]
