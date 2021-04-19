@@ -150,28 +150,28 @@
     {
       "type": "UnitSpawnAbility",
       "unit": "hive-support",
-      "spawnX": -12,
-      "spawnY": -15,
+      "spawnX": -18,
+      "spawnY": -19,
       "spawnTime": 400
     },
     {
       "type": "UnitSpawnAbility",
       "unit": "hive-support",
-      "spawnX": 12,
-      "spawnY": -15,
+      "spawnX": 18,
+      "spawnY": -19,
       "spawnTime": 400
     },
     {
       "type": "UnitSpawnAbility",
       "unit": "hive-attack",
-      "spawnX": 5,
+      "spawnX": 42,
       "spawnY": -12,
       "spawnTime": 800
     },
     {
       "type": "UnitSpawnAbility",
       "unit": "hive-attack",
-      "spawnX": -5,
+      "spawnX": -42,
       "spawnY": -12,
       "spawnTime": 800
     } 
