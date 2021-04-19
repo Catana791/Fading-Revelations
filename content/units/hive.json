@@ -179,7 +179,6 @@
       "spawnY": -12,
       "spawnTime": 800
     },
-    "abilities": [
     {
       "type": "ForceFieldAbility",
       "radius": 99,
