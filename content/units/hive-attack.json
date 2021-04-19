@@ -26,6 +26,7 @@
         "type": "MissileBulletType",
         "speed": 20,
         "damage": 26,
+        "color": "ff1717",
         "homingPower": 0.1,
         "homingRange": 22
       }
