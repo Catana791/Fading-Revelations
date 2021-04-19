@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "name": "HIVE",
-  "description": "A massive spawning ship that spawns support and attack units. Is pretty fragile itself but has a very strong force generator.",
+  "description": "A massive spawning ship that spawns support and attack units. Is pretty fragile itself but has a very strong force generator that can take 20900 points of damage before shutting down. Warning! When the force field shuts down, the fragile 9100 hp of the HIVE are directly attackable!",
   "drag": 0.15,
   "rotateWeapon": true,
   "speed": 0.96,
@@ -178,6 +178,14 @@
       "spawnX": -42,
       "spawnY": -12,
       "spawnTime": 800
-    } 
+    },
+    "abilities": [
+    {
+      "type": "ForceFieldAbility",
+      "radius": 99,
+      "regen": 29,
+      "max": 20900,
+      "cooldown": 600
+    }
   ]
 }
