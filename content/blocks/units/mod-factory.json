@@ -92,6 +92,16 @@
       "time": 1000
     },
     {
+      "unit": "hive",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 1400
+        }
+      ],
+      "time": 12
+    },
+    {
       "unit": "sps",
       "requirements": [
         {
