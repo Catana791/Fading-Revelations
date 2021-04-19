@@ -28,6 +28,7 @@
         "collidesTeam": true,
         "canHeal": true,
         "healPercent": 3,
+        "color": "ff1717",
         "damage": 10,
         "lifetime": 7,
         "pierce": false,
