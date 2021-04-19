@@ -23,7 +23,7 @@
       "y": 11,
       "targetGround": false,
       "targetAir": true,
-      "reload": 1,
+      "reload": 2,
       "shootcone": 360,
       "shootSound": "artillery",
       "bullet": {
@@ -43,7 +43,7 @@
       "y": 11,
       "targetGround": false,
       "targetAir": true,
-      "reload": 1,
+      "reload": 2,
       "shootcone": 360,
       "shootSound": "artillery",
       "bullet": {
