@@ -96,28 +96,6 @@
       }
     },
     {
-      "name": "hive-meltdown",
-      "shootEffect": "shootBigSmoke2",
-      "shootCone": 360,
-      "shootShake": 2.6,
-      "range": 275,
-      "reloadTime": 220,
-      "firingMoveFract": 0.78,
-      "shootDuration": 245,
-      "shootSound": "laserbig",
-      "bullet": {
-        "type": "ContinuousLaserBulletType",
-        "damage": 95,
-        "length": 320,
-        "width": 16,
-        "hitEffect": "hitMeltdown",
-        "drawSize": 420,
-        "incendChance": 0.45,
-        "incendSpread": 8,
-        "incendAmount": 1.1
-      }
-    },
-    {
       "name": "hive-repair",
       "range": 500,
       "x": -15,
