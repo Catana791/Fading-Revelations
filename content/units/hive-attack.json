@@ -25,9 +25,9 @@
       "bullet": {
         "type": "MissileBulletType",
         "speed": 20,
-        "damage": 15,
+        "damage": 22,
         "pierce": true,
-        "homingPower": 1,
+        "homingPower": 1.1,
         "homingRange": 120
       }
     }
