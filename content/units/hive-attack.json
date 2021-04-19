@@ -24,10 +24,10 @@
       "shootSound": "laser",
       "bullet": {
         "type": "MissileBulletType",
-        "speed": 25,
-        "damage": 12,
+        "speed": 20,
+        "damage": 15,
         "pierce": true,
-        "homingPower": 5,
+        "homingPower": 1,
         "homingRange": 120
       }
     }
