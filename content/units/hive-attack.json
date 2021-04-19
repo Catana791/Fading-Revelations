@@ -26,6 +26,8 @@
         "type": "MissileBulletType",
         "speed": 20,
         "damage": 26,
+        "pierce": true,
+        "pierceCap": 10,
         "homingPower": 1,
         "homingRange": 120
       }
