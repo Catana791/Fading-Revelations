@@ -7,13 +7,13 @@ author:
       
   [maroon]Contributers:
       [yellow]Boopas172 (Balance Playtesting / Ideas)
-      [yellow]Rem-Armiger (Balance Playtesting / Ideas / Spike and Strike Platform Strahl Sprites)
+      [yellow]Rem-Armiger (Balance Playtesting / Ideas / Spike and Strike Platform Strahl Sprites / HIVE Sprites)
       [yellow]Hairy Nugget (Spanish Translations)
       [yellow]DeCell (Balance Playtester)
   '''
 description:
   '''
-  Mindustry Extended! Mission Strahl!
+  Mindustry Extended! Mission Strahl! Mission HIVE!
   
   A mod that focuses on adding cool but not op content.
   
@@ -22,6 +22,6 @@ description:
   Please note that the content will be in the language that your game is
   in. (e.g: If your game is in English, the content will be so, too).
   '''
-version: 1.06
+version: 1.07
 minGameVersion: 121
 repo: Fresh791/mindustry-extended
