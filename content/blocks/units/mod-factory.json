@@ -91,6 +91,7 @@
       ],
       "time": 1000
     },
+    {
     "unit": "hive",
       "requirements": [
         {
