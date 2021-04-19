@@ -91,15 +91,26 @@
       ],
       "time": 1000
     },
-    {
-      "unit": "hive",
+    "unit": "hive",
       "requirements": [
         {
           "item": "silicon",
-          "amount": 1400
+          "amount": 2100
+        },
+        {
+          "item": "titanium",
+          "amount": 2000
+        },
+        {
+          "item": "plastanium",
+          "amount": 1300
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 850
         }
       ],
-      "time": 12
+      "time": 13400
     },
     {
       "unit": "sps",
