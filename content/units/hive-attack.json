@@ -30,12 +30,5 @@
         "homingRange": 22
       }
     }
-  ],
-  "abilities": [
-    {
-      "type": "MoveLightningAbility",
-      "damage": 10,
-      "length": 10
-    }
   ]
 }
