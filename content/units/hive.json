@@ -20,6 +20,7 @@
       "range": 400,
       "rotate": false,
       "x": 1,
+	"mirror": false,
       "y": -1,
       "reload": 650,
       "bullet": {
