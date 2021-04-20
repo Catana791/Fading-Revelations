@@ -42,6 +42,6 @@
   "research": "enhanced-blast-mixer",
   "outputItem": {
     "item": "living-steel",
-    "amount": 4 //Festival, 2x output!
+    "amount": 4
   }
 }
