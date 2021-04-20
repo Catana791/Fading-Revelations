@@ -19,9 +19,9 @@
       "name": "hive-nuke",
       "range": 400,
       "rotate": false,
-      "x": 1,
+      "x": 0,
 	"mirror": false,
-      "y": -1,
+      "y": 0,
       "reload": 650,
       "bullet": {
 		    "type": "MissileBulletType",
