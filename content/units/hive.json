@@ -29,7 +29,7 @@
       "bullet": {
         "type": "BasicBulletType",
         "speed": 8,
-        "damage": 12,
+        "damage": 10,
         "pierce": true,
         "status": "burning",
         "satusDuration": 60
@@ -49,7 +49,7 @@
       "bullet": {
         "type": "BasicBulletType",
         "speed": 8,
-        "damage": 12,
+        "damage": 10,
         "pierce": true,
         "status": "burning",
         "satusDuration": 60
