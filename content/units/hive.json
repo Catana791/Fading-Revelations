@@ -18,7 +18,7 @@
     {
       "name": "hive-nuke",
       "range": 400,
-      "rotate": false,
+      "rotate": true,
       "x": 0,
 	"mirror": false,
       "y": 0,
