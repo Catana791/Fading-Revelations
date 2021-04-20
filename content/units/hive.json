@@ -21,7 +21,7 @@
       "rotate": false,
       "x": -2,
 	"mirror": false,
-      "y": 5,
+      "y": 7,
       "reload": 650,
       "bullet": {
 		    "type": "MissileBulletType",
