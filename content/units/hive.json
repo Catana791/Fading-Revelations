@@ -16,6 +16,36 @@
   "baseRotateSpeed": 0.06,
   "weapons": [
     {
+      "name": "hive-nuke",
+      "range": 400,
+      "rotate": false,
+      "x": 0,
+      "y": -8,
+      "reload": 500,
+      "bullet": {
+		    "type": "MissileBulletType",
+          "bulletWidth": 16,
+          "speed": 1.6,
+          "damage": 120,
+          "bulletHeight": 24,
+          "bulletShrink": 0,
+          "drag": -0.002,
+          "homingRange": 100,
+          "keepVelocity": false,
+          "splashDamageRadius": 100,
+          "splashDamage": 750,
+          "lifetime": 260,
+          "trailColor": "d63a0e",
+          "backColor": "1a1a1a",
+          "frontColor": "ab1313",
+          "shootEffect": "plasticExplosion",
+          "hitEffect": "commandSend",
+          "despawnEffect": "commandSend",
+          "weaveScale": 10,
+          "weaveMag": 1
+      }
+    },
+    {
       "name": "hive-mg",
       "range": 200,
       "rotate": true,
