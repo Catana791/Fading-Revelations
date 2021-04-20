@@ -25,10 +25,10 @@
       "reload": 650,
       "bullet": {
 		    "type": "MissileBulletType",
-          "width": 48,
+          "width": 24,
           "speed": 1.6,
           "damage": 120,
-          "height": 72,
+          "height": 48,
           "bulletShrink": 0,
           "drag": -0.002,
           "homingRange": 100,
