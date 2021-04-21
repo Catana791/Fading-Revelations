@@ -25,13 +25,13 @@
       "rotate": true,
       "targetAir": true,
       "y": 18,
-      "reload": 1,
+      "reload": 2,
       "shootcone": 360,
       "shootSound": "shoot",
       "bullet": {
         "type": "BasicBulletType",
         "speed": 10,
-        "damage": 1,
+        "damage": 5,
         "pierce": false
       }
     },
