@@ -43,6 +43,6 @@
   "research": "enhanced-blast-mixer",
   "outputLiquid": {
     "liquid": "living-steel-liquid",
-    "amount": 20
+    "amount": 10
   }
 }
