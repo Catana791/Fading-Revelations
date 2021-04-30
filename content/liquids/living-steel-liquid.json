@@ -8,4 +8,7 @@
   "color": "9000a4",
   "viscosity": 0.1,
   "flammability": 0,
+  "research": {
+    "parent": "cryofluid"
+  }
 }
