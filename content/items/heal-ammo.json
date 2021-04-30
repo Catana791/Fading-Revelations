@@ -5,5 +5,14 @@
   "color": "77df05",
   "hardness": 0.1,
   "flammability": 0,
-  "explosiveness": 0
+  "explosiveness": 0,
+  "research": {
+    "parent": "spore-pod",
+    "requirements": [
+      {
+        "item": "spre-pod",
+        "amount": 40
+      }
+    ]
+  }
 }
