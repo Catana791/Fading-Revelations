@@ -5,7 +5,7 @@
   "color": "9d7600",
   "hardness": 4,
   "flammability": 0.1,
-  "explosiveness": 0.1
+  "explosiveness": 0.1,
    "research": {
     "parent": "copper",
     "requirements": [
