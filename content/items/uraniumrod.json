@@ -6,5 +6,8 @@
   "hardness": 3,
   "flammability": 2,
   "explosiveness": 2,
-  "radioactivity": 2
+  "radioactivity": 2,
+  "research": {
+    "parent": "plastanium"
+  }
 }
