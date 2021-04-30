@@ -4,7 +4,7 @@
   "description": "Spawned by the HIVE mothership and equipped with special sensors that allow it to always keep the perfect distance to the enemy, this drone attacks your enemies in the most optimal ways",
   "drag": 0.15,
   "speed": 2,
-  "research": "poly",
+  "research": "hive",
   "maxVelocity": 2,
   "commandLimit": 0,
   "health": 1070,
