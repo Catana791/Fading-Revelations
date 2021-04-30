@@ -5,5 +5,14 @@
   "color": "002b92",
   "hardness": 6,
   "flammability": 0.1,
-  "explosiveness": 0.3
+  "explosiveness": 0.3,
+  "research": {
+    "parent": "ammo-level-1",
+    "requirements": [
+      {
+        "item": "titanium",
+        "amount": 100
+      }
+    ]
+  }
 }
