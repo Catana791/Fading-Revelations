@@ -10,7 +10,7 @@
     "parent": "spore-pod",
     "requirements": [
       {
-        "item": "spre-pod",
+        "item": "spore-pod",
         "amount": 40
       }
     ]
