@@ -4,7 +4,7 @@
   "description": "Spawned by the HIVE mothership, this drone supports your defense in the most optimal ways",
   "drag": 0.15,
   "speed": 2.5,
-  "research": "poly",
+  "research": "hive",
   "maxVelocity": 2.6,
   "commandLimit": 0,
   "health": 310,
