@@ -6,4 +6,13 @@
   "hardness": 4,
   "flammability": 0.1,
   "explosiveness": 0.1
+   "research": {
+    "parent": "copper",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 200
+      }
+    ]
+  }
 }
