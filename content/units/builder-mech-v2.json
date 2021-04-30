@@ -1,10 +1,10 @@
 {
   "type": "flying",
-  "name": "Builder Mech",
-  "description": "Defends the Atom core from enemies. Builds structures and slows enemies.",
+  "name": "Builder Mech, V.II",
+  "description": "Defends the Element core from enemies. Builds structures and slows enemies.",
   "drag": 0.15,
   "speed": 3,
-  "research": "poly",
+  "research": "builder-mech",
   "maxVelocity": 2,
   "canBuild": true,
   "buildSpeed": 3,
