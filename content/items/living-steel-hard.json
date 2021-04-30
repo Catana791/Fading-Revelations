@@ -5,5 +5,8 @@
   "color": "6a00bb",
   "hardness": 4,
   "flammability": 0.5,
-  "explosiveness": 0
+  "explosiveness": 0,
+  "research": {
+    "parent": "living-steel"
+  }
 }
