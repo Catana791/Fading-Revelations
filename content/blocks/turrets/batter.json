@@ -1,0 +1,22 @@
+{
+  "name": "Batter",
+  "description": "A turret that shoots giant drops of water that knock back enemies.",
+  "size": 2,
+  "range": 200,
+  "reloadTime": 6,
+  "shootSound": "pew",
+  "shootCone": 360,
+  "inaccuracy": 22,
+  "ammoTypes": {
+    "water": {
+      "type": "LiquidBulletType",
+      "damage": 6,
+      "knockback": 1,
+      "lifetime": 57,
+      "ammoMultiplier": 0.009,
+      "liquid": "water",
+      "status": "wet",
+      "statusDuration": 10
+    }
+  },
+  
