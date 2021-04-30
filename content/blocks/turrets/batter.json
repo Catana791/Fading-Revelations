@@ -3,20 +3,45 @@
   "description": "A turret that shoots giant drops of water that knock back enemies.",
   "size": 2,
   "range": 200,
-  "reloadTime": 6,
+  "reloadTime": 60,
   "shootSound": "pew",
   "shootCone": 360,
   "inaccuracy": 22,
   "ammoTypes": {
     "water": {
       "type": "LiquidBulletType",
-      "damage": 6,
-      "knockback": 1,
+      "damage": 20,
+      "knockback": 10,
       "lifetime": 57,
-      "ammoMultiplier": 0.009,
+      "pierce": true,
+      "pierceCap": 25,
       "liquid": "water",
-      "status": "wet",
-      "statusDuration": 10
+      "status": "spore-slowed",
+      "statusDuration": 20
     }
   },
+  "rotateSpeed": 200,
+  "targetAir": false,
+  "targetGround": true,
+  "recoilAmount": 1,
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 75
+    },
+    {
+      "item": "silicon",
+      "amount": 50
+    },
+    {
+      "item": "graphite",
+      "amount": 50
+    }
+  ],
+  "category": "turret",
+  "type": "LiquidTurret",
+  "health": 420,
+  "research": "liquid-minigun"
+}
+
   
