@@ -5,5 +5,14 @@
   "color": "df0505",
   "hardness": 3,
   "flammability": 1,
-  "explosiveness": 1
+  "explosiveness": 1,
+  "research": {
+    "parent": "ammo-leval-2",
+    "requirements": [
+      {
+        "item": "thorium",
+        "amount": 50
+      }
+    ]
+  }
 }
