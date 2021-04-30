@@ -6,17 +6,17 @@
   "reloadTime": 60,
   "shootSound": "pew",
   "shootCone": 360,
-  "inaccuracy": 22,
+  "inaccuracy": 1,
   "ammoTypes": {
     "water": {
       "type": "LiquidBulletType",
       "damage": 20,
-      "knockback": 10,
+      "knockback": 100,
       "lifetime": 57,
       "pierce": true,
       "pierceCap": 25,
       "liquid": "water",
-      "status": "slow",
+      "status": "freezing",
       "statusDuration": 20
     }
   },
