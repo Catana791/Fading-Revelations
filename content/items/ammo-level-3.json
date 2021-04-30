@@ -7,10 +7,10 @@
   "flammability": 1,
   "explosiveness": 1,
   "research": {
-    "parent": "ammo-leval-2",
+    "parent": "ammo-level-2",
     "requirements": [
       {
-        "item": "thorium",
+        "item": "blast-compound",
         "amount": 50
       }
     ]
