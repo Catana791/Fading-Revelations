@@ -5,5 +5,14 @@
   "color": "df21fa",
   "hardness": 1,
   "flammability": 2,
-  "explosiveness": 3
+  "explosiveness": 3,
+  "research": {
+    "parent": "thorium",
+    "requirements": [
+      {
+        "item": "thorium",
+        "amount": 50
+      }
+    ]
+  }
 }
