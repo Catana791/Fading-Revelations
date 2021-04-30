@@ -5,5 +5,8 @@
   "color": "430077",
   "hardness": 1,
   "flammability": 0.5,
-  "explosiveness": 0
+  "explosiveness": 0,
+  "research": {
+    "parent": "spore-pod"
+  }
 }
