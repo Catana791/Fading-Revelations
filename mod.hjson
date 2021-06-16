@@ -24,8 +24,7 @@ description:
   
   Supported Languages: English, Spanish
   
-  Please note that the content will be in the language that your game is
-  in. (e.g: If your game is in English, the content will be so, too).
+  Please note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).
   '''
 version: 1.07
 minGameVersion: 121
