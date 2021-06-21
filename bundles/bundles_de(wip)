@@ -1,1 +1,66 @@
+#blocks
 
+#distribution
+
+block.me-mini-mass-driver.name = Winziger Massenbeschleuniger
+block.me-mini-massdriver-description = Ein winziger Massenbeschleuniger, welcher als diagonales Transportfoerderband genutzt werden kann..
+
+block.me-surge-alloy-conveyor.name = Spannungslegierungsfoerderband
+block.me-surge-alloy-conveyor.description = Ein sehr schnelles Foerderband aus Spannungslegierung.
+
+block.me-titanium-bridge-conveyor.name = Titan Gegenstandsbruecke
+block.me-titanium-bridge-conveyor.description = Eine schnellere Gegenstandsbruecke aus Titan mit mehr Reichweite.
+
+
+#drills
+
+block.me-compact-laser-drill.name = Kompakter Laserbohrer
+block.me-compact-laser-drill.description = Eine kleinere Version des Laserbohrers.
+
+block.me-hyper-drill.name = Hyperbohrer
+block.me-hyper-drill.description = Ein sehr schneller Bohrer, der fluessigen lebenden Stahl braucht, um zu funktionieren.
+
+block.me-tiny-mechanical-drill.name = Winziger Mechanischer Bohrer
+block.me-tiny-mechanical-drill.description = Eine kleinere Version des mechanischen Bohrers.
+
+block.me-tiny-pneumatic-drill.name = Winziger Pneumatischer Bohrer
+block.me-tiny-pneumatic-drill.description = Eine kleinere Version des pneumatischen Bohrers.
+
+block.me-titanium-drill.name = Titanbohrer
+block.me-titanium-drill.name = Ein Bohrer aus Titan, der alle Erze mit niedriger Geschwindigkeit abbauen kann.
+
+
+#effect
+
+block.me-bc-trading-station.name = Tauschstation (Explosive Mischung)
+block.me-bc-trading-station.description = Tauscht 1 gold fuer 3 Explosive Mischung.
+
+block.me-coal-trading-station.name = Tauschstation (Kohle)
+block.me-coal-trading-station.description = Tauscht 1 gold fuer 6 Kohle.
+
+block.me-core-level-4.name = Kern: Atom
+block.me-core-level-4.description = Kern der Basis. Sehr gut gepanzert und kann große Mengen von Resourcen lagern.
+
+block.me-core-level-5.name = Kern: Element
+block.me-core-level-5.description = Kern der Basis. Ist enorm gut gepanzert und kann enorme Mengen von Resourcen lagern.
+
+block.me-enhanced-mend-projector.name = Verbesserter Reperaturdom
+block.me-enhanced-mend-projector.description = Ein besserer Reperaturdom.
+
+block.me-force-dome.name = Kraftdom
+block.me-force-dome.description = Ein deutlich besserer Kraftfeldgenerator.
+
+block.me-gold-exchanger-copper.name = Goldtauschstation (Kupfer)
+block.me-gold-exchanger-copper.description = Tauscht 69 Kupfer fuer 1 Gold.
+
+block.me-gold-exchanger-thorium.name = Goldtauschstation (Thorium)
+block.me-gold-exchanger-thorium.description = Tauscht 24 Thorium fuer 1 Gold.
+
+block.me-gold-exchanger-titanium.name = Goldtauschstation (Titan)
+block.me-gold-exchanger-titanium.description = Tauscht 36 Titan fuer 1 Gold.
+
+block.me-graphite-trading-station.name = Tauschstation (Graphit)
+block.me-graphite-trading-station.description = Tauscht 1 Gold fuer 3 Graphit.
+
+block.me-metaglass-trading-station.name = Tauschstation (Metaglas)
+block.me-metaglass-trading-station.description = Tauscht 1 Gold fuer 3 Metaglas.
