@@ -138,24 +138,16 @@
   ],
   "requirements": [
     {
-      "item": "titanium",
-      "amount": 450
-    },
-    {
-      "item": "plastanium",
-      "amount": 400
-    },
-    {
       "item": "silicon",
-      "amount": 450
+      "amount": 75
     },
     {
-      "item": "thorium",
-      "amount": 450
+      "item": "graphite",
+      "amount": 70
     },
     {
-      "item": "surge-alloy",
-      "amount": 400
+      "item": "lead",
+      "amount": 200
     }
   ],
   "category": "units",
