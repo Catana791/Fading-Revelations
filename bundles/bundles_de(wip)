@@ -234,4 +234,10 @@ block.me-wet-gattling.description = Schiesst schnell viele Kugeln aus Fluessigke
 
 
 
+#blocks-units
 
+block.me-mod-factory.name = Modfabrik
+block.me-mod-factory.description = Stellt Mindustry Extended Einheiten her.
+
+block.me-unit-upgrader.name = Einheitenverbesserer
+block.me-unit-upgrader.description = Verbessert spezielle Mindustry Extended Einheiten.
