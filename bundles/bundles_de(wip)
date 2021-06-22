@@ -64,3 +64,174 @@ block.me-graphite-trading-station.description = Tauscht 1 Gold fuer 3 Graphit.
 
 block.me-metaglass-trading-station.name = Tauschstation (Metaglas)
 block.me-metaglass-trading-station.description = Tauscht 1 Gold fuer 3 Metaglas.
+
+block.me-phase-trading-station.name = Tauschstation (Phasengewebe)
+block.me-phase-trading-station.description = Tauscht 1 Gold fuer 3 Phasengewebe.
+
+block.me-plastanium-trading-station.name = Tauschstation (Plastanium)
+block.me-plastanium-trading-station.description = Tauscht 1 Gold fuer 3 Plastanium.
+
+block.me-pyratite-trading-station.name = Tauschstation (Pyratit)
+block.me-pyratite-trading-station.description = Tauscht 1 Gold fuer 6 Pyratit.
+
+block.me-silicon-trading-station.name = Tauschstation (Silizium)
+block.me-silicon-trading-station.description = Tauscht 1 Gold fuer 2 Silizium.
+
+block.me-surge-trading-station.name = Tauschstation (Spannungslegierung)
+block.me-surge-trading-station.description = Tauscht 1 Gold fuer 2 Spannungslegierung.
+
+
+#blocks-liquids
+
+block.me-plastanium-conduit.name = Plastaniumkanal
+block.me-plastanium-conduit.description = Ein Kanal aus Plastanium. Gut gepanzert und schnell.
+
+
+#blocks-power
+
+
+block.me-advanced-solar-panel.name = Fortgeschrittenes Solarpanel
+block.me-advanced-solar-panel.description = Ein besseres Solarpanel.
+
+block.me-advanced-surge-tower.name = Fortgeschrittener Schwall-Turm
+block.me-advanced-surge-tower.description = Ein Schwall-Turm mit mehr Reichweite.
+
+block.me-power-center.name = Energiezentrale
+block.me-power-center.description = Ein Stromknoten mit sehr kleiner Reichweite aber mit vielen Verbindungen. Kann als Stromverteiler genutzt werden.
+
+block.me-power-reserve.name = Energiereservoir
+block.me-power-reserve.description = Eine sehr große Batterie, die eine enorme Menge an Strom speichern kann.
+
+block.me-pyratite-generator.name = Pyratitgenerator
+block.me-pyratite-generator.description = Ein Stromgenerator, der die hohe Entzuendlichkeit von Pyratit nutzt, um groeßere Mengen an Strom zu erzeugen.
+
+block.me-uranium-reactor.name = Uranreaktor
+block.me-uranium-reactor.description = Ein großer Reaktor, der radioaktive Uranstaebe nutzt, um enorme Mengen an Strom zu erzeugen. Explodiert kraftvoll, wenn er nicht mit fluessigem lebendem Stahl versorgt wird.
+
+
+
+#blocks-production
+
+block.me-advanced-coal-centrifuge.name = Fortgeschrittene Kohlenzentrifuge
+block.me-advanced-coal-centrifuge.description = Eine Zentrifuge, die aus Oel Kohle zentrifugiert.
+
+block.me-advanced-cryofluid-mixer.name = Fortgeschrittener Kryomixer
+block.me-advanced-cryofluid-mixer.description = Eine bessere Version des Kryofluessigkeitenmixers, der mehr Fluessigkeit ausgibt.
+
+block.me-advanced-separator.name = Fortgeschrittener Trenner
+block.me-advanced-separator.description = Ein besserer Trenner, gibt mehr Items aus.
+
+block.me-advanced-water-extractor.name = Fortgeschrittener Wasserextraktor
+block.me-advanced-water-extractor.description = Ein besserer Wasserextraktor, der auf allen Untergruenden gleich schnell ist.
+
+block.me-ammo-crafter-1.name = Level 1 Munitionscrafter
+block.me-ammo-crafter-1.description = Craftet einfache Munition aus Kuper und Kohle.
+
+block.me-ammo-crafter-2.name = Level 2 Munitionscrafter
+block.me-ammo-crafter-2.description = Craftet schwere Munition aus Titan und Kohle.
+
+block.me-ammo-crafter-3.name = Level 3 Munitionscrafter
+block.me-ammo-crafter-3.description = Craftet explosive Munition aus explosiver Mischung und Kohle.
+
+block.me-big-phase-weaver.name = Phasenschmiede
+block.me-big-phase-weaver.description = Ein kosteneffizienterer, schnellerer Phasenweber.
+
+block.me-big-plastanium-forge.name = Plastaniumschmiede
+block.me-big-plastanium-forge.description = Eine bessere, kosteneffizientere Plastaniumpresse.
+
+block.me-enhanced-blast-mixer.name = Verbesserter Sprengmixer
+block.me-enhanced-blast-mixer.description = Ein verbesserter Sprengmixer. Nutzt Graphit als Isolierung gegen die enorme Hitze.
+
+block.me-enhanced-pyratite-mixer.name = Pyratitschmiede
+block.me-enhanced-pyratite-mixer.description = Eine bessere Graphitpresse. Braucht zur Isolierung Graphit.
+
+block.me-greenhouse.name = Gewaechshaus
+block.me-greenhouse.description = Ein besserer Kultivierer.
+
+block.me-heal-ammo-crafter.name = Heilmunitionscrafter
+block.me-heal-ammo-crafter.description = Craftet Heilmunition aus Sporenpods und Kohle.
+
+block.me-homing-ammo-crafter.name = Zielmunitionscrafter
+block.me-homing-ammo-crafter.description = Craftet zielsuchende Munition aus Thorium und Kohle.
+
+block.me-induced-kiln.name = Induzierter Brennofen
+block.me-induced-kiln.description = Ein Brennofen, der schneller Metaglas herstellt.
+
+block.me-inverted-pulverizer.name = Invertierter Pulverisierer
+block.me-inverted-pulverizer.description = Ein Pulverisierer, der aus Sand Schrott macht. Magie!
+
+block.me-living-steel-hardener.name = Lebendstahl Haertungskammer
+block.me-living-steel-hardener.description = Haertet Lebendstahl mit Thorium.
+
+block.me-living-steel-infuser.name = Lebendstahl Infusionskammer
+block.me-living-steel-infuser.description = Infusiert Titan mit Sporen, wodurch Lebendstahl entsteht.
+
+block.me-living-steel-liquifier.name = Lebendstahl Verfluessigungskammer
+block.me-living-steel-liquifier.description = Infusiert Lebendstahl mit Oel und macht ihn somit weicher.
+
+block.me-nano-ammo-crafter.name = Nanomunitionscrafter
+block.me-nano-ammo-crafter.description = Craftet Nanomunition aus Lebendstahl und Kohle.
+
+block.me-surge-oven-big.name = Legierungsschmiede
+block.me-surge-oven-big.description = Schmiedet große Mengen an Spannungslegierung.
+
+block.me-uraniumrod-crafter.name = Uranstabfabrik
+block.me-uraniumrod-crafter.description = Craftet Uransaebe zur Verwendung in einem Reaktor.
+
+
+#blocks-turrets
+
+block.me-air-arc.name = Luft Arcus
+block.me-air-arc.description = Ein Arcus, der nur Luftgegner anvisieren kann.
+
+block.me-batter.name = Schlaeger
+block.me-batter.description = Ein kleiner Turm, der Kugeln mit hohem Rueckstoss feuert.
+
+block.me-big-arc.name = Arcus Sturm
+block.me-big-arc.description = Ein Arcus mit stark erhoehter Feuerrate.
+
+block.me-big-parallax.name = Parallax 2.0
+block.me-big-parallax.description = Ein Parallax mit mehr Schaden und Ziehgeschwindigkeit.
+
+block.me-big-scatter.name = Scatter V2
+block.me-big-scatter.description = Ein besserer Scatter.
+
+block.me-big-segment.name = Fragment
+block.me-big-segment.description = Ein besseres Segment. Mehr Schaden gegen Kugeln kann aber immer noch keine Laser anvisieren.
+
+block.me-big-swarmer.name = Schwaermer NEO
+block.me-big-swarmer.description = Ein besserer Schwaermer mit mehr Effekten.
+
+block.me-corrupted-cyclone.name = Korrupter Zyklon
+block.me-corrupted-cyclone.description = Ein besserer Zyklon.
+
+block.me-gattling.name = Gattling
+block.me-gattling.description = Ein extrem schnell feuernder Turm. Viel Glueck beim Befuellen!
+
+block.me-mega-meltdown.name = Mega Meltdown
+block.me-mega-meltdown.description = Ein besserer Meltdown, der zusaetzlich auf kurze Distanz einige Meltdown Laser feuert.
+
+block.me-multi-railgun.name = Multi-Railgun
+block.me-multi-railgun.description = Eine langsam feuernde Railgun mit extremem Schaden pro Schuss.
+
+block.me.ring-turret.name = S.E.H.A.K
+block.me-ring-turret.description = Steht fuer Super epischer Halbkreis aus Kugeln. Schiesst genau diese.
+
+block.me-shotgun.name = Schrotflinte
+block.me-shotgun.description = Ein Schrotflintenturm, der mehr Schaden verursacht, je naeher die Gegner kommen.
+
+block.me-sniper.name = Praezisionsturm
+block.me-sniper.description = Ein Turm mit hohem Schaden und hoher Reichweite aber einer niedrigen Feuerrate.
+
+block.me-sprunkler.name = Sprinkler
+block.me-sprunkler.description = Ein Turm, der eine Menge Wasser versprueht und keinen Schaden verursacht. Primaere Nutzung als Feuerloescher.
+
+block.me-upgrade-turret.name = Von Turmheim
+block.me-upgrade-turret.description = Ein kleiner Effektturm, der unterschiedliche Effekte mit verschiedener Munition verursacht.
+
+block.me-wet-gattling.name = Nasse Gattling
+block.me-wet-gattling.description = Schiesst schnell viele Kugeln aus Fluessigkeiten.
+
+
+
+
