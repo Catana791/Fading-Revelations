@@ -241,3 +241,27 @@ block.me-mod-factory.description = Stellt Mindustry Extended Einheiten her.
 
 block.me-unit-upgrader.name = Einheitenverbesserer
 block.me-unit-upgrader.description = Verbessert spezielle Mindustry Extended Einheiten.
+
+
+#blocks-walls
+
+block.me-copper-wall-2.name = Riesige Kupfermauer
+block.me-copper-wall-2.description = Eine noch groessere Mauer aus Kupfer.
+
+block.me-copper-wall-3.name = Gigantische Kupfermauer
+block.me-copper-wall-3.description = Eine gigantische Mauer aus Kupfer.
+
+block.me-door-gigantic.name = Gigantisches Tor
+block.me-door-gigantic.description = Ein gigantisches Tor fuer gigantische Einheiten.
+
+block.me-door-huge.name = Riesiges Tor
+block.me-door-huge.description = Ein riesiges Tor fuer riesige Einheiten.
+
+block.me-living.steel-wall.name = Lebendstahl Mauer
+block.me-living-steel-wall.description = Eine kleine Mauer aus Lebendstahl, die sich selbst und anliegende Bloecke heilt.
+
+block.me-living-steel-wall-2.name = Grosse Lebendstahl Mauer
+block.me-living-steel-wall-2.description = Eine grosse Mauer aus Lebendstahl, die sich selbst und anliegende Bloecke heilt.
+
+block.me-phase-fabric-wall-2.name = Riesige Phasenmauer
+block.me-phase-fabric-wall-2.description = Eine riesige Mauer aus Phasengewebe, die Schuesse zuruecklenken kann.
