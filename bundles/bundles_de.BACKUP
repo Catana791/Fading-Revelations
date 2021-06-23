@@ -1,0 +1,384 @@
+#bundles de
+
+#blocks-distribution
+
+block.me-mini-mass-driver.name = Winziger Massenbeschleuniger
+block.me-mini-massdriver-description = Ein winziger Massenbeschleuniger, welcher als diagonales Transportfoerderband genutzt werden kann..
+
+block.me-surge-alloy-conveyor.name = Spannungslegierungsfoerderband
+block.me-surge-alloy-conveyor.description = Ein sehr schnelles Foerderband aus Spannungslegierung.
+
+block.me-titanium-bridge-conveyor.name = Titan Gegenstandsbruecke
+block.me-titanium-bridge-conveyor.description = Eine schnellere Gegenstandsbruecke aus Titan mit mehr Reichweite.
+
+
+#blocks-drills
+
+block.me-compact-laser-drill.name = Kompakter Laserbohrer
+block.me-compact-laser-drill.description = Eine kleinere Version des Laserbohrers.
+
+block.me-hyper-drill.name = Hyperbohrer
+block.me-hyper-drill.description = Ein sehr schneller Bohrer, der fluessigen lebenden Stahl braucht, um zu funktionieren.
+
+block.me-tiny-mechanical-drill.name = Winziger Mechanischer Bohrer
+block.me-tiny-mechanical-drill.description = Eine kleinere Version des mechanischen Bohrers.
+
+block.me-tiny-pneumatic-drill.name = Winziger Pneumatischer Bohrer
+block.me-tiny-pneumatic-drill.description = Eine kleinere Version des pneumatischen Bohrers.
+
+block.me-titanium-drill.name = Titanbohrer
+block.me-titanium-drill.name = Ein Bohrer aus Titan, der alle Erze mit niedriger Geschwindigkeit abbauen kann.
+
+
+#blocks-effect
+
+block.me-bc-trading-station.name = Tauschstation (Explosive Mischung)
+block.me-bc-trading-station.description = Tauscht 1 gold fuer 3 Explosive Mischung.
+
+block.me-coal-trading-station.name = Tauschstation (Kohle)
+block.me-coal-trading-station.description = Tauscht 1 gold fuer 6 Kohle.
+
+block.me-core-level-4.name = Kern: Atom
+block.me-core-level-4.description = Kern der Basis. Sehr gut gepanzert und kann große Mengen von Resourcen lagern.
+
+block.me-core-level-5.name = Kern: Element
+block.me-core-level-5.description = Kern der Basis. Ist enorm gut gepanzert und kann enorme Mengen von Resourcen lagern.
+
+block.me-enhanced-mend-projector.name = Verbesserter Reperaturdom
+block.me-enhanced-mend-projector.description = Ein besserer Reperaturdom.
+
+block.me-force-dome.name = Kraftdom
+block.me-force-dome.description = Ein deutlich besserer Kraftfeldgenerator.
+
+block.me-gold-exchanger-copper.name = Goldtauschstation (Kupfer)
+block.me-gold-exchanger-copper.description = Tauscht 69 Kupfer fuer 1 Gold.
+
+block.me-gold-exchanger-thorium.name = Goldtauschstation (Thorium)
+block.me-gold-exchanger-thorium.description = Tauscht 24 Thorium fuer 1 Gold.
+
+block.me-gold-exchanger-titanium.name = Goldtauschstation (Titan)
+block.me-gold-exchanger-titanium.description = Tauscht 36 Titan fuer 1 Gold.
+
+block.me-graphite-trading-station.name = Tauschstation (Graphit)
+block.me-graphite-trading-station.description = Tauscht 1 Gold fuer 3 Graphit.
+
+block.me-metaglass-trading-station.name = Tauschstation (Metaglas)
+block.me-metaglass-trading-station.description = Tauscht 1 Gold fuer 3 Metaglas.
+
+block.me-phase-trading-station.name = Tauschstation (Phasengewebe)
+block.me-phase-trading-station.description = Tauscht 1 Gold fuer 3 Phasengewebe.
+
+block.me-plastanium-trading-station.name = Tauschstation (Plastanium)
+block.me-plastanium-trading-station.description = Tauscht 1 Gold fuer 3 Plastanium.
+
+block.me-pyratite-trading-station.name = Tauschstation (Pyratit)
+block.me-pyratite-trading-station.description = Tauscht 1 Gold fuer 6 Pyratit.
+
+block.me-silicon-trading-station.name = Tauschstation (Silizium)
+block.me-silicon-trading-station.description = Tauscht 1 Gold fuer 2 Silizium.
+
+block.me-surge-trading-station.name = Tauschstation (Spannungslegierung)
+block.me-surge-trading-station.description = Tauscht 1 Gold fuer 2 Spannungslegierung.
+
+
+#blocks-liquids
+
+block.me-plastanium-conduit.name = Plastaniumkanal
+block.me-plastanium-conduit.description = Ein Kanal aus Plastanium. Gut gepanzert und schnell.
+
+
+#blocks-power
+
+
+block.me-advanced-solar-panel.name = Fortgeschrittenes Solarpanel
+block.me-advanced-solar-panel.description = Ein besseres Solarpanel.
+
+block.me-advanced-surge-tower.name = Fortgeschrittener Schwall-Turm
+block.me-advanced-surge-tower.description = Ein Schwall-Turm mit mehr Reichweite.
+
+block.me-power-center.name = Energiezentrale
+block.me-power-center.description = Ein Stromknoten mit sehr kleiner Reichweite aber mit vielen Verbindungen. Kann als Stromverteiler genutzt werden.
+
+block.me-power-reserve.name = Energiereservoir
+block.me-power-reserve.description = Eine sehr große Batterie, die eine enorme Menge an Strom speichern kann.
+
+block.me-pyratite-generator.name = Pyratitgenerator
+block.me-pyratite-generator.description = Ein Stromgenerator, der die hohe Entzuendlichkeit von Pyratit nutzt, um groeßere Mengen an Strom zu erzeugen.
+
+block.me-uranium-reactor.name = Uranreaktor
+block.me-uranium-reactor.description = Ein großer Reaktor, der radioaktive Uranstaebe nutzt, um enorme Mengen an Strom zu erzeugen. Explodiert kraftvoll, wenn er nicht mit fluessigem lebendem Stahl versorgt wird.
+
+
+
+#blocks-production
+
+block.me-advanced-coal-centrifuge.name = Fortgeschrittene Kohlenzentrifuge
+block.me-advanced-coal-centrifuge.description = Eine Zentrifuge, die aus Oel Kohle zentrifugiert.
+
+block.me-advanced-cryofluid-mixer.name = Fortgeschrittener Kryomixer
+block.me-advanced-cryofluid-mixer.description = Eine bessere Version des Kryofluessigkeitenmixers, der mehr Fluessigkeit ausgibt.
+
+block.me-advanced-separator.name = Fortgeschrittener Trenner
+block.me-advanced-separator.description = Ein besserer Trenner, gibt mehr Items aus.
+
+block.me-advanced-water-extractor.name = Fortgeschrittener Wasserextraktor
+block.me-advanced-water-extractor.description = Ein besserer Wasserextraktor, der auf allen Untergruenden gleich schnell ist.
+
+block.me-ammo-crafter-1.name = Level 1 Munitionscrafter
+block.me-ammo-crafter-1.description = Craftet einfache Munition aus Kuper und Kohle.
+
+block.me-ammo-crafter-2.name = Level 2 Munitionscrafter
+block.me-ammo-crafter-2.description = Craftet schwere Munition aus Titan und Kohle.
+
+block.me-ammo-crafter-3.name = Level 3 Munitionscrafter
+block.me-ammo-crafter-3.description = Craftet explosive Munition aus explosiver Mischung und Kohle.
+
+block.me-big-phase-weaver.name = Phasenschmiede
+block.me-big-phase-weaver.description = Ein kosteneffizienterer, schnellerer Phasenweber.
+
+block.me-big-plastanium-forge.name = Plastaniumschmiede
+block.me-big-plastanium-forge.description = Eine bessere, kosteneffizientere Plastaniumpresse.
+
+block.me-enhanced-blast-mixer.name = Verbesserter Sprengmixer
+block.me-enhanced-blast-mixer.description = Ein verbesserter Sprengmixer. Nutzt Graphit als Isolierung gegen die enorme Hitze.
+
+block.me-enhanced-pyratite-mixer.name = Pyratitschmiede
+block.me-enhanced-pyratite-mixer.description = Eine bessere Graphitpresse. Braucht zur Isolierung Graphit.
+
+block.me-greenhouse.name = Gewaechshaus
+block.me-greenhouse.description = Ein besserer Kultivierer.
+
+block.me-heal-ammo-crafter.name = Heilmunitionscrafter
+block.me-heal-ammo-crafter.description = Craftet Heilmunition aus Sporenpods und Kohle.
+
+block.me-homing-ammo-crafter.name = Zielmunitionscrafter
+block.me-homing-ammo-crafter.description = Craftet zielsuchende Munition aus Thorium und Kohle.
+
+block.me-induced-kiln.name = Induzierter Brennofen
+block.me-induced-kiln.description = Ein Brennofen, der schneller Metaglas herstellt.
+
+block.me-inverted-pulverizer.name = Invertierter Pulverisierer
+block.me-inverted-pulverizer.description = Ein Pulverisierer, der aus Sand Schrott macht. Magie!
+
+block.me-living-steel-hardener.name = Lebendstahl Haertungskammer
+block.me-living-steel-hardener.description = Haertet Lebendstahl mit Thorium.
+
+block.me-living-steel-infuser.name = Lebendstahl Infusionskammer
+block.me-living-steel-infuser.description = Infusiert Titan mit Sporen, wodurch Lebendstahl entsteht.
+
+block.me-living-steel-liquifier.name = Lebendstahl Verfluessigungskammer
+block.me-living-steel-liquifier.description = Infusiert Lebendstahl mit Oel und macht ihn somit weicher.
+
+block.me-nano-ammo-crafter.name = Nanomunitionscrafter
+block.me-nano-ammo-crafter.description = Craftet Nanomunition aus Lebendstahl und Kohle.
+
+block.me-surge-oven-big.name = Legierungsschmiede
+block.me-surge-oven-big.description = Schmiedet große Mengen an Spannungslegierung.
+
+block.me-uraniumrod-crafter.name = Uranstabfabrik
+block.me-uraniumrod-crafter.description = Craftet Uransaebe zur Verwendung in einem Reaktor.
+
+
+#blocks-turrets
+
+block.me-air-arc.name = Luft Arcus
+block.me-air-arc.description = Ein Arcus, der nur Luftgegner anvisieren kann.
+
+block.me-batter.name = Schlaeger
+block.me-batter.description = Ein kleiner Turm, der Kugeln mit hohem Rueckstoss feuert.
+
+block.me-big-arc.name = Arcus Sturm
+block.me-big-arc.description = Ein Arcus mit stark erhoehter Feuerrate.
+
+block.me-big-parallax.name = Parallax 2.0
+block.me-big-parallax.description = Ein Parallax mit mehr Schaden und Ziehgeschwindigkeit.
+
+block.me-big-scatter.name = Scatter V2
+block.me-big-scatter.description = Ein besserer Scatter.
+
+block.me-big-segment.name = Fragment
+block.me-big-segment.description = Ein besseres Segment. Mehr Schaden gegen Kugeln kann aber immer noch keine Laser anvisieren.
+
+block.me-big-swarmer.name = Schwaermer NEO
+block.me-big-swarmer.description = Ein besserer Schwaermer mit mehr Effekten.
+
+block.me-corrupted-cyclone.name = Korrupter Zyklon
+block.me-corrupted-cyclone.description = Ein besserer Zyklon.
+
+block.me-gattling.name = Gattling
+block.me-gattling.description = Ein extrem schnell feuernder Turm. Viel Glueck beim Befuellen!
+
+block.me-mega-meltdown.name = Mega Meltdown
+block.me-mega-meltdown.description = Ein besserer Meltdown, der zusaetzlich auf kurze Distanz einige Meltdown Laser feuert.
+
+block.me-multi-railgun.name = Multi-Railgun
+block.me-multi-railgun.description = Eine langsam feuernde Railgun mit extremem Schaden pro Schuss.
+
+block.me.ring-turret.name = S.E.H.A.K
+block.me-ring-turret.description = Steht fuer Super epischer Halbkreis aus Kugeln. Schiesst genau diese.
+
+block.me-shotgun.name = Schrotflinte
+block.me-shotgun.description = Ein Schrotflintenturm, der mehr Schaden verursacht, je naeher die Gegner kommen.
+
+block.me-sniper.name = Praezisionsturm
+block.me-sniper.description = Ein Turm mit hohem Schaden und hoher Reichweite aber einer niedrigen Feuerrate.
+
+block.me-sprunkler.name = Sprinkler
+block.me-sprunkler.description = Ein Turm, der eine Menge Wasser versprueht und keinen Schaden verursacht. Primaere Nutzung als Feuerloescher.
+
+block.me-upgrade-turret.name = Von Turmheim
+block.me-upgrade-turret.description = Ein kleiner Effektturm, der unterschiedliche Effekte mit verschiedener Munition verursacht.
+
+block.me-wet-gattling.name = Nasse Gattling
+block.me-wet-gattling.description = Schiesst schnell viele Kugeln aus Fluessigkeiten.
+
+
+
+#blocks-units
+
+block.me-mod-factory.name = Modfabrik
+block.me-mod-factory.description = Stellt Mindustry Extended Einheiten her.
+
+block.me-unit-upgrader.name = Einheitenverbesserer
+block.me-unit-upgrader.description = Verbessert spezielle Mindustry Extended Einheiten.
+
+
+#blocks-walls
+
+block.me-copper-wall-2.name = Riesige Kupfermauer
+block.me-copper-wall-2.description = Eine noch groessere Mauer aus Kupfer.
+
+block.me-copper-wall-3.name = Gigantische Kupfermauer
+block.me-copper-wall-3.description = Eine gigantische Mauer aus Kupfer.
+
+block.me-door-gigantic.name = Gigantisches Tor
+block.me-door-gigantic.description = Ein gigantisches Tor fuer gigantische Einheiten.
+
+block.me-door-huge.name = Riesiges Tor
+block.me-door-huge.description = Ein riesiges Tor fuer riesige Einheiten.
+
+block.me-living.steel-wall.name = Lebendstahl Mauer
+block.me-living-steel-wall.description = Eine kleine Mauer aus Lebendstahl, die sich selbst und anliegende Bloecke heilt.
+
+block.me-living-steel-wall-2.name = Grosse Lebendstahl Mauer
+block.me-living-steel-wall-2.description = Eine grosse Mauer aus Lebendstahl, die sich selbst und anliegende Bloecke heilt.
+
+block.me-phase-fabric-wall-2.name = Riesige Phasenmauer
+block.me-phase-fabric-wall-2.description = Eine riesige Mauer aus Phasengewebe, die Schuesse zuruecklenken kann.
+
+block.me-phase-fabric-wall-3.name = Gigantische Phasenmauer
+block.me-phase-fabric-wall-3.description = Eine gigantische Mauer aus Phasengewebe, die Schuesse zuruecklenken kann.
+
+block.me-plastanium-wall-2.name = Riesige Plastaniummauer
+block.me-plastanium-wall-2.description = Eine riesige Mauer aus Plastanium, die Laser bis zu einer gewissen Staerke absorbieren kann.
+
+block.me-plastanium-wall-3.name = Gigantische Plastaniummauer
+block.me-plastanium-wall-3.description = Eine gigantische Mauer aus Plastanium, die Laser bis zu einer gewissen Staerke absorbieren kann.
+
+block.me-scrap-wall-gigantic.name = Gigantische Schrottmauer
+block.me-scrap-wall-gigantic.description = Eine gigantische Mauer aus Schrott. 
+
+block.me-scrap-wall-huge.name = Riesige Schrottmauer
+block.me-scrap-wall-huge.description = Eine riesge Mauer aus Schrott.
+
+block.me-surge-alloy-wall-2.name = Riesige Spannungsmauer
+block.me-surge-alloy-wall-2.description = Eine riesige Mauer aus Spannungslegierung, die manchmal kraftvolle Blitze in Richtung der Gegner aussendet.
+
+block.me-surge-alloy-wall-3.name = Gigantische Spannungsmauer
+block.me-surge-alloy-wall-3.description = Eine gigantische Mauer aus Spannungslegierung, die manchmal kraftvolle Blitze in Richtung der Gegner aussendet.
+
+block.me-thorium-wall-2.name = Riesige Thoriummauer
+block.me-thorium-wall-2.description = Eine riesige Mauer aus Thorium. Stabil.
+
+block.me-thorium-wall-3.name = Gigantische Thoriummauer
+block.me-thorium-wall-3.description = Eine gigantische Mauer aus Thorium. Sehr stabil.
+
+block.me-titanium-wall-2.name = Riesiege Titanmauer
+block.me-titanium-wall-2.description = Eine riesige Mauer aus Titan. 
+
+block.me-titanium-wall-3.name = Gigantische Titanmauer
+block.me-titanium-wall-3.description = EIne gigantische Mauer aus Titan.
+
+
+#items-ammo
+
+item.me-ammo-level-1.name = Kupfermunition
+item.me-ammo-level-1.description = Schwache Munition aus Kupfer.
+
+item.me-ammo-level-2.name = Titanmunition
+item.me-ammo-level-2.description = Eine schwere Munition, die Gegner durchschlaegt.
+
+item.me-ammo-level-3.name = Explosivmunition
+item.me-ammo-level-3.description = Eine explosive Muntion, die sich in manchen Tuermen in Schrot aufteilen.
+
+item.me-gold.name = Gold
+item.me-gold.description = Ein hochwertiges Stueck Metall, das als Waehrung genutzt wird. Glaenzend!
+
+item.me-heal-ammo.name = Heilmunition
+item.me-heal-ammo.description = Eine Munition, die verbuendete Bloecke heilt, wenn sie in Tuermen verwendet wird.
+
+item.me-homing-ammo.name = Zielmunition
+item.me-homing-ammo.description = Eine zielsuchende Munition mit hohem Schaden.
+
+item.me-living-steel-hard.name = Gehaerteter Lebendstahl
+item.me-living-steel-hard.description = Lebendstahl, der mit Thorium zur Verwendung in Bloecken gehaertet wurde.
+
+item.me-living-steel.name = Lebendstahl
+item.me-living-steel.description = Titan, welches durch lebendige Sporen belebt wurde.
+
+item.me-nano-ammo.name = Nanomunition
+item.me-nano-ammo.description = Munition, die kleine Bots im Gegner pflanzt um ihn von innen zu verbrennen.
+
+item.me-uraniumrod.name = Uranstab
+item.me-uraniumrod.description = Ein Stab aus Uran, der in Reaktoren genutzt werden kann.
+
+
+#liquids
+
+liquid.me-living-steel-liquid.name = Fluessiger Lebendstahl
+liquid.me-living-steel-liquid.description = Lebendstahl, der mit Oel verfluessigt wurde.
+
+
+
+#units
+
+unit.me-builder-mech-v2.name = Bau-Mech, V2
+unit.me-builder-mech-v2.description = Beschuetzt den Element Kern vor Gegnern. Kann Bloekce heilen. Kann sehr schnell bauen und abbauen.
+
+unit.me-builder-mech.name = Bau-Mech
+unit.me-builder-mech.description = Beschuetzt den Atom Kern vor Gegnern. Kann Bloecke heilen. Kann schnell bauen und abbauen
+
+unit.me-carrier-flagship.name = Flugzeugtraeger-Flaggschiff
+unit.me-carrier-flagship.description = Kann nicht schwimmen! Erzeugt Lancer Drohnen.
+
+unit.me-close-range.name = Spike
+unit.me-close-range.description = Eine schnelle Einheit mit hohem Schaden aber niedriger Haltbarkeit.
+
+unit.me-hive-attack.name = HIVE Schwere Angriffseinheit (HSA)
+unit.me-hive-attack.description = Eine schwere Angriffseinheit erschaffen vom HIVE Mutterschiff. Ausgestattet mit schweren, Zielsuchenden Raketen und einem speziellen System, wodurch die HSA immer die perfekte Distanz zum Gegner fuer perfekten Schaden einnehmen kann.
+
+unit.me-hive-support.name = HIVE Leichte Unterstuetzungseinheit (HLU)
+unit.me-hive-support.description = Eine leichte Unterstuetzungseinheit erschaffen vom HIVE Mutterschiff. Ausgestattet mit heilenden Geschuetzen und einem Schildgenerator.
+
+unit.me-hive.name = HIVE
+unit.me-hive.description = Ein riesiges Spawner-Schiff, welches HSA und HLU Einheiten spawnt. Ist fragil hat jedoch einen ausserst leistungsfaehigen Schildgenerator. Feuert mit enormer Kraft aus einer Vielzahl von Geschuetzen.
+
+unit.me-king-t2.name = King, Stufe 2
+unit.me-king-t2.description = Eine verbesserte Version der King Einheit.
+
+unit.me-king.name = King
+unit.me-king.description = Ausgestattet mit mehreren zielsuchenden Raketenwerfern und einer Heilkanone; diese Drohne bringt die Zerstoerung mit sich!
+
+unit.me-lancer-drone.name = Lancer Drohne
+unit.me-lancer-drone.description = Eine kleine, opferbare Drohne, die Hochenergielaser schiesst.
+
+unit.me-sps.name = Angriffsplattform Strahl
+unit.me-sps.description = Ein grosses Schiff, das maechtige Waffen besitzt und Lancer Drohnen erschafft.
+
+unit.me-tentacle-t2.name = Tentakel, Stufe 2
+unit.me-tentacle-t2.description = Die verbesserte Version der Tentakel Einheit.
+
+unit.me-tentacle.name = Tentakel
+unit.me-tentacle.description = Eine Drohne mit einem schweren Scharfschuetzengewehr und Tentakelaehnlicher Panzerung auf der Hinterseite.
+
+#end of bundles de
