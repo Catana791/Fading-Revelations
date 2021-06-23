@@ -18,7 +18,7 @@ https://discord.gg/YB3ky9tJR4
 ## This mod adds:
  - ~90 new Blocks, 
  - A few new units,
- - Some new ammo types,
+ - 7 new ammo types,
  - 2 Larger Core Blocks (with fitting drones),
  - A unit upgrading system that takes mod units and buffs their stats!
 
