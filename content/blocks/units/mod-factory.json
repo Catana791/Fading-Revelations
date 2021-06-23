@@ -4,7 +4,7 @@
   "description": "Creates units from the mod.",
   "size": 7,
   "consumes": {
-    "power": 25
+    "power": 1.2
   },
   "plans": [
     {
