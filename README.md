@@ -17,9 +17,10 @@ https://discord.gg/YB3ky9tJR4
 
 ## This mod adds:
  - ~90 new Blocks, 
- - A few new units,
+ - 11 new units with 2 upgraded ones,
  - 7 new ammo types,
  - 2 Larger Core Blocks (with fitting drones),
+ - A whole new trading system using currency,
  - A unit upgrading system that takes mod units and buffs their stats!
 
 ### All textured and coded with love.
