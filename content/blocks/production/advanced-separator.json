@@ -19,6 +19,14 @@
           "amount": 2
         }
       ]
+    },
+    "liquids": {
+      "liquids": [
+        {
+          "liquid": "oil",
+          "amount": 0.3
+        }
+      ]
     }
   },
   "requirements": [
