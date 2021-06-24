@@ -15,5 +15,20 @@
   "rotateWeapon": false,
   "rotatespeed": 0.03,
   "weapons": [
-  ]
+  ],
+  "abilities": [
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "flare",
+      "spawnX": -2,
+      "spawnY": -2,
+      "spawnTime": 400
+    },
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "mono",
+      "spawnX": 2,
+      "spawnY": -2,
+      "spawnTime": 400
+    }
 }
