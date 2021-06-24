@@ -1,0 +1,87 @@
+{
+  "type": "unitFactory",
+  "name": "[red]Mothership factory",
+  "description": "Creates slow and extremely powerful superclass units from the mod.",
+  "size": 7,
+  "consumes": {
+    "power": 20
+  },
+  "plans": [
+    {
+      "unit": "hive",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 2100
+        },
+        {
+          "item": "plastanium",
+          "amount": 1300
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 850
+        },
+        {
+          "item": "phase-fabric",
+          "amount": 150
+        },
+        {
+          "item": "titanium",
+          "amount": 2000
+        }
+      ],
+      "time": 14000
+    },
+    {
+      "unit": "sps",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 2100
+        },
+        {
+          "item": "plastanium",
+          "amount": 1450
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 800
+        },
+        {
+          "item": "phase-fabric",
+          "amount": 150
+        },
+        {
+          "item": "titanium",
+          "amount": 2200
+        }
+      ],
+      "time": 12000
+    }
+  ],
+  "requirements": [
+    {
+      "item": "silicon",
+      "amount": 600
+    },
+    {
+      "item": "graphite",
+      "amount": 550
+    },
+    {
+      "item": "lead",
+      "amount": 2200
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 300
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 290
+    }
+  ],
+  "category": "units",
+  "research": "heavy-factory"
+}
