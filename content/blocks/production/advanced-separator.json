@@ -11,8 +11,6 @@
   "craftTime": 1,
   "spinnerSpeed": -5,
   "consumes": {
-    "liquid": "water",
-    "amount": 0.5,
     "power": 5.4,
     "items": {
       "items": [
