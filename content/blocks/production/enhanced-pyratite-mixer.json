@@ -6,7 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "craftTime": 66,
+  "craftTime": 75,
   "craftEffect": "pulverizeRed",
   "updateEffect": "pulverizeRed",
   "consumes": {
@@ -50,6 +50,6 @@
   "research": "pyratite-mixer",
   "outputItem": {
     "item": "pyratite",
-    "amount": 1
+    "amount": 2
   }
 }
