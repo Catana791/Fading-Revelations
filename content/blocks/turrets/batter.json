@@ -11,7 +11,7 @@
     "water": {
       "type": "LiquidBulletType",
       "damage": 20,
-      "knockback": 75,
+      "knockback": 45,
       "lifetime": 57,
       "pierce": true,
       "pierceCap": 25,
