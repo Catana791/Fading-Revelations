@@ -27,7 +27,7 @@
 		    "type": "MissileBulletType",
           "width": 18,
           "speed": 1.6,
-          "damage": 120,
+          "damage": 100,
           "height": 36,
           "bulletShrink": 0,
           "drag": -0.002,
@@ -50,6 +50,7 @@
       "name": "hive-mg",
       "range": 200,
       "rotate": true,
+      "rotateSpeed": 20,
       "x": 40,
       "y": 11,
       "targetGround": false,
@@ -60,7 +61,7 @@
       "bullet": {
         "type": "BasicBulletType",
         "speed": 8,
-        "damage": 30,
+        "damage": 33,
         "pierce": true,
         "status": "burning",
         "satusDuration": 60
@@ -71,6 +72,7 @@
       "range": 200,
       "rotate": true,
       "x": -40,
+      "rotateSpeed": 20,
       "y": 11,
       "targetGround": false,
       "targetAir": true,
@@ -80,7 +82,7 @@
       "bullet": {
         "type": "BasicBulletType",
         "speed": 8,
-        "damage": 30,
+        "damage": 33,
         "pierce": true,
         "status": "burning",
         "satusDuration": 60
