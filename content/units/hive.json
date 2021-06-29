@@ -24,7 +24,7 @@
       "y": 7,
       "reload": 650,
       "bullet": {
-		    "type": "MissileBulletType",
+          "type": "MissileBulletType",
           "width": 18,
           "speed": 1.6,
           "damage": 100,
