@@ -12,6 +12,10 @@
   "spinnerSpeed": -5,
   "consumes": {
     "power": 5.4,
+    "liquid": {
+      "liquid": "slag",
+      "amount": 0.12
+    },
     "items": {
       "items": [
         {
