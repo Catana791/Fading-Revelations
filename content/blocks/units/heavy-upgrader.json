@@ -1,0 +1,55 @@
+{
+    "type": "Reconstructor",
+    "name": "Heavy Upgrader",
+    "description": "Upgrades heavy units from the Mindustry Extended mod.",
+    "health": 2000,
+    "size": 5,
+    "constructTime": 2800,
+    "upgrades": [
+        ["king", "king-t2"],
+        ["tentacle", "tentacle-t2"],
+    ],
+    "consumes": {
+        "power": 3.2,
+        "items": {
+            "items": [
+                {
+                    "item": "titanium",
+                    "amount": 200
+                },
+                {
+                    "item": "thorium",
+                    "amount": 100
+				}
+                {
+                  "item": "living-steel-hard",
+                  "amount": 60
+                },
+                {
+                    "item": "phase-fabric",
+                    "amount": 20
+				}
+            ]
+        }
+    },
+    "requirements": [
+        {
+            "item": "copper",
+            "amount": 500
+		}
+        {
+            "item": "lead",
+            "amount": 400
+        },
+        {
+            "item": "titanium",
+            "amount": 200
+        },
+        {
+            "item": "thorium",
+            "amount": 100
+		}
+    ],
+    "category": "units",
+    "research": "interceptor-upgrader"
+ }
