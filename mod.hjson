@@ -23,7 +23,7 @@ author:
 description:
   '''
   
-  Mindustry Extended! Mission Strahl! Mission HIVE!
+  Mindustry Extended! The lone outpost.
   
   A mod that focuses on adding cool but not op content.
   
@@ -31,6 +31,6 @@ description:
   
   Please note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).
   '''
-version: 1.07
+version: 1.08
 minGameVersion: 121
 repo: Fresh791/mindustry-extended
