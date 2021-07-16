@@ -5,11 +5,20 @@
   "size": 3,
   "solid": true,
   "update": true,
+  "itemCapacity": 1,
   "hasItems": true,
   "requirements": [
     {
       "item": "copper",
-      "amount": 1
+      "amount": 3000
+    },
+    {
+      "item": "lead",
+      "amount": 2500
+    },
+    {
+      "item": "titanium",
+      "amount": 1200
     }
   ],
   "category": "effect",
