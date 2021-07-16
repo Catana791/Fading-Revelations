@@ -27,7 +27,7 @@ block.me-tiny-pneumatic-drill.name = Winziger Pneumatischer Bohrer
 block.me-tiny-pneumatic-drill.description = Eine kleinere Version des pneumatischen Bohrers.
 
 block.me-titanium-drill.name = Titanbohrer
-block.me-titanium-drill.name = Ein Bohrer aus Titan, der alle Erze mit niedriger Geschwindigkeit abbauen kann.
+block.me-titanium-drill.description = Ein Bohrer aus Titan, der alle Erze mit niedriger Geschwindigkeit abbauen kann.
 
 
 #blocks-effect
@@ -64,6 +64,9 @@ block.me-graphite-trading-station.description = Tauscht 1 Gold fuer 3 Graphit.
 
 block.me-metaglass-trading-station.name = Tauschstation (Metaglas)
 block.me-metaglass-trading-station.description = Tauscht 1 Gold fuer 3 Metaglas.
+
+block.me-outpost.name = Aussenposten
+block.me-outpost.description = Eine Station, die ueberall gebaut werden kann. Transferiert alle Resourcen, die in sie eingespeist werden sofort in den Hauptkern.
 
 block.me-phase-trading-station.name = Tauschstation (Phasengewebe)
 block.me-phase-trading-station.description = Tauscht 1 Gold fuer 3 Phasengewebe.
@@ -136,8 +139,8 @@ block.me-ammo-crafter-3.description = Craftet explosive Munition aus explosiver 
 block.me-big-phase-weaver.name = Phasenschmiede
 block.me-big-phase-weaver.description = Ein kosteneffizienterer, schnellerer Phasenweber.
 
-block.me-big-plastanium-forge.name = Plastaniumschmiede
-block.me-big-plastanium-forge.description = Eine bessere, kosteneffizientere Plastaniumpresse.
+block.me-big-plastanium-press.name = Plastaniumschmiede
+block.me-big-plastanium-press.description = Eine bessere, kosteneffizientere Plastaniumpresse.
 
 block.me-enhanced-blast-mixer.name = Verbesserter Sprengmixer
 block.me-enhanced-blast-mixer.description = Ein verbesserter Sprengmixer. Nutzt Graphit als Isolierung gegen die enorme Hitze.
@@ -236,11 +239,20 @@ block.me-wet-gattling.description = Schiesst schnell viele Kugeln aus Fluessigke
 
 #blocks-units
 
-block.me-mod-factory.name = Modfabrik
-block.me-mod-factory.description = Stellt Mindustry Extended Einheiten her.
+block.me-heavy-factory.name = Panzerfabrik
+block.me-mod-factory.description = Stellt langsame aber aeusserst leistungsfaehige Mindustry Extended Einheiten her.
 
-block.me-unit-upgrader.name = Einheitenverbesserer
-block.me-unit-upgrader.description = Verbessert spezielle Mindustry Extended Einheiten.
+block.me-interceptor-factory.name = Abfangfabrik
+block.me-interceptor-factory.description = Stellt schnelle und guenstige Mindustry Extended Einheiten her.
+
+block.me-mothership-factory.name = Mutterschifffabrik
+block.me-mothership-factory.description = Stellt die leistungsfaehigsten und staerksten Mindustry Extended Einheiten her.
+
+block.me-heavy-upgrader.name = Schwerer Verbesserer
+block.me-heavy-upgrader.description = Verbessert Einheiten der schweren Klasse der Mindustry Extended Mod.
+
+block.me-interceptor-upgrader.name = Abfangverbesserer
+block.me-interceptor-upgrader.description = Verbessert Abfangeinheiten der Mindustry Extended Mod.
 
 
 #blocks-walls
