@@ -1,6 +1,6 @@
 {
   "name": "Outpost",
-  "description": "An outpost that can be built anywhere on the map and acts like a core.",
+  "description": "An outpost that can be built anywhere on the map and transfers all items that are inputted directly to the main core.",
   "health": 1200,
   "size": 3,
   "solid": true,
