@@ -20,5 +20,17 @@ outpost.building = extend(StorageBlock.StorageBuild, outpost, {
         Fx.coreBurn.at(x, y);
       }
     }
+  },
+
+  handleItem(source, item){
+    if(Vars.net.server() || !Vars.net.active()){
+      if(this.team == Vars.state.rules.defaultTeam && Vars.state.isCampaign()){
+        Vars.state.rules.sector.info.handleCoreItem(item, 1);
+      }
+
+      if(this.items.get(item) < this.storageCapacity){
+        this.super$handleItem(source, item);
+      }
+    }
   }
 });
