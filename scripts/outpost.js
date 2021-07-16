@@ -1,12 +1,24 @@
-handleStack(item, amount, source){
-  var realAmount = Math.min(amount, this.storageCapacity - this.items.get(item));
-  this.super$handleStack(item, realAmount, source);
+const outpost = extend(StorageBlock, "outpost", {});
 
-  if(this.team == Vars.state.rules.defaultTeam && Vars.state.isCampaign()){
-    Vars.state.rules.sector.info.handleCoreItem(item, amount);
+outpost.building = extend(StorageBlockBuilding, outpost, {
+  displayReact(table){
+    this.super$displayReact(table);
+  },
+  
+  craft(a, b){
+    this.super$craft(a, b);
+  },
 
-    if(realAmount == 0){
-      Fx.coreBurn.at(x, y);
+  handleStack(item, amount, source){
+    var realAmount = Math.min(amount, this.storageCapacity - this.items.get(item));
+    this.super$handleStack(item, realAmount, source);
+
+    if(this.team == Vars.state.rules.defaultTeam && Vars.state.isCampaign()){
+      Vars.state.rules.sector.info.handleCoreItem(item, amount);
+
+      if(realAmount == 0){
+        Fx.coreBurn.at(x, y);
       }
-   }
-}
+    }
+  }
+});
