@@ -9,33 +9,38 @@ outpost.building = extend(StorageBlock.StorageBuild, outpost, {
     this.super$craft(a, b);
   },
 
-  handleStack(item, amount, source){
-    Log.info("S1: " + source);
-    Log.info("I1: " + item);
-    Log.info("A1: " + amount);
-    var realAmount = Math.min(amount, this.storageCapacity - this.items.get(item));
-    this.super$handleStack(item, realAmount, source);
+  acceptItem(source, item){
+    var core = this.team.core().building;
+    return core != null ? core.acceptItem(source, item) : this.items.get(item) < this.getMaximumAccepted(item);
+  },
 
-    if(this.team == Vars.state.rules.defaultTeam && Vars.state.isCampaign()){
-      Vars.state.rules.sector.info.handleCoreItem(item, amount);
+  removeStack(item, amount){
+    var core = this.team.core().building;
+    var result = this.super$removeStack(item, amount);
 
-      if(realAmount == 0){
-        Fx.coreBurn.at(x, y);
-      }
+    if(core != null && this.team == Vars.state.rules.defaultTeam && Vars.state.isCampaign()){
+      Vars.state.rules.sector.info.handleCoreItem(item, -result);
     }
+
+    return result;
   },
 
   handleItem(source, item){
-    Log.info("S2: " + source);
-    Log.info("I2: " + item);
-    if(Vars.net.server() || !Vars.net.active()){
-      if(this.team == Vars.state.rules.defaultTeam && Vars.state.isCampaign()){
-        Vars.state.rules.sector.info.handleCoreItem(item, 1);
+    var core = this.team.core().building;
+    if(core != null){
+      if(core.items.get(item) >= core.storageCapacity){
+        this.block.incinerateEffect(this, source);
       }
+      core.handleItem(source, item);
+    }else{
+      this.super$handleItem(source, item);
+    }
+  },
 
-      if(this.items.get(item) < this.storageCapacity){
-        this.super$handleItem(source, item);
-      }
+  itemTaken(item){
+    var core = this.team.core();
+    if(core != null){
+      core.itemTaken(item);
     }
   }
 });
