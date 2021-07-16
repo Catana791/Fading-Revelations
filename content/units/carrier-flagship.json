@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "name": "Carrier Flagship",
-  "description": "A water flagship carrier. Has no weapons but constructs horizon, flare and mono units.",
+  "description": "A water flagship carrier. Has no weapons but constructs horizon, flare and mono units and has a healing field.",
   "drag": 0.15,
   "speed": 0.8,
   "category": "unit",
@@ -29,6 +29,13 @@
       "unit": "mono",
       "spawnX": 2,
       "spawnY": -2,
+      "spawnTime": 400
+    },
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "horizon",
+      "spawnX": 0,
+      "spawnY": -1,
       "spawnTime": 400
     }
   ]
