@@ -5,7 +5,7 @@
   "size": 3,
   "solid": true,
   "update": true,
-  "itemCapacity": 1,
+  "itemCapacity": 5,
   "hasItems": true,
   "requirements": [
     {
