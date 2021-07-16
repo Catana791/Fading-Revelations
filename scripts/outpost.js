@@ -15,7 +15,7 @@ outpost.buildType = () => extend(StorageBlock.StorageBuild, outpost, {
   },
 
   removeStack(item, amount){
-    var core = this.team.core().building;
+    var core = this.team.core();
     var result = this.super$removeStack(item, amount);
 
     if(core != null && this.team == Vars.state.rules.defaultTeam && Vars.state.isCampaign()){
