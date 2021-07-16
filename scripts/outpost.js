@@ -1,6 +1,6 @@
 const outpost = extend(StorageBlock, "outpost", {});
 
-outpost.building = extend(StorageBlockBuilding, outpost, {
+outpost.building = extend(StorageBlock.StorageBuild, outpost, {
   displayReact(table){
     this.super$displayReact(table);
   },
