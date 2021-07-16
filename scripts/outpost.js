@@ -26,7 +26,7 @@ outpost.buildType = () => extend(StorageBlock.StorageBuild, outpost, {
   },
 
   handleItem(source, item){
-    var core = this.team.core().building;
+    var core = this.team.core();
     if(core != null){
       if(core.items.get(item) >= core.storageCapacity){
         this.block.incinerateEffect(this, source);
