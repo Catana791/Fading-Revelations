@@ -10,6 +10,9 @@ outpost.building = extend(StorageBlock.StorageBuild, outpost, {
   },
 
   handleStack(item, amount, source){
+    Log.info("S1: " + source);
+    Log.info("I1: " + item);
+    Log.info("A1: " + amount);
     var realAmount = Math.min(amount, this.storageCapacity - this.items.get(item));
     this.super$handleStack(item, realAmount, source);
 
@@ -23,6 +26,8 @@ outpost.building = extend(StorageBlock.StorageBuild, outpost, {
   },
 
   handleItem(source, item){
+    Log.info("S2: " + source);
+    Log.info("I2: " + item);
     if(Vars.net.server() || !Vars.net.active()){
       if(this.team == Vars.state.rules.defaultTeam && Vars.state.isCampaign()){
         Vars.state.rules.sector.info.handleCoreItem(item, 1);
