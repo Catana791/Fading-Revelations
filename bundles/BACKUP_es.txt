@@ -38,6 +38,10 @@ block.me-graphite-trading-station.name = Estacion de intercambio de grafito
 block.me-graphite-trading-station.description = Intercambia 1 de oro por 3 de grafito.
 block.me-metaglass-trading-station.name = Estacion de intercambio de metacristal
 block.me-metaglass-trading-station.description = Intercambia 1 de oro por 3 de metacristal.
+
+block.me-outpost.name = Puesto de avanzada
+block.me-outpost.description = Una boveda que puede colocarse en cualquier lugar del mapa. Todos los recursos que se introduzcan en esta camara se transferiran instantaneamente al nucleo principal.
+
 block.me-phase-trading-station.name = Estacion de intercambio de tejido de fase
 block.me-phase-trading-station.description = Intercambia 1 de oro por 3 de tejido de fase.
 block.me-plastanium-trading-station.name = Estacion de intercambio de plastanio
@@ -65,7 +69,7 @@ block.me-plastanium-conduit.description = Un conducto desentemente rapido hecho 
 #power
 
 block.me-uranium-reactor.name = Reactor nuclear
-block.me-uranium-reactor.description = Un reactor que utiliza barras de uranio para generar grandes cantidades de electricidad.
+block.me-uranium-reactor.description = Un reactor que utiliza barras de uranio para generar grandes cantidades de electricidad. Explota de manera violenta si no se mantiene helado.
 block.me-advanced-solar-panel.name = Panel solar avanzado
 block.me-advanced-solar-panel.description = Un mejor panel solar por el mismo espacio.
 block.me-advanced-surge-tower.name = Torre de sobretencion avanzada
@@ -88,7 +92,7 @@ block.me-advanced-cryofluid-mixer.description = Combina agua, titanio y grafito 
 block.me-advanced-separator.name = Separador avanzado 
 block.me-advanced-separator.description = Un separador aun mas avanzado. Saca muchos mas items.
 block.me-advanced-water-extractor.name = Extractor de agua avanzado
-block.me-advanced-water-extractor.description = Un mejor extractor de agua.
+block.me-advanced-water-extractor.description = Un mejor extractor de agua. Necesita menos poder y entrega mas agua.
 block.me-ammo-crafter-1.name = Creador de municion nivel 1
 block.me-ammo-crafter-1.description = Crea municion de cobre hecho de carbon y cobre.
 block.me-ammo-crafter-2.name = Creador de municion nivel 2  
@@ -101,7 +105,7 @@ block.me-big-plastanium-press.name = Fragua de plastanio
 block.me-big-plastanium-press.description = Un mejor compresor de plastanio que es mas eficiente.
 block.me-enhanced-blast-mixer.name = Mezclador de explosivo mejorado
 block.me-enhanced-blast-mixer.description = Un mejor mezclador de explosivo. Es muy caliente asi que usa grafito para isolacion.
-block-me-enhanced-pyratite-mixer.name = Fragua de pirotita
+block.me-enhanced-pyratite-mixer.name = Fragua de pirotita
 block.me-enhanced-pyratite-mixer.description = Un mejor mezclador de pirotita. Es muy caliente asi que usa grafito para isolacion.
 block.me-greenhouse.name = Invernadero
 block.me-greenhouse.description = Un cultivador mejor que crea muchas mas vainas de esporas.
@@ -161,10 +165,20 @@ block.me-mega-meltdown.description = Un mejor Meltdown que tambien dispara melti
 
 #blocks-units
 
-block.me-mod-factory.name = Fabrica Mod
-block.me-mod-factory.description = Crea unidades del mod.
-block.me-unit-upgrader.name = Mejoradora de unidades
-block.me-unit-upgrader.description = Mejora unidades del mod aumentando sus capacidades ofensivas, defensivas y de movillidad.
+block.me-heavy-factory.name = Fabrica pesada
+block.me-heavy-factory.description = Produce unidades lentas pero extremadamente poderosas de Mindustry Extended.
+
+block.me-interceptor-factory.name = Fabrica de interceptores
+block.me-interceptor-factory.description = Produce unidades rapidas y baratas de Mindustry Extended.
+
+block.me-mothership-factory.name = Fabrica de naves nodrizas
+block.me-mothership-factory.description = Fabrica las unidades mas potentes y fuertes.
+
+block.me-heavy-upgrader.name = Mejorador pesado
+block.me-heavy-upgrader.description = Mejora las unidades de la clase pesada del Mod.
+
+block.me-interceptor-upgrader.name = Mejorador de interceptores
+block.me-interceptor-upgrader.description = Mejora los interceptores del mod.
 
 #walls
 
@@ -268,6 +282,17 @@ unit.me-tentacle-t2.name = Tentaculo tier 2
 unit.me-tentacle-t2.description = Dron sniper de mucho dano. Tiene su nombre por su defensa trasera que se parece a los tentaculos. Es la version mejorada del Tentaculo.
 unit.me-close-range.name = Spike
 unit.me-close-range.description = Una unidad rapida con mucho dano pero poca vida y alcance.
+
+unit.me-hive.name = HIVE
+unit.me-hive.description = Una nave enorme que genera unidades de apoyo y unidades de ataque, es bastante fragil en si, pero tiene un escudo que puede tomar 20900 puntos de dano antes de apagarse, Advertencia, si el escudo se apaga, los 9100 puntos de vida del HIVE se veran expuestos!
+
+unit.me-hive-attack.name = Unidad de asalto pesada HIVE
+unit.me-hive-attack.description = Creado por el HIVE nave nodriza y equipado con sensores que le permiten mantenter la distancia perfecta del enemigo, el dron ataca de la manera mas optima a tus enemigos
+
+unit.me-hive-support.name = Unidad de apoyo liviana HIVE
+unit.me-hive-support.description = Creada por el HIVE nave nodriza, este dron apoya tus defensas de la manera mas optima posible
+
 #end of units
+
 
 #end of bundle_es.properties
