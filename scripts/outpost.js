@@ -1,4 +1,4 @@
-//Thanks for @ThePythonGuy3 for making and NiChrosia for finishing this script up!! Greatly appreciated!
+//Thanks for ThePythonGuy3 for making and NiChrosia for finishing this script up!! Greatly appreciated!
 
 const outpost = extend(StorageBlock, "outpost", {});
 
