@@ -4,6 +4,7 @@
   "health": 1200,
   "size": 3,
   "solid": true,
+  "buildLimit": 1,
   "update": true,
   "itemCapacity": 5,
   "hasItems": true,
