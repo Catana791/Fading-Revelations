@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "health": 200,
+  "configurable": true,
+  "hasItems": true,
+  "category": "effect",
+  "research": "duo"
+} 
