@@ -14,7 +14,7 @@ goldItem.buildType = extend(Building, goldItem, {
   selection: Items.copper,
 
   buildConfiguration(table){
-    ItemSelection.buildTable(table, this.block.itemAccepts, () => this.selection, e => this.configure);
+    ItemSelection.buildTable(table, this.block.itemAccepts, ee => this.selection, e => this.configure);
   },
 
   acceptItem(source, item){
