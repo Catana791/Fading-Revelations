@@ -7,9 +7,8 @@
   "size": 10,
   "health": 9600,
   "inaccuracy": 0,
-  "reloadTime": 100,
-  "maxAmmo": 20,
-  "ammoPerShot": 5,
+  "reloadTime": 50,
+  "maxAmmo": 40,
   "shootSound": "railgun",
   "shootEffect": {
     "type": "ParticleEffect",
@@ -31,26 +30,25 @@
   "ammoTypes": {
     "living-steel": {
       "speed": 10,
-      "damage": 290,
+      "damage": 145,
       "sprite": "railgun-bolt",
       "pierce": true,
       "frontColor": "80008e",
       "backColor": "05ecec",
-      "splashDamage": 100,
-      "ammoMultiplier": 2,
-      "splashDamageRadius": 20,
+      "splashDamage": 50,
+      "splashDamageRadius": 10,
       "homingPower": 0.9,
       "homingRange": 240
     },
     "nano-ammo": {
       "speed": 10,
-      "damage": 320,
+      "damage": 160,
       "sprite": "railgun-bolt",
       "pierce": true,
       "frontColor": "02acd0",
       "backColor": "05ecec",
-      "splashDamage": 135,
-      "splashDamageRadius": 25
+      "splashDamage": 65,
+      "splashDamageRadius": 11
       "homingPower": 0.9,
       "homingRange": 240
     }
