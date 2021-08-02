@@ -38,7 +38,9 @@
       "backColor": "05ecec",
       "splashDamage": 100,
       "ammoMultiplier": 2,
-      "splashDamageRadius": 20
+      "splashDamageRadius": 20,
+      "homingPower": 0.9,
+      "homingRange": 240
     },
     "nano-ammo": {
       "speed": 10,
@@ -49,6 +51,8 @@
       "backColor": "05ecec",
       "splashDamage": 135,
       "splashDamageRadius": 25
+      "homingPower": 0.9,
+      "homingRange": 240
     }
   },
   "requirements": [
