@@ -7,7 +7,7 @@
   "size": 10,
   "health": 9600,
   "inaccuracy": 0,
-  "shootSound": "railstorm-fire",
+  "shootSound": "boom",
   "reloadTime": 50,
   "maxAmmo": 40,
   "shootSound": "railgun",
