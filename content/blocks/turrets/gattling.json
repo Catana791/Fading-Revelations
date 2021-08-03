@@ -13,7 +13,7 @@
   "targetAir": false,
   "targetGround": true,
   "rotatespeed": 8,
-  "shots": 6,
+  "shots": 4,
   "alternate": true,
   "recoilAmount": 0.2,
   "shootSound": "shoot",
