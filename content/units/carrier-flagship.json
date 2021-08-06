@@ -33,8 +33,8 @@
     },
     {
       "type": "RepairFieldAbility",
-      "range": 40,
-      "amount": 25,
+      "range": 60,
+      "amount": 20,
       "reload": 30
     }
   ]
