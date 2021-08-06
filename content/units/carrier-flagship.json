@@ -22,7 +22,7 @@
       "x": -2,
       "mirror": true, 
       "y": 0.5,  
-      "reload": 50, 
+      "reload": 5, 
       "bullet": { 
         "type": "MissileBulletType", 
         "width": 3, 
