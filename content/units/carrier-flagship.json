@@ -16,25 +16,7 @@
   "rotatespeed": 0.03,
   "weapons": [
     {
-      "name": "nothing",
-      "x": -3,
-      "reload": 75,
-      "range": 150,
-      "y": 0.5,
-      "bullet": {
-        "type": "MissileBuletType",
-        "damage": 10,
-        "bulletHeight": 6,
-        "bulletWidth": 3,
-        "bulletShrink": 0.3,
-        "homingRange": 120,
-        "homingPower": 1.1,
-        "pierce": true,
-        "pierceCap": 3,
-        "splashDamage": 5,
-        "splashDamageRadius": 5
-      }
-    }
+"name": "hive-nuke", "range": 400, "rotate": false, "x": -2,	"mirror": false, "y": 7, "reload": 650, "bullet": { "type": "MissileBulletType", "width": 18, "speed": 1.6, "damage": 100, "height": 36, "bulletShrink": 0, "drag": -0.002, "homingRange": 100, "keepVelocity": false, "splashDamageRadius": 100, "splashDamage": 750, "lifetime": 260, "trailColor": "d63a0e", "backColor": "1a1a1a", "frontColor": "ab1313", "shootEffect": "plasticExplosion", "hitEffect": "commandSend", "despawnEffect": "commandSend", "weaveScale": 10, "weaveMag": 1
   ],
   "abilities": [
     {
