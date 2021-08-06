@@ -19,10 +19,14 @@
       "name": "nothing",
       "x": -3,
       "reload": 75,
+      "range": 150,
       "y": 0.5,
       "bullet": {
         "type": "MissileBuletType",
         "damage": 10,
+        "bulletHeight": 6
+        "bulletWidth": 3,
+        "bulletShrink": 0.3,
         "homingRange": 120,
         "homingPower": 1.1
         "pierce": true,
