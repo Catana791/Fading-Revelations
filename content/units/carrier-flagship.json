@@ -24,7 +24,7 @@
       "bullet": {
         "type": "MissileBuletType",
         "damage": 10,
-        "bulletHeight": 6
+        "bulletHeight": 6,
         "bulletWidth": 3,
         "bulletShrink": 0.3,
         "homingRange": 120,
