@@ -15,6 +15,22 @@
   "rotateWeapon": false,
   "rotatespeed": 0.03,
   "weapons": [
+    {
+      "name": "nothing",
+      "x": -3,
+      "reload": 75,
+      "y": 0.5,
+      "bullet": {
+        "type": "MissileBuletType",
+        "damage": 10,
+        "homingRange": 120,
+        "homingPower": 1.1
+        "pierce": true,
+        "pierceCap": 3,
+        "splashDamage": 5,
+        "splashDamageRadius": 5
+      }
+    }
   ],
   "abilities": [
     {
