@@ -3,7 +3,7 @@
   "name": "Carrier Flagship",
   "description": "A water flagship carrier. Has no weapons but constructs horizon, flare and mono units and has a healing field.",
   "drag": 0.15,
-  "speed": 0.8,
+  "speed": 0.9,
   "category": "unit",
   "research": "omura",
   "maxVelocity": 0.95,
@@ -22,20 +22,20 @@
       "unit": "flare",
       "spawnX": -2,
       "spawnY": -2,
-      "spawnTime": 400
+      "spawnTime": 300
     },
     {
       "type": "UnitSpawnAbility",
       "unit": "horizon",
       "spawnX": 0,
       "spawnY": -1,
-      "spawnTime": 400
+      "spawnTime": 300
     },
     {
       "type": "RepairFieldAbility",
       "range": 40,
-      "amount": 15,
-      "reload": 60
+      "amount": 25,
+      "reload": 30
     }
   ]
 }
