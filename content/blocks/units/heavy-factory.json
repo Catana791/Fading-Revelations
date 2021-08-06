@@ -27,7 +27,7 @@
           "amount": 200
         }
       ],
-      "time": 9600
+      "time": 12000
     },
     {
       "unit": "tentacle",
@@ -49,7 +49,7 @@
           "amount": 150
         }
       ],
-      "time": 9600
+      "time": 12000
     },
     {
       "unit": "carrier-flagship",
@@ -71,7 +71,7 @@
           "amount": 150
         }
       ],
-      "time": 9600
+      "time": 12000
     }
   ],
   "requirements": [
