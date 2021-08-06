@@ -28,7 +28,7 @@
         "bulletWidth": 3,
         "bulletShrink": 0.3,
         "homingRange": 120,
-        "homingPower": 1.1
+        "homingPower": 1.1,
         "pierce": true,
         "pierceCap": 3,
         "splashDamage": 5,
