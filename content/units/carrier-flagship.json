@@ -19,7 +19,7 @@
       "name": "nothing", 
       "range": 150,
       "rotate": true, 
-      "x": -7,
+      "x": -13,
       "mirror": true, 
       "y": 0.5,  
       "reload": 5, 
@@ -38,8 +38,7 @@
         "lifetime": 260, 
         "trailColor": "d63a0e", 
         "backColor": "1a1a1a", 
-        "frontColor": "ab1313", 
-        "shootEffect": "plasticExplosion", 
+        "frontColor": "1b1b1b", 
         "weaveScale": 10, 
         "weaveMag": 1
       }
