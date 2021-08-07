@@ -24,7 +24,7 @@
   "ammoTypes": {
     "living-steel": {
       "speed": 20,
-      "damage": 145,
+      "damage": 245,
       "sprite": "railgun-bolt",
       "pierce": true,
       "frontColor": "80008e",
@@ -36,7 +36,7 @@
     },
     "nano-ammo": {
       "speed": 20,
-      "damage": 160,
+      "damage": 260,
       "sprite": "railgun-bolt",
       "pierce": true,
       "frontColor": "02acd0",
