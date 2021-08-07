@@ -18,7 +18,7 @@
     "scrap": {
       "speed": 25,
       "collidesTiles": false,
-      "damage": 40,
+      "damage": 300,
       "collides": false,
       "splashDamage": 10,
       "collidesTeam": false,
@@ -31,7 +31,7 @@
     "ammo-level-2": {
       "speed": 25,
       "collidesTiles": false,
-      "damage": 120,
+      "damage": 320,
       "splashDamage": 60,
       "collides": false,
       "splashDamageRadius": 32,
@@ -62,7 +62,7 @@
     "living-steel": {
       "speed": 25,
       "collidesTiles": false,
-      "damage": 120,
+      "damage": 320,
       "collidesTeam": false,
       "collidesAir": false,
       "ammoMultiplier": 2,
