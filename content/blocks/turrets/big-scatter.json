@@ -7,18 +7,18 @@
   "health": 1200,
   "size": 3,
   "inaccuracy": 0.5,
-  "reloadTime": 35,
+  "reloadTime": 20,
   "recoilAmount": 1,
   "ammoUseEffect": "casing3",
   "shootCone": 25,
   "maxAmmo": 50,
-  "rotateSpeed": 8,
-  "range": 256,
+  "rotateSpeed": 10,
+  "range": 300,
   "ammoTypes": {
     "scrap": {
       "speed": 25,
       "collidesTiles": false,
-      "damage": 8,
+      "damage": 15,
       "splashDamage": 3,
       "splashDamageRadius": 3,
       "ammoMultiplier": 5,
@@ -30,7 +30,7 @@
     "lead": {
       "speed": 25,
       "collidesTiles": false,
-      "damage": 10,
+      "damage": 20,
       "splashDamage": 6,
       "splashDamageRadius": 5,
       "ammoMultiplier": 4,
@@ -42,7 +42,7 @@
     "metaglass": {
       "speed": 25,
       "collidesTiles": false,
-      "damage": 10,
+      "damage": 20,
       "splashDamage": 10,
       "splashDamageRadius": 8,
       "ammoMultiplier": 3,
@@ -69,7 +69,7 @@
     "pyratite": {
       "speed": 25,
       "collidesTiler": false,
-      "damage": 15,
+      "damage": 33,
       "splashDamage": 30,
       "splashDamageRadius": 10,
       "ammoMultiplier": 4,
@@ -96,7 +96,7 @@
     },
     "living-steel": {
       "type": "BasicBulletType",
-      "damage": 11,
+      "damage": 28,
       "splashDamage": 3,
       "splashDamageRadius": 4,
       "speed": 14,
@@ -105,7 +105,7 @@
     },
     "nano-ammo": {
       "type": "BasicBulletType",
-      "damage": 3,
+      "damage": 7,
       "splashDamage": 1,
       "splashDamageRadius": 2,
       "speed": 12,
