@@ -8,7 +8,7 @@
   "health": 9600,
   "inaccuracy": 0,
   "shootSound": "boom",
-  "reloadTime": 4,
+  "reloadTime": 5,
   "shootSound": "railgun",
   "recoilAmount": 6,
   "shots": 5,
