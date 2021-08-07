@@ -23,24 +23,24 @@
   "ammoTypes": {
     "living-steel": {
       "speed": 20,
-      "damage": 245,
+      "damage": 505,
       "sprite": "railgun-bolt",
       "pierce": true,
       "frontColor": "80008e",
       "backColor": "05ecec",
-      "splashDamage": 50,
+      "splashDamage": 30,
       "splashDamageRadius": 10,
       "homingPower": 0.9,
       "homingRange": 240
     },
     "nano-ammo": {
       "speed": 20,
-      "damage": 260,
+      "damage": 20,
       "sprite": "railgun-bolt",
       "pierce": true,
       "frontColor": "02acd0",
       "backColor": "05ecec",
-      "splashDamage": 65,
+      "splashDamage": 35,
       "splashDamageRadius": 11
       "homingPower": 0.9,
       "homingRange": 240
