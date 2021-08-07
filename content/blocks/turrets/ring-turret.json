@@ -20,7 +20,7 @@
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
-		"damage": 120,
+		"damage": 220,
 		"fragBullets": 10,
 		"fragBullet":{
 		  "type": "BasicBulletType",
@@ -35,7 +35,7 @@
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
-		"damage": 60,
+		"damage": 120,
 		"fragBullets": 10,
 		"fragBullet":{
 		  "type": "BasicBulletType",
@@ -51,7 +51,7 @@
 		"lifetime": 140,
 		"pierce": true,
 		"collides": true,
-		"damage": 75,
+		"damage": 150,
 		"fragBullets": 10,
 		"fragBullet":{
 		  "type": "BasicBulletType",
@@ -67,7 +67,7 @@
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
-		"damage": 85,
+		"damage": 165,
 		"homingPower": 0.001,
 		"fragBullets": 10,
 		"fragBullet":{
@@ -86,7 +86,7 @@
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
-		"damage": 3,
+		"damage": 30,
 		"fragBullets": 10,
 		"fragBullet":{
 		  "type": "BasicBulletType",
@@ -103,7 +103,7 @@
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
-		"damage": 50,
+		"damage": 150,
 		"fragBullets": 10,
 		"fragBullet":{
 		  "type": "BasicBulletType",
