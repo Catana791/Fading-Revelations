@@ -18,7 +18,7 @@
   "buildCostMultiplier": 0.2,
   "ammoTypes": {
     "ammo-level-2": {
-      "damage": 80,
+      "damage": 380,
       "speed": 8,
       "type": "BasicBulletType",
       "lifetime": 30,
@@ -29,7 +29,7 @@
       "shrinkY": 0.10
     },
     "living-steel": {
-      "damage": 70,
+      "damage": 350,
       "speed": 6,
       "type": "BasicBulletType",
       "lifetime": 24,
