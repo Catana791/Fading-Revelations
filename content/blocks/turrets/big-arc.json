@@ -10,7 +10,7 @@
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 18,
-    "damage": 20
+    "damage": 30
   },
   "rotateSpeed": 100,
   "powerUse": 3.8,
