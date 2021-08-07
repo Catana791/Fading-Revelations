@@ -49,7 +49,6 @@
     "type": "BasicBulletType",
 		"speed": 2,
 		"lifetime": 140,
-		"pierce": true,
 		"collides": true,
 		"damage": 150,
 		"fragBullets": 10,
