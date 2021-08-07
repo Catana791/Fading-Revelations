@@ -5,11 +5,11 @@
   "size": 3,
   "health": 410,
   "range": 236,
-  "reload": 3,
+  "reload": 2,
   "hasPower": true,
   "shootLength": 14,
-  "bulletDamage": 32,
-  "reloadTime": 10,
+  "bulletDamage": 35,
+  "reloadTime": 5,
   "consumes": {
     "power": 10,
     "liquid": {
