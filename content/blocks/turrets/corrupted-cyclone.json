@@ -21,7 +21,7 @@
   "ammoTypes": {
     "phase-fabric": {
       "type": "MissileBulletType",
-      "damage": 180,
+      "damage": 280,
       "splashDamageRadius": 40,
       "splashDamage": 7,
       "speed": 8,
@@ -36,7 +36,7 @@
     },
     "surge-alloy": {
       "type": "BasicBulletType",
-      "damage": 195,
+      "damage": 310,
       "height": 15,
       "width": 5,
       "speed": 10,
@@ -50,7 +50,7 @@
     "living-steel": {
       "type": "BasicBulletType",
       "speed": 10,
-      "damage": 60,
+      "damage": 120,
       "status": "slow",
       "statusDuration": 350
     },
