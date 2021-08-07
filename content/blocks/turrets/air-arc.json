@@ -3,14 +3,14 @@
   "description": "An Arc against air enemies only.",
   "size": 1,
   "range": 130,
-  "reloadTime": 10,
+  "reloadTime": 20,
   "shootSound": "spark",
   "shootCone": 30,
   "shots": 1,
   "shootType": {
     "type": "LightningBulletType",
-    "lightningLength": 18,
-    "damage": 30
+    "lightningLength": 16,
+    "damage": 10
   },
   "rotateSpeed": 100,
   "powerUse": 3.2,
