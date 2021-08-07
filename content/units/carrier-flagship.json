@@ -12,7 +12,7 @@
   "flying": true,
   "hitsize": 45,
   "health": 2800,
-  "armor": 8.8,
+  "armor": 8.999999999999,
   "rotateWeapon": false,
   "rotatespeed": 0.03,
   "weapons": [
