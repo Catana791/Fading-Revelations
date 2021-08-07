@@ -23,6 +23,10 @@
     {
       "item": "graphite",
       "amount": 150
+    },
+    {
+      "item": "metaglass",
+      "amount": 65
     }
   ],
   "powerUse": 0.8,
