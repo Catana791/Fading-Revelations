@@ -33,7 +33,7 @@
   "shootSound": "laserbig",
   "shootType": {
     "type": "ContinuousLaserBulletType",
-    "damage": 95,
+    "damage": 160,
     "length": 320,
     "width": 16,
     "hitEffect": "hitMeltdown",
