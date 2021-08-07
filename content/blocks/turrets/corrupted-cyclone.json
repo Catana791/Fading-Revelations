@@ -21,7 +21,7 @@
   "ammoTypes": {
     "phase-fabric": {
       "type": "MissileBulletType",
-      "damage": 14,
+      "damage": 34,
       "splashDamageRadius": 40,
       "splashDamage": 7,
       "speed": 8,
@@ -36,7 +36,7 @@
     },
     "surge-alloy": {
       "type": "BasicBulletType",
-      "damage": 14,
+      "damage": 34,
       "height": 15,
       "width": 5,
       "speed": 10,
@@ -50,14 +50,14 @@
     "living-steel": {
       "type": "BasicBulletType",
       "speed": 10,
-      "damage": 9,
+      "damage": 19,
       "status": "slow",
       "statusDuration": 350
     },
     "nano-ammo": {
       "type": "BasicBulletType",
       "speed": 9,
-      "damage": 3,
+      "damage": 9,
       "status": "burning",
       "statusDuration": 8000000
     }
