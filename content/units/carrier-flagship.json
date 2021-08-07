@@ -11,7 +11,8 @@
   "commandLimit": 10,
   "flying": true,
   "hitsize": 45,
-  "health": 12000,
+  "health": 2800,
+  "armor": 8.8,
   "rotateWeapon": false,
   "rotatespeed": 0.03,
   "weapons": [
@@ -50,20 +51,20 @@
       "unit": "flare",
       "spawnX": -2,
       "spawnY": -2,
-      "spawnTime": 300
+      "spawnTime": 500
     },
     {
       "type": "UnitSpawnAbility",
       "unit": "horizon",
       "spawnX": 0,
       "spawnY": -1,
-      "spawnTime": 300
+      "spawnTime": 500
     },
     {
       "type": "RepairFieldAbility",
       "range": 60,
       "amount": 20,
-      "reload": 30
+      "reload": 60
     }
   ]
 }
