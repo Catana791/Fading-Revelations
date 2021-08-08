@@ -7,11 +7,11 @@
   "shootSound": "none",
   "shootCone": 360,
   "shots": 14,
-  "spread": 2,
+  "spread": 9,
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 10,
-    "damage": 30
+    "damage": 5
   },
   "rotate": false,
   "powerUse": 1,
