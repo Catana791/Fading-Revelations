@@ -1,0 +1,20 @@
+type: ParticleWeather
+color: 8a0707
+localizedName: Blood Rain
+name: weather.me.blood-rain
+noiseColor: A10000
+particleRegion: particle
+sizeMax: 18
+sizeMin: 1
+density: 2700
+status: burning
+useWindVector: true
+drawNoise: true
+opacityMultiplier: 0.75
+baseSpeed: 6.5
+sound: fire
+soundVol: 0.65
+force: 0.5
+attrs: {
+  heat: 1.4
+}
