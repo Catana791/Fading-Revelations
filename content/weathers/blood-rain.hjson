@@ -7,11 +7,9 @@ particleRegion: particle
 sizeMax: 9
 sizeMin: 1
 density: 2700
-status: slowing
 useWindVector: true
 drawNoise: true
 opacityMultiplier: 0.75
 baseSpeed: 6.5
-sound: fire
 soundVol: 0.65
-force: 0.6
+force: 0.4
