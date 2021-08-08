@@ -1,7 +1,7 @@
 {
   "name": "Big Arc Coil",
   "description": "A medium-sized power turret that creates an electric field in a circle around it at close range.",
-  "size": 1,
+  "size": 2,
   "range": 55,
   "reloadTime": 1,
   "shootSound": "none",
