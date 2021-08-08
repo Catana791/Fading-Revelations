@@ -1,0 +1,19 @@
+name: Valley of Despair
+description: A dark valley that was overrun by the uncontrolled forces of the HIVE Mothership. Not much was left behind. Resources like Titanium and Thorium are minable here but stay too long and you might just anger the HIVE mothership and it will come to destroy you after sending some of its servants your way...
+startingItems: [
+	copper/400
+	lead/500
+	titanium/50
+]
+conditionWave: 151
+requirements: [
+	{
+		"type": "Unlock",
+		"block": "gattling"
+	}
+	{
+		"type": "Unlock",
+		"block": "sniper"
+	}
+]
+}
