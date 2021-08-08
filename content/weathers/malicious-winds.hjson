@@ -6,8 +6,9 @@ particleRegion: particle
 sizeMax: 0
 sizeMin: 0
 density: 2700
+effect: sapped
 useWindVector: true
 drawNoise: false
 opacityMultiplier: 0
 baseSpeed: 9
-force: 1
+force: 0.9
