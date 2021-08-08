@@ -11,5 +11,4 @@ useWindVector: true
 drawNoise: true
 opacityMultiplier: 0.75
 baseSpeed: 6.5
-soundVol: 0.65
 force: 0.2
