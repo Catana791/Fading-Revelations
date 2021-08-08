@@ -2,7 +2,7 @@
   "name": "Small Arc Coil",
   "description": "A small power turret that creates an electric field in a circle around it at close range.",
   "size": 1,
-  "range": 65,
+  "range": 30,
   "reloadTime": 1,
   "shootSound": "none",
   "shootCone": 360,
@@ -10,7 +10,7 @@
   "spread": 33,
   "shootType": {
     "type": "LightningBulletType",
-    "lightningLength": 10,
+    "lightningLength": 7,
     "damage": 5
   },
   "rotate": false,
