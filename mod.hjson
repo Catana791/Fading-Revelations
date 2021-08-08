@@ -14,6 +14,9 @@ description:
   Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. 
   Also adds bigger cores and a whole new system to distribute items using the outpost block! 
   
+  Enjoy the new map: Valley of Despair! You can play it using the "Custom Game" option on the main menu and it comes with its own waves, its own boss and even its own 
+  weathers!
+  
   Supported Languages: English, Spanish, German
   
   Please note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).
@@ -21,6 +24,6 @@ description:
   Do not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, 
   some turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!
   '''
-version: 1.08
-minGameVersion: 121
+version: 1.09
+minGameVersion: 126
 repo: Fresh791/mindustry-extended
