@@ -13,9 +13,11 @@
     "cooldownLiquid": 1.1,
     "category": "effect",
     "requirements": [
-        {"item": "lead", "amount": 200},
-        {"item": "titanium", "amount": 100},
-        {"item": "silicon", "amount": 175}
+        {"item": "lead", "amount": 300},
+        {"item": "titanium", "amount": 150},
+        {"item": "silicon", "amount": 265},
+	    {"item": "thorium", "amount": 200},
+	    {"item": "plastanium", "amount": 100}
     ],
     "consumes": {
 		"power": 5,
