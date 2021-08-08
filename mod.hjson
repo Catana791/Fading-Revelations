@@ -7,24 +7,7 @@ author:
       
       
   [maroon]Contributers:
-      [yellow]Boopas172 (Balance Playtesting / Ideas)
-      
-      [yellow]Rem-Armiger (Balance Playtesting / Ideas / Spike and Strike Platform Strahl Sprites / HIVE Sprites)
-      
-      [yellow]Hairy Nugget (Spanish Translations)
-      
-      [yellow]DeCell (Balance Playtesting)
-
-      [yellow]coco (Balance Playtesting / French Translations)
-  
-      [yellow]migmag789 (French Translations)
-
-      [yellow]ThePythonGuy3 (Outpost Script)
-
-      [yellow]NiChrosia (Outpost Script)
-
-      [yellow]ABreaker (Logo & Several Sprites)
-
+      Many, many people! Check Discord for more information!
   '''
 description:
   '''
@@ -34,6 +17,9 @@ description:
   Supported Languages: English, Spanish, German
   
   Please note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).
+  
+  Do not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, 
+  some turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!
   '''
 version: 1.08
 minGameVersion: 121
