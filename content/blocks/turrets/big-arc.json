@@ -37,6 +37,6 @@
   ],
   "category": "turret",
   "type": "PowerTurret",
-  "health": 320,
+  "health": 520,
   "research": "arc"
 }
