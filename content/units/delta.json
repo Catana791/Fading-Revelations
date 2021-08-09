@@ -25,7 +25,7 @@
       "range": 150,
       "x": 0,
       "y": 2,
-      "reload": 10,
+      "reload": 7,
       "shootcone": 360,
       "spacing": 0,
       "shootSound": "shoot",
@@ -35,7 +35,7 @@
         "damage": 11,
         "pierce": false,
         "homingRange": 150,
-        "homingPower": 0.7,
+        "homingPower": 0.35,
         "splashDamage": 5,
         "splashDamageRadius": 5
       }
