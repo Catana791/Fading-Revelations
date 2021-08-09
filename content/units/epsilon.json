@@ -38,7 +38,7 @@
         "splashDamage": 6,
         "splashDamageRadius": 5,
         "homingRange": 170,
-        "homingPower": 0.4
+        "homingPower": 0.2
       }
     }
   ]
