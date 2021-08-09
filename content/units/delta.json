@@ -1,9 +1,9 @@
 {
   "type": "flying",
-  "name": "Builder Mech",
-  "description": "Defends the Atom core from enemies. Builds structures and slows enemies.",
+  "name": "Delta",
+  "description": "Defends the Atom core from enemies. Builds structures quickly.",
   "drag": 0.15,
-  "speed": 3,
+  "speed": 3.85,
   "research": "poly",
   "maxVelocity": 2,
   "canBuild": true,
@@ -24,23 +24,18 @@
       "name": "nothing",
       "range": 150,
       "x": 0,
-      "y": -2,
-      "reload": 50,
+      "y": 2,
+      "reload": 10,
       "shootcone": 360,
       "spacing": 0,
-      "shootSound": "laser",
+      "shootSound": "shoot",
       "bullet": {
         "type": "BasicBulletType",
-        "speed": 40,
-        "collidesTeam": true,
-        "canHeal": true,
-        "healPercent": 7.5,
-        "damage": 10,
-        "lifetime": 7,
+        "speed": 10,
+        "damage": 11,
         "pierce": false,
-        "range": 150,
-        "status": "slow",
-        "satusDuration": 5
+        "homingRange": 150,
+        "homingPower": 0.7
       }
     }
   ]
