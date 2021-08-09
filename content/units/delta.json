@@ -35,7 +35,7 @@
         "damage": 11,
         "pierce": false,
         "homingRange": 150,
-        "homingPower": 0.1,
+        "homingPower": 0.18,
         "splashDamage": 5,
         "splashDamageRadius": 5
       }
