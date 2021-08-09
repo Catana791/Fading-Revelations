@@ -34,7 +34,7 @@
         "speed": 10,
         "damage": 11,
         "pierce": true,
-        "pierceCap": 6,
+        "pierceCap": 1,
         "splashDamage": 6,
         "splashDamageRadius": 5,
         "homingRange": 170,
