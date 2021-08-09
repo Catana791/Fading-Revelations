@@ -7,7 +7,7 @@
   "hasItems": true,
   "hasLiquids": false,
   "craftTime": 85,
-  "craftEffect": "pulverizeRed",
+  "craftEffect": "plasticExplosion",
   "updateEffect": "pulverizeRed",
   "consumes": {
     "power": 0.4,
