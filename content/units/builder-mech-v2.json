@@ -1,7 +1,7 @@
 {
   "type": "flying",
-  "name": "Builder Mech, V.II",
-  "description": "Defends the Element core from enemies. Builds structures and slows enemies.",
+  "name": "Epsilon",
+  "description": "Defends the Element core from enemies. Builds structures quickly.",
   "drag": 0.15,
   "speed": 3,
   "research": "builder-mech",
@@ -22,25 +22,23 @@
   "weapons": [
     {
       "name": "nothing",
-      "range": 150,
+      "range": 170,
       "x": 0,
-      "y": -2,
-      "reload": 50,
+      "y": 2,
+      "reload": 8,
       "shootcone": 360,
       "spacing": 0,
-      "shootSound": "laser",
+      "shootSound": "shoot",
       "bullet": {
         "type": "BasicBulletType",
-        "speed": 40,
-        "collidesTeam": true,
-        "canHeal": true,
-        "healPercent": 7.5,
-        "damage": 10,
-        "lifetime": 7,
-        "pierce": false,
-        "range": 150,
-        "status": "slow",
-        "satusDuration": 5
+        "speed": 10,
+        "damage": 11,
+        "pierce": true,
+        "pierceCap": 6,
+        "splashDamage": 6,
+        "splashDamageRadius": 5,
+        "homingRange": 170,
+        "homingPower": 0.85
       }
     }
   ]
