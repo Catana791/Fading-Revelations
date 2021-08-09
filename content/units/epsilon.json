@@ -14,7 +14,7 @@
   "buildTier": 5,
   "mass": 10,
   "commandLimit": 8,
-  "health": 310,
+  "health": 410,
   "flying": true,
   "rotateWeapon": true,
   "rotatespeed": 0.06,
@@ -25,7 +25,7 @@
       "range": 170,
       "x": 0,
       "y": 2,
-      "reload": 8,
+      "reload": 5,
       "shootcone": 360,
       "spacing": 0,
       "shootSound": "shoot",
@@ -38,7 +38,7 @@
         "splashDamage": 6,
         "splashDamageRadius": 5,
         "homingRange": 170,
-        "homingPower": 0.85
+        "homingPower": 0.4
       }
     }
   ]
