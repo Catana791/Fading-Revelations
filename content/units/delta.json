@@ -3,7 +3,7 @@
   "name": "Delta",
   "description": "Defends the Atom core from enemies. Builds structures quickly.",
   "drag": 0.15,
-  "speed": 3.85,
+  "speed": 4,
   "research": "poly",
   "maxVelocity": 2,
   "canBuild": true,
