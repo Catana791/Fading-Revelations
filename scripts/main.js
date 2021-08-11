@@ -2,13 +2,13 @@ require("outpost");
 require("gold-exchanger");
 require("music");
 
+let cont;
 Events.on(ClientLoadEvent, e => {
-  Time.run(8, () -> {
-    a = Core.scene.find("menu container");
-    cont = a.children.get(0);
+  Time.run(10, () => {
+    cont = Vars.ui.discord.cont.children.get(2);
     cont.row();
-    cont.button("discord", () => {
-      Core.app.openURI("https://discord.gg/YB3ky9tJR4");
-    });
-  });
-}); 
+    cont.button("Mindustry Extended Discord", () => Core.app.openURI("https://discord.gg/YB3ky9tJR4"));
+  }
+} 
+
+ 
