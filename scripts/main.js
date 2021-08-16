@@ -1,5 +1,5 @@
 require("outpost");
-require("gold-exchanger");
+//require("gold-exchanger");
 require("music");
 
 let cont;
