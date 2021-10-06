@@ -25,15 +25,6 @@ https://discord.gg/YB3ky9tJR4
 
 ### All textured and coded with love.
 
-## Screenshots:
-
-### Release 1.02: The living steel update:
-
-<img src="https://github.com/Fresh791/mindustry-extended/blob/main/github/screenshot-v.1.02.jpeg">
-
-### Release 1.03: The Drill and Laser update:
-
-<img src="https://github.com/Fresh791/mindustry-extended/blob/main/github/the-drill-and-laser-update.jpg">
 
 ## Software used:
 
