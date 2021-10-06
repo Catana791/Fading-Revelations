@@ -12,5 +12,25 @@
   "hasLiquids": false,
   "rotateSpeed": 1.2,
   "reloadTime": 300,
-  "ammoTypes": ,
+  "ammoTypes": {
+    "dark-steel": {
+      "type": "BasicBulletType",
+      "sprite": "me-void-bullet",
+      "damage": 300,
+      "splashDamageRadius": 25,
+      "splashDamage": 100,
+      "speed": 4,
+      "height": 20,
+      "inaccuracy": 14,
+      "width": 20,
+      "bulletShrink": -0.5,
+      "pierce": true,
+      "status": {
+        "name": void-call,
+        "localizedName": "Call of the Void",
+        "damage": 40
+        "incendChance": 0.2,
+        "incendAmount": 0.5,
+      }
+    }
 }
