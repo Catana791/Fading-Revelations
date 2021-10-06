@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "type": "itemTurret",
+  "description": "A turret that charges up and then unleashes an unknown bullet type.",
+  "category": "turret",
+  "research": "sniper",
+  "health": 2300,
+  "range": 300,
+  "itemCapacity": 25
+  "hasItems": true,
+  "liquidCapacity": 0,
+  "hasLiquids": false,
+  "rotateSpeed": 1.2,
+  "reloadTime": 300,
+  "ammoTypes": ,
+}
