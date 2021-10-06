@@ -21,7 +21,8 @@ https://discord.gg/YB3ky9tJR4
  - 7 new ammo types,
  - 2 Larger Core Blocks (with fitting drones),
  - A whole new trading system using currency,
- - A unit upgrading system that takes mod units and buffs their stats!
+ - A unit upgrading system that takes mod units and buffs their stats,
+ - A whole new way to distribute items across the map without effort using the outpost block!
 
 ### All textured and coded with love.
 
