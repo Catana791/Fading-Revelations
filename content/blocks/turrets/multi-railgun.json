@@ -26,6 +26,7 @@
       "damage": 505,
       "sprite": "railgun-bolt",
       "pierce": true,
+      "sprite": "mindustry-extended-railstorm-bullet",
       "frontColor": "80008e",
       "backColor": "05ecec",
       "splashDamage": 30,
@@ -40,6 +41,7 @@
       "pierce": true,
       "frontColor": "02acd0",
       "backColor": "05ecec",
+      "sprite": "mindustry-extended-railstorm-bullet",
       "splashDamage": 35,
       "splashDamageRadius": 11
       "homingPower": 0.9,
