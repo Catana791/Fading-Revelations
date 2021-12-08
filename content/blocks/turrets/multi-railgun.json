@@ -13,7 +13,7 @@
   "recoilAmount": 6,
   "shots": 5,
   "alternate": true,
-  "spread": 8,
+  "spread": 12,
   "ammoUseEffect": "casing3",
   "rotateSpeed": 2.5,
   "range": 450,
