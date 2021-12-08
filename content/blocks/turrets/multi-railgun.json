@@ -22,7 +22,7 @@
   },
   "ammoTypes": {
     "living-steel": {
-      "speed": 20,
+      "speed": 10,
       "damage": 505,
       "sprite": "railgun-bolt",
       "pierce": true,
@@ -35,7 +35,7 @@
       "homingRange": 240
     },
     "nano-ammo": {
-      "speed": 20,
+      "speed": 10,
       "damage": 20,
       "sprite": "railgun-bolt",
       "pierce": true,
