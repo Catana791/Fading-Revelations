@@ -32,6 +32,7 @@ https://discord.gg/YB3ky9tJR4
  - [Piskel](https://www.piskelapp.com/) (Sprites) 
  - Json Editor (You can get it from the Microsoft Store e.g.)
  - [Shield.io](https://shields.io) (Badges)
+ - Microsoft Visual Studio Code 2019
 
 ## Useful Links:
 
