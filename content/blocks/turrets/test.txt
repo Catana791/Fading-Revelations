@@ -31,6 +31,10 @@
         "damage": 40
         "incendChance": 0.2,
         "incendAmount": 0.5,
+        "homingRange": 20,
+        "homingPower": 0.3,
+        "splashDamage": 20,
+        "splashDamageRadius": 5
       }
     }
 }
