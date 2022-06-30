@@ -34,6 +34,7 @@ pierce: true
 pierceCap: 6
 width: 5
 height: 8
+length: 300
 collide: true
 collideAir: false
 collideTeam: false
