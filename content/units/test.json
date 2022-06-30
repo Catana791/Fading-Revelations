@@ -51,15 +51,23 @@
       "range": 300,
       "bullet": {
         "type": "BasicBulletType",
-        "width": 20,
-        "height": 20,
-        "damage": 70,
-        "length": 20,
-        "hitSize": 10,
-        "bulletShrink": -5,
-        "speed": 5,
-        "splashDamageRadius": 20,
-        "splashDamage": 35,
+        "width": 0,
+        "height": 0,
+        "length": 0,
+        "fragBullets": 1,
+        "fragBullet" {
+          "type": "BombBulletType",
+          "speed": 0,
+          "damage": 70,
+          "lifetime": 30,
+          "collides": true
+          "height": 10,
+          "width": 10,
+          "hitSize": 20,
+          "targetAir": true,
+          "targetGround": true,
+          "collides": true
+        }
       }
     }
   ],
