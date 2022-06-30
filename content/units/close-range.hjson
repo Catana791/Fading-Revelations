@@ -24,7 +24,7 @@ shootSound: lasershoot
 rotate: false
 bullet: {
 type: LaserBulletType
-damage: 35
+damage: 20
 speed: 20
 drag: -0.0015
 homingPower: 0.01
