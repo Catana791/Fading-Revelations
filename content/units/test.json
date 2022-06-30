@@ -54,7 +54,7 @@
         "width": 3,
         "height": 3,
         "lifetime": 5,
-        "speed": 8,
+        "speed": 100,
         "length": 3,
         "fragBullets": 1,
         "fragBullet": {
