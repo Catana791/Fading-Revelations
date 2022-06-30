@@ -39,6 +39,7 @@
         "trailColor": "665c9f",
         "frontColor": "ce67e7",
         "backColor": "c58be1"
+      }
     },
     {
       "name": "corruption-shooter",
@@ -70,6 +71,7 @@
           "collides": true
         }
       }
+    }
     }
   ],
   "abilities": [
