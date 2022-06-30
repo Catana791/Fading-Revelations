@@ -1,0 +1,55 @@
+{
+  "name": "test",
+  "type": "flying",
+  "description": "test",
+  "speed": 1,
+  "research": "carrier-flagship",
+  "maxVelocity": 1.05,
+  "mass": 20,
+  "commandLimit": 10,
+  "flying": true,
+  "hitSize": 75,
+  "health": 4200,
+  "armor": 10,
+  "rotateWeapon": true,
+  "rotateSpeed": 0.06,
+  "weapons": [
+    {
+      "name": "nothing",
+      "range": 150,
+      "rotate": true,
+      "mirror": true,
+      "reload": 5,
+      "bullet": {
+        "type": "MissileBulletType",
+        "width": 4,
+        "height": 8,
+        "damage": 10,
+        "bulletShrink": 0.5,
+        "homingRange": 120,
+        "homingPower": 0.01,
+        "splashDamageRadius": 12,
+        "splashDamage": 5,
+        "trailColor": "665c9f",
+        "frontColor": "ce67e7",
+        "backColor": "c58be1"
+      }
+    }
+  ],
+  "abilities": [
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "crawler".
+      "spawnX": -20,
+      "spawnY": -20,
+      "spawnTime": 400
+    },
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "crawler".
+      "spawnX": 20,
+      "spawnY": -20,
+      "spawnTime": 400
+    }
+  ]
+}
