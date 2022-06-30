@@ -29,6 +29,8 @@
         "speed": 20,
         "damage": 30,
         "lifetime": 300,
+        "pierce": true,
+        "pierceCap": 10,
         "homingRange": 120,
         "homingPower": 0.01,
         "splashDamageRadius": 12,
