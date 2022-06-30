@@ -51,10 +51,10 @@
       "range": 300,
       "bullet": {
         "type": "BasicBulletType",
-        "width": 0,
-        "height": 0,
+        "width": 1,
+        "height": 1,
         "damage": 70,
-        "length": 0,
+        "length": 1,
         "hitSize": 10,
         "bulletGrowth": 3,
         "speed": 20,
