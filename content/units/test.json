@@ -63,7 +63,7 @@
         "length": 3,
         "fragBullets": 1,
         "fragBullet": {
-          "type": "BombBulletType",
+          "type": "BasicBulletType",
           "speed": 0,
           "damage": 70,
           "lifetime": 50,
@@ -76,7 +76,7 @@
           "collides": true,
           "fragBullets": 1,
           "fragBullet": {
-            "type": "BombBulletType",
+            "type": "BasicBulletType",
             "speed": 0,
             "damage": 70,
             "lifetime": 50,
@@ -94,8 +94,8 @@
                 "damage": 70,
                 "lifetime": 50,
                 "collides": true
-                "height": 100,
-                "width": 100,
+                "height": 75,
+                "width": 65,
                 "hitSize": 100,
                 "targetAir": true,
                 "targetGround": true,
