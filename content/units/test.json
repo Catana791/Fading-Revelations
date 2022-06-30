@@ -40,6 +40,27 @@
         "frontColor": "ce67e7",
         "backColor": "c58be1"
       }
+    },
+    {
+      "name": "corruption-shooter",
+      "shootSound": "wave",
+      "reload": 100,
+      "mirror": true,
+      "x": -20,
+      "y": -10,
+      "range": 300,
+      "bullet": {
+        "type": "BasicBulletType",
+        "width": 0,
+        "height": 0,
+        "damage": 70,
+        "length": 0,
+        "hitSize": 10,
+        "bulletGrowth": 3,
+        "speed": 20,
+        "splashDamageRadius": 20,
+        "splashDamage": 35,
+      }
     }
   ],
   "abilities": [
