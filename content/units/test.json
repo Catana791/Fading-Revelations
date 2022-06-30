@@ -45,6 +45,7 @@
       "name": "corruption-shooter",
       "shootSound": "wave",
       "reload": 100,
+      "rotate": true,
       "mirror": true,
       "x": -20,
       "y": -10,
@@ -54,21 +55,54 @@
         "width": 3,
         "height": 3,
         "lifetime": 5,
-        "speed": 100,
+        "collides": true,
+        "collidesAir": false,
+        "collidesGround": false,
+        "collidesTeam": false,
+        "speed": 50,
         "length": 3,
         "fragBullets": 1,
         "fragBullet": {
           "type": "BombBulletType",
           "speed": 0,
           "damage": 70,
-          "lifetime": 30,
+          "lifetime": 50,
           "collides": true
-          "height": 10,
-          "width": 10,
-          "hitSize": 20,
+          "height": 100,
+          "width": 100,
+          "hitSize": 100,
           "targetAir": true,
           "targetGround": true,
-          "collides": true
+          "collides": true,
+          "fragBullets": 1,
+          "fragBullet": {
+            "type": "BombBulletType",
+            "speed": 0,
+            "damage": 70,
+            "lifetime": 50,
+            "collides": true
+            "height": 100,
+            "width": 100,
+            "hitSize": 100,
+            "targetAir": true,
+            "targetGround": true,
+            "collides": true,
+            "fragBullets": 1,
+              "fragBullet": {
+                "type": "BombBulletType",
+                "speed": 0,
+                "damage": 70,
+                "lifetime": 50,
+                "collides": true
+                "height": 100,
+                "width": 100,
+                "hitSize": 100,
+                "targetAir": true,
+                "targetGround": true,
+                "collides": true,
+                "fragBullets": 1,
+            }
+          }
         }
       }
     }
