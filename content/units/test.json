@@ -56,7 +56,7 @@
         "damage": 70,
         "length": 20,
         "hitSize": 10,
-        "bulletGrowth": 5,
+        "bulletShrink": -5,
         "speed": 5,
         "splashDamageRadius": 20,
         "splashDamage": 35,
