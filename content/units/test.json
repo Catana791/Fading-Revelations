@@ -69,6 +69,8 @@
           "lifetime": 50,
           "collides": true
           "height": 50,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
           "width": 50,
           "hitSize": 100,
           "targetAir": true,
@@ -83,6 +85,8 @@
             "collides": true
             "height": 50,
             "width": 50,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
             "hitSize": 100,
             "targetAir": true,
             "targetGround": true,
@@ -95,6 +99,8 @@
                 "lifetime": 50,
                 "collides": true
                 "height": 30,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
                 "width": 30,
                 "hitSize": 100,
                 "targetAir": true,
