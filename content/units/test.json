@@ -39,14 +39,14 @@
   "abilities": [
     {
       "type": "UnitSpawnAbility",
-      "unit": "crawler".
+      "unit": "crawler",
       "spawnX": -20,
       "spawnY": -20,
       "spawnTime": 400
     },
     {
       "type": "UnitSpawnAbility",
-      "unit": "crawler".
+      "unit": "crawler",
       "spawnX": 20,
       "spawnY": -20,
       "spawnTime": 400
