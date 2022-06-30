@@ -109,6 +109,70 @@
                 "collides": true,
                 "fragBullets": 1,
             }
+        "fragBullet": {
+                "type": "BombBulletType",
+                "speed": 0,
+                "damage": 70,
+                "lifetime": 50,
+                "collides": true
+                "height": 30,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
+                "width": 30,
+                "hitSize": 100,
+                "targetAir": true,
+                "targetGround": true,
+                "collides": true,
+                "fragBullets": 1,
+        "fragBullet": {
+                "type": "BombBulletType",
+                "speed": 0,
+                "damage": 70,
+                "lifetime": 50,
+                "collides": true
+                "height": 30,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
+                "width": 30,
+                "hitSize": 100,
+                "targetAir": true,
+                "targetGround": true,
+                "collides": true,
+                "fragBullets": 1,
+        "fragBullet": {
+                "type": "BombBulletType",
+                "speed": 0,
+                "damage": 70,
+                "lifetime": 50,
+                "collides": true
+                "height": 30,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
+                "width": 30,
+                "hitSize": 100,
+                "targetAir": true,
+                "targetGround": true,
+                "collides": true,
+                "fragBullets": 1,
+        "fragBullet": {
+                "type": "BombBulletType",
+                "speed": 0,
+                "damage": 70,
+                "lifetime": 50,
+                "collides": true
+                "height": 30,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
+                "width": 30,
+                "hitSize": 100,
+                "targetAir": true,
+                "targetGround": true,
+                "collides": true,
+                "fragBullets": 1,
+            }
+            }
+            }
+            }
           }
         }
       }
