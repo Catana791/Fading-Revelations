@@ -16,6 +16,7 @@
   "weapons": [
     {
       "name": "nothing",
+      "shootSound": "explosion",
       "range": 300,
       "rotate": true,
       "mirror": false,
