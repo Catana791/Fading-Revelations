@@ -9,7 +9,7 @@
   "commandLimit": 10,
   "flying": true,
   "hitSize": 75,
-  "health": 4200,
+  "health": 18000,
   "armor": 10,
   "rotateWeapon": true,
   "rotateSpeed": 0.06,
