@@ -46,6 +46,7 @@
       "shootSound": "wave",
       "reload": 100,
       "rotate": true,
+      "rotateSpeed": 10,
       "mirror": true,
       "x": -20,
       "y": -10,
