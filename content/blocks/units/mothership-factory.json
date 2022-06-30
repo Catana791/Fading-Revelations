@@ -59,6 +59,16 @@
       ],
       "time": 12000
     }
+    {
+      "unit": "test",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 1
+        }
+      ],
+      "time": 10
+    }
   ],
   "requirements": [
     {
