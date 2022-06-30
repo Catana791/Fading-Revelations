@@ -57,7 +57,7 @@
         "speed": 8,
         "length": 3,
         "fragBullets": 1,
-        "fragBullet" {
+        "fragBullet": {
           "type": "BombBulletType",
           "speed": 0,
           "damage": 70,
@@ -71,7 +71,6 @@
           "collides": true
         }
       }
-    }
     }
   ],
   "abilities": [
