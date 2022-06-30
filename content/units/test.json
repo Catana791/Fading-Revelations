@@ -16,20 +16,20 @@
   "weapons": [
     {
       "name": "nothing",
-      "range": 150,
+      "range": 300,
       "rotate": true,
       "mirror": true,
-      "reload": 5,
+      "reload": 1,
       "bullet": {
         "type": "MissileBulletType",
-        "width": 4,
-        "height": 8,
-        "damage": 10,
-        "bulletShrink": 0.5,
+        "width": 5,
+        "height": 10,
+        "damage": 30,
+        "lifetime": 300,
         "homingRange": 120,
         "homingPower": 0.01,
         "splashDamageRadius": 12,
-        "splashDamage": 5,
+        "splashDamage": 15,
         "trailColor": "665c9f",
         "frontColor": "ce67e7",
         "backColor": "c58be1"
