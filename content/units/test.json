@@ -1,9 +1,7 @@
 {
   "name": "C.A.U.P.M.D",
   "type": "flying",
-  "description": "The Corrupted Attack Unit Programmed To Mass Destruction (short C.A.U.P.M.D)
-   was created by an unknown organization to remotely take over dangerous sectors but
-   intelligent spores corrupted it's ai leading to the unit getting lost until now.",
+  "description": "The Corrupted Attack Unit Programmed To Mass Destruction (short C.A.U.P.M.D) was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
   "speed": 1,
   "research": "carrier-flagship",
   "maxVelocity": 1.05,
