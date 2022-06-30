@@ -9,7 +9,6 @@ accel: 0.075
 faceTarget: true
 rotateShooting: true
 circleTarget: true
-range: 250
 rotateSpeed: 8
 lowAltitude: true
 omniMovement: true
