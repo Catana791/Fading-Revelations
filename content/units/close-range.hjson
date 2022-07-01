@@ -1,6 +1,12 @@
 name: "Spike"
 description: "A close range unit with high burst damage and speed but low health."
 flying: true
+details:
+'''
+Taking much inspiration from its predecessor, the Galti Attack Drone or more commonly known simply as the 'Spike' is a rather significant step up in terms of attack speed and max velocity. However, in terms of health the unit is noticeably worse of. 
+
+Originally conceptualized as a melee or kamakaze unit the 'Spike' was redesigned after major flaws with the 'blades' were found. However this would not be the end of the 'Spike's problems as the now rapid technological growth made melee combat ineffective, eventually the 'Spike' replaced its old and bulky circuits systems with new living metal circuits allowing for more power generation and the outfitting of high consumption weaponry. 
+'''
 speed: 8
 health: 85
 aimDst: 15
