@@ -12,13 +12,13 @@
   ],
   "category": "defense",
   "research": "copper-wall-large",
-  "baseExplosiveness": 1,
   "destroyBullet": "BombBulletType",
-  "damage": 30,
-  "width": 5,
-  "height": 5,
-  "length": 5,
-  "hitSize": 5,
-  "splashDamage": 5,
-  "splashDamageRadius": 5
+  "bullet": {
+    "type": "BombBulletType",
+    "speed": 0,
+    "lifetime": 10,
+    "damage": 50,
+    "incendChance": 1,
+    "incendAmount": 2,
+    "incendDuration": 120
 }
