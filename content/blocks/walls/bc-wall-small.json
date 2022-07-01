@@ -11,7 +11,7 @@
     }
   ],
   "category": "defense",
-  "research": "titanium-wall-small",
+  "research": "copper-wall-large",
   "baseExplosiveness": 1,
   "destroyBullet": "BombBulletType",
   "damage": 30,
