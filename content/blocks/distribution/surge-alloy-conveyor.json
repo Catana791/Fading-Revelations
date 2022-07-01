@@ -2,6 +2,7 @@
   "type": "Conveyor",
   "name": "Surge alloy conveyor",
   "description": "A very fast conveyor.",
+  "details": "you hear a faint Speeeeeeedwagggoooooooon in the distance.",
   "health": 350,
   "requirements": [
     {
