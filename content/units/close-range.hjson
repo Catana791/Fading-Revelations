@@ -30,7 +30,7 @@ shootSound: lasershoot
 rotate: false
 bullet: {
 type: LaserBulletType
-damage: 20
+damage: 40
 speed: 10
 drag: -0.0015
 pierce: true
@@ -38,7 +38,7 @@ pierceCap: 6
 width: 5
 height: 8
 length: 100
-lifetime: 20
+lifetime: 15
 collide: true
 collideAir: false
 collideTeam: false
