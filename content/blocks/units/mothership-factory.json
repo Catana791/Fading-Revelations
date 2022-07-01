@@ -36,8 +36,8 @@
               "item": "titanium",
               "amount": 2000
             }
-          }
-        ]
+          ]
+        }
       ],
        "time": 14000
     },
@@ -66,11 +66,11 @@
         }
       ],
       "time": 12000
-    }
+    },
     {
       "unit": "test",
       "requirements": [
-{
+        {
           "item": "silicon",
           "amount": 2100
         },
