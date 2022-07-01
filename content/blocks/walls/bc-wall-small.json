@@ -1,0 +1,15 @@
+{
+  "name": "Small Explosive Wall",
+  "description": "A wall made from blast compound that explodes upon destruction and sets it's surroundings on fire.",
+  "type": "Wall",
+  "health": 500,
+  "size": 1,
+  "requirements": [
+    {
+      "item": "blast-compound",
+      "amount": 6
+    }
+  ],
+  "category": "defense",
+  "research": "titanium-wall-small"
+}
