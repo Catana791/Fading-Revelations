@@ -5,7 +5,10 @@
   "size": 7,
   "consumes": [
     {
-      "power": 20,
+      "power": {  
+        "power": 20,
+      }
+    },
       "liquid": {
         "liquid": "water",
         "amount": 0.4
