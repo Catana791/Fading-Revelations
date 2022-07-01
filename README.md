@@ -10,7 +10,7 @@ https://discord.gg/YB3ky9tJR4
    
    <img src="https://github.com/Fresh791/mindustry-extended/blob/main/sprites-override/ui/logo.png">
 
-<img src="https://img.shields.io/badge/active-true%20-true.svg" alt="active"> <img src="https://img.shields.io/github/last-commit/Fresh791/mindustry-extended"> <img src="https://img.shields.io/github/issues/Fresh791/mindustry-extended"> <img src="https://img.shields.io/github/languages/code-size/Fresh791/mindustry-extended"> <img src="https://img.shields.io/discord/815981543624933396"> <img src="https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/turrets">
+<img src="https://img.shields.io/badge/active-true%20-true.svg" alt="active"> <img src="https://img.shields.io/github/last-commit/Fresh791/mindustry-extended"> <img src="https://img.shields.io/github/issues/Fresh791/mindustry-extended"> <img src="https://img.shields.io/github/languages/code-size/Fresh791/mindustry-extended"> <img src="https://img.shields.io/discord/815981543624933396"> <img src="[https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/turrets](https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/turrets?label=Turrets)">
 
 
 ### There are a lot of blocks that are hopefully fun to use!
