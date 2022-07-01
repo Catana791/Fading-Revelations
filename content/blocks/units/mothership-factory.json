@@ -5,11 +5,11 @@
   "size": 7,
   "consumes": [
     {
-      "power": 20
-    },
-    "liquid": {
-      "liquid": "water",
-      "amount": 0.4
+      "power": 20,
+      "liquid": {
+        "liquid": "water",
+        "amount": 0.4
+      }
     }
   ],
   "plans": [
