@@ -4,7 +4,7 @@
   "type": "MendProjector",
   "health": 1350,
   "size": 3,
-  "range": 800,
+  "range": 80,
   "reload": 120,
   "phase": "76619d",
   "consumesPower": false,
