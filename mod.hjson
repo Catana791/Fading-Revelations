@@ -1,4 +1,5 @@
 name: "me"
+"multiplayerCompatible": true
 displayName: "[accent]Mindustry-Extended"
 author: 
   '''
