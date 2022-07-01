@@ -10,30 +10,36 @@
     {
       "unit": "hive",
       "requirements": [
-        {
-          "item": "silicon",
-          "amount": 2100
+        "liquid": {
+          "liquid": "water",
+          "amount": 0.4
         },
-        {
-          "item": "plastanium",
-          "amount": 1300
-        },
-        {
-          "item": "surge-alloy",
-          "amount": 850
-        },
-        {
-          "item": "phase-fabric",
-          "amount": 150
-        },
-        {
-          "item": "titanium",
-          "amount": 2000
+        "items": {
+          "items": [
+            {
+             "item": "silicon",
+              "amount": 2100
+            },
+            {
+             "item": "plastanium",
+              "amount": 1300
+            },
+            {
+              "item": "surge-alloy",
+              "amount": 850
+            },
+            {
+              "item": "phase-fabric",
+              "amount": 150
+            },
+            {
+              "item": "titanium",
+              "amount": 2000
+            }
+          ]
         }
+      ]
       ],
-      "liquid": {
-       "liquid": "liquid-living-steel",
-       "amount": 0.5
        "time": 14000
     },
     {
