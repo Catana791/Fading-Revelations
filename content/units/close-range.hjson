@@ -31,15 +31,13 @@ rotate: false
 bullet: {
 type: LaserBulletType
 damage: 20
-speed: 20
+speed: 10
 drag: -0.0015
-homingPower: 0.01
-homingRange: 15
 pierce: true
 pierceCap: 6
 width: 5
 height: 8
-length: 900
+length: 100
 lifetime: 20
 collide: true
 collideAir: false
