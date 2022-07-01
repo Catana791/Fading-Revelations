@@ -12,26 +12,26 @@
       "requirements": [
         {
           "item": "silicon",
-          "amount": 2100
-        },
-        {
-          "item": "plastanium",
-          "amount": 1450
+          "amount": 2200
         },
         {
           "item": "surge-alloy",
-          "amount": 800
+          "amount": 1450
         },
         {
-          "item": "phase-fabric",
-          "amount": 150
+          "item": "gold",
+          "amount": 1500
+        },
+        {
+          "item": "pyratite",
+          "amount": 750
         },
         {
           "item": "titanium",
-          "amount": 2200
+          "amount": 5000
         }
       ],
-      "time": 12000
+      "time": 20000
     },
     {
       "unit": "sps",
@@ -57,7 +57,7 @@
           "amount": 4500
         }
       ],
-      "time": 12000
+      "time": 16000
     },
     {
       "unit": "test",
