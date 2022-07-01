@@ -7,6 +7,8 @@
   "range": 800,
   "reload": 120,
   "phase": "76619d",
+  "consumesPower": false,
+  "needsPower": false,
   "color": "996de8",
   "hasPower": false,
   "healPercent": 15,
