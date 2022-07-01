@@ -71,7 +71,5 @@
       "liquid": "living-steel-liquid",
       "amount": 0.166
     }
-  },
-  "optional": true,
-    "booster": true
+  }
 }
