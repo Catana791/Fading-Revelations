@@ -5,8 +5,6 @@
   "size": 7,
   "consumes": {
     "power": 20,
-    "liquid": "water",
-    "amount": 0.5
   },
   "plans": [
     {
