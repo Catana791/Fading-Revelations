@@ -17,6 +17,7 @@
     "type": "BombBulletType",
     "speed": 0,
     "lifetime": 10,
+    "hitSize": 10,
     "damage": 50,
     "incendChance": 1,
     "incendAmount": 2,
