@@ -29,13 +29,12 @@
         {
           "item": "titanium",
           "amount": 2000
-        },
-        "liquid": {
-      "liquid": "liquid-living-steel",
-      "amount": 0.5
-    }
+        }
       ],
-      "time": 14000
+      "liquid": {
+       "liquid": "liquid-living-steel",
+       "amount": 0.5
+       "time": 14000
     },
     {
       "unit": "sps",
