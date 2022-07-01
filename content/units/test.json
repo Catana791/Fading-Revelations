@@ -8,6 +8,7 @@
   "mass": 20,
   "commandLimit": 10,
   "flying": true,
+  "faceEnemy": true,
   "hitSize": 75,
   "health": 18000,
   "armor": 10,
