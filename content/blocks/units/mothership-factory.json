@@ -4,7 +4,9 @@
   "description": "Creates slow and extremely powerful superclass units from the mod.",
   "size": 7,
   "consumes": {
-    "power": 20
+    "power": 20,
+    "liquid": "cryofluid",
+    "amount": 0.5
   },
   "plans": [
     {
