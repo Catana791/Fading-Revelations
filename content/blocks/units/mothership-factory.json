@@ -38,23 +38,23 @@
       "requirements": [
         {
           "item": "silicon",
-          "amount": 2100
-        },
-        {
-          "item": "plastanium",
-          "amount": 1450
+          "amount": 2000
         },
         {
           "item": "surge-alloy",
-          "amount": 800
+          "amount": 2000
         },
         {
-          "item": "phase-fabric",
-          "amount": 150
+          "item": "metaglass",
+          "amount": 1500
+        },
+        {
+          "item": "thorium",
+          "amount": 1000
         },
         {
           "item": "titanium",
-          "amount": 2200
+          "amount": 4500
         }
       ],
       "time": 12000
