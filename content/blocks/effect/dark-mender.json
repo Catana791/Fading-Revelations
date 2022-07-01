@@ -9,7 +9,7 @@
   "phase": "76619d",
   "color": "996de8",
   "healPercent": 15,
-  "itemDuration": 60,
+  "itemDuration": 30,
   "consumes": {
     "power": 0,
     "items": {
