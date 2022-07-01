@@ -3,17 +3,9 @@
   "name": "[red]Mothership factory",
   "description": "Creates slow and extremely powerful superclass units from the mod.",
   "size": 7,
-  "consumes": [
-    {
-      "power": {  
-        "power": 20,
-      }
-    },
-      "liquid": {
-        "liquid": "water",
-        "amount": 0.4
-      }
-  ],
+  "consumes": {
+    "power": 20
+  },
   "plans": [
     {
       "unit": "hive",
