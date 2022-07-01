@@ -17,10 +17,10 @@ https://discord.gg/YB3ky9tJR4
 
 ## This mod adds:
  - ~120 new Blocks, 
- - 11 new units with 2 upgraded ones,
+ - Many new units and some of them are upgradable!
  - 7 new ammo types,
  - 2 Larger Core Blocks (with fitting drones),
- - A whole new trading system using currency,
+ - A whole new trading system using currency called gold,
  - A unit upgrading system that takes mod units and buffs their stats,
  - A whole new way to distribute items across the map without effort using the outpost block!
 
