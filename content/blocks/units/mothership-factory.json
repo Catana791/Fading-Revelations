@@ -29,7 +29,11 @@
         {
           "item": "titanium",
           "amount": 2000
-        }
+        },
+        "liquid": {
+      "liquid": "liquid-living-steel",
+      "amount": 0.15
+    }
       ],
       "time": 14000
     },
