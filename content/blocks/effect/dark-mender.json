@@ -12,7 +12,6 @@
   "healPercent": 15,
   "itemDuration": 30,
   "consumes": {
-    "power": 0,
     "items": {
       "items": [
         {
