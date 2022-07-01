@@ -11,5 +11,14 @@
     }
   ],
   "category": "defense",
-  "research": "titanium-wall-small"
+  "research": "titanium-wall-small",
+  "baseExplosiveness": 1,
+  "destroyBullet": "BombBulletType",
+  "damage": 30,
+  "width": 5,
+  "height": 5,
+  "length": 5,
+  "hitSize": 5,
+  "splashDamage": 5,
+  "splashDamageRadius": 5
 }
