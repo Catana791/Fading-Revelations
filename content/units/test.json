@@ -50,7 +50,7 @@
       "mirror": true,
       "x": -20,
       "y": -10,
-      "range": 300,
+      "range": 600,
       "bullet": {
         "type": "BasicBulletType",
         "width": 3,
