@@ -18,6 +18,7 @@
     "height": 2,
     "length": 2,
     "damage": 50,
+    "lifetime": 20,
     "speed": 0,
     "splashDamage": 50,
     "splashDamageRadius": 2,
