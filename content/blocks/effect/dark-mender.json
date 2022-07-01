@@ -4,10 +4,11 @@
   "type": "MendProjector",
   "health": 1350,
   "size": 3,
-  "range": 100,
+  "range": 800,
   "reload": 120,
   "phase": "76619d",
   "color": "996de8",
+  "hasPower": false,
   "healPercent": 15,
   "itemDuration": 30,
   "consumes": {
