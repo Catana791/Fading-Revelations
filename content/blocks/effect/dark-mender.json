@@ -1,0 +1,50 @@
+{
+  "name": "Dark Mender",
+  "description": "Heals nearby blocks in great amounts but needs a constant supply of living steel to do so .",
+  "type": "MendProjector",
+  "health": 1350,
+  "size": 3,
+  "range": 100,
+  "reload": 120,
+  "phase": "76619d",
+  "color": "996de8",
+  "healPercent": 15,
+  "itemDuration": 60,
+  "consumes": {
+    "power": 0,
+    "items": {
+      "items": [
+        {
+          "amount": 1,
+          "item": "living-steel"
+        }
+      ],
+      "optional": false,
+      "booster": false
+    }
+  },
+  "requirements": [
+    {
+      "item": "graphite",
+      "amount": 60
+    },
+    {
+      "item": "silicon",
+      "amount": 140
+    },
+    {
+      "item": "titanium",
+      "amount": 150
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 40
+    },
+    {
+      "item": "living-steel-hard",
+      "amount": 120
+    }
+  ],
+  "category": "effect",
+  "research": "enhanced-mend-projector"
+}
