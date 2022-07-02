@@ -8,6 +8,12 @@
   "explosiveness": 2,
   "radioactivity": 2,
   "research": {
-    "parent": "plastanium"
+    "parent": "mod-gate-resources",
+    "requirements": [
+      {
+        "item": "plastanium",
+        "amount": 100
+      }
+    ]
   }
 }
