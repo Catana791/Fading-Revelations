@@ -83,7 +83,7 @@
         "lifetime": 5,
         "collides": true,
         "collidesAir": false,
-        "collidesGround": false,
+        "collidesGround": true,
         "collidesTeam": false,
         "speed": 50,
         "length": 3,
@@ -93,7 +93,6 @@
           "speed": 0,
           "damage": 70,
           "lifetime": 50,
-          "collides": true
           "height": 50,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
@@ -102,13 +101,14 @@
           "targetAir": true,
           "targetGround": true,
           "collides": true,
+"collidesGround": true,
           "fragBullets": 1,
           "fragBullet": {
             "type": "BasicBulletType",
             "speed": 0,
             "damage": 70,
             "lifetime": 40,
-            "collides": true
+            
             "height": 60,
             "width": 60,
           "frontColor": "665c9f",
@@ -123,7 +123,7 @@
                 "speed": 0,
                 "damage": 70,
                 "lifetime": 30,
-                "collides": true
+                "collides": true,
                 "height": 70,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
@@ -131,7 +131,7 @@
                 "hitSize": 100,
                 "targetAir": true,
                 "targetGround": true,
-                "collides": true,
+                
                 "fragBullets": 1,
             }
         "fragBullet": {
@@ -139,7 +139,7 @@
                 "speed": 0,
                 "damage": 70,
                 "lifetime": 20,
-                "collides": true
+                "collides": true,
                 "height": 80,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
@@ -147,14 +147,14 @@
                 "hitSize": 100,
                 "targetAir": true,
                 "targetGround": true,
-                "collides": true,
+                
                 "fragBullets": 1,
         "fragBullet": {
                 "type": "BasicBulletType",
                 "speed": 0,
                 "damage": 70,
                 "lifetime": 10,
-                "collides": true
+                "collides": true,
                 "height": 90,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
@@ -162,14 +162,14 @@
                 "hitSize": 100,
                 "targetAir": true,
                 "targetGround": true,
-                "collides": true,
+                
                 "fragBullets": 1,
         "fragBullet": {
                 "type": "BasicBulletType",
                 "speed": 0,
                 "damage": 70,
                 "lifetime": 5,
-                "collides": true
+                
                 "height": 100,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
@@ -184,7 +184,7 @@
                 "speed": 0,
                 "damage": 70,
                 "lifetime": 2.5,
-                "collides": true
+                
                 "height": 110,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
@@ -199,7 +199,7 @@
                 "speed": 0,
                 "damage": 100,
                 "lifetime": 80,
-                "collides": true
+                
                 "height": 200,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
