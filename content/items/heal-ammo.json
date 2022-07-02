@@ -7,7 +7,7 @@
   "flammability": 0,
   "explosiveness": 0,
   "research": {
-    "parent": "spore-pod",
+    "parent": "mod-gate-ammo",
     "requirements": [
       {
         "item": "spore-pod",
