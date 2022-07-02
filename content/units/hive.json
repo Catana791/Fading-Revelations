@@ -6,7 +6,7 @@
   "rotateWeapon": true,
   "speed": 0.96,
   "flying": true,
-  "research": "sps",
+  "research": "test",
   "maxVelocity": 1.02,
   "mass": 10,
   "commandLimit": 21,
