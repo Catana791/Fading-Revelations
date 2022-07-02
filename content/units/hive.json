@@ -6,7 +6,31 @@
   "rotateWeapon": true,
   "speed": 0.96,
   "flying": true,
-  "research": "test",
+  "research": {
+     "parent": "test",
+     "requirements": [
+       {
+	"item": "silicon",
+	"amount": 2200
+       },
+	     {
+		     "item": "surge-alloy";
+		     "amount": 1450
+	     },
+	     {
+		     "item": "gold",
+		     "amount": 1500
+	     },
+	     {
+		     "item": "pyratite",
+		     "amount": 750
+	     },
+	     {
+		     "item": "titanium",
+		     "amount": 5000
+	     }
+    ]
+  },
   "maxVelocity": 1.02,
   "mass": 10,
   "commandLimit": 21,
