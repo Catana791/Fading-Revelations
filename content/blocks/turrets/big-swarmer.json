@@ -122,5 +122,5 @@
   ],
   "shootSound": "missile",
   "category": "turret",
-  "research": "upgrade-turret"
+  "research": "shotgun"
 }
