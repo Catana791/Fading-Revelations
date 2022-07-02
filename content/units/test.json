@@ -34,7 +34,7 @@
   "flying": true,
   "faceEnemy": true,
   "hitSize": 75,
-  "health": 18000,
+  "health": 20000,
   "armor": 10,
   "baseRotateSpeed": 3,
   "rotateWeapon": true,
