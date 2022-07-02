@@ -9,6 +9,7 @@
   },
   "maxVelocity": 2,
   "commandLimit": 0,
+  "alwaysUnlocked": false,
   "health": 1070,
   "flying": true,
   "rotateWeapon": false,
