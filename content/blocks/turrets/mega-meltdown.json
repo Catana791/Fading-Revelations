@@ -65,7 +65,7 @@
     }
   ],
   "category": "turret",
-  "research": "arc-coil-big",
+  "research": "big-parallax",
   "consumes": {
     "liquid": {
       "liquid": "living-steel-liquid",
