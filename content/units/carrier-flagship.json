@@ -5,7 +5,27 @@
   "drag": 0.15,
   "speed": 0.9,
   "category": "unit",
-  "research": "king",
+  "research": {
+    "parent": "king",
+    "requirements": [
+      {
+        "item": "silicon",
+        "amount": 200
+      },
+      {
+        "item": "plastanium",
+        "amount": 150
+      },
+      {
+        "item": "surge-alloy",
+        "amount": 100
+      }.
+      {
+        "item": "phase-fabric",
+        "amount": 150
+      }
+    ]
+  },
   "maxVelocity": 0.95,
   "mass": 10,
   "commandLimit": 10,
