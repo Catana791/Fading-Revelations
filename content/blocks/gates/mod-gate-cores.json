@@ -1,6 +1,6 @@
 {
     "type": "Wall",
-    "name": "Gate: Blocks",
+    "name": "Gate: Cores",
     "description": "The gate to all of the cores included in the Mindustry Extended Mod.",
     "details": "Contains the tech tree of Mindustry Extended cores.",
     "health": 0,
