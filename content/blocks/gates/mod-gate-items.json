@@ -1,7 +1,7 @@
 {
     "type": "Wall",
     "name": "Gate: Items",
-    "description": "The gate to all of the items included to the Mindustry Extended Mod.",
+    "description": "The gate to all of the items included in the Mindustry Extended Mod.",
     "details": "Contains the tech tree of Mindustry Extended items.",
     "health": 0,
     "buildVisibility": "hidden",
