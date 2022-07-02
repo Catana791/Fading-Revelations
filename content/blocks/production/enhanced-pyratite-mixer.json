@@ -47,7 +47,7 @@
     }
   ],
   "category": "crafting",
-  "research": "pyratite-mixer",
+  "research": "induced-kiln",
   "outputItem": {
     "item": "pyratite",
     "amount": 2
