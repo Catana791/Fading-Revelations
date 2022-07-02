@@ -10,8 +10,8 @@
     "parent": "thorium",
     "requirements": [
       {
-        "item": "thorium",
-        "amount": 50
+        "item": "heal-ammo",
+        "amount": 200
       }
     ]
   }
