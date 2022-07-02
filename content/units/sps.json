@@ -6,7 +6,31 @@
   "rotateWeapon": true,
   "speed": 0.96,
   "flying": true,
-  "research": "mod-gate-units",
+  "research": {
+    "parent": "mod-gate-units",
+    "requirements": [
+      {
+        "item": "silicon",
+        "amount": 2000
+      },
+      {
+        "item": "surge-alloy",
+        "amount": 2000
+      },
+      {
+        "item": "metaglass",
+        "amount": 1500
+      },
+      {
+        "item": "thorium",
+        "amount": 1000
+      },
+      {
+        "item": "titanium",
+        "amount": 4500
+      }
+    ]
+  },
   "maxVelocity": 1.02,
   "mass": 10,
   "commandLimit": 21,
