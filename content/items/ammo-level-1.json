@@ -7,7 +7,7 @@
   "flammability": 0.1,
   "explosiveness": 0.1,
    "research": {
-    "parent": "copper",
+    "parent": "mod-gate-ammo",
     "requirements": [
       {
         "item": "copper",
