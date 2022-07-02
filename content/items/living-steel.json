@@ -8,6 +8,12 @@
   "flammability": 0.5,
   "explosiveness": 0,
   "research": {
-    "parent": "mod-gate-resources"
+    "parent": "mod-gate-resources",
+    "requirements": [
+      {
+        "item": "spore-pod",
+        "amount": 200
+      }
+    ]
   }
 }
