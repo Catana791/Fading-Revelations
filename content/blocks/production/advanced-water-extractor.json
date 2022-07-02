@@ -31,6 +31,6 @@
   ],
   "powerUse": 0.8,
   "category": "production",
-  "research": "mod-gate-production",
+  "research": "mod-gate-crafters",
   "liquidCapacity": 250
 }
