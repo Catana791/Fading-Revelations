@@ -34,7 +34,7 @@
     }
   ],
   "category": "crafting",
-  "research": "pyratite-mixer",
+  "research": "mod-gate-production",
   "outputItem": {
     "item": "ammo-level-1",
     "amount": 2
