@@ -65,11 +65,13 @@
     }
   ],
   "category": "turret",
-  "research": "meltdown",
+  "research": "arc-coil-big",
   "consumes": {
     "liquid": {
       "liquid": "living-steel-liquid",
-      "amount": 0.166
+      "amount": 0.166,
+      "booster": false,
+      "optional": true
     }
   }
 }
