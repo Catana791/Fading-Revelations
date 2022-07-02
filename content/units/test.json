@@ -98,7 +98,7 @@
           "frontColor": "665c9f",
           "backColor": "bf92f9",
           "width": 50,
-          "hitSize": 100,
+     
           "splashDamage": 50,
           "targetAir": true,
           "targetGround": true,
@@ -116,7 +116,7 @@
             "width": 60,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
-            "hitSize": 100,
+
             "targetAir": true,
             "targetGround": true,
             "collides": true,
@@ -133,7 +133,7 @@
           "frontColor": "665c9f",
           "backColor": "bf92f9",
                 "width": 70,
-                "hitSize": 100,
+               
                 "targetAir": true,
                 "targetGround": true,
                 
@@ -151,7 +151,7 @@
           "frontColor": "665c9f",
           "backColor": "bf92f9",
                 "width": 80,
-                "hitSize": 100,
+               
                 "targetAir": true,
                 "targetGround": true,
                 
@@ -168,7 +168,7 @@
           "frontColor": "665c9f",
           "backColor": "bf92f9",
                 "width": 90,
-                "hitSize": 100,
+               
                 "targetAir": true,
                 "targetGround": true,
                 
@@ -184,7 +184,7 @@
           "frontColor": "665c9f",
           "backColor": "bf92f9",
                 "width": 100,
-                "hitSize": 100,
+               
                 "targetAir": true,
                 "targetGround": true,
                 "collides": true,
