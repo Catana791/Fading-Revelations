@@ -2,12 +2,12 @@
   "name": "Huge Copperwall",
   "description": "A copper wall. Bigger than the big one.",
   "type": "Wall",
-  "health": 2880,
+  "health": 3840,
   "size": 3,
   "requirements": [
     {
       "item": "copper",
-      "amount": 300
+      "amount": 72
     }
   ],
   "category": "defense",
