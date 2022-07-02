@@ -7,5 +7,5 @@
     "buildVisibility": "hidden",
     "alwaysUnlocked": true,
     "research": "core-shard",
-    "category":  "walls"
+    "size": 2
 }
