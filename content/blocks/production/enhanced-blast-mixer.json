@@ -43,7 +43,7 @@
     }
   ],
   "category": "crafting",
-  "research": "blast-mixer",
+  "research": "enhanced-pyratite-mixer",
   "outputItem": {
     "item": "blast-compound",
     "amount": 2
