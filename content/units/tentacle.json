@@ -4,7 +4,7 @@
   "description": "Heavy damage sniper drone. Has this name because of the tentacle-like shielding on it's back.",
   "drag": 0.15,
   "speed": 0.8,
-  "research": "toxopid",
+  "research": "mod-gate-units",
   "maxVelocity": 0.68,
   "mass": 10,
   "commandLimit": 10,
