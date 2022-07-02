@@ -7,6 +7,6 @@
   "flammability": 0,
   "explosiveness": 0,
   "research": {
-    "parent": "copper"
+    "parent": "mod-gate-resources"
   }
 }
