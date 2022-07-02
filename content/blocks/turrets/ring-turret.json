@@ -117,7 +117,7 @@
   },
   "category": "turret",
   "shootSound": "explosion",
-  "research": "salvo",
+  "research": "gattling",
   "requirements": [
     {
       "item": "copper",
