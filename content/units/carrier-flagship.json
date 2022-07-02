@@ -5,7 +5,7 @@
   "drag": 0.15,
   "speed": 0.9,
   "category": "unit",
-  "research": "omura",
+  "research": "king",
   "maxVelocity": 0.95,
   "mass": 10,
   "commandLimit": 10,
