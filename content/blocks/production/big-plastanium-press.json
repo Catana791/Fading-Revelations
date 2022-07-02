@@ -42,7 +42,7 @@
     }
   ],
   "category": "crafting",
-  "research": "plastanium-compressor",
+  "research": "enhanced-blast-mixer",
   "outputItem": {
     "item": "plastanium",
     "amount": 4
