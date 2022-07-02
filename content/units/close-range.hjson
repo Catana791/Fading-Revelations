@@ -48,4 +48,14 @@ collideTile: false
 ]
 research: {
 parent: lancer-drone
+requirements: [
+{
+  item: titanium
+  amount: 150
+}
+{
+  item: living-steel-hard
+  amount: 100
+}
+]
 }
