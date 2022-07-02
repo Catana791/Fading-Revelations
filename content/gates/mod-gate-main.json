@@ -4,8 +4,8 @@
     "description": "The gate to all of the content included to the Mindustry Extended Mod.",
     "details": "Contains the tech tree of Mindustry Extended.",
     "health": 0,
-    "buildVisibility": "hidden",
+    "buildVisibility": "shown",
     "alwaysUnlocked": true,
     "research": "core-shard",
-    "category":  "walls"
+    "size": 3,
 }
