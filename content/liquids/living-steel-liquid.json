@@ -9,6 +9,12 @@
   "viscosity": 0.1,
   "flammability": 0,
   "research": {
-    "parent": "cryofluid"
+    "parent": "living-steel",
+    "requirements": [
+      {
+        "item": "living-steel",
+        "amount": 200
+      }
+    ]
   }
 }
