@@ -47,7 +47,7 @@
     }
   ],
   "category": "crafting",
-  "research": "big-phase-weaver",
+  "research": "surge-oven-big",
   "outputItem": {
     "item": "uraniumrod",
     "amount": 3
