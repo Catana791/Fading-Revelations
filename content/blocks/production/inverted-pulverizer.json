@@ -35,7 +35,7 @@
     }
   ],
   "category": "crafting",
-  "research": "pulverizer",
+  "research": "mod-gate-crafters",
   "idleSound": "respawning",
   "idleSoundVolume": 0.2
 }
