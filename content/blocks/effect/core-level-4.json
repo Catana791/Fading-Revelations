@@ -37,7 +37,7 @@
     }
   ],
   "category": "effect",
-  "research": "core-nucleus",
+  "research": "mod-gate-cores",
   "unitType": "delta",
   "unitCapModifier": 32
 }
