@@ -45,7 +45,7 @@
   ],
   "drawer": "drawWeave",
   "category": "crafting",
-  "research": "phase-weaver",
+  "research": "big-plastanium-press",
   "outputItem": {
     "item": "phase-fabric",
     "amount": 4
