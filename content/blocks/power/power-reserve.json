@@ -12,5 +12,5 @@
 		{"item": "surge-alloy", "amount": 25}
 	],
 	"consumes": { "powerBuffered": 500000 },
-	"research": "battery-large"
+	"research": "mod-gate-power"
 }
