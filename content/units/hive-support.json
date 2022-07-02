@@ -11,6 +11,7 @@
   "commandLimit": 0,
   "health": 310,
   "flying": true,
+  "alwaysUnlocked": false,
   "rotateWeapon": false,
   "rotatespeed": 0.06,
   "baseRotateSpeed": 0.05,
