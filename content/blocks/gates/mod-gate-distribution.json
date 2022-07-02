@@ -1,7 +1,7 @@
 {
     "type": "Wall",
     "name": "Gate: Distribution",
-    "description": "The gate to all of the conveyors and similar blocks included to the Mindustry Extended Mod.",
+    "description": "The gate to all of the conveyors and similar blocks included in the Mindustry Extended Mod.",
     "details": "Contains the tech tree of Mindustry Extended conveyors and similar.",
     "health": 0,
     "buildVisibility": "hidden",
