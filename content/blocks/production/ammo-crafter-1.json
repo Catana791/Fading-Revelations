@@ -34,7 +34,7 @@
     }
   ],
   "category": "crafting",
-  "research": "mod-gate-production",
+  "research": "mod-gate-crafters",
   "outputItem": {
     "item": "ammo-level-1",
     "amount": 2
