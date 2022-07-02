@@ -29,7 +29,7 @@
     }
   ],
   "category": "effect",
-  "research": "inverted-pulverizer",
+  "research": "mod-gate-effect",
   "outputItem": {
     "item": "gold",
     "amount": 1
