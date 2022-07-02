@@ -6,6 +6,6 @@
     "health": 0,
     "buildVisibility": "hidden",
     "alwaysUnlocked": true,
-    "research": "core-shard",
+    "research": "mod-gate-main",
     "size": 2
 }
