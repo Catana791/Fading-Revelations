@@ -39,7 +39,7 @@
     }
   ],
   "category": "crafting",
-  "research": "mod-gate-production",
+  "research": "mod-gate-crafters",
   "outputItem": {
     "item": "living-steel",
     "amount": 2
