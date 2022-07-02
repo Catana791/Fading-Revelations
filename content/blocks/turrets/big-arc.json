@@ -38,5 +38,5 @@
   "category": "turret",
   "type": "PowerTurret",
   "health": 520,
-  "research": "arc"
+  "research": "air-arc"
 }
