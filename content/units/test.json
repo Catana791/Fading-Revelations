@@ -87,14 +87,12 @@
         "collidesTeam": false,
         "speed": 50,
         "length": 3,
-@@ -93,7 +93,6 @@
           "speed": 0,
           "damage": 70,
           "lifetime": 50,
           "height": 50,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
-@@ -102,13 +101,14 @@
           "targetAir": true,
           "targetGround": true,
           "collides": true,
@@ -109,7 +107,6 @@
             "height": 60,
             "width": 60,
           "frontColor": "665c9f",
-@@ -123,53 +123,53 @@
                 "speed": 0,
                 "damage": 70,
                 "lifetime": 30,
@@ -163,7 +160,6 @@
                 "height": 100,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
-@@ -184,7 +184,7 @@
                 "speed": 0,
                 "damage": 70,
                 "lifetime": 2.5,
@@ -171,7 +167,6 @@
                 "height": 110,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
-@@ -199,7 +199,7 @@
                 "speed": 0,
                 "damage": 100,
                 "lifetime": 80,
