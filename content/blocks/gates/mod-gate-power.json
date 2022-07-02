@@ -1,7 +1,7 @@
 {
     "type": "Wall",
     "name": "Gate: Power",
-    "description": "The gate to all of the power blocks included to the Mindustry Extended Mod.",
+    "description": "The gate to all of the power blocks included in the Mindustry Extended Mod.",
     "details": "Contains the tech tree of Mindustry Extended power blocks.",
     "health": 0,
     "buildVisibility": "hidden",
