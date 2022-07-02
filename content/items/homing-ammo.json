@@ -7,10 +7,10 @@
   "flammability": 2,
   "explosiveness": 3,
   "research": {
-    "parent": "thorium",
+    "parent": "heal-ammo",
     "requirements": [
       {
-        "item": "heal-ammo",
+        "item": "thorium",
         "amount": 200
       }
     ]
