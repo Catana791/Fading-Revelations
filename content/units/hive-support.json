@@ -8,8 +8,8 @@
     "parent": "hive",
     "requirements": [
       {
-        "item": "copper",
-        "amount": 1
+        "item": "titanium",
+        "amount": 1000
       }
     ]
   },
