@@ -91,6 +91,6 @@
     }
   ],
   "category": "turret",
-  "research": "hail",
+  "research": "ring-turret",
   "buildVisibility": "shown"
 }
