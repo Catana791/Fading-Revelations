@@ -51,7 +51,7 @@
     }
   ],
   "category": "crafting",
-  "research": "alloy-smelter",
+  "research": "big-phase-weaver",
   "outputItem": {
     "item": "surge-alloy",
     "amount": 4
