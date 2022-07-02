@@ -7,6 +7,12 @@
   "flammability": 0.5,
   "explosiveness": 0,
   "research": {
-    "parent": "living-steel"
+    "parent": "living-steel",
+    "requirements": [
+      {
+        "item": "living-steel",
+        "amount": 200
+      }
+    ]
   }
 }
