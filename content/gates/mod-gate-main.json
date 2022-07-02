@@ -8,4 +8,9 @@
     "alwaysUnlocked": true,
     "research": "core-shard",
     "size": 3,
+    "requirements": [
+    {
+      "item": "copper",
+      "amount": 1
+    }
 }
