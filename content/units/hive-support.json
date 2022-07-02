@@ -5,10 +5,17 @@
   "drag": 0.15,
   "speed": 2.5,
   "research": {
-    "parent": "hive"
+    "parent": "hive",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 1
+      }
+    ]
   },
   "maxVelocity": 2.6,
   "commandLimit": 0,
+  "researchCostMultiplier": 0,
   "health": 310,
   "flying": true,
   "alwaysUnlocked": false,
