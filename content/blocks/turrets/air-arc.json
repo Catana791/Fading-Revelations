@@ -38,5 +38,5 @@
   "category": "turret",
   "type": "PowerTurret",
   "health": 320,
-  "research": "big-arc"
+  "research": "mod-gate-turrets"
 }
