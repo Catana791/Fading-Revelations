@@ -39,7 +39,7 @@
     }
   ],
   "category": "crafting",
-  "research": "enhanced-blast-mixer",
+  "research": "living-steel-infuser",
   "outputItem": {
     "item": "living-steel-hard",
     "amount": 2
