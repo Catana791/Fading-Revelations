@@ -99,6 +99,8 @@
           "width": 50,
           "hitSize": 100,
           "targetAir": true,
+          "splashDamageRadius": 100,
+          "splashDamage": 70,
           "targetGround": true,
           "collides": true,
 "collidesGround": true,
@@ -108,7 +110,8 @@
             "speed": 0,
             "damage": 70,
             "lifetime": 40,
-            
+            "splashDamageRadius": 100,
+          "splashDamage": 70,
             "height": 60,
             "width": 60,
           "frontColor": "665c9f",
@@ -131,7 +134,8 @@
                 "hitSize": 100,
                 "targetAir": true,
                 "targetGround": true,
-                
+                "splashDamageRadius": 100,
+          "splashDamage": 70,
                 "fragBullets": 1,
             }
         "fragBullet": {
@@ -147,7 +151,8 @@
                 "hitSize": 100,
                 "targetAir": true,
                 "targetGround": true,
-                
+                "splashDamageRadius": 100,
+          "splashDamage": 70,
                 "fragBullets": 1,
         "fragBullet": {
                 "type": "BasicBulletType",
@@ -162,14 +167,16 @@
                 "hitSize": 100,
                 "targetAir": true,
                 "targetGround": true,
-                
+                "splashDamageRadius": 100,
+          "splashDamage": 70,
                 "fragBullets": 1,
         "fragBullet": {
                 "type": "BasicBulletType",
                 "speed": 0,
                 "damage": 70,
                 "lifetime": 5,
-                
+                "splashDamageRadius": 100,
+          "splashDamage": 70,
                 "height": 100,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
@@ -184,7 +191,8 @@
                 "speed": 0,
                 "damage": 70,
                 "lifetime": 2.5,
-                
+                "splashDamageRadius": 100,
+          "splashDamage": 70,
                 "height": 110,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
@@ -199,7 +207,8 @@
                 "speed": 0,
                 "damage": 100,
                 "lifetime": 80,
-                
+                "splashDamageRadius": 100,
+          "splashDamage": 70,
                 "height": 200,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
