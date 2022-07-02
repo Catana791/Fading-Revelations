@@ -1,6 +1,6 @@
 {
     "type": "Wall",
-    "name": "Gate: Blocks",
+    "name": "Gate: Ammo",
     "description": "The gate to all of the ammo included in the Mindustry Extended Mod.",
     "details": "Contains the tech tree of Mindustry Extended ammo.",
     "health": 0,
