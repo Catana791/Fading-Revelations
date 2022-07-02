@@ -37,7 +37,7 @@
     }
   ],
   "category": "crafting",
-  "research": "kiln",
+  "research": "greenhouse",
   "outputItem": {
     "item": "metaglass",
     "amount": 4
