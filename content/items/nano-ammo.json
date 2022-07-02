@@ -10,8 +10,8 @@
     "parent": "living-steel",
     "requirements": [
       {
-        "item": "living-steel",
-        "amount": 25
+        "item": "homing-ammo",
+        "amount": 200
       }
     ]
   }
