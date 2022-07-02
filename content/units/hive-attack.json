@@ -5,7 +5,13 @@
   "drag": 0.15,
   "speed": 2,
   "research": {
-    "parent": "hive"
+    "parent": "hive",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 1
+      }
+    ]
   },
   "maxVelocity": 2,
   "commandLimit": 0,
