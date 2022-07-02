@@ -7,10 +7,10 @@
   "flammability": 0,
   "explosiveness": 0.3,
   "research": {
-    "parent": "living-steel",
+    "parent": "homing-ammo",
     "requirements": [
       {
-        "item": "homing-ammo",
+        "item": "living-steel",
         "amount": 200
       }
     ]
