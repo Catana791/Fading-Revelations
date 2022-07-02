@@ -132,6 +132,6 @@
     }
   ],
   "category": "turret",
-  "research": "scatter",
+  "research": "mod-gate-turrets",
   "buildVisibility": "shown"
 }
