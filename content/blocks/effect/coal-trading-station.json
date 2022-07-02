@@ -32,7 +32,7 @@
     }
   ],
   "category": "effect",
-  "research": "kiln",
+  "research": "mod-gate-effect",
   "outputItem": {
     "item": "coal",
     "amount": 6
