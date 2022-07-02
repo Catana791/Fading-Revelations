@@ -39,7 +39,7 @@
     }
   ],
   "category": "crafting",
-  "research": "enhanced-blast-mixer",
+  "research": "mod-gate-production",
   "outputItem": {
     "item": "living-steel",
     "amount": 2
