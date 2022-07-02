@@ -5,8 +5,7 @@
   "drag": 0.15,
   "speed": 2.5,
   "research": {
-    "parent": "hive",
-    "research": "hive"
+    "parent": "hive"
   },
   "maxVelocity": 2.6,
   "commandLimit": 0,
