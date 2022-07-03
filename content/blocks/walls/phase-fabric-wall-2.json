@@ -9,7 +9,7 @@
   "requirements": [
     {
       "item": "phase-fabric",
-      "amount": 54
+      "amount": 300
     }
   ],
   "category": "defense",
@@ -18,7 +18,7 @@
     "requirements": [
       {
         "item": "phase-fabric",
-        "amount": 500
+        "amount": 300
       }
       ]
   }
