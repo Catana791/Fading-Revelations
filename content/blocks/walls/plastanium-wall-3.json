@@ -12,5 +12,13 @@
     }
   ],
   "category": "defense",
-  "research": "plastanium-wall-2"
+  "research": {
+   "parent": "plastanium-wall-2",
+    "requirements": [
+      {
+        "item": "plastanium",
+        "amount": 500
+      }
+      ]
+  }
 }
