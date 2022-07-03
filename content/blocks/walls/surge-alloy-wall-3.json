@@ -14,5 +14,13 @@
     }
   ],
   "category": "defense",
-  "research": "surge-alloy-wall-2"
+  "research": {
+   "parent": "surge-alloy-wall-2",
+    "requirements": [
+      {
+        "item": "surge-alloy",
+        "amount": 500
+      }
+      ]
+  }
 }
