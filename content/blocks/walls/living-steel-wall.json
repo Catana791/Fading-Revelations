@@ -16,5 +16,13 @@
     }
   ],
   "category": "defense",
-  "research": "mod-gate-walls"
+  "research": {
+   "parent": "mod-gate-walls",
+    "requirements": [
+      {
+        "item": "living-steel-hard",
+        "amount": 100
+      }
+      ]
+  }
 }
