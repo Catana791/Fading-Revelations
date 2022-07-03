@@ -15,5 +15,17 @@
     }
   ],
   "category": "defense",
-  "research": "mod-gate-walls"
+  "research": {
+    "parent": "mod-gate-walls",
+    "requirements": [
+      {
+        "item": "titanium",
+        "amount": 96
+      },
+      {
+        "item": "silicon",
+        "amount": 64
+      }
+    ]
+  }
 }
