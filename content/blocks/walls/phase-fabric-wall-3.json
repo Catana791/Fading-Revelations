@@ -13,5 +13,13 @@
     }
   ],
   "category": "defense",
-  "research": "phase-fabric-wall-2"
+  "research": {
+   "parent": "phase-fabric-wall-2",
+    "requirements": [
+      {
+       "item": "phase-fabric",
+        "amount": 500
+      }
+      ]
+  }
 }
