@@ -14,7 +14,7 @@
   "category": "defense",
   "research": {
    "parent": "titanium-wall-3",
-    "requirements"": [
+    "requirements": [
     {
     "item": "plastanium",
     "amount": 300
