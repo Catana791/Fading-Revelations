@@ -100,16 +100,18 @@
           "width": 50,
      
           "splashDamage": 50,
+          "splashDamageRadius": 8,
           "targetAir": true,
           "targetGround": true,
           "collides": true,
-"collidesGround": true,
+          "collidesGround": true,
           "fragBullets": 1,
           "fragBullet": {
             "type": "BasicBulletType",
             "speed": 0,
             "damage": 70,
             "lifetime": 40,
+            "splashDamageRadius": 16,
             "splashDamage": 50,
             "hitSize": 60,
             "height": 60,
@@ -133,7 +135,7 @@
           "frontColor": "665c9f",
           "backColor": "bf92f9",
                 "width": 70,
-               
+               "splashDamageRadius": 24,
                 "targetAir": true,
                 "targetGround": true,
                 
@@ -151,7 +153,7 @@
           "frontColor": "665c9f",
           "backColor": "bf92f9",
                 "width": 80,
-               
+               "splashDamageRadius": 32,
                 "targetAir": true,
                 "targetGround": true,
                 
@@ -165,6 +167,7 @@
                 "collides": true,
             "splashDamage": 50,
                 "height": 90,
+            "splashDamageRadius": 40,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
                 "width": 90,
@@ -180,26 +183,12 @@
                 "lifetime": 5,
                 "splashDamage": 50,
                 "height": 100,
+            "splashDamageRadius": 48,
             "hitSize": 100,
           "frontColor": "665c9f",
           "backColor": "bf92f9",
                 "width": 100,
                
-                "targetAir": true,
-                "targetGround": true,
-                "collides": true,
-                "fragBullets": 1,
-        "fragBullet": {
-                "type": "BasicBulletType",
-                "speed": 0,
-                "damage": 70,
-                "lifetime": 2.5,
-                "splashDamage": 50,
-                "height": 110,
-          "frontColor": "665c9f",
-          "backColor": "bf92f9",
-                "width": 110,
-                "hitSize": 110,
                 "targetAir": true,
                 "targetGround": true,
                 "collides": true,
@@ -214,13 +203,14 @@
           "frontColor": "665c9f",
           "backColor": "bf92f9",
                 "width": 200,
+            "splashDamageRadius": 90,
                 "hitSize": 200,
                 "targetAir": true,
                 "targetGround": true,
                 "collides": true,
             }
             }
-            }
+            
             }
             }
           }
