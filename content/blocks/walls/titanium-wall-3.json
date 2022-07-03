@@ -11,5 +11,13 @@
     }
   ],
   "category": "defense",
-  "research": "titanium-wall-2"
+  "research": {
+   "parent": "titanium-wall-2",
+    "requirements": [
+      {
+        "item": "titanium",
+        "amount": 500
+      }
+      ]
+  }
 }
