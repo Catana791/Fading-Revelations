@@ -11,5 +11,13 @@
     }
   ],
   "category": "defense",
-  "research": "thorium-wall-2"
+  "research": {
+   "parent": "thorium-wall-2",
+    "requirements": [
+      {
+       "item": "thorium",
+        "amount": 500
+      }
+      ]
+  }
 }
