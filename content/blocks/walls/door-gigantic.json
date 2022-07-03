@@ -15,5 +15,17 @@
     }
   ],
   "category": "defense",
-  "research": "door-huge"
+  "research": {
+    "parent": "door-huge",
+    "requirements": [
+      {
+        "item": "titanium",
+        "amount": 164
+      },
+      {
+        "item": "silicon",
+        "amount". 132
+      }
+    ]
+  }
 }
