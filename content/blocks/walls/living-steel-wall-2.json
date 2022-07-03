@@ -16,5 +16,12 @@
     }
   ],
   "category": "defense",
-  "research": "living-steel-wall"
+  "research": {
+    "parent": "living-steel-wall",
+    "requirements": [
+      {
+       "item": "living-steel-hard",
+        "amount": 200
+      }
+      ]
 }
