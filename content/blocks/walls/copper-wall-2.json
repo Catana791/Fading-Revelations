@@ -15,7 +15,7 @@
    "parent": "mod-gate-walls",
     "requirements": [
       {
-        "item": "copper,
+        "item": "copper",
         "amount": 300
       }
     ]
