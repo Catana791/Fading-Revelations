@@ -11,5 +11,13 @@
     }
   ],
   "category": "defense",
-  "research": "copper-wall-2"
+  "research": {
+    "parent": "copper-wall-2",
+    "requirements": [
+      {
+        "item": "copper",
+        "amount": 500
+      }
+    ]
+  }
 }
