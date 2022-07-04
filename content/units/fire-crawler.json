@@ -39,6 +39,7 @@
         "incendSpread": 10,
         "incendChance": 1,
         "killShooter": true,
+        "range": 16,
         "splashDamage": 20,
         "splashDamageRadius": 50,
         "instantDisappear": true,
