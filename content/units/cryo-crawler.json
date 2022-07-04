@@ -33,7 +33,7 @@
       "name": "nothing",
       "mirror": false,
       "rotate": false,
-      "reload": 60,
+      "reload": 900,
       "shots": 20,
       "range": 8,
       "inaccuracy": 360,
