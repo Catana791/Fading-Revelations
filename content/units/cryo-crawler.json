@@ -49,6 +49,7 @@
         "status": "freezing",
         "statusDuration": 360,
         "status": "slow",
+        "slowAmount": 0.3,
         "statusDuration": 360,
         "status": "unmoving",
         "duration": 120
