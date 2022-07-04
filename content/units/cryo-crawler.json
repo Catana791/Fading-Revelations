@@ -35,7 +35,7 @@
       "rotate": false,
       "reload": 60,
       "shots": 20,
-      "range": 24,
+      "range": 16,
       "inaccuracy": 360,
       "bullet": {
         "type": "LiquidBulletType",
