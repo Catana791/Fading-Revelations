@@ -4,7 +4,7 @@
   "details": "Spawned by the C.A.U.P.M.D mothership.",
   "health": 300,
   "flying": false,
-  "commandLimit": 0,
+  "commandLimit": 4,
   "speed": 1.5,
   "rotateSpeed": 4,
   "armor": 0,
@@ -50,6 +50,8 @@
         "knockback": 0.3,
         "status": "burning",
         "statusDuration": 180
+        "status": "melting",
+        "statusDuration": 120
       }
     }
   ]
