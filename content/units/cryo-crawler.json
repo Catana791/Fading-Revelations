@@ -11,6 +11,8 @@
   "range": 24,
   "hitSize": 8,
   "itemCapacity": 0,
+  "allowLegStep": false,
+  "lowAltitude": true,
   "crashDamageMultiplier": 10,
   "targetAir": false,
   "targetGround": true,
