@@ -1,6 +1,6 @@
 {
-  "name": "Incendiary Crawler",
-  "description": "Runs towards the enemy and detonates itself, setting it's surroundings on fire",
+  "name": "Freezing Crawler",
+  "description": "Runs towards the enemy and detonates itself, freezing enemies and making them slower for a short time after that.",
   "details": "Spawned by the C.A.U.P.M.D mothership.",
   "health": 300,
   "flying": false,
@@ -48,7 +48,7 @@
         "knockback": 1.2,
         "status": "freezing",
         "statusDuration": 360,
-        "status": "wet",
+        "status": "slow",
         "statusDuration": 360,
         "status": "unmoving",
         "duration": 120
