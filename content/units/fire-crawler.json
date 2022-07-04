@@ -14,6 +14,15 @@
   "crashDamageMultiplier": 10,
   "targetAir": false,
   "targetGround": true,
+  "research": {
+    "parent": "test",
+    "requirements": [
+      {
+        "item": "blast-compound",
+        "amount": 400
+      }
+    ]
+  },
   "desctructibleWreck": false,
   "weapons": [
     {
@@ -23,7 +32,7 @@
       "reload": 0,
       "shots": 20,
       "inaccuracy": 360,
-      "bullet": "BombBulletType",
+      "bullet": "BasicBulletType",
       "speed": 0,
       "lifetime": 10,
       "range": 20,
