@@ -40,7 +40,6 @@
       "bullet": {
         "type": "LiquidBulletType",
         "instantDisappear": true,
-        "range": 20,
         "killShooter": true,
         "splashDamage": 10,
         "splashDamageRadius": 50,
