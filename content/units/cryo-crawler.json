@@ -9,7 +9,7 @@
   "type": "legs",
   "rotateSpeed": 4,
   "armor": 0,
-  "range": 24,
+  "range": 16,
   "hasShadow": false,
   "hitSize": 8,
   "itemCapacity": 0,
