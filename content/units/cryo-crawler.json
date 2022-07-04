@@ -18,7 +18,7 @@
     "parent": "test",
     "requirements": [
       {
-        "item": "blast-compound",
+        "item": "tianium",
         "amount": 400
       }
     ]
@@ -46,7 +46,11 @@
         "pierce": true,
         "knockback": 1.2,
         "status": "freezing",
-        "statusDuration": 360
+        "statusDuration": 360,
+        "status": "wet",
+        "statusDuration": 360,
+        "status": "unmoving",
+        "duration": 120
       }
     }
   ]
