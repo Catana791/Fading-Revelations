@@ -29,7 +29,8 @@
       "name": "nothing",
       "mirror": false,
       "rotate": false,
-      "reload": 900,
+      "reload": 60,
+      "range": 16,
       "shots": 20,
       "inaccuracy": 360,
       "bullet": {
