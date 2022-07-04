@@ -32,23 +32,25 @@
       "reload": 0,
       "shots": 20,
       "inaccuracy": 360,
-      "bullet": "BasicBulletType",
-      "speed": 0,
-      "lifetime": 10,
-      "range": 20,
-      "incendAmount": 2,
-      "incendSpread": 10,
-      "incendChance": 1,
-      "killShooter": true,
-      "splashDamage": 60,
-      "splashDamageRadius": 50,
-      "height": 0,
-      "width": 0,
-      "length": 0,
-      "pierce": true,
-      "knockback": 0.3,
-      "status": "burning",
-      "statusDuration": 180
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 0,
+        "lifetime": 10,
+        "range": 20,
+        "incendAmount": 2,
+        "incendSpread": 10,
+        "incendChance": 1,
+        "killShooter": true,
+        "splashDamage": 60,
+        "splashDamageRadius": 50,
+        "height": 0,
+        "width": 0,
+        "length": 0,
+        "pierce": true,
+        "knockback": 0.3,
+        "status": "burning",
+        "statusDuration": 180
+      }
     }
   ]
 }
