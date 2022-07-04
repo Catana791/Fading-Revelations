@@ -10,6 +10,7 @@
   "rotateSpeed": 4,
   "armor": 0,
   "range": 24,
+  "hasShadow": false,
   "hitSize": 8,
   "itemCapacity": 0,
   "allowLegStep": false,
