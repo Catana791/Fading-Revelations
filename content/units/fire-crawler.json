@@ -29,7 +29,7 @@
       "name": "nothing",
       "mirror": false,
       "rotate": false,
-      "reload": 10,
+      "reload": 100,
       "shots": 20,
       "inaccuracy": 360,
       "bullet": {
