@@ -3,7 +3,7 @@
   "description": "Runs towards the enemy and detonates itself, setting it's surroundings on fire",
   "details": "Spawned by the C.A.U.P.M.D mothership.",
   "health": 300,
-  "type": "ground",
+  "type": "legs",
   "flying": false,
   "commandLimit": 0,
   "speed": 1.5,
