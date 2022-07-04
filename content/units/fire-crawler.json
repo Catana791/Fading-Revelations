@@ -9,6 +9,8 @@
   "rotateSpeed": 4,
   "armor": 0,
   "range": 24,
+  "allowLegStep": false,
+  "lowAltitude": true,
   "hitSize": 8,
   "itemCapacity": 0,
   "crashDamageMultiplier": 10,
