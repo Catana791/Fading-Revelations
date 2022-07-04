@@ -221,7 +221,7 @@
   "abilities": [
     {
       "type": "UnitSpawnAbility",
-      "unit": "crawler",
+      "unit": "cryo-crawler",
       "spawnX": -20,
       "spawnY": -20,
       "spawnTime": 400
