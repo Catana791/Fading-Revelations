@@ -8,7 +8,7 @@
   "speed": 1.5,
   "rotateSpeed": 4,
   "armor": 0,
-  "range": 80,
+  "range": 24,
   "hitSize": 8,
   "itemCapacity": 0,
   "crashDamageMultiplier": 10,
