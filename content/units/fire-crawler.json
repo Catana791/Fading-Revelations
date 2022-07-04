@@ -15,9 +15,6 @@
   "lowAltitude": true,
   "hitSize": 8,
   "itemCapacity": 0,
-  "crashDamageMultiplier": 10,
-  "targetAir": false,
-  "targetGround": true,
   "research": {
     "parent": "test",
     "requirements": [
@@ -27,7 +24,6 @@
       }
     ]
   },
-  "desctructibleWreck": false,
   "weapons": [
     {
       "name": "nothing",
@@ -39,18 +35,13 @@
       "inaccuracy": 360,
       "bullet": {
         "type": "BasicBulletType",
-        "speed": 0,
-        "lifetime": 10,
-        "range": 20,
         "incendAmount": 24,
         "incendSpread": 20,
         "incendChance": 1,
         "killShooter": true,
         "splashDamage": 40,
         "splashDamageRadius": 50,
-        "height": 0,
-        "width": 0,
-        "length": 0,
+        "instantDisappear": true,
         "pierce": true,
         "knockback": 0.3,
         "status": "burning",
