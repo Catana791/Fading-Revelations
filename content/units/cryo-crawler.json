@@ -38,7 +38,7 @@
         "lifetime": 10,
         "range": 20,
         "killShooter": true,
-        "splashDamage": 40,
+        "splashDamage": 30,
         "splashDamageRadius": 50,
         "height": 0,
         "width": 0,
