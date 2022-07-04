@@ -35,19 +35,17 @@
       "inaccuracy": 360,
       "bullet": {
         "type": "BasicBulletType",
-        "incendAmount": 24,
-        "incendSpread": 20,
+        "incendAmount": 20,
+        "incendSpread": 10,
         "incendChance": 1,
         "killShooter": true,
-        "splashDamage": 40,
+        "splashDamage": 20,
         "splashDamageRadius": 50,
         "instantDisappear": true,
         "pierce": true,
         "knockback": 0.3,
         "status": "burning",
         "statusDuration": 180
-        "status": "melting",
-        "statusDuration": 120
       }
     }
   ]
