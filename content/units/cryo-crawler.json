@@ -42,6 +42,7 @@
         "instantDisappear": true,
         "killShooter": true,
         "splashDamage": 10,
+        "range": 16,
         "splashDamageRadius": 50,
         "pierce": true,
         "liquid": "cryofluid",
