@@ -35,6 +35,7 @@
       "rotate": false,
       "reload": 600,
       "shots": 20,
+      "range": 16,
       "inaccuracy": 360,
       "bullet": {
         "type": "BasicBulletType",
