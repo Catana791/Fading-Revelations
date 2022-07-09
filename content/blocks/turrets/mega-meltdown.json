@@ -6,11 +6,11 @@
   "spread": 15,
   "targetAir": true,
   "targetGround": true,
-  "powerUse": 20,
-  "coolantMultiplier": 3,
+  "consumes": {
+    "power": 20
+  },
   "health": 3450,
   "size": 5,
-  "update": true,
   "hasPower": true,
   "shootEffect": {
     "type": "ParticleEffect",
