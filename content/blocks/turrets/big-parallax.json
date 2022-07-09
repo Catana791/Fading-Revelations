@@ -9,7 +9,7 @@
   "scaledForce": 22,
   "health": 780,
   "range": 256,
-  "damage": 2.75,
+  "damage": 2,
   "rotateSpeed": 10,
   "hasPower": true,
   "consumes": {
