@@ -1,6 +1,6 @@
 name: "me"
 "multiplayerCompatible": true
-displayName: "[accent]Mindustry-Extended"
+displayName: "Fading Dawn (Mindustry Extended)"
 author: 
   '''
   [maroon]Dev and Translators:
@@ -27,4 +27,4 @@ description:
   '''
 version: 1.09
 minGameVersion: 126
-repo: Fresh791/mindustry-extended
+repo: Fresh791/Fading-Dawn
