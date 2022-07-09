@@ -1,8 +1,8 @@
 
-# Fading Dawn (formerly known as Mindustry Extended)
+# Fading Revelations (formerly known as Mindustry Extended)
 A mod for the game "Mindustry" that focuses on extending it in fun but not op ways.
 
-Join the official Fading Dawn Discord server! 
+Join the official Fading Revelations Discord server! 
 https://discord.gg/YB3ky9tJR4
 
 <img src="https://github.com/Fresh791/mindustry-extended/blob/main/github/deco.JPG"><img src="https://github.com/Fresh791/mindustry-extended/blob/main/github/deco.JPG">
