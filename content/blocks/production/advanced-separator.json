@@ -1,7 +1,7 @@
 {
   "type": "Separator",
   "name": "Advanced Seperator",
-  "description": "An even more advanced Separator. Needs slag and metallglass to run. Outputs a lot more items.",
+  "description": "An even more advanced Separator. Needs slag and scrap to run. Outputs a lot more items.",
   "size": 4,
   "hasPower": true,
   "solid": true,
