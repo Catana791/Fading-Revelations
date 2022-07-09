@@ -66,12 +66,4 @@
   ],
   "category": "turret",
   "research": "big-parallax",
-  "consumes": {
-    "liquid": {
-      "liquid": "living-steel-liquid",
-      "amount": 0.166,
-      "booster": false,
-      "optional": true
-    }
-  }
 }
