@@ -7,7 +7,7 @@
   "targetAir": true,
   "targetGround": true,
   "consumes": {
-    "power": 20
+    "power": 10
   },
   "health": 3450,
   "size": 5,
