@@ -11,8 +11,8 @@ itemDuration: 1650
 powerProduction: 133.3334
 heating: 0.06
 smokeThreshold: 0.58
-explosionRadius: 110
-explosionDamage: 2000
+explosionRadius: 500
+explosionDamage: 10000
 flashThreshold: 0.44 
 coolantPower: 0.8 
 consumes: {
