@@ -2,7 +2,7 @@
   "name": "Living Steel Wall",
   "description": "A wall made from living steel that heals itself slowly.",
   "type": "MendProjector",
-  "health": 660,
+  "health": 720,
   "size": 1,
   "range": 1,
   "itemCapacity": 0,
