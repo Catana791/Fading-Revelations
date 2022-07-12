@@ -88,19 +88,19 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 200
+      "amount": 400
     },
     {
       "item": "lead",
-      "amount": 150
+      "amount": 300
     },
     {
       "item": "titanium",
-      "amount": 60
+      "amount": 200
     },
     {
       "item": "plastanium",
-      "amount": 25
+      "amount": 100
     }
   ],
   "category": "turret",
