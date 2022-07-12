@@ -6,9 +6,7 @@
   "spread": 15,
   "targetAir": true,
   "targetGround": true,
-  "consumes": {
-    "power": 20
-  },
+  "powerConsumption: 20,
   "health": 3450,
   "size": 5,
   "shootEffect": "shootBigSmoke2",
