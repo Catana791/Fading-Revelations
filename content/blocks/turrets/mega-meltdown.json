@@ -21,7 +21,6 @@
     "length": 320,
     "width": 16,
     "hitEffect": "hitMeltdown",
-    "drawSize": 420,
     "incendChance": 0.45,
     "incendSpread": 8,
     "incendAmount": 1.1
