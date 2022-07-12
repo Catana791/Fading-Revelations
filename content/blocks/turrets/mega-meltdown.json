@@ -10,11 +10,9 @@
   "health": 3450,
   "size": 5,
   "shootEffect": "shootBigSmoke2",
-  "shootCone": 360,
   "shootShake": 2.6,
   "range": 275,
   "reloadTime": 220,
-  "firingMoveFract": 0.78,
   "shootDuration": 245,
   "shootSound": "laserbig",
   "shootType": {
