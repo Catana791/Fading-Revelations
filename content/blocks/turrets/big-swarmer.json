@@ -105,19 +105,19 @@
   "requirements": [
     {
       "item": "graphite",
-      "amount": 70
+      "amount": 200
     },
     {
       "item": "titanium",
-      "amount": 70
+      "amount": 300
     },
     {
       "item": "silicon",
-      "amount": 60
+      "amount": 200
     },
     {
       "item": "plastanium",
-      "amount": 70
+      "amount": 150
     }
   ],
   "shootSound": "missile",
