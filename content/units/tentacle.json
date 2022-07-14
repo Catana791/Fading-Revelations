@@ -9,9 +9,10 @@
   "mass": 10,
   "commandLimit": 10,
   "hitsize": 45,
-  "health": 12000,
+  "health": 10000,
   "flying": true,
   "rotateWeapon": true,
+  "structureDamageMultiplier": 0,
   "engineOffset": 26,
   "engineSize": 5.5,
   "rotatespeed": 0.06,
@@ -27,14 +28,22 @@
       "spacing": 0,
       "shootSound": "laser",
       "bullet": {
-        "type": "BasicBulletType",
-        "speed": 40,
+        "type": "LaserBulletType",
+        "speed": 20,
+        "length": 20,
         "damage": 100,
         "lifetime": 300,
         "pierce": true,
-        "range": 200,
-        "status": "burning",
-        "satusDuration": 60
+        "fragBullets": 24,
+        "fragBullet": {
+         "type": "LaserBulletType",
+          "speed": 0,
+          "shootCone": 360,
+          "inaccuracy": 360,
+          "lifetime": 200,
+          "damage": 100,
+          "pierce": true
+        }
       }
     }
   ]
