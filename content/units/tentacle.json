@@ -40,7 +40,7 @@
         "pierceCap": 3,
         "fragBullets": 24,
         "fragBullet": {
-         "type": "LaserBulletType",
+         "type": "BasicBulletType",
           "speed": 0,
           "lifetime": 200,
           "damage": 100,
