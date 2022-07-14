@@ -6,8 +6,7 @@
     "size": 5,
     "constructTime": 36000,
     "upgrades": [
-        ["king", "king-t2"],
-        ["tentacle", "tentacle-t2"],
+        ["king", "king-t2"]
     ],
     "consumes": {
         "power": 3.2,
