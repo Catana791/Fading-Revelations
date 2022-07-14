@@ -2,8 +2,6 @@
   "type": "LaserTurret",
   "name": "Mega Meltdown",
   "description": "Shoots one meltdown laser and also shoots a ton of lasers at close range that shortly zap any enemies that dare stand close to the turret.",
-  "shots": 6,
-  "spread": 15,
   "targetAir": true,
   "targetGround": true,
   "powerUse": 25,
