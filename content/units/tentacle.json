@@ -19,7 +19,7 @@
   "weapons": [
     {
       "name": "nothing",
-      "range": 10000,
+      "range": 200,
       "x": 0,
       "y": -2,
       "reload": 250,
@@ -27,7 +27,7 @@
       "bullet": {
         "type": "LaserBulletType",
         "speed": 20,
-        "length": 20,
+        "length": 500,
         "damage": 100,
         "collides": true,
         "collidesGround": true,
