@@ -1,10 +1,10 @@
 {
     "type": "Reconstructor",
     "name": "Heavy Upgrader",
-    "description": "Upgrades heavy units from the Mindustry Extended mod.",
+    "description": "Upgrades heavy units from the Fading Revelations mod.",
     "health": 2000,
     "size": 5,
-    "constructTime": 2800,
+    "constructTime": 36000,
     "upgrades": [
         ["king", "king-t2"],
         ["tentacle", "tentacle-t2"],
