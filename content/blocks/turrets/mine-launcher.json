@@ -18,6 +18,7 @@
     "blast-compound": {
       "speed": 10,
       "height": 0,
+      "ammoMultiplier:" 3,
       "type": "BasicBulletType",
       "width": 0,
       "damage": 0,
