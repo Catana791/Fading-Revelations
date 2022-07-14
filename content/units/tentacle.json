@@ -38,14 +38,32 @@
         "lifetime": 300,
         "pierce": true,
         "pierceCap": 3,
-        "fragBullets": 24,
+        "fragBullets": 50,
         "fragBullet": {
          "type": "BasicBulletType",
-          "speed": 0,
+          "speed": 5,
           "lifetime": 200,
-          "damage": 100,
+          "damage": 5,
           "length": 20,
-          "pierce": true
+          "height": 12,
+          "length": 14,
+          "splashDamage": 5,
+          "splashDamageRadius": 10,
+          "pierce": false,
+          "fragBullets": 15,
+          "fragBullet": {
+          "type": "MissileBulletType",
+          "damage": 10,
+          "status": "burning",
+          "statusDuration": 600,
+          "homingPower": 0.87,
+          "homingRange": 80,
+          "length": 10,
+            "pierce": false,
+          "height": 8,
+          "splashDamage": 10,
+          "splashDamageRadius": 8,
+          }
         }
       }
     }
