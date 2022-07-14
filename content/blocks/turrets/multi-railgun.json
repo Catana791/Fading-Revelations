@@ -24,10 +24,9 @@
     "living-steel": {
       "speed": 11,
       "damage": 505,
-      "bulletHeight": 45,
-      "bulletWidth": 30,
+      "height": 45,
+      "width": 30,
       "pierce": true,
-      "sprite": "me-railstorm-bullet",
       "splashDamage": 30,
       "splashDamageRadius": 10,
       "homingPower": 0.9,
@@ -36,10 +35,9 @@
     "nano-ammo": {
       "speed": 11,
       "damage": 20,
-      "bulletHeight": 45,
-      "bulletWidth": 30,
+      "height": 45,
+      "width": 30,
       "pierce": true,
-      "sprite": "me-railstorm-bullet",
       "splashDamage": 35,
       "splashDamageRadius": 11
       "homingPower": 0.9,
