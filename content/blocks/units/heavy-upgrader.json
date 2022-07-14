@@ -13,40 +13,44 @@
         "items": {
             "items": [
                 {
-                    "item": "titanium",
-                    "amount": 200
+                    "item": "silicon",
+                    "amount": 2000
                 },
                 {
-                    "item": "thorium",
-                    "amount": 100
-				}
+                    "item": "plastanium",
+                    "amount": 1200
+		},
                 {
-                  "item": "living-steel-hard",
-                  "amount": 60
+                  	"item": "living-steel-hard",
+                  	"amount": 600
                 },
                 {
                     "item": "phase-fabric",
-                    "amount": 20
-				}
+                    "amount": 700
+		},
+		{
+			"item": "surge-alloy",
+			"amount": 1000
+		},
             ]
         }
     },
     "requirements": [
         {
             "item": "copper",
-            "amount": 500
+            "amount": 3450
 		}
         {
             "item": "lead",
-            "amount": 400
+            "amount": 3000
         },
         {
             "item": "titanium",
-            "amount": 200
+            "amount": 2000
         },
         {
             "item": "thorium",
-            "amount": 100
+            "amount": 1000
 		}
     ],
     "category": "units",
