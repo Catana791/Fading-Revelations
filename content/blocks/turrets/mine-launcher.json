@@ -30,6 +30,8 @@
         "height": 30,
         "width": 30,
         "damage": 50,
+        "frontColor": "d99f6b",
+        "backColor": "f3e979",
         "splashDamage": 50,
         "splashDamageRadius": 24,
         "speed": 0,
