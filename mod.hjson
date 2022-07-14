@@ -1,6 +1,6 @@
 name: "me"
 "multiplayerCompatible": true
-displayName: "Fading Revelations (Mindustry Extended)"
+displayName: "Fading Revelations"
 author: 
   '''
   [maroon]Dev and Translators:
@@ -27,4 +27,5 @@ description:
   '''
 version: 1.09
 minGameVersion: 126
+maxGameVersion: 136.2
 repo: Fresh791/Fading-Revelations
