@@ -52,18 +52,18 @@
           "pierce": false,
           "fragBullets": 10,
           "fragBullet": {
-          "type": "MissileBulletType",
-          "damage": 15,
+            "type": "MissileBulletType",
+            "damage": 15,
             "speed": 5,
-          "status": "burning",
-          "statusDuration": 600,
-          "homingPower": 0.87,
-          "homingRange": 80,
-          "length": 10,
+            "status": "burning",
+            "statusDuration": 600,
+            "homingPower": 0.87,
+            "homingRange": 80,
+            "length": 10,
             "pierce": false,
-          "height": 8,
-          "splashDamage": 10,
-          "splashDamageRadius": 8,
+            "height": 8,
+            "splashDamage": 10,
+            "splashDamageRadius": 8,
           }
         }
       }
