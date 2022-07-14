@@ -27,7 +27,7 @@
       "bullet": {
         "type": "LaserBulletType",
         "speed": 20,
-        "length": 500,
+        "length": 250,
         "damage": 100,
         "collides": true,
         "collidesGround": true,
