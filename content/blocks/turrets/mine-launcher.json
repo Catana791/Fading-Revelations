@@ -38,7 +38,7 @@
         "speed": 0,
         "collides": true,
         "pierce": false,
-        "lifetime": 840,
+        "lifetime": 630,
         "status": "burning",
         "statusDuration": 240
       }
