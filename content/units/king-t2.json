@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "name": "K.I.N.G., Tier II",
-  "description": "Stands for King In New Greatness. Developers say the name sounds weird so they called him K.I.N.G. Is equipped with multiple homing rocket launchers and a healing gun. Is the upgraded version of the original with higher speed, damage, command limit and defense.",
+  "description": "The upgraded version of the K.I.N.G. Same equipment but a lot stronger",
   "flying": "true",
   "lowAltitude": true,
   "rotateSpeed": 0.8,
@@ -22,7 +22,7 @@
       "range": 216,
       "bullet": {
         "type": "MissileBulletType",
-        "damage": 6,
+        "damage": 10,
         "pierce": false,
         "splashDamage": 50,
         "splashDamageRadius": 21,
@@ -42,7 +42,7 @@
       "shootCone": 30,
       "bullet": {
         "type": "MissileBulletType",
-        "damage": 6,
+        "damage": 10,
         "splashDamage": 50,
         "splashDamageRadius": 21,
         "pierce": false,
@@ -66,7 +66,7 @@
         "collidesTeam": true,
         "damage": 2,
         "lifetime": 290,
-        "healPercent": 10
+        "healPercent": 15
       }
     },
     {
@@ -80,7 +80,7 @@
       "shootCone": 30,
       "bullet": {
         "type": "MissileBulletType",
-        "damage": 6,
+        "damage": 10,
         "splashDamage": 50,
         "splashDamageRadius": 21,
         "pierce": false,
@@ -101,7 +101,7 @@
       "shootCone": 30,
       "bullet": {
         "type": "MissileBulletType",
-        "damage": 6,
+        "damage": 10,
         "splashDamage": 50,
         "splashDamageRadius": 21,
         "pierce": false,
