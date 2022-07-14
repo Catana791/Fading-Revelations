@@ -7,6 +7,8 @@
   "research": "mod-gate-units",
   "maxVelocity": 0.68,
   "mass": 10,
+  "shootCone": 360,
+  "inaccuracy": 0,
   "commandLimit": 10,
   "hitsize": 45,
   "health": 10000,
@@ -39,10 +41,9 @@
         "fragBullet": {
          "type": "LaserBulletType",
           "speed": 0,
-          "shootCone": 360,
-          "inaccuracy": 360,
           "lifetime": 200,
           "damage": 100,
+          "length": 20,
           "pierce": true
         }
       }
