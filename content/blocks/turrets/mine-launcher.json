@@ -47,18 +47,18 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 255
-    },
-    {
-      "item": "lead",
       "amount": 180
     },
     {
-      "item": "titanium",
-      "amount": 120
+      "item": "lead",
+      "amount": 150
     },
     {
       "item": "graphite",
+      "amount": 120
+    },
+    {
+      "item": "silicon",
       "amount": 100
     }
   ],
