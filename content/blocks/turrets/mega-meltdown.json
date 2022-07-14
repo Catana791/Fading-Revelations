@@ -10,7 +10,7 @@
   "shootEffect": "shootBigSmoke2",
   "shootShake": 2.6,
   "range": 275,
-  "reloadTime": 220,
+  "reload": 220,
   "shootDuration": 245,
   "shootSound": "laserbig",
   "shootType": {
