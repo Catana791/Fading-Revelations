@@ -1,8 +1,8 @@
 {
     "type": "Wall",
     "name": "Gate: Factories",
-    "description": "The gate to all of the unit factories included to the Mindustry Extended Mod.",
-    "details": "Contains the tech tree of Mindustry Extended unit factories.",
+    "description": "The gate to all of the unit factories included to the Fading Revelations Mod.",
+    "details": "Contains the tech tree of Fading Revelations unit factories.",
     "health": 0,
     "buildVisibility": "hidden",
     "alwaysUnlocked": true,
