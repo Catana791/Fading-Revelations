@@ -41,8 +41,8 @@
         "fragBullets": 50,
         "fragBullet": {
          "type": "BasicBulletType",
-          "speed": 5,
-          "lifetime": 200,
+          "speed": 1,
+          "lifetime": 100,
           "damage": 5,
           "length": 20,
           "height": 12,
