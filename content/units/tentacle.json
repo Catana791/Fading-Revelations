@@ -44,6 +44,8 @@
           "speed": 1,
           "lifetime": 100,
           "damage": 10,
+          "frontColor": "ff1717",
+          "backColor": "ffd64b",
           "length": 20,
           "height": 12,
           "length": 14,
