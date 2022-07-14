@@ -1,8 +1,8 @@
 {
     "type": "Wall",
     "name": "Gate: Items",
-    "description": "The gate to all of the items included in the Mindustry Extended Mod.",
-    "details": "Contains the tech tree of Mindustry Extended items.",
+    "description": "The gate to all of the items included in the Fading Revelations Mod.",
+    "details": "Contains the tech tree of Fading Revelations items.",
     "health": 0,
     "buildVisibility": "hidden",
     "alwaysUnlocked": true,
