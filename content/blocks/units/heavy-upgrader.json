@@ -9,7 +9,7 @@
         ["king", "king-t2"]
     ],
     "consumes": {
-        "power": 3.2,
+        "power": 28,
         "items": {
             "items": [
                 {
