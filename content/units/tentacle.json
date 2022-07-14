@@ -54,7 +54,7 @@
           "fragBullet": {
           "type": "MissileBulletType",
           "damage": 10,
-            "speed": 10
+            "speed": 5,
           "status": "burning",
           "statusDuration": 600,
           "homingPower": 0.87,
