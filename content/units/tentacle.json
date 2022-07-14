@@ -38,7 +38,7 @@
         "lifetime": 300,
         "pierce": true,
         "pierceCap": 3,
-        "fragBullets": 250,
+        "fragBullets": 25,
         "fragBullet": {
          "type": "BasicBulletType",
           "speed": 2.5,
@@ -50,10 +50,10 @@
           "splashDamage": 5,
           "splashDamageRadius": 10,
           "pierce": false,
-          "fragBullets": 15,
+          "fragBullets": 10,
           "fragBullet": {
           "type": "MissileBulletType",
-          "damage": 10,
+          "damage": 15,
             "speed": 5,
           "status": "burning",
           "statusDuration": 600,
