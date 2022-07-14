@@ -26,6 +26,8 @@
       "damage": 505,
       "height": 45,
       "width": 30,
+      "frontColor": "8c0291",
+      "backColor": "9e78dc",
       "pierce": true,
       "splashDamage": 30,
       "splashDamageRadius": 10,
@@ -38,6 +40,8 @@
       "height": 45,
       "width": 30,
       "pierce": true,
+      "frontColor": "570047",
+      "backColor": "6e0268",
       "splashDamage": 35,
       "splashDamageRadius": 11
       "homingPower": 0.9,
