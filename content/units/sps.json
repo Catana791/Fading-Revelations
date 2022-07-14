@@ -35,15 +35,14 @@
   "mass": 10,
   "commandLimit": 21,
   "hitsize": 45,
-  "health": 30110,
-  "flying": false,
+  "health": 12880,
   "rotateWeapon": true,
   "rotatespeed": 0.06,
   "baseRotateSpeed": 0.06,
   "weapons": [
     {
       "name": "nothing",
-      "range": 300,
+      "range": 200,
       "x": -29,
       "targetGround": true,
       "rotate": true,
@@ -61,7 +60,7 @@
     },
     {
       "name": "nothing",
-      "range": 300,
+      "range": 200,
       "x": 29,
       "targetGround": true,
       "rotate": true,
@@ -79,7 +78,7 @@
     },
     {
       "name": "sps-air-fr",
-      "range": 400,
+      "range": 250,
       "rotate": true,
       "x": 14,
       "y": 14,
@@ -99,7 +98,7 @@
     },
     {
       "name": "air-cannon",
-      "range": 400,
+      "range": 250,
       "targetGround": false,
       "targetAir": true,
       "rotate": true,
@@ -119,7 +118,7 @@
     },
     {
       "name": "sps-air-side",
-      "range": 400,
+      "range": 250,
       "rotate": true,
       "x": 38,
       "targetGround": false,
@@ -139,7 +138,7 @@
     },
     {
       "name": "air-cannon",
-      "range": 400,
+      "range": 250,
       "targetGround": false,
       "targetAir": true,
       "x": -4,
@@ -159,7 +158,7 @@
     },
     {
       "name": "sps-air-bk",
-      "range": 400,
+      "range": 250,
       "x": -16,
       "targetGround": false,
       "rotate": true,
@@ -179,7 +178,7 @@
     },
     {
       "name": "sps-air-bk",
-      "range": 400,
+      "range": 250,
       "x": 16,
       "targetGround": false,
       "rotate": true,
@@ -199,7 +198,7 @@
     },
     {
       "name": "sps-lancer-left",
-      "range": 250,
+      "range": 150,
       "x": -25,
       "y": 7,
       "targetGround": true,
@@ -221,7 +220,7 @@
     },
     {
       "name": "sps-lancer-right",
-      "range": 250,
+      "range": 150,
       "x": 25,
       "y": 7,
       "rotate": true,
@@ -243,7 +242,7 @@
     },
     {
       "name": "sps-rail",
-      "range": 500,
+      "range": 350,
       "x": 0,
       "y": -4,
       "reload": 250,
@@ -297,7 +296,7 @@
       "unit": "lancer-drone",
       "spawnX": 0,
       "spawnY": -15,
-      "spawnTime": 1200
+      "spawnTime": 420
     }
   ]
 }
