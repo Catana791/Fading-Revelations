@@ -34,7 +34,7 @@
   "flying": true,
   "faceEnemy": true,
   "hitSize": 75,
-  "health": 18000,
+  "health": 12000,
   "armor": 10,
   "baseRotateSpeed": 3,
   "rotateWeapon": true,
@@ -75,7 +75,7 @@
       "mirror": true,
       "x": -20,
       "y": -10,
-      "range": 600,
+      "range": 400,
       "bullet": {
         "type": "BasicBulletType",
         "width": 3,
@@ -224,14 +224,14 @@
       "unit": "cryo-crawler",
       "spawnX": -20,
       "spawnY": -20,
-      "spawnTime": 400
+      "spawnTime": 200
     },
     {
       "type": "UnitSpawnAbility",
       "unit": "fire-crawler",
       "spawnX": 20,
       "spawnY": -20,
-      "spawnTime": 400
+      "spawnTime": 200
     }
   ]
 }
