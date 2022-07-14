@@ -37,7 +37,7 @@
         "speed": 0,
         "lifetime": 420,
         "status": "burning",
-        "statusDuration": 180
+        "statusDuration": 240
       }
     }
   },
