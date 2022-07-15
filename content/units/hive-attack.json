@@ -33,7 +33,7 @@
       "shootSound": "laser",
       "bullet": {
         "type": "MissileBulletType",
-        "speed": 10,
+        "speed": 5,
         "damage": 22,
         "pierce": true,
         "homingPower": 1,
