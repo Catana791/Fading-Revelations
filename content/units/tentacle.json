@@ -39,12 +39,12 @@
         "buildingDamageMultiplier": 0.2,
         "pierce": true,
         "pierceCap": 3,
-        "fragBullets": 25,
+        "fragBullets": 15,
         "fragBullet": {
          "type": "BasicBulletType",
           "speed": 1,
           "lifetime": 100,
-          "damage": 80,
+          "damage": 20,
           "buildingDamageMultiplier": 0.2,
           "frontColor": "ff1717",
           "backColor": "ffd64b",
@@ -55,6 +55,23 @@
           "splashDamage": 5,
           "splashDamageRadius": 10,
           "pierce": true,
+          "fragBullets": 10,
+          "fragBullet": {
+            "type": "MissileBulletType",
+            "damage": 30,
+            "speed": 2.2,
+            "status": "burning",
+            "statusDuration": 600,
+            "homingPower": 0.87,
+            "homingRange": 80,
+            "buildingDamageMultiplier": 0.2,
+            "length": 10,
+            "pierce": true,
+            "pierceCap": 3,
+            "height": 8,
+            "splashDamage": 10,
+            "splashDamageRadius": 8,
+          }
         }
       }
     }
