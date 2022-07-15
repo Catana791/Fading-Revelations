@@ -23,6 +23,40 @@
       "damage": 12,
       "lifetime": 50,
       "length": 8,
+    },
+    "graphite": {
+      "type": "BasicBulletType",
+      "height": 8,
+      "width": 8,
+      "length": 8,
+      "damage": 15,
+      "speed": 3,
+      "hitSize": 8,
+      "ammoMultiplier": 6,
+    },
+    "pyratite": {
+      "type": "BasicBulletType",
+      "height": 8,
+      "width": 8,
+      "length": 8,
+      "damage": 14,
+      "speed": 3,
+      "hitSize": 8,
+      "ammoMultiplier": 3,
+      "status": "burning",
+      "statusDuration": 30
+    },
+    "silicon": {
+      "type": "BasicBulletType",
+      "height": 8,
+      "width": 8,
+      "length": 8,
+      "damage": 16,
+      "speed": 3,
+      "hitSize": 8,
+      "ammoMultiplier": 7, 
+      "homingPower": 0.4302,
+      "homingRange": 64
     }
   },
   "requirements": [
