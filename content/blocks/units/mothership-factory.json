@@ -89,19 +89,19 @@
   "requirements": [
     {
       "item": "silicon",
-      "amount": 600
+      "amount": 2000
     },
     {
-      "item": "graphite",
-      "amount": 550
+      "item": "phase-fabric",
+      "amount": 800
     },
     {
-      "item": "lead",
+      "item": "plastanium",
       "amount": 2200
     },
     {
       "item": "surge-alloy",
-      "amount": 300
+      "amount": 1000
     },
     {
       "item": "phase-fabric",
