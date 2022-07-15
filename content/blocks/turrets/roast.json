@@ -15,6 +15,7 @@
       "ammoMultiplier": 3,
       "damage": 32,
       "length": 160,
+      "fireEffectChance": 1,
       "radius": 30,
       "speed": 10,
       "status": "burning",
@@ -26,6 +27,7 @@
       "damage": 50,
       "length": 200,
       "radius": 35,
+      "fireEffectChance": 1,
       "speed": 10,
       "status": "burning",
       "statusDuration": 20
