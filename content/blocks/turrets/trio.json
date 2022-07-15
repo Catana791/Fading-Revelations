@@ -7,7 +7,7 @@
   "range": 150,
   "size": 2,
   "shots": 3,
-  "spread": 3,
+  "spread": 3.2,
   "alternate": true,
   "targetAir": false,
   "targetGround": true,
