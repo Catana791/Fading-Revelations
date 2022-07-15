@@ -16,12 +16,13 @@
     "copper": {
       "speed": 3,
       "ammoMultiplier": 3,
-      "height": 6,
+      "height": 8,
+      "hitSize": 8,
       "type": "BasicBulletType",
-      "width": 6,
+      "width": 8,
       "damage": 12,
       "lifetime": 50,
-      "length": 6,
+      "length": 8,
     }
   },
   "requirements": [
