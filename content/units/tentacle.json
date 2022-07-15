@@ -3,9 +3,9 @@
   "name": "Tentacle",
   "description": "Heavy damage sniper drone. Has this name because of the tentacle-like shielding on it's back.",
   "drag": 0.15,
-  "speed": 0.8,
+  "speed": 1.25,
   "research": "mod-gate-units",
-  "maxVelocity": 0.68,
+  "maxVelocity": 1.3,
   "mass": 10,
   "commandLimit": 10,
   "hitsize": 45,
@@ -14,8 +14,8 @@
   "rotateWeapon": false,
   "engineOffset": 26,
   "engineSize": 5.5,
-  "rotatespeed": 0.15,
-  "baseRotateSpeed": 0.15,
+  "rotatespeed": 0.45,
+  "baseRotateSpeed": 0.45,
   "weapons": [
     {
       "name": "nothing",
