@@ -20,10 +20,37 @@
       "status": "burning",
       "statusDuration": 15,
     },
-    {
-      "pyratite": {
-        
-      }
+    "pyratite": {
+      "type": "FireBulletType",
+      "ammoMultiplier": 1,
+      "damage": 50,
+      "length": 200,
+      "radius": 35,
+      "speed": 10,
+      "status": "burning",
+      "statusDuration": 20
     }
-  }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 255
+    },
+    {
+      "item": "lead",
+      "amount": 180
+    },
+    {
+      "item": "titanium",
+      "amount": 120
+    },
+    {
+      "item": "plastanium",
+      "amount": 55
+    }
+  ],
+  "category": "turret",
+  "research": "ring-turret",
+  "buildVisibility": "shown"
+}
 }
