@@ -24,7 +24,7 @@
       "inaccuracy": 0,
       "shootCone": 360,
       "y": -2,
-      "reload": 250,
+      "reload": 400,
       "shootSound": "laser",
       "bullet": {
         "type": "LaserBulletType",
