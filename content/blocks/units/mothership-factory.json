@@ -31,7 +31,7 @@
           "amount": 5000
         }
       ],
-      "time": 20000
+      "time": 60000
     },
     {
       "unit": "sps",
@@ -57,7 +57,7 @@
           "amount": 4500
         }
       ],
-      "time": 16000
+      "time": 60000
     },
     {
       "unit": "test",
@@ -83,7 +83,7 @@
           "amount": 2000
         }
       ],
-      "time": 14000
+      "time": 60000
     }
   ],
   "requirements": [
