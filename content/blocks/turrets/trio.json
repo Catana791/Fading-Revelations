@@ -4,7 +4,7 @@
   "description": "The better version of the duo. Shoots out at enemies with two instead of three barrels.",
   "health": 500,
   "reloadTime": 10,
-  "range": 150,
+  "range": 120,
   "size": 2,
   "shots": 3,
   "spread": 3.2,
