@@ -22,14 +22,13 @@
   },
   "ammoTypes": {
     "living-steel": {
-      "speed": 11,
+      "speed": 10,
       "type": "LaserBulletType",
       "damage": 505,
-      "length": 40,
+      "length": 60,
       "width": 10,
-      "frontColor": "8c0291",
-      "backColor": "9e78dc",
       "pierce": true,
+      "lifetime": 240,
       "hittable": false,
       "absorbable": false,
       "pierceBuilding": true,
