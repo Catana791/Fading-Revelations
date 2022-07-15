@@ -8,6 +8,7 @@
   "size": 2,
   "shots": 3,
   "spread": 3.2,
+  "inaccuracy": 2,
   "alternate": true,
   "targetAir": false,
   "targetGround": true,
