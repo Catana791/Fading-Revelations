@@ -1,0 +1,11 @@
+{
+  "type": "ItemTurret",
+  "name": "Sear",
+  "description": "A better version of the scorch. Shoots a bigger flame.",
+  "health": 800,
+  "size": 2,
+  "rotateSpeed": 1,
+  "targetGround": true,
+  "targetAir": false,
+  "ammo": 
+}
