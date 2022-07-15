@@ -23,6 +23,7 @@
   "ammoTypes": {
     "living-steel": {
       "speed": 11,
+      "type": "RailBulletType",
       "damage": 505,
       "height": 45,
       "width": 30,
