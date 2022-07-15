@@ -19,6 +19,7 @@
       "type": "BasicBulletType",
       "width": 6,
       "damage": 12,
+      "lifetime": 50,
       "length": 6,
     }
   },
