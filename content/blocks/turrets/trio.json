@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Trio",
-  "description": "The better version of the duo. Shoots out at enemies with two instead of three barrels.",
+  "description": "The better version of the duo. Shoots out at enemies with three instead of two barrels.",
   "health": 500,
   "reloadTime": 15,
   "range": 120,
