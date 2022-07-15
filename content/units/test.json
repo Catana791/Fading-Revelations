@@ -41,31 +41,6 @@
   "rotateSpeed": 6,
   "weapons": [
     {
-      "name": "nothing",
-      "shootSound": "explosion",
-      "range": 100,
-      "rotate": true,
-      "mirror": false,
-      "x": 0,
-      "y": 20,
-      "reload": 1,
-      "bullet": {
-        "type": "MissileBulletType",
-        "width": 5,
-        "height": 10,
-        "speed": 10,
-        "damage": 30,
-        "lifetime": 50,
-        "pierce": true,
-        "pierceCap": 10,
-        "splashDamageRadius": 12,
-        "splashDamage": 15,
-        "trailColor": "665c9f",
-        "frontColor": "ce67e7",
-        "backColor": "c58be1"
-      }
-    },
-    {
       "name": "corruption-shooter",
       "shootSound": "wave",
       "reload": 300,
