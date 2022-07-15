@@ -28,7 +28,7 @@
       "length": 60,
       "width": 10,
       "pierce": true,
-      "lifetime": 240,
+      "lifetime": 60,
       "hittable": false,
       "absorbable": false,
       "pierceBuilding": true,
