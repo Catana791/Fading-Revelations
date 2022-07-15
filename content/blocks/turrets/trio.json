@@ -58,8 +58,8 @@
       "lifetime": 50,
       "hitSize": 8,
       "ammoMultiplier": 7, 
-      "homingPower": 0.4302,
-      "homingRange": 64
+      "homingPower": 0.56,
+      "homingRange": 120
     }
   },
   "requirements": [
