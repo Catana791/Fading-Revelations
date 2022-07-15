@@ -7,7 +7,7 @@
   "range": 150,
   "size": 2,
   "shots": 3,
-  "spread": 10,
+  "spread": 3,
   "alternate": true,
   "targetAir": false,
   "targetGround": true,
@@ -15,12 +15,11 @@
     "copper": {
       "speed": 3,
       "ammoMultiplier": 3,
-      "height": 4,
+      "height": 6,
       "type": "BasicBulletType",
-      "width": 4,
+      "width": 6,
       "damage": 12,
-      "lifetime": 30,
-      "length": 4,
+      "length": 6,
     }
   },
   "requirements": [
