@@ -4,12 +4,26 @@
   "description": "A better version of the scorch. Shoots a bigger flame.",
   "health": 800,
   "size": 2,
+  "inaccuracy": 0,
+  "range": 160,
   "rotateSpeed": 1,
   "targetGround": true,
   "targetAir": false,
   "ammoTypes": {
     "coal": {
-         
+      "type": "FireBulletType",
+      "ammoMultiplier": 3,
+      "damage": 32,
+      "length": 160,
+      "radius": 30,
+      "speed": 10,
+      "status": "burning",
+      "statusDuration": 15,
+    },
+    {
+      "pyratite": {
+        
+      }
     }
   }
 }
