@@ -1,0 +1,38 @@
+{
+  "type": "ItemTurret",
+  "name": "Trio",
+  "description": "The better version of the duo. Shoots out at enemies with two instead of three barrels.",
+  "health": 500,
+  "reloadTime": 10,
+  "range": 150,
+  "size": 2,
+  "shots": 3,
+  "spread": 10,
+  "alternate": true,
+  "targetAir": false,
+  "targetGround": true,
+  "ammoTypes": {
+    "copper": {
+      "speed": 3,
+      "ammoMultiplier": 3,
+      "height": 4,
+      "type": "BasicBulletType",
+      "width": 4,
+      "damage": 12,
+      "lifetime": 30,
+      "length": 4,
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 70
+    },
+    {
+      "item": "lead",
+      "amount": 35
+    }
+  ],
+  "category": "turret",
+  "research": "upgrade-turret"
+}
