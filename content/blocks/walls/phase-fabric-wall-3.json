@@ -5,6 +5,7 @@
   "deflect": true,
   "flashHit": true,
   "health": 9600,
+  "chanceDeflect": 20,
   "size": 4,
   "requirements": [
     {
