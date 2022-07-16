@@ -7,6 +7,7 @@
   "range": 120,
   "size": 2,
   "shots": 3,
+  "researchCostMultiplier": 0.1,
   "spread": 3.2,
   "inaccuracy": 3,
   "alternate": true,
