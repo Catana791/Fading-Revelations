@@ -12,20 +12,6 @@
 ![Logo]
 
 <br>
-<br>
-
-*Formerly **Mindustry Extended**, now **Fading Revelations**, <br>
-extends **[Mindustry]** in fun ways while keeping it balanced.*
-
-<br>
-<br>
-<br>
-
-![Separator]
-
-<br>
-<br>
-<br>
 
 ![Item Unit Blocks]  
 ![Item Production]  
@@ -42,14 +28,12 @@ extends **[Mindustry]** in fun ways while keeping it balanced.*
 ![Item Units]  
 ![Item Zones]
 
-
-<br>
 <br>
 <br>
 
-![Separator]
+*Formerly **Mindustry Extended**, now **Fading Revelations**, <br>
+extends **[Mindustry]** in fun ways while keeping it balanced.*
 
-<br>
 <br>
 <br>
 
@@ -74,17 +58,6 @@ extends **[Mindustry]** in fun ways while keeping it balanced.*
 
 -   `~120` Blocks
 
-<br>
-<br>
-<br>
-
-<div align = center>
-
-![Separator]
-
-</div>
-
-<br>
 <br>
 <br>
 
