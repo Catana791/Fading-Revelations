@@ -13,6 +13,7 @@
   "absorbLasers": true,
   "size": 2,
   "buildCostMultiplier": 30,
+  "researchCostMultiplier": 30,
   "requirements": [
     {
       "item": "titanium",
