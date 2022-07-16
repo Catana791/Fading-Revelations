@@ -7,17 +7,11 @@
   "requirements": [
     {
       "item": "titanium",
-      "amount": 300
+      "amount": 54
     }
   ],
   "category": "defense",
   "research": {
-   "parent": "copper-wall-3",
-    "requirements": [
-      {
-       "item": "titanium",
-        "amount": 300
-      }
-      ]
+   "parent": "copper-wall-3"
   }
 }
