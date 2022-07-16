@@ -3,29 +3,19 @@
   "name": "Gigantic Door",
   "description": "A gigantic door.",
   "size": 4,
-  "health": 9000,
+  "health": 6400,
   "requirements": [
     {
       "item": "titanium",
-      "amount": 164
+      "amount": 96
     },
     {
       "item": "silicon",
-      "amount": 132
+      "amount": 64
     }
   ],
   "category": "defense",
   "research": {
-    "parent": "door-huge",
-    "requirements": [
-      {
-        "item": "titanium",
-        "amount": 164
-      },
-      {
-        "item": "silicon",
-        "amount": 132
-      }
-    ]
+    "parent": "door-huge"
   }
 }
