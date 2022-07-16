@@ -2,22 +2,16 @@
   "name": "Gigantic Titanium-Wall",
   "description": "A gigantic wall made out of titanium.",
   "type": "Wall",
-  "health": 7060,
+  "health": 7040,
   "size": 4,
   "requirements": [
     {
       "item": "titanium",
-      "amount": 500
+      "amount": 96
     }
   ],
   "category": "defense",
   "research": {
-   "parent": "titanium-wall-2",
-    "requirements": [
-      {
-        "item": "titanium",
-        "amount": 500
-      }
-      ]
+   "parent": "titanium-wall-2"
   }
 }
