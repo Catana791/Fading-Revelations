@@ -1,6 +1,6 @@
 {
-  "name": "Huge Composite Wall",
-  "description": "A huge version of the composite wall.",
+  "name": "Gigantic Composite Wall",
+  "description": "A gigantic version of the composite wall.",
   "type": "Wall",
   "health": 16750,
   "deflect": true,
@@ -12,7 +12,7 @@
   "chanceDeflect": 10,
   "absorbLasers": true,
   "researchCostMultiplier": 0.4,
-  "size": 3,
+  "size": 4,
   "requirements": [
     {
       "item": "titanium",
@@ -37,6 +37,6 @@
   ],
   "category": "defense",
   "research": {
-   "parent": "composite-wall-large"
+   "parent": "composite-wall-2"
   }
 }
