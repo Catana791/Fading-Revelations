@@ -2,7 +2,7 @@
   "name": "Small Composite Wall",
   "description": "A wall made from different materials found in the game. Possesses the powers of plastanium, surge alloy and phase fabric walls.",
   "type": "Wall",
-  "health": 1100,
+  "health": 1000,
   "deflect": true,
   "flashHit": true,
   "lightningChance": 0.05,
