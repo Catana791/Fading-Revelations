@@ -1,6 +1,8 @@
 
 <div align = center>
 
+<br>
+
 [![Badge Discord]][Discord]    
 [![Badge Commit]][Commits]    
 [![Badge Issues]][Issues]    
@@ -48,15 +50,15 @@ extends **[Mindustry]** in fun ways while keeping it balanced.*
 -   Distribute items across the map with <br>
     little effort using the outpost block.
 
--   Many Units *( Some Upgradable )*
+-   Many Units  *( Some Upgradable )*
 
--   `2` Larger Core Blocks
+-   `2`  Larger Core Blocks
 
     *+ Fitting Drones*
 
--   `7` Ammo Types
+-   `7`  Ammo Types
 
--   `~120` Blocks
+-   `~120`  Blocks
 
 <br>
 <br>
