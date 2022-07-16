@@ -12,26 +12,27 @@
   "chanceDeflect": 10,
   "absorbLasers": true,
   "size": 2,
+  "buildCostMultiplier": 30,
   "requirements": [
     {
       "item": "titanium",
-      "amount": 120
+      "amount": 1
     },
     {
       "item": "thorium",
-      "amount": 120
+      "amount": 1
     },
     {
       "item": "plastanium",
-      "amount": 120
+      "amount": 1
     },
     {
       "item": "phase-fabric",
-      "amount": 120
+      "amount": 1
     },
     {
       "item": "surge-alloy",
-      "amount": 120
+      "amount": 1
     }
   ],
   "category": "defense",
