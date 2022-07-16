@@ -11,7 +11,7 @@
   "insulated": true,
   "chanceDeflect": 10,
   "absorbLasers": true,
-  "researchCostMultiplier": 5,
+  "researchCostMultiplier": 0.2,
   "size": 3,
   "requirements": [
     {
