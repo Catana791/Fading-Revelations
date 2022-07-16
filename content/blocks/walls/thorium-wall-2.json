@@ -7,17 +7,11 @@
   "requirements": [
     {
       "item": "thorium",
-      "amount": 300
+      "amount": 54
     }
   ],
   "category": "defense",
   "research": {
-   "parent": "plastanium-wall-3",
-    "requirements": [
-      {
-       "item": "thorium",
-        "amount": 300
-      }
-      ]
+   "parent": "plastanium-wall-3"
   }
 }
