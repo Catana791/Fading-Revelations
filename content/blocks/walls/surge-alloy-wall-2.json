@@ -10,17 +10,11 @@
   "requirements": [
     {
       "item": "surge-alloy",
-      "amount": 300
+      "amount": 54
     }
   ],
   "category": "defense",
   "research": {
-   "parent": "phase-fabric-wall-3",
-    "requirements": [
-      {
-       "item": "surge-alloy",
-        "amount": 300
-      }
-      ]
+   "parent": "phase-fabric-wall-3"
   }
 }
