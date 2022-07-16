@@ -7,17 +7,11 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 500
+      "amount": 96
     }
   ],
   "category": "defense",
   "research": {
-    "parent": "copper-wall-2",
-    "requirements": [
-      {
-        "item": "copper",
-        "amount": 500
-      }
-    ]
+    "parent": "copper-wall-2"
   }
 }
