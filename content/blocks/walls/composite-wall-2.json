@@ -9,7 +9,7 @@
   "lightningDamage": 20,
   "lightningLength": 9,
   "insulated": true,
-  "chanceDeflect": 10,
+  "chanceDeflect": 0.1,
   "absorbLasers": true,
   "researchCostMultiplier": 0.2,
   "size": 3,
