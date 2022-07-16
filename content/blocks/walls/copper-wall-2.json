@@ -12,6 +12,6 @@
   ],
   "category": "defense",
   "research": {
-   "parent": "mod-gate-walls",
+   "parent": "mod-gate-walls"
   }
 }
