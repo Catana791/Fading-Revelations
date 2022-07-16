@@ -9,17 +9,11 @@
   "requirements": [
     {
       "item": "phase-fabric",
-      "amount": 500
+      "amount": 96
     }
   ],
   "category": "defense",
   "research": {
-   "parent": "phase-fabric-wall-2",
-    "requirements": [
-      {
-       "item": "phase-fabric",
-        "amount": 500
-      }
-      ]
+   "parent": "phase-fabric-wall-2"
   }
 }
