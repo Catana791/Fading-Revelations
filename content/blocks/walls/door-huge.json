@@ -3,15 +3,15 @@
   "name": "Huge door",
   "description": "A huge door.",
   "size": 3,
-  "health": 6000,
+  "health": 3600,
   "requirements": [
     {
       "item": "titanium",
-      "amount": 96
+      "amount": 54
     },
     {
       "item": "silicon",
-      "amount": 64
+      "amount": 36
     }
   ],
   "category": "defense",
