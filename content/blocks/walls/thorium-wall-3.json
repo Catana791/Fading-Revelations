@@ -7,17 +7,11 @@
   "requirements": [
     {
       "item": "thorium",
-      "amount": 500
+      "amount": 96
     }
   ],
   "category": "defense",
   "research": {
-   "parent": "thorium-wall-2",
-    "requirements": [
-      {
-       "item": "thorium",
-        "amount": 500
-      }
-      ]
+   "parent": "thorium-wall-2"
   }
 }
