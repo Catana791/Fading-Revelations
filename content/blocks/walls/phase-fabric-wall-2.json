@@ -14,12 +14,6 @@
   ],
   "category": "defense",
   "research": {
-    "parent": "thorium-wall-3",
-    "requirements": [
-      {
-        "item": "phase-fabric",
-        "amount": 300
-      }
-      ]
+    "parent": "thorium-wall-3"
   }
 }
