@@ -12,8 +12,8 @@
   "chanceDeflect": 10,
   "absorbLasers": true,
   "size": 2,
-  "buildCostMultiplier": 30,
-  "researchCostMultiplier": 30,
+  "buildCostMultiplier": 120,
+  "researchCostMultiplier": 120,
   "requirements": [
     {
       "item": "titanium",
