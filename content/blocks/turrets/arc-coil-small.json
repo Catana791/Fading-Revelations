@@ -11,7 +11,7 @@
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 7,
-    "damage": 5
+    "damage": 2
   },
   "rotate": false,
   "powerUse": 1,
