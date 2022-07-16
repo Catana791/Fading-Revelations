@@ -2,7 +2,7 @@
   "name": "Huge Composite Wall",
   "description": "A huge version of the composite wall.",
   "type": "Wall",
-  "health": 8830,
+  "health": 4310,
   "deflect": true,
   "flashHit": true,
   "lightningChance": 0.05,
