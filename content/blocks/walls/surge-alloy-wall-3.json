@@ -10,17 +10,11 @@
   "requirements": [
     {
       "item": "surge-alloy",
-      "amount": 500
+      "amount": 96
     }
   ],
   "category": "defense",
   "research": {
-   "parent": "surge-alloy-wall-2",
-    "requirements": [
-      {
-        "item": "surge-alloy",
-        "amount": 500
-      }
-      ]
+   "parent": "surge-alloy-wall-2"
   }
 }
