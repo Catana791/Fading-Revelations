@@ -1,0 +1,40 @@
+{
+  "name": "Small Composite Wall",
+  "description": "A wall made from different materials found in the game. Possesses the powers of plastanium, surge alloy and phase fabric walls.",
+  "type": "Wall",
+  "health": 1100,
+  "deflect": true,
+  "flashHit": true,
+  "lightningChance": 0.1,
+  "lightningDamage": 10,
+  "lightningLength": 10,
+  "insulated": true,
+  "absorbLasers": true,
+  "size": 1,
+  "requirements": [
+    {
+      "item": "titanium",
+      "amount": 30
+    },
+    {
+      "item": "thorium",
+      "amount": 30
+    },
+    {
+      "item": "plastanium",
+      "amount": 30
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 30
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 30
+    }
+  ],
+  "category": "defense",
+  "research": {
+   "parent": "mod-gate-walls"
+  }
+}
