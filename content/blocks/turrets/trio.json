@@ -3,14 +3,14 @@
   "name": "Trio",
   "description": "The better version of the duo. Shoots out at enemies with three instead of two barrels.",
   "health": 500,
-  "reloadTime": 15,
+  "reloadTime": 12,
   "range": 120,
   "size": 2,
   "shots": 3,
   "spread": 3.2,
   "inaccuracy": 3,
   "alternate": true,
-  "targetAir": false,
+  "targetAir": true,
   "targetGround": true,
   "ammoTypes": {
     "copper": {
@@ -58,7 +58,7 @@
       "lifetime": 50,
       "hitSize": 8,
       "ammoMultiplier": 7, 
-      "homingPower": 0.56,
+      "homingPower": 0.9,
       "homingRange": 120
     }
   },
