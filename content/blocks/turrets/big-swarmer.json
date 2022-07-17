@@ -39,8 +39,6 @@
       "homingPower": 0.2,
       "status": "burning",
       "lifetime": 47.5,
-      "hitEffect": "blockExplosion",
-      "despawnEffect": "blockExplosion",
       "weaveScale": 8,
       "weaveMag": 3
     },
@@ -62,8 +60,6 @@
       "homingRange": 150,
       "homingPower": 0.2,
       "lifetime": 47.5,
-      "hitEffect": "blockExplosion",
-      "despawnEffect": "blockExplosion",
       "weaveScale": 8,
       "weaveMag": 3
     },
@@ -85,8 +81,6 @@
       "homingRange": 150,
       "homingPower": 0.2,
       "lifetime": 47.5,
-      "hitEffect": "blockExplosion",
-      "despawnEffect": "blockExplosion",
       "weaveScale": 8,
       "weaveMag": 3,
       "status": "blasted",
