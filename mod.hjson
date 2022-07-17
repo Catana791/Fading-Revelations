@@ -1,26 +1,51 @@
-name: "me"
-"multiplayerCompatible": true
-displayName: "Fading Revelations"
-author: 
-  '''
-  [maroon]Dev and Translators:
-      [yellow]Fresh791 (Developer and German translations)
-      [maroon]HairyNugget (Spanish translations)
-      
-  [maroon]Contributers:
-      Many, many people! Check Discord for more information!
-  '''
-description:
-  '''
-  A content extension mod for the game Mindustry. 
-  Includes a custom map, blocks, units, items, liquids and custom ammo types!
-  
-  Supported Languages: English, Spanish, German and Ukrainian.
-  
-  Please note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).
-  
-  We try to balance blocks and units as well as we can. Therefore, some things look too strong on paper but don't worry!
-  '''
-version: 1.09
-minGameVersion: 126.2
-repo: Fresh791/Fading-Revelations
+{
+    multiplayerCompatible : true
+    displayName : Fading Revelations
+    repo : Fresh791/Fading-Revelations
+    name : me
+
+
+    author:
+        '''
+        
+        [maroon]Ｄｅｖｅｌｏｐｅｒｓ
+        - [yellow]Fresh791
+
+
+        [maroon]Ｔｒａｎｓｌａｔｏｒｓ
+        - Spanish : HairyNugget
+        - German : Fresh791
+
+
+        [maroon]Ｃｏｎｔｒｉｂｕｔｏｒｓ
+        Lots of people, check the
+        GitHub contributors list!
+        
+        
+        '''
+
+    description:
+        '''
+        
+        A fun & balanced content extension.
+        
+        
+        Ｆｅａｔｕｒｅｓ
+        A custom map and many blocks, 
+        units, items, liquids & ammo types.
+        
+        
+        Ｌａｎｇｕａｇｅｓ
+        - Ukrainian
+        - Spanish
+        - English
+        - German
+        
+        
+        Check Discord / GitHub 
+        for more information!
+        '''
+
+    minGameVersion : 126.2
+    version : 1.09
+}
