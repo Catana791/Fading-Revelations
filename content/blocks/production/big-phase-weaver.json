@@ -8,8 +8,6 @@
   "itemCapacity": 60,
   "hasLiquids": false,
   "craftTime": 130,
-  "craftEffect": "pulverizeRedder",
-  "updateEffect": "pulverizeRed",
   "consumes": {
     "power": 9.9,
     "items": {
