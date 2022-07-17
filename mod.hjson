@@ -22,5 +22,5 @@ description:
   We try to balance blocks and units as well as we can. Therefore, some things look too strong on paper but don't worry!
   '''
 version: 1.09
-minGameVersion: 136
+minGameVersion: 126.2
 repo: Fresh791/Fading-Revelations
