@@ -3,9 +3,7 @@ name: Sear
 size: 2
 health: 890
 range: 100
-reloadTime: 5
-shots: 3
-spread: 0
+reloadTime: 6
 recoilAmount: 0.5
 shootSound: flame
 ammoTypes: {
