@@ -17,7 +17,7 @@ ammoTypes: {
     status: burning
     makeFire: true
     lifetime: 18
-    
+    despawnEffect: none
     width: 0.01
     height: 0.01
     smokeEffect: {
@@ -43,7 +43,7 @@ ammoTypes: {
     makeFire: true
     lifetime: 18
     width: 0.01
-    
+    despawnEffect: none
     height: 0.01
     smokeEffect: {
       type: ParticleEffect
@@ -62,6 +62,6 @@ ammoTypes: {
 category: turret
 research: duo
 requirements: [
-  copper/500
-  thorium/250
+  copper/50
+  graphite/50
 ]
