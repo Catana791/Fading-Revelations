@@ -2,7 +2,7 @@ type: ItemTurret
 name: Sear
 size: 2
 health: 890
-range: 120
+range: 100
 reloadTime: 5
 shots: 3
 spread: 0
