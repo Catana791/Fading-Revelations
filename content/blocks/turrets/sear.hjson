@@ -2,7 +2,7 @@ type: ItemTurret
 name: Sear
 size: 2
 health: 890
-range: 190
+range: 120
 reloadTime: 5
 shots: 3
 spread: 0
@@ -12,7 +12,7 @@ ammoTypes: {
   coal: {
     damage: 32
     speed: 3
-    lifetime: 200
+    lifetime: 400
     pierce: true
     pierceBuilding: true
     ammoMultiplier: 3
@@ -37,7 +37,7 @@ ammoTypes: {
   pyratite: {
   damage: 50
     speed: 3
-    lifetime: 200
+    lifetime: 400
     pierce: true
     pierceBuilding: true
     ammoMultiplier: 4
