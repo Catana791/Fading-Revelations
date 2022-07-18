@@ -2,9 +2,9 @@ type: ItemTurret
 name: Sear
 size: 2
 health: 890
-range: 75
+range: 72
 reloadTime: 6
-recoilAmount: 0.5
+recoilAmount: 1
 shootSound: flame
 ammoTypes: {
   coal: {
