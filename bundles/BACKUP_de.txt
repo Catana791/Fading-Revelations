@@ -47,6 +47,9 @@ block.me-core-level-5.description = Kern der Basis. Ist enorm gut gepanzert und 
 block.me-enhanced-mend-projector.name = Verbesserter Reperaturdom
 block.me-enhanced-mend-projector.description = Ein besserer Reperaturdom.
 
+block.me-dark-mender.name = Dunkler Reparateur
+block.me-dark-mender.description = Ein Reparateur, der Bloecke schnell mit großer Kraft repariert. Benoetigt allerdings zum Laufen fortwaehrend Lebendstahl.
+
 block.me-force-dome.name = Kraftdom
 block.me-force-dome.description = Ein deutlich besserer Kraftfeldgenerator.
 
@@ -235,6 +238,11 @@ block.me-upgrade-turret.description = Ein kleiner Effektturm, der unterschiedlic
 block.me-wet-gattling.name = Nasse Gattling
 block.me-wet-gattling.description = Schiesst schnell viele Kugeln aus Fluessigkeiten.
 
+block.me-arc-coil-small.name = Kleine Arcusspule
+block.me-arc-coil-small.description = Eine kleine Teslaspule, die ein Feld aus Strom erzeugt.
+
+block.me-arc-coil-big.name = Große Arcusspule
+block.me-arc-coil-big.description = Eine große Teslaspule, die ein groesseres Feld aus Strom erzeugt.
 
 
 #blocks-units
@@ -337,6 +345,7 @@ item.me-living-steel-hard.description = Lebendstahl, der mit Thorium zur Verwend
 
 item.me-living-steel.name = Lebendstahl
 item.me-living-steel.description = Titan, welches durch lebendige Sporen belebt wurde.
+item.me-living-steel.details = Waehrend das Aufkommen von Lebendigem Metall und seinen anderen Varianten viele zivile Aspekte des Lebens revolutioniert hat, hat es auch ein neues Waffenzeitalter eingeleitet, das es so noch nie gegeben hat. Bisherige Grenzen der Militaertechnologie werden in rasantem Tempo durchbrochen, neue mit Lebendigem Metall infundierte KIs beginnen, selbst die fortschrittlichsten militaerischen Denker in alarmierendem Tempo zu übertreffen, und Waffen, die in der Lage sind, selbst die am staerksten befestigten Stuetzpunkte zu zerstoeren, beginnen sich rasch zu verbreiten. Denn ein neues Zeitalter der Konflikte hat begonnen.
 
 item.me-nano-ammo.name = Nanomunition
 item.me-nano-ammo.description = Munition, die kleine Bots im Gegner pflanzt um ihn von innen zu verbrennen.
@@ -353,6 +362,8 @@ liquid.me-living-steel-liquid.description = Lebendstahl, der mit Oel verfluessig
 
 
 #units
+unit.me-test.name = E.P.Z.M
+unit.me-test.description = Die Einheit Programmiert Zur Massenvernichtung (kurz E.P.Z.M) wurde von einer unbekannten Organisation geschaffen um über Entfernung und ohne Risiko Sektoren einzunehmen. Allerdings wurde ihr System von intelligenten Sporen übernommen und ging dadurch bis jetzt verloren.
 
 unit.me-builder-mech-v2.name = Bau-Mech, V2
 unit.me-builder-mech-v2.description = Beschuetzt den Element Kern vor Gegnern. Kann Bloekce heilen. Kann sehr schnell bauen und abbauen.
@@ -365,6 +376,7 @@ unit.me-carrier-flagship.description = Kann nicht schwimmen! Erzeugt Lancer Droh
 
 unit.me-close-range.name = Spike
 unit.me-close-range.description = Eine schnelle Einheit mit hohem Schaden aber niedriger Haltbarkeit.
+unit.me-close-range.details = Die Galti-Angriffsdrohne oder besser bekannt unter dem Namen "Spike" wurde von ihrem Vorgaenger inspiriert und ist in Bezug auf die Angriffsgeschwindigkeit und die maximale Geschwindigkeit ein deutlicher Fortschritt. Was die Rüstung angeht, ist die Einheit jedoch deutlich schlechter. \n \n Urspruenglich als Nahkampf- oder Kamikaze-Einheit konzipiert, wurde der "Spike" umgestaltet, nachdem groeßere Mängel an den "Klingen" festgestellt wurden. Dies sollte jedoch nicht das Ende der Probleme des "Spike" sein, da die rasante technologische Entwicklung den Nahkampf unwirksam machte. Schließlich ersetzte der "Spike" seine alten und sperrigen Schaltkreise durch neue Schaltkreise aus lebendem Metall, die eine hoehere Energieerzeugung und die Ausruestung mit Waffen mit hohem Verbrauch ermoeglichten. 
 
 unit.me-hive-attack.name = HIVE Schwere Angriffseinheit (HSA)
 unit.me-hive-attack.description = Eine schwere Angriffseinheit erschaffen vom HIVE Mutterschiff. Ausgestattet mit schweren, Zielsuchenden Raketen und einem speziellen System, wodurch die HSA immer die perfekte Distanz zum Gegner fuer perfekten Schaden einnehmen kann.
@@ -383,6 +395,7 @@ unit.me-king.description = Ausgestattet mit mehreren zielsuchenden Raketenwerfer
 
 unit.me-lancer-drone.name = Lancer Drohne
 unit.me-lancer-drone.description = Eine kleine, opferbare Drohne, die Hochenergielaser schiesst.
+unit.me-lancer-drone.details = Die Lancer-Drohne wird von vielen Militaers im Cluster als Grundausstattung angesehen. Die Lancer-Drohne ist eine billige Angriffsdrohne, die unter den richtigen Bedingungen feindliche Formationen und Basen vernichten kann. Urspruenglich als schnelles Abfangschiff konzipiert, wurde sie spaeter zu einer Glaskanonen-ähnlichen Einheit mit geringer Geschwindigkeit und extremer Zerbrechlichkeit umgestaltet. Um ihre Zerbrechlichkeit auszugleichen, verfügt die Einheit über zwei Lancer-Strahlen mit hohem Schaden, die spaeter zu ihrem Namensgeber wurden. \n \n Waehrend die Lancer-Drohne allein sehr verwundbar ist und leicht abgeschossen werden kann, können Drohnenschwaerme für jede feindliche Formation oder Basis ein gefaehrlicher Gegner sein. Nachrichten ueber Drohnenschwaerme, die die Verteidigung von Basen lahmlegen oder sogar überwaeltigen, sind keine Seltenheit. \n \n Die Lancer-Drohne kaennte durch neue, bessere Einheiten ersetzt werden. Mit dem Aufkommen von lebendem Metall ist es nur eine Frage der Zeit, bis sie durch etwas ersetzt wird, das weitaus mehr Blutvergießen im Cluster anrichten kann. 
 
 unit.me-sps.name = Angriffsplattform Strahl
 unit.me-sps.description = Ein grosses Schiff, das maechtige Waffen besitzt und Lancer Drohnen erschafft.
