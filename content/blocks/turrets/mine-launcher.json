@@ -35,8 +35,8 @@
         "damage": 75,
         "sprite": "me-lml-mine"
         "frontColor": "d99f6b",
-        "bulletShrink": 0,
-        "despawnEffect": none,
+        "bulletShrink": -1,
+        "despawnEffect": "none",
         "backColor": "f3e979",
         "splashDamage": 75,
         "splashDamageRadius": 45,
