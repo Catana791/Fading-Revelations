@@ -21,7 +21,7 @@
     },
     "cryofluid": {
       "type": "LiquidBulletType",
-      "damage": 30,
+      "damage": 40,
       "knockback": 10,
       "lifetime": 57,
       "pierce": true,
@@ -32,7 +32,7 @@
     },
     "slag": {
       "type": "LiquidBulletType",
-      "damage": 40,
+      "damage": 30,
       "knockback": 1,
       "lifetime": 57,
       "pierce": true,
@@ -43,7 +43,7 @@
     },
     "oil": {
       "type": "LiquidBulletType",
-      "damage": 20,
+      "damage": 35,
       "knockback": 1,
       "lifetime": 57,
       "pierce": true,
