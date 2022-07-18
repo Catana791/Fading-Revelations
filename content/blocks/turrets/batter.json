@@ -55,6 +55,7 @@
     },
     "living-steel-liquid": {
       "damage": 40,
+      "type": "LiquidBulletType",
       "knockback": 2,
       "lifetime": 57,
       "pierce": true,
