@@ -63,5 +63,5 @@ category: turret
 research: duo
 requirements: [
   copper/50
-  graphite/50
+  graphite/44
 ]
