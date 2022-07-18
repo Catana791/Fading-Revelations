@@ -18,6 +18,7 @@
       "liquid": "water",
       "status": "wet",
       "statusDuration": 20,
+      "puddles": 1,
       "puddleLiquid": "water",
       "puddleRange": 24,
       "puddleAmount": 4
