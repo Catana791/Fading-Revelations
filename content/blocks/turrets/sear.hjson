@@ -12,7 +12,6 @@ ammoTypes: {
   coal: {
     damage: 32
     speed: 3
-    lifetime: 400
     pierce: true
     pierceBuilding: true
     ammoMultiplier: 3
@@ -23,21 +22,20 @@ ammoTypes: {
     height: 0.01
     smokeEffect: {
       type: ParticleEffect
-      particles: 30
+      particles: 25
       length: 200
       lifetime: 36
       interp: circleOut
-      cone: 5
+      cone: 3
       colorFrom: ffdd55
       colorTo: db401c
       sizeFrom: 4
-      sizeTo: 0.25
+      sizeTo: 0.6
     }
   }
   pyratite: {
   damage: 50
     speed: 3
-    lifetime: 400
     pierce: true
     pierceBuilding: true
     ammoMultiplier: 4
@@ -48,15 +46,15 @@ ammoTypes: {
     height: 0.01
     smokeEffect: {
       type: ParticleEffect
-      particles: 30
+      particles: 25
       length: 200
       lifetime: 36
       interp: circleOut
-      cone: 5
+      cone: 3
       colorFrom: ffdd55
       colorTo: db401c
       sizeFrom: 4
-      sizeTo: 0.25
+      sizeTo: 0.6
     }
   }
 }
