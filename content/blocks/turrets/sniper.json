@@ -90,6 +90,6 @@
     }
   ],
   "category": "turret",
-  "research": "ring-turret",
+  "research": "gattling",
   "buildVisibility": "shown"
 }
