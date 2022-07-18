@@ -61,7 +61,7 @@ ammoTypes: {
   }
 }
 category: turret
-research: duo
+research: trio
 requirements: [
   copper/50
   graphite/44
