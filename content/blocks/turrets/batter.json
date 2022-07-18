@@ -19,7 +19,8 @@
       "status": "wet",
       "statusDuration": 20,
       "puddleLiquid": "water",
-      "puddleSize": 24
+      "puddleRange": 24,
+      "puddleAmount": 4
     },
     "cryofluid": {
       "type": "LiquidBulletType",
