@@ -33,6 +33,7 @@
         "width": 45,
         "hitSize": 45,
         "damage": 75,
+        "sprite": "me-lml-mine"
         "frontColor": "d99f6b",
         "backColor": "f3e979",
         "splashDamage": 75,
