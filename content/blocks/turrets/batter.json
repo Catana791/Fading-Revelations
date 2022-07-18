@@ -1,7 +1,7 @@
 {
   "name": "Batter",
   "description": "A turret that shoots giant drops of water that knock back enemies.",
-  "size": 2,
+  "size": 3,
   "range": 200,
   "reloadTime": 60,
   "shootSound": "artillery",
