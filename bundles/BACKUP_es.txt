@@ -23,6 +23,8 @@ block.me-titanium-drill.name = Taladro de titanio
 block.me-titanium-drill.description = Un taladro barato para todo.
 
 #effect
+block.me-dark-mender.name = Mender oscuro
+block.me-dark-mender.description = La Unidad de Ataque Corrupta Programada para la Destrucción Masiva (abreviado U.A.C.P.D.M) fue creada por una organización desconocida para hacerse cargo a distancia de sectores peligrosos, pero unas esporas inteligentes corrompieron su ai haciendo que la unidad se perdiera hasta ahora.
 
 block.me-bc-trading-station.name = Estacion de intercambio de compuesto explosivo
 block.me-bc-trading-station.description = Intercambia 1 de oro por 3 compuesto explosivos.
@@ -162,6 +164,14 @@ block.me-wet-gattling.name = Liquid Minigun
 block.me-wet-gattling.description = Una ametralladora de liquidos de alta velocidad que hace poco dano pero pone efectos en enemigos y lo hace viendose cool.
 block.me-mega-meltdown.name = Meltdown Mega
 block.me-mega-meltdown.description = Un mejor Meltdown que tambien dispara meltiples laseres cortos.
+
+
+block.me-arc-coil-small.name = Bobina de arco pequeno
+block.me-arc-coil-small.description = Una pequena bobina de Tesla que genera un campo de electricidad.
+
+block.me-arc-coil-big.name = Bobina de arco grande
+block.me-arc-coil-big.description = Una gran bobina de Tesla que genera un campo mayor a partir de la electricidad.
+
 
 #blocks-units
 
