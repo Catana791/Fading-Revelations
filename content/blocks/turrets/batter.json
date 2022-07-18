@@ -59,7 +59,7 @@
       "pierce": true,
       "pierceCap": 25,
       "liquid": "living-steel-liquid",
-      "status": "spore-slowed",
+      "status": "spore-slow",
       "statusDuration": 120
     }
   },
