@@ -51,6 +51,16 @@
       "liquid": "oil",
       "status": "tarred",
       "statusDuration": 30
+    },
+    "living-steel-liquid": {
+      "damage": 40,
+      "knockback": 2,
+      "lifetime": 57,
+      "pierce": true,
+      "pierceCap": 25,
+      "liquid": "living-steel-liquid",
+      "status": "spore-slowed",
+      "statusDuration": 120
     }
   },
   "rotateSpeed": 200,
