@@ -23,7 +23,7 @@ ammoTypes: {
     smokeEffect: {
       type: ParticleEffect
       particles: 25
-      length: 200
+      length: 100
       lifetime: 36
       interp: circleOut
       cone: 3
@@ -48,7 +48,7 @@ ammoTypes: {
     smokeEffect: {
       type: ParticleEffect
       particles: 25
-      length: 200
+      length: 100
       lifetime: 36
       interp: circleOut
       cone: 3
