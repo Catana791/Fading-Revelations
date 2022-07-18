@@ -116,7 +116,7 @@
   },
   "category": "turret",
   "shootSound": "explosion",
-  "research": "gattling",
+  "research": "sniper",
   "requirements": [
     {
       "item": "copper",
