@@ -17,7 +17,9 @@
       "pierceCap": 10,
       "liquid": "water",
       "status": "wet",
-      "statusDuration": 20
+      "statusDuration": 20,
+      "puddleLiquid": "water",
+      "puddleSize": 24
     },
     "cryofluid": {
       "type": "LiquidBulletType",
