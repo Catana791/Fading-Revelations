@@ -36,7 +36,7 @@
       "knockback": 1,
       "lifetime": 57,
       "pierce": true,
-      "pierceCap: 25,
+      "pierceCap": 25,
       "liquid": "slag",
       "status": "melting",
       "statusDuration": 30,
