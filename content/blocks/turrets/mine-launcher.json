@@ -29,9 +29,9 @@
       "fragBullets": 1,
       "fragBullet": {
         "type": "BasicBulletType",
-        "height": 45,
-        "width": 45,
-        "hitSize": 45,
+        "height": 32,
+        "width": 32,
+        "hitSize": 32,
         "damage": 75,
         "sprite": "me-lml-mine"
         "frontColor": "d99f6b",
