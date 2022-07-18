@@ -10,7 +10,6 @@
   "reloadTime": 400,
   "recoilAmount": 1,
   "ammoUseEffect": "casing3",
-  "shootCone": 25,
   "maxAmmo": 50,
   "rotateSpeed": 8,
   "range": 500,
