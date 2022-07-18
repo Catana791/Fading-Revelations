@@ -13,7 +13,7 @@ ammoTypes: {
     speed: 4
     pierce: true
     pierceBuilding: true
-    ammoMultiplier: 3
+    ammoMultiplier: 5
     status: burning
     makeFire: true
     lifetime: 18
@@ -38,7 +38,7 @@ ammoTypes: {
     speed: 4
     pierce: true
     pierceBuilding: true
-    ammoMultiplier: 4
+    ammoMultiplier: 7
     status: burning
     makeFire: true
     lifetime: 18
