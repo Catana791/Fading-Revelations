@@ -19,6 +19,18 @@ ammoTypes: {
     lifetime: 18
     width: 0.01
     height: 0.01
+    shootEffect: {
+      type: ParticleEffect
+      particles: 15
+      length: 48
+      lifetime: 36
+      interp: circleOut
+      cone: 15
+      colorFrom: 7e7e7e
+      colorTo: 464646
+      sizeFrom: 6
+      sizeTo: 0
+    }
   }
   pyratite: {
   damage: 75
@@ -31,6 +43,18 @@ ammoTypes: {
     lifetime: 18
     width: 0.01
     height: 0.01
+    shootEffect: {
+      type: ParticleEffect
+      particles: 15
+      length: 48
+      lifetime: 36
+      interp: circleOut
+      cone: 15
+      colorFrom: 7e7e7e
+      colorTo: 464646
+      sizeFrom: 6
+      sizeTo: 0
+    }
   }
 }
 category: turret
