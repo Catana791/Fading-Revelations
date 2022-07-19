@@ -22,12 +22,12 @@
   "liquidBoostIntensity": 1.6,
   "requirements": [
     {
-      "item": "thorium",
-      "amount": 120
-    },
-    {
       "item": "silicon",
       "amount": 260
+    },
+    {
+      "item": "thorium",
+      "amount": 120
     },
     {
       "item": "phase-fabric",
