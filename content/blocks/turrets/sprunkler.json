@@ -37,12 +37,12 @@
       "amount": 50
     },
     {
-      "item": "silicon",
-      "amount": 15
-    },
-    {
       "item": "graphite",
       "amount": 20
+    },
+    {
+      "item": "metaglass",
+      "amount": 15
     }
   ],
   "category": "turret",
