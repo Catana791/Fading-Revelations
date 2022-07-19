@@ -26,12 +26,12 @@
   },
   "requirements": [
     {
-      "item": "lead",
-      "amount": 25
-    },
-    {
       "item": "copper",
       "amount": 30
+    },
+    {
+      "item": "lead",
+      "amount": 25
     }
   ],
   "category": "crafting",
