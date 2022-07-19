@@ -60,12 +60,12 @@
       "amount": 180
     },
     {
-      "item": "titanium",
-      "amount": 120
-    },
-    {
       "item": "graphite",
       "amount": 100
+    },
+    {
+      "item": "titanium",
+      "amount": 120
     }
   ],
   "category": "turret",
