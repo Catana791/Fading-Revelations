@@ -7,6 +7,9 @@
   "reload": 10,
   "range": 88,
   "size": 1,
+  "consumes": {
+    "power": 0.3333333333
+  },
   "requirements": [
     {
       "item": "copper",
