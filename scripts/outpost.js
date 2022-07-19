@@ -1,48 +1,77 @@
-//Thanks for ThePythonGuy3 for making and NiChrosia for finishing this script up!! Greatly appreciated!
 
-const outpost = extend(StorageBlock, "outpost", {});
+/*
+ *  Move to documentation / credits section
+ *
+ *  'Thanks for ThePythonGuy3 for making and NiChrosia for finishing this script up!! Greatly appreciated!'
+ */
 
-outpost.buildType = () => extend(StorageBlock.StorageBuild, outpost, {
-  displayReact(table){
-    this.super$displayReact(table);
-  },
-  
-  craft(a, b){
-    this.super$craft(a, b);
-  },
 
-  acceptItem(source, item){
-    var core = this.team.core().building;
-    return core != null ? core.acceptItem(source, item) : this.items.get(item) < this.getMaximumAccepted(item);
-  },
+const outpost = extend(StorageBlock,'outpost',{});
 
-  removeStack(item, amount){
-    var core = this.team.core();
-    var result = this.super$removeStack(item, amount);
+outpost.buildType = () => extend(StorageBlock.StorageBuild,outpost,{
+    
+    displayReact(table){
+        this.super$displayReact(table); },
 
-    if(core != null && this.team == Vars.state.rules.defaultTeam && Vars.state.isCampaign()){
-      Vars.state.rules.sector.info.handleCoreItem(item, -result);
+    craft(a,b){},
+
+    acceptItem(source,item){
+        
+        const { items , team } = this;
+        
+        const { building : core } = team.core();
+        
+        return (core)
+            ? acceptItem(source,item) 
+            : items.get(item) < this.getMaximumAccepted(item) ;
+    },
+
+    removeStack(item,amount){
+        
+        const { team } = this;
+        
+        const core = team.core();
+        const result = this.super$removeStack(item,amount);
+
+        if(core == null)
+            return;
+        
+        const { state } = Vars; 
+        const { defaultTeam , sector } = state.rules;
+            
+        if(
+            core && 
+            team == defaultTeam &&
+            state.isCampaign()
+        ) sector.info.handleCoreItem(item,-result);
+
+        return result;
+    },
+
+    handleItem(source,item){
+        
+        const core = this.team.core();
+        
+        if(core){
+            
+            const { items , storageCapacity } = core;
+            
+            if(items.get(item) >= storageCapacity)
+                this.block.incinerateEffect(this,source);
+            
+            core.handleItem(source, item);
+        
+            return;
+        }
+        
+        this.super$handleItem(source,item);
+    },
+
+    itemTaken(item){
+        
+        const core = this.team.core();
+        
+        if(core)
+            core.itemTaken(item);
     }
-
-    return result;
-  },
-
-  handleItem(source, item){
-    var core = this.team.core();
-    if(core != null){
-      if(core.items.get(item) >= core.storageCapacity){
-        this.block.incinerateEffect(this, source);
-      }
-      core.handleItem(source, item);
-    }else{
-      this.super$handleItem(source, item);
-    }
-  },
-
-  itemTaken(item){
-    var core = this.team.core();
-    if(core != null){
-      core.itemTaken(item);
-    }
-  }
 });

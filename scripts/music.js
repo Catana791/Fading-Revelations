@@ -1,2 +1,5 @@
-Vars.control.sound.ambientMusic.add(loadMusic("mysterious-world"));
-Vars.control.sound.ambientMusic.add(loadMusic("impending-doom"));
+
+const { ambientMusic : music } = Vars.control.sound;
+
+music.add(loadMusic('mysterious-world'));
+music.add(loadMusic('impending-doom'));
