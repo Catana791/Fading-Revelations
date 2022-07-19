@@ -7,8 +7,8 @@
 	"category": "power",
 	"requirements": [
 		{"item": "lead", "amount": 300},
-		{"item": "titanium", "amount": 120},
 		{"item": "silicon", "amount": 100},
+		{"item": "titanium", "amount": 120},
 		{"item": "surge-alloy", "amount": 25}
 	],
 	"consumes": { "powerBuffered": 500000 },
