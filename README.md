@@ -88,7 +88,7 @@ extends **[Mindustry]** in fun ways while keeping it balanced.*
 
 [Separator]: github/deco.JPG
 [License]: LICENSE
-[Logo]: sprites-override/ui/logo.png
+[Logo]: sprites-override/ui/Logo.png
 
 
 <!----------------------------------[ Badges ]--------------------------------->
