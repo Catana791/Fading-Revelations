@@ -3,8 +3,8 @@
   "name": "Tiny Mass Driver",
   "health": 160,
   "description": "A tiny mass driver that can shoot less items and has less range.",
-  "itemCapacity": 40,
-  "reload": 25,
+  "itemCapacity": 20,
+  "reload": 250,
   "range": 88,
   "size": 1,
   "requirements": [
