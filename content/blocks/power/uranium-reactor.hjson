@@ -27,8 +27,8 @@ requirements: [
   copper/300
   metaglass/200
   silicon/170
-  thorium/150
   titanium/180
+  thorium/150
 ]
 category: power
 research: pyratite-generator
