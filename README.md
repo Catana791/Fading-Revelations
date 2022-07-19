@@ -86,9 +86,8 @@ extends **[Mindustry]** in fun ways while keeping it balanced.*
 [VSCode]: https://code.visualstudio.com/
 [Piskel]: https://www.piskelapp.com/
 
-[Separator]: github/deco.JPG
 [License]: LICENSE
-[Logo]: sprites-override/ui/Logo.png
+[Logo]: github/Banner.png
 
 
 <!----------------------------------[ Badges ]--------------------------------->
