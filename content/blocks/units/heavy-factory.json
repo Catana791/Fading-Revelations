@@ -19,12 +19,12 @@
           "amount": 350
         },
         {
-          "item": "surge-alloy",
-          "amount": 180
-        },
-        {
           "item": "phase-fabric",
           "amount": 200
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 180
         }
       ],
       "time": 36000
@@ -41,11 +41,11 @@
           "amount": 300
         },
         {
-          "item": "surge-alloy",
+          "item": "phase-fabric",
           "amount": 150
         },
         {
-          "item": "phase-fabric",
+          "item": "surge-alloy",
           "amount": 150
         }
       ],
@@ -63,12 +63,12 @@
           "amount": 150
         },
         {
-          "item": "surge-alloy",
-          "amount": 100
-        },
-        {
           "item": "phase-fabric",
           "amount": 150
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 100
         }
       ],
       "time": 12000
@@ -88,12 +88,12 @@
       "amount": 4000
     },
     {
-      "item": "surge-alloy",
-      "amount": 750
-    },
-    {
       "item": "phase-fabric",
       "amount": 1000
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 750
     }
   ],
   "category": "units",
