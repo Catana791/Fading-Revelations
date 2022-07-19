@@ -102,12 +102,12 @@
       "amount": 200
     },
     {
-      "item": "titanium",
-      "amount": 300
-    },
-    {
       "item": "silicon",
       "amount": 200
+    },
+    {
+      "item": "titanium",
+      "amount": 300
     },
     {
       "item": "plastanium",
