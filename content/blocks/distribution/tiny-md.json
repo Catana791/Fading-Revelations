@@ -5,7 +5,7 @@
   "description": "A tiny mass driver that can shoot less items and has less range.",
   "itemCapacity": 40,
   "reload": 25,
-  "range": 64,
+  "range": 88,
   "size": 1,
   "requirements": [
     {
