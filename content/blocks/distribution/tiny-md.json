@@ -10,11 +10,11 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 100
+      "amount": 75
     },
     {
       "item": "lead",
-      "amount": 200
+      "amount": 50
     },
     {
       "item": "titanium",
