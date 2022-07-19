@@ -16,14 +16,14 @@
                     "item": "silicon",
                     "amount": 2000
                 },
+		{
+                  	"item": "living-steel-hard",
+                  	"amount": 600
+                },
                 {
                     "item": "plastanium",
                     "amount": 1200
 		},
-                {
-                  	"item": "living-steel-hard",
-                  	"amount": 600
-                },
                 {
                     "item": "phase-fabric",
                     "amount": 700
@@ -31,7 +31,7 @@
 		{
 			"item": "surge-alloy",
 			"amount": 1000
-		},
+		}
             ]
         }
     },
