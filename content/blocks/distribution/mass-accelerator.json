@@ -1,0 +1,34 @@
+{
+  "type": "MassDriver",
+  "name": "Mass Accelerator",
+  "health": 720,
+  "description": "A mass driver that can shoot more items and has more range.",
+  "itemCapacity": 300,
+  "reload": 120
+  "range": 600,
+  "size": 4,
+  "consumes": {
+    "power": 3.333333333333333333
+  },
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 200
+    },
+    {
+      "item": "titanium",
+      "amount": 200
+    },
+    {
+      "item": "silicon",
+      "amount": 110
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 50
+    }
+  ],
+  "category": "distribution",
+  "research": "titanium-bridge-conveyor"
+}
+
