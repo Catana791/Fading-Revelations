@@ -11,15 +11,15 @@
       "unit": "lancer-drone",
       "requirements": [
         {
-          "item": "silicon",
-          "amount": 20
-        },
-        {
           "item": "lead",
           "amount": 30
         },
         {
           "item": "graphite",
+          "amount": 20
+        },
+        {
+          "item": "silicon",
           "amount": 20
         }
       ],
@@ -28,16 +28,16 @@
   ],
   "requirements": [
     {
-      "item": "silicon",
-      "amount": 75
+      "item": "lead",
+      "amount": 200
     },
     {
       "item": "graphite",
       "amount": 70
     },
     {
-      "item": "lead",
-      "amount": 200
+      "item": "silicon",
+      "amount": 75
     }
   ],
   "category": "units",
