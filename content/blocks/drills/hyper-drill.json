@@ -32,16 +32,16 @@
       "amount": 100
     },
     {
-      "item": "thorium",
-      "amount": 150
-    },
-    {
       "item": "silicon",
       "amount": 120
     },
     {
       "item": "living-steel",
       "amount": 85
+    },
+    {
+      "item": "thorium",
+      "amount": 150
     }
   ],
   "category": "production",
