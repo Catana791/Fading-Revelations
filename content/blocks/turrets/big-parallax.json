@@ -24,13 +24,14 @@
   "liquidBoostIntensity": 1.8,
   "requirements": [
     {
-      "item": "graphite",
-      "amount": 90
-    },
-    {
       "item": "titanium",
       "amount": 270
     },
+    {
+      "item": "graphite",
+      "amount": 90
+    },
+    
     {
       "item": "silicon",
       "amount": 210
