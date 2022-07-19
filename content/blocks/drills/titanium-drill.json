@@ -19,11 +19,11 @@
       "amount": 20
     },
     {
-      "item": "silicon",
-      "amount": 10
-    },
-    {
       "item": "graphite",
+      "amount": 10
+    }
+    {
+      "item": "silicon",
       "amount": 10
     }
   ],
