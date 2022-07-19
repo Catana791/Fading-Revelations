@@ -1,0 +1,26 @@
+{
+  "type": "MassDriver",
+  "name": "Tiny Mass Driver",
+  "health": 160,
+  "description": "A tiny mass driver that can shoot less items and has less range.",
+  "itemCapacity": 40,
+  "reload": 25,
+  "range": 64,
+  "size": 1,
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 100
+    },
+    {
+      "item": "lead",
+      "amount": 200
+    },
+    {
+      "item": "titanium",
+      "amount": 25
+    }
+  ],
+  "category": "distribution",
+  "research": "titanium-bridge-conveyor"
+}
