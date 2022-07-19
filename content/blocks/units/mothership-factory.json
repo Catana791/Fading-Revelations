@@ -11,8 +11,16 @@
       "unit": "hive",
       "requirements": [
         {
+          "item": "pyratite",
+          "amount": 750
+        },
+        {
           "item": "silicon",
           "amount": 2200
+        },
+        {
+          "item": "titanium",
+          "amount": 5000
         },
         {
           "item": "surge-alloy",
@@ -21,14 +29,6 @@
         {
           "item": "gold",
           "amount": 1500
-        },
-        {
-          "item": "pyratite",
-          "amount": 750
-        },
-        {
-          "item": "titanium",
-          "amount": 5000
         }
       ],
       "time": 60000
@@ -37,24 +37,24 @@
       "unit": "sps",
       "requirements": [
         {
+          "item": "metaglass",
+          "amount": 1500
+        },
+        {
           "item": "silicon",
           "amount": 2000
         },
         {
-          "item": "surge-alloy",
-          "amount": 2000
-        },
-        {
-          "item": "metaglass",
-          "amount": 1500
+          "item": "titanium",
+          "amount": 4500
         },
         {
           "item": "thorium",
           "amount": 1000
         },
         {
-          "item": "titanium",
-          "amount": 4500
+          "item": "surge-alloy",
+          "amount": 2000
         }
       ],
       "time": 60000
@@ -67,20 +67,20 @@
           "amount": 2100
         },
         {
-          "item": "plastanium",
-          "amount": 1300
+          "item": "titanium",
+          "amount": 2000
         },
         {
-          "item": "surge-alloy",
-          "amount": 850
+          "item": "plastanium",
+          "amount": 1300
         },
         {
           "item": "phase-fabric",
           "amount": 400
         },
         {
-          "item": "titanium",
-          "amount": 2000
+          "item": "surge-alloy",
+          "amount": 850
         }
       ],
       "time": 60000
@@ -88,24 +88,24 @@
   ],
   "requirements": [
     {
-      "item": "silicon",
-      "amount": 2000
+      "item": "lead",
+      "amount": 5500
     },
     {
-      "item": "phase-fabric",
-      "amount": 800
+      "item": "silicon",
+      "amount": 2000
     },
     {
       "item": "plastanium",
       "amount": 2200
     },
     {
-      "item": "surge-alloy",
-      "amount": 1000
+      "item": "phase-fabric",
+      "amount": 800
     },
     {
-      "item": "lead",
-      "amount": 5500
+      "item": "surge-alloy",
+      "amount": 1000
     }
   ],
   "category": "units",
