@@ -39,12 +39,12 @@
       "amount": 150
     },
     {
-      "item": "phase-fabric",
-      "amount": 40
-    },
-    {
       "item": "living-steel-hard",
       "amount": 120
+    }
+    {
+      "item": "phase-fabric",
+      "amount": 40
     }
   ],
   "category": "effect",
