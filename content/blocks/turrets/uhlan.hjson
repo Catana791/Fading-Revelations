@@ -3,7 +3,7 @@ description: A better version of the lancer. Takes longer to charge but deals mo
 type: PowerTurret
 targetAir: false
 health: 1420
-reloadTime: 65
+reloadTime: 55
 range: 220
 size: 3
 shootSound: laser
@@ -37,7 +37,7 @@ shootType: {
   type: LaserBulletType
   length: 210
   width: 20
-  damage: 180
+  damage: 140
   colors: [7382f040, 7382f0, ffffff]
 }
 category: turret
