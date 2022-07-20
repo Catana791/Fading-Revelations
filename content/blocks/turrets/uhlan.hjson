@@ -41,7 +41,7 @@ shootType: {
   colors: [7382f040, 7382f0, ffffff]
 }
 category: turret
-research: duo
+research: big-arc
 requirements: [
   copper/90
   lead/100
