@@ -10,6 +10,29 @@ shootSound: laser
 heatColor: 5782c2
 powerUse: 7
 chargeTime: 240
+chargeBeginEffect: {
+  type: ParticleEffect
+  lifetime: 240
+  length: 0
+  particles: 1
+  sizeFrom: 0
+  sizeTo: 2
+  colorFrom: 7382f0
+}
+chargeEffects: 6
+chargeEffect: {
+  type: ParticleEffect
+  particles: 1
+  lifetime: 210
+  baseLength: 10
+  length: -10
+  line: true
+  strokeFrom: 0
+  strokeTo: 1
+  lenFrom: 0
+  lenTo: 3
+  colorFrom: 7382f0
+}
 shootType: {
   type: LaserBulletType
   length: 210
