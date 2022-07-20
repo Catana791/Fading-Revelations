@@ -6,8 +6,6 @@ health: 1420
 reloadTime: 65
 range: 220
 size: 3
-shots: 3
-spread: 5
 shootSound: laser
 heatColor: 5782c2
 powerUse: 7
