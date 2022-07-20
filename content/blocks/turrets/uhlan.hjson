@@ -14,15 +14,16 @@ chargeBeginEffect: {
   type: ParticleEffect
   lifetime: 240
   length: 0
-  particles: 1
+  particles: 3
   sizeFrom: 0
-  sizeTo: 2
+  sizeTo: 4
   colorFrom: 7382f0
+  colorTo: 5782c2
 }
 chargeEffects: 6
 chargeEffect: {
   type: ParticleEffect
-  particles: 1
+  particles: 3
   lifetime: 210
   baseLength: 10
   length: -10
@@ -30,8 +31,9 @@ chargeEffect: {
   strokeFrom: 0
   strokeTo: 1
   lenFrom: 0
-  lenTo: 3
+  lenTo: 6
   colorFrom: 7382f0
+  colorTo: 5782c2
 }
 shootType: {
   type: LaserBulletType
