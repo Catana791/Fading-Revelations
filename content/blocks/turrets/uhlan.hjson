@@ -26,12 +26,12 @@ chargeEffect: {
   particles: 3
   lifetime: 240
   baseLength: 10
-  length: -10
+  length: -20
   line: true
   strokeFrom: 0
   strokeTo: 1
   lenFrom: 0
-  lenTo: 4
+  lenTo: 8
   colorFrom: 7382f0
   colorTo: 5782c2
 }
