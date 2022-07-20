@@ -9,42 +9,41 @@ size: 3
 shootSound: laser
 heatColor: 5782c2
 powerUse: 7
-chargeTime: 240
+chargeTime: 30
 chargeBeginEffect: {
   type: ParticleEffect
-  lifetime: 240
+  lifetime: 30
   length: 0
-  particles: 3
+  particles: 1
   sizeFrom: 0
   sizeTo: 2
   colorFrom: 7382f0
-  colorTo: 5782c2
 }
 chargeEffects: 6
 chargeEffect: {
   type: ParticleEffect
-  particles: 3
-  lifetime: 240
+  particles: 1
+  lifetime: 24
   baseLength: 10
   length: -10
   line: true
   strokeFrom: 0
   strokeTo: 1
   lenFrom: 0
-  lenTo: 6
+  lenTo: 3
   colorFrom: 7382f0
-  colorTo: 5782c2
 }
 shootType: {
   type: LaserBulletType
   length: 210
   width: 20
-  damage: 220
+  damage: 180
   colors: [7382f040, 7382f0, ffffff]
 }
 category: turret
 research: duo
 requirements: [
-  copper/35
-  lead/35
+  copper/90
+  lead/100
+  silicon/75
 ]
