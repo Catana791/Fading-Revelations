@@ -33,7 +33,7 @@ chargeEffect: {
   strokeFrom: 0
   strokeTo: 1
   lenFrom: 0
-  lenTo: 8
+  lenTo: 6
   colorFrom: 7382f0
   colorTo: 5782c2
 }
