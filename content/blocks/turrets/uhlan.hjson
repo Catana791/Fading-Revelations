@@ -5,13 +5,14 @@ targetAir: false
 health: 1420
 reloadTime: 65
 range: 220
+size: 3
 shootSound: laser
 heatColor: 5782c2
 powerUse: 7
-chargeTime: 120
+chargeTime: 240
 shootType: {
   type: LaserBulletType
-  length: 218
+  length: 210
   width: 20
   damage: 180
   colors: [7382f040, 7382f0, ffffff]
