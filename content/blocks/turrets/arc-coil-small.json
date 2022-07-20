@@ -35,5 +35,5 @@
   "category": "turret",
   "type": "PowerTurret",
   "health": 400,
-  "research": "big-arc"
+  "research": "uhlan"
 }
