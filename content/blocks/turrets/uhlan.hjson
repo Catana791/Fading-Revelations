@@ -26,7 +26,7 @@ chargeEffect: {
   particles: 3
   lifetime: 240
   baseLength: 10
-  length: -20
+  length: -10
   line: true
   strokeFrom: 0
   strokeTo: 1
@@ -39,7 +39,7 @@ shootType: {
   type: LaserBulletType
   length: 210
   width: 20
-  damage: 180
+  damage: 220
   colors: [7382f040, 7382f0, ffffff]
 }
 category: turret
