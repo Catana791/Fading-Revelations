@@ -16,7 +16,7 @@ chargeBeginEffect: {
   length: 0
   particles: 3
   sizeFrom: 0
-  sizeTo: 4
+  sizeTo: 2
   colorFrom: 7382f0
   colorTo: 5782c2
 }
