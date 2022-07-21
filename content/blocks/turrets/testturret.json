@@ -20,7 +20,8 @@
                 "colorFrom": "66B1FFFF",
                 "colorTo": "E4FDFFFF",
                 "sizeFrom": 10,
-                "sizeTo": 0
+                "sizeTo": 0,
+                "lifetime": 199
             }
         ]
     },
