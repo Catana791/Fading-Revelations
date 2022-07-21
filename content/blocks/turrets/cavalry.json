@@ -12,6 +12,7 @@
     "rotateSpeed": 10,
     "targetAir": false,
     "shootSound": "laser",
+    "liquidBoostIntensity": 0,
     "powerUse": 26,
     "hasPower": true,
     "shootEffect": {
