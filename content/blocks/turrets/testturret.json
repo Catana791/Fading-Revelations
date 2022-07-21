@@ -70,10 +70,10 @@
         "despawnEffect": {
             "type": "ExplosionEffect",
             "smokeColor": "66B1FFFF",
-            "smokes": 3,
-            "smokeSizeBase": 5,
-            "sparks": 3,
-            "sparkLen": 4,
+            "smokes": 6,
+            "smokeSize": 15,
+            "sparks": 6,
+            "sparkLen": 12,
             "sparkColor": "E4FDFFFF"
         }
     },
