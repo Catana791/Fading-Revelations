@@ -31,7 +31,7 @@
         "lightning": 6,
         "lightningCone": 360,
         "lightningLength": 5,
-        "lightningDamage": 20
+        "lightningDamage": 10
     },
     "requirements": [
         "silicon/100",
