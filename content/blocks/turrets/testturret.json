@@ -37,10 +37,8 @@
             "colorFrom": "E4FDFFFF",
             "colorTo": "66B1FFFF",
             "rotation": 3,
-            "sizeFrom": 5,
-            "sizeTo": 10,
-            "strokeFrom": 5,
-            "strokeTo": 10
+            "sizeFrom": 15,
+            "sizeTo": 0
         }
     },
     "requirements": [
