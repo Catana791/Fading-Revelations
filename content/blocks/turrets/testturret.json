@@ -5,7 +5,7 @@
     "reloadTime": 35,
     "range": 200,
     "shots": 60,
-    "burstSpacing": 30,
+    "burstSpacing": 3,
     "shootCone": 0.08,
     "recoilAmount": 0.7,
     "restitution": 0.06,
