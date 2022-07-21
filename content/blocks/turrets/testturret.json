@@ -74,7 +74,8 @@
             "smokeSize": 15,
             "sparks": 6,
             "sparkLen": 12,
-            "sparkColor": "E4FDFFFF"
+            "sparkColor": "E4FDFFFF",
+            "lifetime": 150
         }
     },
     "requirements": [
