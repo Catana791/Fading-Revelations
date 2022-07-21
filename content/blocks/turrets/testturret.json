@@ -27,7 +27,12 @@
         "height": 20,
         "hitSize": 25,
         "shrinkY": 0,
-        "shrinkX": 0
+        "shrinkX": 0,
+        "lightning": 6,
+        "lightningCone": 360,
+        "lightningLength: 10,
+        "lightningDamage": 20,
+        "lightningLengthRand": 0.2
     },
     "requirements": [
         "silicon/100",
