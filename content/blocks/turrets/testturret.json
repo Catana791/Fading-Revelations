@@ -30,7 +30,7 @@
         "shrinkX": 0,
         "lightning": 6,
         "lightningCone": 360,
-        "lightningLength": 3,
+        "lightningLength": 5,
         "lightningDamage": 80
     },
     "requirements": [
