@@ -7,7 +7,7 @@
     "shootCone": 0.08,
     "recoilAmount": 0.7,
     "restitution": 0.06,
-    "rotateSpeed": 4,
+    "rotateSpeed": 10,
     "shootSound": "laser",
     "powerUse": 4,
     "hasPower": true,
