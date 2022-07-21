@@ -18,13 +18,13 @@
                 "type": "WaveEffect",
                 "colorFrom": "66B1FFFF",
                 "colorTo": "E4FDFFFF",
-                "sizeFrom": 7.5,
+                "sizeFrom": 10,
                 "sizeTo": 0
             },
             {
                 "type": "ParticleEffect",
                 "particles": 1,
-                "lifetime": 200,
+                "lifetime": 199,
                 "length": 0,
                 "interp": "swingIn",
                 "sizeFrom": 0,
