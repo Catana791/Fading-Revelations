@@ -50,16 +50,6 @@
                     "rotation": 3,
                     "sizeFrom": 0,
                     "sizeTo": 12.5
-                },
-                {   
-                    "type": "ParticleEffect",
-                    "cone": 360,
-                    "particles": 12,
-                    "interp": "CircleIn",
-                    "sizeFrom": 0,
-                    "sizeTo": 8,
-                    "spin": 10,
-                    "randLength": true,
                 }
             ]
         }
