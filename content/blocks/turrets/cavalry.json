@@ -46,7 +46,6 @@
         "hitSize": 25,
         "shrinkY": 0,
         "hittable": false,
-        "pierceBuilding": true,
         "shrinkX": 0,
         "absorbable": false,
         "reflectable": false,
