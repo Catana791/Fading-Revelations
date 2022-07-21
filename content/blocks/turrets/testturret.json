@@ -17,11 +17,11 @@
             {
                 "type": "ParticleEffect",
                 "particles": 1,
-                "lifetime": 100,
+                "lifetime": 90,
                 "length": 0,
                 "interp": "swingIn",
                 "sizeFrom": 0,
-                "sizeTo": 5,
+                "sizeTo": 7.5,
                 "colorFrom": "E4FDFFFF",
                 "colorTo": "66B1FFFF"       
             }
