@@ -6,7 +6,7 @@
     "health": 2850,
     "reloadTime": 200,
     "heatColor": "ff795e"
-    "range": 280,
+    "range": 240,
     "shootCone": 0.08,
     "recoilAmount": 0.7,
     "restitution": 0.06,
@@ -38,7 +38,7 @@
         "speed": 5,
         "spin": 8,
         "pierce": true
-        "lifetime": 55,
+        "lifetime": 40,
         "frontColor": "E4FDFFFF",
         "backColor": "66B1FFFF",
         "trailColor": "66B1FFFF",
