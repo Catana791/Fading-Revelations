@@ -5,7 +5,7 @@ root = true
 end_of_line = lf
 insert_final_newline = true
 
-[*.{js,hjson}]
+[*.{js,hjson,json}]
 charset = utf-8
 indent_style = space
 indent_size = 4
