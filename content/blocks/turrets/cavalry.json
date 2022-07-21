@@ -12,7 +12,7 @@
     "rotateSpeed": 10,
     "targetAir": false,
     "shootSound": "laser",
-    "powerUse": 4,
+    "powerUse": 24,
     "hasPower": true,
     "shootEffect": {
         "type": "MultiEffect",
