@@ -8,6 +8,9 @@
   "buildLimit": 1,
   "update": true,
   "itemCapacity": 5,
+    "consumes": {
+        "power": 5
+    },
   "hasItems": true,
   "requirements": [
     {
@@ -20,8 +23,16 @@
     },
     {
       "item": "titanium",
-      "amount": 1200
-    }
+      "amount": 2000
+    },
+    {
+        "item": "living-steel-hard",
+        "amount": 1000
+    },
+      {
+          "item": "gold",
+          "amount": 600
+      }
   ],
   "category": "effect",
   "research": "mod-gate-effect"
