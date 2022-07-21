@@ -11,6 +11,22 @@
     "shootSound": "laser",
     "powerUse": 4,
     "hasPower": true,
+    "shootEffect": {
+        "type": "MultiEffect",
+        "effects": [
+            {
+                "type": "ParticleEffect",
+                "particles": 1,
+                "lifetime": 20,
+                "length": 0,
+                "interp": "swingIn",
+                "sizeFrom": 20,
+                "sizeTo": 0,
+                "colorFrom": "FF5845FF",
+                "colorTo": "FF5845FF"
+            }
+        ]
+    },
     "shootType": {
         "type": "BasicBulletType",
         "speed": 5,
