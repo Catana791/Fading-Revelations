@@ -78,7 +78,6 @@
         "shrinkX": 0,
     },
     "requirements": [
-        "astrolite/100",
         "silicon/100",
         "graphite/200"
     ],
