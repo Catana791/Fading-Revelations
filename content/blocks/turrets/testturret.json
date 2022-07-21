@@ -30,9 +30,8 @@
         "shrinkX": 0,
         "lightning": 6,
         "lightningCone": 360,
-        "lightningLength": 10,
-        "lightningDamage": 20,
-        "lightningLengthRand": 0.2
+        "lightningLength": 3,
+        "lightningDamage": 20
     },
     "requirements": [
         "silicon/100",
