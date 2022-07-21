@@ -47,7 +47,6 @@
         "shrinkY": 0,
         "hittable": false,
         "pierceBuilding": true,
-        "scaleLife": true,
         "shrinkX": 0,
         "absorbable": false,
         "reflectable": false,
