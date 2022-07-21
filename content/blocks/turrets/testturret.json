@@ -21,7 +21,7 @@
         "backColor": "66B1FFFF",
         "trailColor": "66B1FFFF",
         "damage": 100,
-        "homingPower": 0.08,
+        "homingPower": 0.04,
         "homingRange": 150,
         "width": 25,
         "height": 20,
