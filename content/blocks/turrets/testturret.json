@@ -2,7 +2,7 @@
     "type": "PowerTurret",
     "size": 4,
     "health": 2850,
-    "reloadTime": 5,
+    "reloadTime": 100,
     "range": 200,
     "shootCone": 0.08,
     "recoilAmount": 0.7,
@@ -20,7 +20,7 @@
         "frontColor": "E4FDFFFF",
         "backColor": "66B1FFFF",
         "trailColor": "66B1FFFF",
-        "damage": 80,
+        "damage": 1000,
         "homingPower": 0.04,
         "homingRange": 150,
         "width": 25,
@@ -31,7 +31,7 @@
         "lightning": 6,
         "lightningCone": 360,
         "lightningLength": 6,
-        "lightningDamage": 15
+        "lightningDamage": 20
         "hitEffect": {
             "type": "WaveEffect",
             "colorFrom": "E4FDFFFF",
