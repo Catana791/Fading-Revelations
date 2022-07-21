@@ -54,7 +54,7 @@
         "lightning": 6,
         "lightningCone": 360,
         "lightningLength": 6,
-        "lightningDamage": 120
+        "lightningDamage": 40
         "hitEffect": {
             "type": "MultiEffect",
             "effects": [
