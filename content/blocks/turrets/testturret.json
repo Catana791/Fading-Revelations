@@ -21,7 +21,7 @@
         "frontColor": "E4FDFFFF",
         "backColor": "66B1FFFF",
         "trailColor": "66B1FFFF",
-        "weaveMag": 4,
+        "weaveMag": 6,
         "weaveScale": 14,
         "damage": 20,
         "homingPower": 0.08,
