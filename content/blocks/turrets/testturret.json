@@ -24,7 +24,7 @@
         "weaveMag": 4,
         "weaveScale": 7,
         "damage": 1,
-        "homingPower": 0.08,
+        "homingPower": 0.0008,
         "homingRange": 150,
         "width": 25,
         "height": 21,
