@@ -57,7 +57,7 @@
                     "particles": 12,
                     "interp": "ElasticIn",
                     "sizeFrom": 0,
-                    "sizeTo: 8,
+                    "sizeTo": 8,
                     "spin": 10,
                     "randLength": true,
                 }
