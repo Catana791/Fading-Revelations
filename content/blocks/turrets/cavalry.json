@@ -2,7 +2,7 @@
     "type": "PowerTurret",
     "name": "Cavalry",
     "description": "The final turret of the Lancer family. Has a low fire rate but extremely high damage that even surpasses the legendary Meltdown.",
-    "size": 4,
+    "size": 5,
     "health": 2850,
     "reloadTime": 200,
     "heatColor": "ff795e"
@@ -42,7 +42,7 @@
         "frontColor": "E4FDFFFF",
         "backColor": "66B1FFFF",
         "trailColor": "66B1FFFF",
-        "damage": 1680,
+        "damage": 1880,
         "homingPower": 0.10,
         "despawnHit": false,
         "despawnShake": 0.03,
@@ -62,7 +62,7 @@
         "lightning": 6,
         "lightningCone": 360,
         "lightningLength": 6,
-        "lightningDamage": 120
+        "lightningDamage": 145
         "hitEffect": {
             "type": "MultiEffect",
             "effects": [
