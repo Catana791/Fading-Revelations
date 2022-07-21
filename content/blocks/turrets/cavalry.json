@@ -11,10 +11,15 @@
     "restitution": 0.06,
     "rotateSpeed": 10,
     "targetAir": false,
+    "shootSound": "cavalry-shoot",
     "shootSound": "laser",
     "liquidBoostIntensity": 0,
     "powerUse": 26,
     "hasPower": true,
+    "displayAmmoMultiplier": false,
+    "recoil": 3,
+    "recoilTime": 180,
+    "shake": 1.1,
     "shootEffect": {
         "type": "MultiEffect",
         "effects": [
