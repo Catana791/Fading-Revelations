@@ -32,6 +32,16 @@
         "lightningCone": 360,
         "lightningLength": 6,
         "lightningDamage": 15
+        "hitEffect": {
+            "type": "WaveEffect",
+            "colorFrom": "E4FDFFFF",
+            "colorTo": "66B1FFFF",
+            "rotation": 3,
+            "sizeFrom": 5,
+            "sizeTo": 10,
+            "strokeFrom": 5,
+            "strokeTo": 10
+        }
     },
     "requirements": [
         "silicon/100",
