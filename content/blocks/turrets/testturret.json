@@ -22,12 +22,14 @@
         "backColor": "66B1FFFF",
         "trailColor": "66B1FFFF",
         "weaveMag": 6,
-        "weaveScale": 1,
+        "weaveScale": 20,
         "damage": 20,
         "homingPower": 0.08,
         "homingRange": 150,
         "width": 21,
         "height": 21,
+        "shrinkY": 0,
+        "shrinkX": 0
     },
     "requirements": [
         "silicon/100",
