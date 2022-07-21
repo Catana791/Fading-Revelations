@@ -8,9 +8,6 @@
   "buildLimit": 1,
   "update": true,
   "itemCapacity": 5,
-    "consumes": {
-        "power": 5
-    },
   "hasItems": true,
   "requirements": [
     {
