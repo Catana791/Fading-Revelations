@@ -20,7 +20,7 @@
         "frontColor": "E4FDFFFF",
         "backColor": "66B1FFFF",
         "trailColor": "66B1FFFF",
-        "damage": 140,
+        "damage": 380,
         "homingPower": 0.04,
         "homingRange": 150,
         "width": 25,
@@ -31,7 +31,7 @@
         "lightning": 6,
         "lightningCone": 360,
         "lightningLength": 3,
-        "lightningDamage": 60
+        "lightningDamage": 80
     },
     "requirements": [
         "silicon/100",
