@@ -36,7 +36,7 @@
         "frontColor": "E4FDFFFF",
         "backColor": "66B1FFFF",
         "trailColor": "66B1FFFF",
-        "damage": 1420,
+        "damage": 1680,
         "homingPower": 0.10,
         "despawnHit": false,
         "despawnShake": 0.03,
