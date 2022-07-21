@@ -15,6 +15,14 @@
         "type": "MultiEffect",
         "effects": [
             {
+                "type": "WaveEffect",
+                "colorFrom": "66B1FFFF",
+                "colorTo": "E4FDFFFF",
+                "rotation": 3,
+                "sizeFrom": 7.5,
+                "sizeTo": 0
+            }
+            {
                 "type": "ParticleEffect",
                 "particles": 1,
                 "lifetime": 90,
