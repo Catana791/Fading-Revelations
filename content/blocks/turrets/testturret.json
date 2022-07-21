@@ -33,6 +33,9 @@
         "lightningLength": 6,
         "lightningDamage": 60
         "hitEffect": {
+            "type": "MultiEffect",
+            "effects": [
+        {
             "type": "WaveEffect",
             "colorFrom": "E4FDFFFF",
             "colorTo": "66B1FFFF",
@@ -40,6 +43,8 @@
             "sizeFrom": 25,
             "sizeTo": 0
         }
+        ]
+      }
     },
     "requirements": [
         "silicon/100",
