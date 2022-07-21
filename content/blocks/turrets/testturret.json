@@ -30,7 +30,7 @@
         "shrinkX": 0,
         "lightning": 6,
         "lightningCone": 360,
-        "lightningLength: 10,
+        "lightningLength": 10,
         "lightningDamage": 20,
         "lightningLengthRand": 0.2
     },
