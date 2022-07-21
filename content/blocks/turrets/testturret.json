@@ -55,7 +55,7 @@
                     "type": "ParticleEffect",
                     "cone": 360,
                     "particles": 12,
-                    "interp": "ElasticIn",
+                    "interp": "CircleIn",
                     "sizeFrom": 0,
                     "sizeTo": 8,
                     "spin": 10,
