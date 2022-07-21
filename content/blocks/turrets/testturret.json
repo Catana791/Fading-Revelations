@@ -16,7 +16,7 @@
         "speed": 5,
         "spin": 8,
         "pierce": true
-        "lifetime": 46,
+        "lifetime": 30,
         "frontColor": "E4FDFFFF",
         "backColor": "66B1FFFF",
         "trailColor": "66B1FFFF",
