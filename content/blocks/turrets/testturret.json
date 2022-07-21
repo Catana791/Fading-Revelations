@@ -35,16 +35,34 @@
         "hitEffect": {
             "type": "MultiEffect",
             "effects": [
-        {
-            "type": "WaveEffect",
-            "colorFrom": "E4FDFFFF",
-            "colorTo": "66B1FFFF",
-            "rotation": 3,
-            "sizeFrom": 25,
-            "sizeTo": 0
+                {
+                    "type": "WaveEffect",
+                    "colorFrom": "E4FDFFFF",
+                    "colorTo": "66B1FFFF",
+                    "rotation": 3,
+                    "sizeFrom": 25,
+                    "sizeTo": 0
+                },
+                {
+                    "type": "WaveEffect",
+                    "colorFrom": "66B1FFFF",
+                    "colorTo": "E4FDFFFF",
+                    "rotation": 3,
+                    "sizeFrom": 0,
+                    "sizeTo": 12.5
+                },
+                {   
+                    "type": "ParticleEffect",
+                    "cone": 360,
+                    "particles": 12,
+                    "interp": "ElasticIn",
+                    "sizeFrom": 0,
+                    "sizeTo: 8,
+                    "spin": 10,
+                    "randLength": true,
+                }
+            ]
         }
-        ]
-      }
     },
     "requirements": [
         "silicon/100",
