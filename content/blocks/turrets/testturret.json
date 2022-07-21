@@ -2,7 +2,7 @@
     "type": "PowerTurret",
     "size": 4,
     "health": 2850,
-    "reloadTime": 2,
+    "reloadTime": 3,
     "range": 200,
     "shootCone": 0.08,
     "recoilAmount": 0.7,
