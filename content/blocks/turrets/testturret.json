@@ -43,7 +43,7 @@
         "frontColor": "E4FDFFFF",
         "backColor": "66B1FFFF",
         "trailColor": "66B1FFFF",
-        "damage": 2840,
+        "damage": 1420,
         "homingPower": 0.04,
         "homingRange": 150,
         "width": 25,
@@ -54,7 +54,7 @@
         "lightning": 6,
         "lightningCone": 360,
         "lightningLength": 6,
-        "lightningDamage": 40
+        "lightningDamage": 60
         "hitEffect": {
             "type": "MultiEffect",
             "effects": [
