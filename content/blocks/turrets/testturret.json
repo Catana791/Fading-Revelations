@@ -71,9 +71,9 @@
             "type": "ExplosionEffect",
             "smokeColor": "66B1FFFF",
             "smokes": 6,
-            "smokeSize": 15,
+            "smokeSize": 50,
             "sparks": 6,
-            "sparkLen": 12,
+            "sparkLen": 40,
             "sparkColor": "E4FDFFFF",
             "lifetime": 150
         }
