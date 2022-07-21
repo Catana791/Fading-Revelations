@@ -8,6 +8,7 @@
     "recoilAmount": 0.7,
     "restitution": 0.06,
     "rotateSpeed": 10,
+    "targetAir": false,
     "shootSound": "laser",
     "powerUse": 4,
     "hasPower": true,
