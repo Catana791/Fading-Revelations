@@ -90,8 +90,11 @@
         }
     },
     "requirements": [
-        "silicon/100",
-        "graphite/200"
+        "copper/1500",
+        "lead/500",
+        "graphite/400",
+        "silicon/450",
+        "surge-alloy/475"
     ],
     "category": "turret",
     "research": "duo"
