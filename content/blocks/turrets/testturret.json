@@ -21,17 +21,6 @@
                 "colorTo": "E4FDFFFF",
                 "sizeFrom": 10,
                 "sizeTo": 0
-            },
-            {
-                "type": "ParticleEffect",
-                "particles": 1,
-                "lifetime": 199,
-                "length": 0,
-                "interp": "swingIn",
-                "sizeFrom": 0,
-                "sizeTo": 7.5,
-                "colorFrom": "E4FDFFFF",
-                "colorTo": "66B1FFFF"       
             }
         ]
     },
