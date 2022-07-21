@@ -52,6 +52,8 @@
         "reflectable": false,
         "status": "burning",
         "statusDuration": 200,
+        "status": "shocked",
+        "statusDuration": 200,
         "lightning": 6,
         "lightningCone": 360,
         "lightningLength": 6,
