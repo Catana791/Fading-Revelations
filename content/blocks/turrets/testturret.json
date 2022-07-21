@@ -4,7 +4,7 @@
     "health": 500,
     "reloadTime": 35,
     "range": 200,
-    "shots": 60,
+    "shots": 10,
     "burstSpacing": 3,
     "shootCone": 0.08,
     "recoilAmount": 0.7,
