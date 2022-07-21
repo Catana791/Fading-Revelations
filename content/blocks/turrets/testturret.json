@@ -20,7 +20,7 @@
         "frontColor": "E4FDFFFF",
         "backColor": "66B1FFFF",
         "trailColor": "66B1FFFF",
-        "damage": 240,
+        "damage": 80,
         "homingPower": 0.04,
         "homingRange": 150,
         "width": 25,
