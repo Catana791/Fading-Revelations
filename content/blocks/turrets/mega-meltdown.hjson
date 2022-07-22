@@ -10,10 +10,12 @@ rotateSpeed: 2.5
 reloadTime: 400
 recoilAmount: 8
 restitution: 0.02
+shots: 3
+spread: 5
 shootSound: shootBig
 shootType: {
   type: ContinuousLaserBulletType
-  damage: 1460
+  damage: 420
   lifetime: 150
   fadeTime: 10
   length: 320
