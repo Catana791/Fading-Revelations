@@ -12,14 +12,14 @@
   "tier": 5,
   "drillTime": 55,
   "rotateSpeed": 10,
-  "liquidBoostIntensity": 1
   "consumes": {
     "power": 4,
     "liquid": {
       "liquid": "living-steel-liquid",
       "amount": 0.18,
-      "optional": false,
-      "booster": false
+      "optional": true,
+      "booster": true,
+    "liquidBoostIntensity": 1
     }
   },
   "requirements": [
