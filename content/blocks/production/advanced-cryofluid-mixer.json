@@ -26,24 +26,13 @@
       "items": [
         {
           "item": "titanium",
-          "amount": 4
-        },
-        {
-          "item": "graphite",
-          "amount": 4
+          "amount": 2
         }
       ]
     }
   },
   "requirements": [
-    {
-      "item": "thorium",
-      "amount": 200
-    },
-    {
-      "item": "titanium",
-      "amount": 100
-    },
+
     {
       "item": "graphite",
       "amount": 100
@@ -51,6 +40,14 @@
     {
       "item": "silicon",
       "amount": 75
+    },
+    {
+      "item": "titanium",
+      "amount": 100
+    },
+    {
+      "item": "thorium",
+      "amount": 200
     }
   ],
   "category": "crafting",
