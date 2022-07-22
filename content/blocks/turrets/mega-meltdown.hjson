@@ -42,10 +42,4 @@ category: turret
 requirements: [
   copper/35000
   graphite/30000
-  territe-alloy/45000
-  thorium/30000
-  phase-fabric/20000
-  baenite/12000
-  amethyst-gem/8000
-  bluewolframite/3500
 ]
