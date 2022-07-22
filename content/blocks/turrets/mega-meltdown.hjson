@@ -2,7 +2,7 @@ name: Mega Meltdown
 description: A better version of the meltdown. Deals a tonne of damage.
 type: PowerTurret
 size: 5
-liquidCapacity: 600
+liquidCapacity: 200
 health: 2150
 range: 320
 powerUse: 32
