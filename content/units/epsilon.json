@@ -28,13 +28,15 @@
       "reload": 5,
       "shootcone": 360,
       "spacing": 0,
-      "shootSound": "shoot",
+      "mirror": true,
+        "alternate": true
+      "shootSound": "lasershoot",
       "bullet": {
         "type": "BasicBulletType",
         "speed": 10,
         "damage": 11,
         "pierce": true,
-        "pierceCap": 1,
+        "pierceCap": 10,
         "splashDamage": 6,
         "splashDamageRadius": 5,
         "homingRange": 170,
