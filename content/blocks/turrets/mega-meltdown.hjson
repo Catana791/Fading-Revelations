@@ -21,9 +21,12 @@ shootType: {
   length: 320
   width: 10
 }
-research: duo
+research: big-parallax
 category: turret
 requirements: [
-  copper/350
-  graphite/300
+  copper/1600
+  lead/600
+  graphite/460
+  silicon/500
+  surge-alloy/420
 ]
