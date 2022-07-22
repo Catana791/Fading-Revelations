@@ -26,13 +26,12 @@
       "x": 0,
       "y": 2,
       "reload": 5,
-      "shootcone": 360,
       "spacing": 0,
       "mirror": true,
         "alternate": true
       "shootSound": "lasershoot",
       "bullet": {
-        "type": "BasicBulletType",
+        "type": "LaserBoltBulletType",
         "speed": 10,
         "damage": 11,
         "pierce": true,
