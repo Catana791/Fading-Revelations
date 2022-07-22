@@ -6,7 +6,7 @@ liquidCapacity: 600
 health: 2150
 range: 320
 powerUse: 40
-rotateSpeed: 2.5
+rotateSpeed: 6
 reloadTime: 400
 recoilAmount: 8
 restitution: 0.02
