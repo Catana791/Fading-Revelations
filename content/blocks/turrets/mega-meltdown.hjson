@@ -11,7 +11,7 @@ reloadTime: 400
 recoilAmount: 8
 restitution: 0.02
 shots: 3
-spread: 5
+spread: 10
 shootSound: shootBig
 shootType: {
   type: ContinuousLaserBulletType
@@ -19,7 +19,7 @@ shootType: {
   lifetime: 150
   fadeTime: 10
   length: 320
-  width: 20
+  width: 10
 }
 research: duo
 category: turret
