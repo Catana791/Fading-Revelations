@@ -15,7 +15,7 @@ shootType: {
   type: ContinuousLaserBulletType
   damage: 1460
   lifetime: 150
-  fadeTime: 5
+  fadeTime: 10
   length: 320
   width: 20
 }
