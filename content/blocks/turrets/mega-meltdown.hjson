@@ -38,6 +38,7 @@ shootType: {
 }
 coolantUsage: 3.5
 coolantMultiplier: 0.7
+research: duo
 category: turret
 requirements: [
   copper/35000
