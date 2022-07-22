@@ -1,7 +1,7 @@
 name: Mega Meltdown
 description: A better version of the meltdown. Deals a tonne of damage.
 type: PowerTurret
-size: 4
+size: 5
 liquidCapacity: 600
 health: 2150
 range: 320
@@ -10,8 +10,6 @@ rotateSpeed: 2.5
 reloadTime: 400
 recoilAmount: 8
 restitution: 0.02
-shots: 5
-spread: 15
 shootSound: shootBig
 shootType: {
   type: ContinuousLaserBulletType
@@ -19,7 +17,7 @@ shootType: {
   lifetime: 150
   fadeTime: 5
   length: 320
-  width: 15
+  width: 20
 }
 research: duo
 category: turret
