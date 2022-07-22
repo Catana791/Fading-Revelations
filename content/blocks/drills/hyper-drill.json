@@ -11,7 +11,7 @@
   "itemCapacity": 20,
   "tier": 5,
   "drillTime": 20,
-  "liquidBoostIntensity": 0.8,
+  "liquidBoostIntensity": 1.2,
   "rotateSpeed": 10,
   "consumes": {
     "power": 4,
@@ -19,7 +19,7 @@
         "liquid": "cryofluid",
         "amount": 0.2,
         "optional": false,
-        "booster": false
+        "booster": true
     }
   },
   "requirements": [
