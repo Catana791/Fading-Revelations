@@ -30,14 +30,38 @@
       "spacing": 0,
       "shootSound": "shoot",
       "bullet": {
-        "type": "BasicBulletType",
-        "speed": 10,
+        "type": "LaserBoltBulletType",
+        "speed": 6,
         "damage": 11,
-        "pierce": false,
-        "homingRange": 150,
-        "homingPower": 0.18,
-        "splashDamage": 5,
-        "splashDamageRadius": 5
+        "pierce": true,
+        "pierceCap": 10,
+        "splashDamage": 6,
+        "mixColorFrom": "d4816b",
+        "mixColorTo": "ffd37f",
+        "splashDamageRadius": 4,
+        "homingRange": 170,
+        "homingPower": 0.18
+        "hitEffect": {
+            "type": "MultiEffect",
+            "effects": [
+                {
+                    "type": "WaveEffect",
+                    "colorFrom": "d4816b",
+                    "colorTo": "ffd37f",
+                    "rotation": 3,
+                    "sizeFrom": 0,
+                    "sizeTo": 4
+                },
+                {
+                    "type": "WaveEffect",
+                    "colorFrom": "ffd37f",
+                    "colorTo": "d4816b",
+                    "rotation": 3,
+                    "sizeFrom": 4,
+                    "sizeTo": 0
+                }
+            ]
+        }
       }
     }
   ],
