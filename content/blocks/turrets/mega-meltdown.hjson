@@ -7,7 +7,7 @@ health: 2150
 range: 320
 powerUse: 40
 rotateSpeed: 2.5
-reloadTime: 240
+reloadTime: 400
 recoilAmount: 8
 restitution: 0.02
 shots: 5
@@ -15,8 +15,8 @@ spread: 15
 shootSound: shootBig
 shootType: {
   type: ContinuousLaserBulletType
-  damage: 5400
-  lifetime: 200
+  damage: 1460
+  lifetime: 150
   fadeTime: 5
   length: 320
   width: 15
