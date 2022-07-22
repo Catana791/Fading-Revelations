@@ -17,7 +17,7 @@
   "hasItems": true,
   "updateEffect": "smeltsmoke",
   "consumes": {
-    "power": 2,
+    "power": 1.75,
     "liquid": {
       "liquid": "water",
       "amount": 0.4
