@@ -4,7 +4,7 @@ type: PowerTurret
 size: 5
 liquidCapacity: 200
 health: 2150
-range: 320
+range: 240
 powerUse: 32
 rotateSpeed: 6
 reloadTime: 320
