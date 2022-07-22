@@ -37,9 +37,32 @@
         "pierce": true,
         "pierceCap": 10,
         "splashDamage": 6,
+        "mixColorFrom": "d4816b",
+        "mixColorTo": "ffd37f",
         "splashDamageRadius": 5,
         "homingRange": 170,
         "homingPower": 0.18
+        "hitEffect": {
+            "type": "MultiEffect",
+            "effects": [
+                {
+                    "type": "WaveEffect",
+                    "colorFrom": "ffd37f",
+                    "colorTo": "d4816b",
+                    "rotation": 3,
+                    "sizeFrom": 0,
+                    "sizeTo": 5
+                },
+                {
+                    "type": "WaveEffect",
+                    "colorFrom": "d4816b",
+                    "colorTo": "ffd37f",
+                    "rotation": 3,
+                    "sizeFrom": 5,
+                    "sizeTo": 0
+                }
+            ]
+        }
       }
     }
   ],
