@@ -1,49 +1,32 @@
-{
-  "name": "Hyper Drill",
-  "description": "An even better airblast drill that needs liquid living steel to not break. Doesn't operate if not supplied with it.",
-  "type": "Drill",
-  "size": 5,
-  "hasPower": true,
-  "drawRim": true,
-  "hasLiquids": true,
-  "liquidCapacity": 40,
-  "hasItems": true,
-  "itemCapacity": 20,
-  "tier": 5,
-  "drillTime": 20,
-  "liquidBoostIntensity": 1.2,
-  "rotateSpeed": 10,
-  "consumes": {
-    "power": 4,
-    "liquid": {
-        "liquid": "cryofluid",
-        "amount": 0.2,
-        "optional": false,
-        "booster": true
-    }
-  },
-  "requirements": [
-    {
-      "item": "copper",
-      "amount": 130
-    },
-    {
-      "item": "titanium",
-      "amount": 100
-    },
-    {
-      "item": "silicon",
-      "amount": 120
-    },
-    {
-      "item": "living-steel",
-      "amount": 85
-    },
-    {
-      "item": "thorium",
-      "amount": 150
-    }
-  ],
-  "category": "production",
-  "research": "compact-laser-drill"
+{ 
+"name": "Hyper Drill", 
+"description": "An even better airblast drill that needs liquid living steel to not break. Doesn't operate if not supplied with it.", 
+"type": "Drill", 
+"size": 5, 
+"hasPower": true, 
+"drawRim": true, 
+"hasLiquids": true, 
+"liquidCapacity": 40, 
+"hasItems": true, 
+"itemCapacity": 20, 
+"tier": 5, 
+"drillTime": 55, 
+"rotateSpeed": 10, 
+"liquidBoostIntensity": 1 
+"consumes": { 
+"power": 4, 
+"liquid": {
+ "liquid": "living-steel-liquid", 
+"amount": 0.18,
+ "optional": false, 
+"booster": false
+}
+ }, 
+"requirements": [
+ { "item": "copper", "amount": 130 },
+ { "item": "titanium", "amount": 100 },
+ { "item": "silicon", "amount": 120 }, 
+{ "item": "living-steel", "amount": 85 },
+ { "item": "thorium", "amount": 150 }
+]
 }
