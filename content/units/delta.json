@@ -45,7 +45,7 @@
      {
       "type": "ForceFieldAbility",
       "radius": 10,
-      "regen": 5,
+      "regen": 6,
       "max": 140,
       "cooldown": 480
     }      
