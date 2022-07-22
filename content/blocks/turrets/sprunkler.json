@@ -6,6 +6,8 @@
   "reloadTime": 1,
   "shootSound": "pew",
   "shootCone": 360,
+    "shootX": 0,
+    "shootY": 0,
   "shootEffect": {
     "type": "ParticleEffect",
     "colorFrom": "0053e8",
