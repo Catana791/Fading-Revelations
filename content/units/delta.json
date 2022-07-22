@@ -14,7 +14,7 @@
   "buildTier": 5,
   "mass": 10,
   "commandLimit": 8,
-  "health": 310,
+  "health": 260,
   "flying": true,
   "rotateWeapon": true,
   "rotatespeed": 0.06,
@@ -40,5 +40,8 @@
         "splashDamageRadius": 5
       }
     }
-  ]
+  ],
+    "abilities": [
+            
+    ]
 }
