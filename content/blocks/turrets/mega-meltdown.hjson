@@ -15,7 +15,7 @@ spread: 10
 shootSound: shootBig
 shootType: {
   type: ContinuousLaserBulletType
-  damage: 60
+  damage: 90
   lifetime: 150
   fadeTime: 10
   length: 320
