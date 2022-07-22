@@ -14,7 +14,7 @@
   "buildTier": 5,
   "mass": 10,
   "commandLimit": 8,
-  "health": 410,
+  "health": 310,
   "flying": true,
   "rotateWeapon": true,
   "rotatespeed": 0.06,
@@ -41,5 +41,13 @@
         "homingPower": 0.18
       }
     }
-  ]
+  ],
+    "abilities": [
+     {
+      "type": "ForceFieldAbility",
+      "radius": 10,
+      "regen": 12,
+      "max": 240,
+      "cooldown": 480
+    } 
 }
