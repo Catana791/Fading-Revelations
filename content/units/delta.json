@@ -47,7 +47,7 @@
       "radius": 10,
       "regen": 5,
       "max": 140,
-      "cooldown": 240
+      "cooldown": 480
     }      
   ]
 }
