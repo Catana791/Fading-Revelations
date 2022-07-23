@@ -31,7 +31,7 @@
       "mirror": false,
       "rotate": false,
       "reload": 60,
-      "range": 16,
+      "range": 160,
       "shots": 20,
       "inaccuracy": 360,
       "bullet": {
