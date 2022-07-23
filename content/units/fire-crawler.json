@@ -8,7 +8,7 @@
   "speed": 1.5,
   "rotateSpeed": 4,
   "armor": 0,
-  "range": 16,
+  "range": 160,
   "hasShadow": false,
   "type": "legs",
   "aiController": "SuicideAI",
