@@ -10,6 +10,7 @@
   "rotateSpeed": 4,
   "armor": 0,
   "aiController": "SuicideAI",
+    "UnitController": "SuicideAI",
   "range": 160,
   "hasShadow": false,
   "hitSize": 8,
