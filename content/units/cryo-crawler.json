@@ -10,8 +10,6 @@
   "rotateSpeed": 4,
   "armor": 0,
   "aiController": "SuicideAI",
-    "UnitController": "SuicideAI",
-  "range": 160,
   "hasShadow": false,
   "hitSize": 8,
   "itemCapacity": 0,
@@ -34,9 +32,7 @@
       "name": "nothing",
       "mirror": false,
       "rotate": false,
-      "reload": 60,
       "shots": 20,
-      "range": 160,
       "inaccuracy": 360,
       "bullet": {
         "type": "LiquidBulletType",
