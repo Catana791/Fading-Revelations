@@ -13,7 +13,6 @@
   "hasShadow": false,
   "hitSize": 8,
   "itemCapacity": 0,
-  "allowLegStep": false,
   "crashDamageMultiplier": 10,
   "targetAir": false,
   "targetGround": true,
