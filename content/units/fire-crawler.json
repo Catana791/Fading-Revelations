@@ -12,7 +12,7 @@
   "hasShadow": false,
   "type": "legs",
   "aiController": "SuicideAI",
-  "allowLegStep": false,
+  "controller": "SuicideAI",
   "lowAltitude": true,
   "hitSize": 8,
   "itemCapacity": 0,
