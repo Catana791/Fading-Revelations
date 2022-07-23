@@ -2,5 +2,57 @@
   "name": "Freezing Crawler",
   "description": "Runs towards the enemy and detonates itself, freezing enemies and making them slower for a short time after that.",
   "details": "Spawned by the C.A.U.P.M.D mothership.",
-    "research": "test"
+  "health": 300,
+  "flying": false,
+  "commandLimit": 4,
+  "speed": 1.5,
+  "type": "legs",
+  "rotateSpeed": 4,
+  "armor": 0,
+  "aiController": "SuicideAI",
+  "range": 16,
+  "hasShadow": false,
+  "hitSize": 8,
+  "itemCapacity": 0,
+  "allowLegStep": false,
+  "lowAltitude": true,
+  "crashDamageMultiplier": 10,
+  "targetAir": false,
+  "targetGround": true,
+  "research": {
+    "parent": "test",
+    "requirements": [
+      {
+        "item": "titanium",
+        "amount": 400
+      }
+    ]
+  },
+  "desctructibleWreck": false,
+  "weapons": [
+    {
+      "name": "nothing",
+      "mirror": false,
+      "rotate": false,
+      "reload": 60,
+      "shots": 20,
+      "range": 16,
+      "inaccuracy": 360,
+      "bullet": {
+        "type": "LiquidBulletType",
+        "instantDisappear": true,
+        "killShooter": true,
+        "splashDamage": 30,
+        "splashDamageRadius": 70,
+        "pierce": true,
+        "liquid": "cryofluid",
+        "knockback": 1.2,
+        "status": "freezing",
+        "statusDuration": 360,
+        "status": "unmoving",
+        "statusRange": 24,
+        "statusDuration": 45
+      }
+    }
+  ]
 }
