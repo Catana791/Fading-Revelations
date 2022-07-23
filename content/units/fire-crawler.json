@@ -11,7 +11,6 @@
   "hasShadow": false,
   "type": "legs",
   "aiController": "SuicideAI",
-  "lowAltitude": true,
   "hitSize": 8,
   "itemCapacity": 0,
   "research": {
