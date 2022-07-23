@@ -9,6 +9,8 @@
   "type": "legs",
   "rotateSpeed": 4,
   "armor": 0,
+  "circleTarget": true,
+    "aimDst": 300,
   "aiController": "SuicideAI",
   "hasShadow": false,
   "hitSize": 8,
@@ -32,6 +34,8 @@
       "mirror": false,
       "rotate": false,
       "shots": 20,
+        "reload": 10,
+        "range": 3,
       "inaccuracy": 360,
       "bullet": {
         "type": "LiquidBulletType",
