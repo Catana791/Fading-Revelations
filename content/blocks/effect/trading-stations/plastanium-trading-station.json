@@ -1,0 +1,40 @@
+{
+  "type": "GenericCrafter",
+  "name": "Plastanium Trading Station",
+  "description": "Exchange Station that exchanges 2 gold for 3 plastanium.",
+  "size": 2,
+  "hasItems": true,
+  "craftTime": 30,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "gold",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 150
+    },
+    {
+      "item": "lead",
+      "amount": 40
+    },
+    {
+      "item": "plastanium",
+      "amount": 20
+    }
+  ],
+  "category": "effect",
+  "research": "bc-trading-station",
+  "outputItem": {
+    "item": "plastanium",
+    "amount": 3
+  }
+}

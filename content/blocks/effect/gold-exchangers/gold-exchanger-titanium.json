@@ -1,0 +1,41 @@
+{
+  "type": "GenericCrafter",
+  "name": "Titanium Exchange Station",
+  "description": "Exchange Station that exchanges 36 titanium for 1 gold.",
+  "size": 2,
+  "hasItems": true,
+  "craftTime": 30,
+  "craftEffect": "smeltsmoke",
+  "itemCapacity": 240,
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "titanium",
+          "amount": 36
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 200
+    },
+    {
+      "item": "lead",
+      "amount": 90
+    },
+    {
+      "item": "titanium",
+      "amount": 70
+    }
+  ],
+  "category": "effect",
+  "research": "gold-exchanger-copper",
+  "outputItem": {
+    "item": "gold",
+    "amount": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "GenericCrafter",
+  "name": "Copper Exchange Station",
+  "description": "Exchange Station that exchanges 69 copper for 1 gold. Nice.",
+  "size": 2,
+  "hasItems": true,
+  "craftTime": 30,
+  "itemCapacity": 320,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "copper",
+          "amount": 69
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 150
+    },
+    {
+      "item": "lead",
+      "amount": 40
+    }
+  ],
+  "category": "effect",
+  "research": "mod-gate-effect",
+  "outputItem": {
+    "item": "gold",
+    "amount": 1
+  }
+}
