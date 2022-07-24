@@ -37,7 +37,8 @@
         
         Features
         A custom map and many blocks, 
-        units, items, liquids & ammo types.
+        units, items, liquids, schematics
+        & custom ammo types.
         
         
         Languages
@@ -52,5 +53,5 @@
         '''
 
     minGameVersion : 126.2
-    version : 1.09
+    version : 1.10
 }
