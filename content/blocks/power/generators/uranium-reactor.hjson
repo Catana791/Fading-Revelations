@@ -1,0 +1,34 @@
+type: NuclearReactor
+name: "Nuclear Reactor"
+description: "A reactor that uses uraniumrods to create a lot of power. Explodes violently when not cooled all the time!"
+size: 4
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 20
+liquidCapacity: 120
+itemDuration: 1650
+powerProduction: 133.3334
+heating: 0.06
+smokeThreshold: 0.58
+explosionRadius: 500
+explosionDamage: 10000
+flashThreshold: 0.44 
+coolantPower: 0.8 
+consumes: {
+ liquid: living-steel-liquid/0.1
+  items: {
+   items: [
+    uraniumrod/9
+    ]
+  }
+}
+requirements: [
+  copper/300
+  metaglass/200
+  silicon/170
+  titanium/180
+  thorium/150
+]
+category: power
+research: pyratite-generator
