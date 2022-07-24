@@ -6,7 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "craftTime": 356,
+  "craftTime": 300,
   "craftEffect": "smeltsmoke",
   "updateEffect": "pulverizeRed",
   "consumes": {
