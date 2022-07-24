@@ -1,0 +1,12 @@
+{
+  "name": "Gold",
+  "description": "A shiny piece of metal! Can be traded to get other resources.",
+  "cost": 2.5,
+  "color": "FFD700",
+  "hardness": 3,
+  "flammability": 0,
+  "explosiveness": 0,
+  "research": {
+    "parent": "mod-gate-resources"
+  }
+}

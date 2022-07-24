@@ -1,0 +1,18 @@
+{
+  "name": "Titanium Ammo",
+  "description": "Ammo made from titanium. Decent damage and has pierce.",
+  "cost": 2.5,
+  "color": "002b92",
+  "hardness": 6,
+  "flammability": 0.1,
+  "explosiveness": 0.3,
+  "research": {
+    "parent": "ammo-level-1",
+    "requirements": [
+      {
+        "item": "titanium",
+        "amount": 200
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Healing Ammo",
+  "description": "Ammo made from spore pods. No damage but heals hit allied blocks.",
+  "cost": 2.5,
+  "color": "77df05",
+  "hardness": 0.1,
+  "flammability": 0,
+  "explosiveness": 0,
+  "research": {
+    "parent": "ammo-level-3",
+    "requirements": [
+      {
+        "item": "spore-pod",
+        "amount": 200
+      }
+    ]
+  }
+}
