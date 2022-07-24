@@ -1,0 +1,78 @@
+{
+  "type": "ItemTurret",
+  "name": "Trio",
+  "description": "The better version of the duo. Shoots out at enemies with three instead of two barrels.",
+  "health": 500,
+  "reloadTime": 12,
+  "range": 120,
+  "size": 2,
+  "shots": 3,
+  "researchCostMultiplier": 0.1,
+  "spread": 3.2,
+  "inaccuracy": 3,
+  "alternate": true,
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+    "copper": {
+      "speed": 3,
+      "ammoMultiplier": 3,
+      "height": 8,
+      "hitSize": 8,
+      "type": "BasicBulletType",
+      "width": 8,
+      "damage": 12,
+      "lifetime": 50,
+      "length": 8,
+    },
+    "graphite": {
+      "type": "BasicBulletType",
+      "height": 8,
+      "width": 8,
+      "length": 8,
+      "damage": 15,
+      "lifetime": 50,
+      "speed": 3,
+      "hitSize": 8,
+      "ammoMultiplier": 6,
+    },
+    "pyratite": {
+      "type": "BasicBulletType",
+      "height": 8,
+      "width": 8,
+      "length": 8,
+      "damage": 14,
+      "speed": 3,
+      "lifetime": 50,
+      "hitSize": 8,
+      "ammoMultiplier": 3,
+      "status": "burning",
+      "statusDuration": 30
+    },
+    "silicon": {
+      "type": "BasicBulletType",
+      "height": 8,
+      "width": 8,
+      "length": 8,
+      "damage": 16,
+      "speed": 3,
+      "lifetime": 50,
+      "hitSize": 8,
+      "ammoMultiplier": 7, 
+      "homingPower": 0.9,
+      "homingRange": 120
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 70
+    },
+    {
+      "item": "lead",
+      "amount": 35
+    }
+  ],
+  "category": "turret",
+  "research": "mod-gate-turrets"
+}

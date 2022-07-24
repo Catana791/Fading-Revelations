@@ -1,0 +1,39 @@
+{
+  "type": "pointDefenseTurret",
+  "name": "Fragment",
+  "description": "A better version of the Segment. Fires faster and does more damage to bullets. Can still not target lasers.",
+  "size": 3,
+  "health": 410,
+  "range": 236,
+  "reload": 2,
+  "hasPower": true,
+  "shootLength": 14,
+  "bulletDamage": 35,
+  "reloadTime": 5,
+  "consumes": {
+    "power": 10,
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": 0.03,
+      "booster": true,
+      "optional": true
+    }
+  },
+  "liquidBoostIntensity": 1.6,
+  "requirements": [
+    {
+      "item": "silicon",
+      "amount": 260
+    },
+    {
+      "item": "thorium",
+      "amount": 120
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 80
+    }
+  ],
+  "category": "turret",
+  "research": "arc-coil-big"
+}

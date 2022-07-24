@@ -1,0 +1,49 @@
+name: Uhlan
+description: A better version of the lancer. Takes longer to charge but deals more damage and has more range.
+type: PowerTurret
+targetAir: false
+health: 1420
+reloadTime: 75
+range: 220
+size: 3
+shootSound: laser
+heatColor: 5782c2
+powerUse: 7
+chargeTime: 30
+chargeBeginEffect: {
+  type: ParticleEffect
+  lifetime: 30
+  length: 0
+  particles: 1
+  sizeFrom: 0
+  sizeTo: 2
+  colorFrom: 7382f0
+}
+chargeEffects: 6
+chargeEffect: {
+  type: ParticleEffect
+  particles: 1
+  lifetime: 24
+  baseLength: 10
+  length: -10
+  line: true
+  strokeFrom: 0
+  strokeTo: 1
+  lenFrom: 0
+  lenTo: 3
+  colorFrom: 7382f0
+}
+shootType: {
+  type: LaserBulletType
+  length: 210
+  width: 20
+  damage: 140
+  colors: [7382f040, 7382f0, ffffff]
+}
+category: turret
+research: big-arc
+requirements: [
+  copper/90
+  lead/100
+  silicon/75
+]

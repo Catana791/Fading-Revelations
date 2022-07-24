@@ -1,0 +1,107 @@
+{
+    "type": "PowerTurret",
+    "name": "Cavalry",
+    "description": "The final turret of the Lancer family. Has a low fire rate but extremely high damage that even surpasses the legendary Meltdown.",
+    "size": 5,
+    "health": 2850,
+    "reloadTime": 200,
+    "heatColor": "ff795e"
+    "range": 240,
+    "shootCone": 0.08,
+    "recoilAmount": 0.7,
+    "restitution": 0.06,
+    "rotateSpeed": 10,
+    "targetAir": false,
+    "shootSound": "cavalry-shoot",
+    "liquidBoostIntensity": 0,
+    "powerUse": 26,
+    "hasPower": true,
+    "displayAmmoMultiplier": false,
+    "recoil": 3,
+    "recoilTime": 180,
+    "shake": 1.1,
+    "shootEffect": {
+        "type": "MultiEffect",
+        "effects": [
+            {
+                "type": "WaveEffect",
+                "colorFrom": "66B1FFFF",
+                "colorTo": "E4FDFFFF",
+                "sizeFrom": 10,
+                "sizeTo": 0,
+                "lifetime": 199
+            }
+        ]
+    },
+    "shootType": {
+        "type": "BasicBulletType",
+        "speed": 5,
+        "spin": 8,
+        "pierce": true
+        "lifetime": 48,
+        "frontColor": "E4FDFFFF",
+        "backColor": "66B1FFFF",
+        "trailColor": "66B1FFFF",
+        "damage": 1880,
+        "homingPower": 0.10,
+        "despawnHit": false,
+        "despawnShake": 0.03,
+        "homingRange": 150,
+        "width": 25,
+        "height": 20,
+        "hitSize": 25,
+        "shrinkY": 0,
+        "hittable": false,
+        "shrinkX": 0,
+        "absorbable": false,
+        "reflectable": false,
+        "status": "burning",
+        "statusDuration": 200,
+        "status": "shocked",
+        "statusDuration": 200,
+        "lightning": 6,
+        "lightningCone": 360,
+        "lightningLength": 6,
+        "lightningDamage": 145
+        "hitEffect": {
+            "type": "MultiEffect",
+            "effects": [
+                {
+                    "type": "WaveEffect",
+                    "colorFrom": "E4FDFFFF",
+                    "colorTo": "66B1FFFF",
+                    "rotation": 3,
+                    "sizeFrom": 25,
+                    "sizeTo": 0
+                },
+                {
+                    "type": "WaveEffect",
+                    "colorFrom": "66B1FFFF",
+                    "colorTo": "E4FDFFFF",
+                    "rotation": 3,
+                    "sizeFrom": 0,
+                    "sizeTo": 12.5
+                }
+            ]
+        },
+        "despawnEffect": {
+            "type": "ExplosionEffect",
+            "smokeColor": "66B1FFFF",
+            "smokes": 6,
+            "smokeSize": 50,
+            "sparks": 6,
+            "sparkLen": 40,
+            "sparkColor": "E4FDFFFF",
+            "lifetime": 150
+        }
+    },
+    "requirements": [
+        "copper/1500",
+        "lead/500",
+        "graphite/600",
+        "silicon/550",
+        "surge-alloy/575"
+    ],
+    "category": "turret",
+    "research": "mega-meltdown"
+}
