@@ -1,0 +1,20 @@
+{
+  "name": "Huge Phase-Fabric Wall",
+  "description": "A huge wall made out of phase-fabric.",
+  "type": "Wall",
+  "deflect": true,
+  "flashHit": true,
+  "health": 5400,
+  "chanceReflect": 15
+  "size": 3,
+  "requirements": [
+    {
+      "item": "phase-fabric",
+      "amount": 54
+    }
+  ],
+  "category": "defense",
+  "research": {
+    "parent": "thorium-wall-3"
+  }
+}

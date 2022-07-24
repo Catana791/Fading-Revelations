@@ -1,0 +1,20 @@
+{
+  "name": "Huge Surge-Alloy-Wall",
+  "description": "A huge wall made of surge alloy. Can shoot lightning sometimes.",
+  "type": "Wall",
+  "health": 8280,
+  "lightningChance": 0.10,
+  "lightningDamage": 25,
+  "lightningLength": 20,
+  "size": 3,
+  "requirements": [
+    {
+      "item": "surge-alloy",
+      "amount": 54
+    }
+  ],
+  "category": "defense",
+  "research": {
+   "parent": "phase-fabric-wall-3"
+  }
+}

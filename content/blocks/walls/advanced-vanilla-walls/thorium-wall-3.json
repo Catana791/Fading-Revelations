@@ -1,0 +1,17 @@
+{
+  "name": "Gigantic Thorium-Wall",
+  "description": "A gigantic wall made out of thorium.",
+  "type": "Wall",
+  "health": 12800,
+  "size": 4,
+  "requirements": [
+    {
+      "item": "thorium",
+      "amount": 96
+    }
+  ],
+  "category": "defense",
+  "research": {
+   "parent": "thorium-wall-2"
+  }
+}

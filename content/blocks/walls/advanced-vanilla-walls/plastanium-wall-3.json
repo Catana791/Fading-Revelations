@@ -1,0 +1,19 @@
+{
+  "name": "Gigantic Plastanium-Wall",
+  "description": "A gigantic wall made from plastanium.",
+  "type": "Wall",
+  "insulated": true,
+  "absorbLasers": true,
+  "health": 8320,
+  "size": 4,
+  "requirements": [
+    {
+      "item": "plastanium",
+      "amount": 96
+    }
+  ],
+  "category": "defense",
+  "research": {
+   "parent": "plastanium-wall-2"
+  }
+}

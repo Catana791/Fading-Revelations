@@ -1,0 +1,21 @@
+{
+  "type": "door",
+  "name": "Huge door",
+  "description": "A huge door.",
+  "size": 3,
+  "health": 3600,
+  "requirements": [
+    {
+      "item": "titanium",
+      "amount": 54
+    },
+    {
+      "item": "silicon",
+      "amount": 36
+    }
+  ],
+  "category": "defense",
+  "research": {
+    "parent": "mod-gate-walls"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Large Composite Wall",
+  "description": "A large version of the composite wall.",
+  "type": "Wall",
+  "health": 2210,
+  "deflect": true,
+  "flashHit": true,
+  "lightningChance": 0.05,
+  "lightningDamage": 20,
+  "lightningLength": 7,
+  "insulated": true,
+  "chanceDeflect": 10,
+  "absorbLasers": true,
+  "researchCostMultiplier": 5,
+  "size": 2,
+  "requirements": [
+    {
+      "item": "titanium",
+      "amount": 120
+    },
+    {
+      "item": "thorium",
+      "amount": 120
+    },
+    {
+      "item": "plastanium",
+      "amount": 120
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 120
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 120
+    }
+  ],
+  "category": "defense",
+  "research": {
+   "parent": "composite-wall-small"
+  }
+}

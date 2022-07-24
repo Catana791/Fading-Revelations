@@ -1,0 +1,17 @@
+{
+  "name": "Huge Thorium-Wall",
+  "description": "A huge wall of thorium.",
+  "type": "Wall",
+  "health": 7200,
+  "size": 3,
+  "requirements": [
+    {
+      "item": "thorium",
+      "amount": 54
+    }
+  ],
+  "category": "defense",
+  "research": {
+   "parent": "plastanium-wall-3"
+  }
+}
