@@ -1,0 +1,39 @@
+{
+  "type": "GenericCrafter",
+  "name": "Greenhouse",
+  "description": "A better cultivator that creates a lot more spore pods.",
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 65,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "pulverize",
+  "consumes": {
+    "power": 1.49,
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.41,
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 75
+    },
+    {
+      "item": "lead",
+      "amount": 75
+    },
+    {
+      "item": "silicon",
+      "amount": 30
+    }
+  ],
+  "category": "production",
+  "research": "advanced-coal-centrifuge",
+  "outputItem": {
+    "item": "spore-pod",
+    "amount": 2
+  }
+}

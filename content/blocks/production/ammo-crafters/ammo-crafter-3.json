@@ -1,0 +1,47 @@
+{
+  "type": "GenericCrafter",
+  "name": "Level 3 Ammocrafter",
+  "description": "Crafts explosive ammo out of blast compound and coal.",
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 50,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "pulverizeRed",
+  "consumes": {
+    "power": 0.2,
+    "items": {
+      "items": [
+        {
+          "item": "coal",
+          "amount": 5
+        },
+        {
+          "item": "blast-compound",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 150
+    },
+    {
+      "item": "lead",
+      "amount": 120
+    },
+    {
+      "item": "titanium",
+      "amount": 55
+    }
+  ],
+  "category": "crafting",
+  "research": "ammo-crafter-2",
+  "outputItem": {
+    "item": "ammo-level-3",
+    "amount": 2
+  }
+}

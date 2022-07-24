@@ -1,0 +1,46 @@
+{
+  "type": "GenericSmelter",
+  "name": "Induced Kiln",
+  "description": "A better kiln that is more cost-efficient.",
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 30,
+  "consumes": {
+    "power": 1.1,
+    "items": {
+      "items": [
+        {
+          "item": "lead",
+          "amount": 2
+        },
+        {
+          "item": "sand",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 70
+    },
+    {
+      "item": "lead",
+      "amount": 60
+    },
+    {
+      "item": "graphite",
+      "amount": 55
+    }
+  ],
+  "category": "crafting",
+  "research": "greenhouse",
+  "outputItem": {
+    "item": "metaglass",
+    "amount": 4
+  },
+  "health": 320
+}
