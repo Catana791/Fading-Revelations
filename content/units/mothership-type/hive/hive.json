@@ -1,0 +1,239 @@
+{
+  "type": "flying",
+  "name": "HIVE",
+  "description": "A massive spawning ship that spawns support and attack units. Is pretty fragile itself but has a very strong force generator that can take 20900 points of damage before shutting down. Warning! When the force field shuts down, the fragile 9100 hp of the HIVE are directly attackable!",
+  "details": "On a planet far far away, a sector's machinery and core went on its schedule like any other, units and materials meant to be inspected and sent of to other sectors were the norm in minor outposts like these, but as the day progressed several objects were detected, moving at a rapid pace, at first the core did not register these pings as a potential threat as attacks at its sector were almost nonexisten, nonetheless the core issued a report, then went dark merely a few later, however nothing was thought out of the ordinary, only after days of silence and reports of undelivered materials did the main core send out an scout to uncover what happened to the outpost, to which it found signs of weapons fire, unbeknownst to the rest of the Cluster it would be the first sign that something was wrong as not even a few days later another sector  would go dark, then another would suffer the same fate, alarmed by this the main core of the planet sent out task force after task force to hunt down these units, what they found would be the final broadcast of the planet. \n \n Much like the Strahl, the HIVE is a unit tha is not known very well, only after reports of a destroyed world brought about by the HIVE did concerns flare up, as rumors spread becoming ever distorted from reality fear came along with it. While it is not yet known what its true capability are, many are certain that it is  significantly more powerful than anything currently in their arsenals, news that a quarantine and the reassigning of fleets to that system only fueled peoples fears futher. \n \n While the creators and their intentions for making this unit remains unknown, it is known for certain is that the mentioned sector its planet were nothing more than a mere testing ground. Many believe that the destruction of the planet was prelude to something big, many more still deny its existence but with the increasing efficiency of living metal units starting to become much more apparent, more and more are going to face reality that someone or something out there can destroy their world and bring a wave of tyranny. \n \n Whatever the case maybe an arms race with innovations and weaponry never seen before has been sparked, fueled by fears and distrust of the other, one could only hope that this would be the end.",
+  "drag": 0.15,
+  "rotateWeapon": true,
+  "speed": 0.96,
+  "flying": true,
+  "research": {
+     "parent": "test",
+     "requirements": [
+       {
+	"item": "silicon",
+	"amount": 2200
+       },
+	     {
+		     "item": "surge-alloy",
+		     "amount": 1450
+	     },
+	     {
+		     "item": "gold",
+		     "amount": 1500
+	     },
+	     {
+		     "item": "pyratite",
+		     "amount": 750
+	     },
+	     {
+		     "item": "titanium",
+		     "amount": 5000
+	     }
+    ]
+  },
+  "maxVelocity": 1.02,
+  "mass": 10,
+  "commandLimit": 21,
+  "hitsize": 45,
+  "health": 9100,
+  "rotatespeed": 0.06,
+  "baseRotateSpeed": 0.06,
+  "weapons": [
+    {
+      "name": "hive-nuke",
+      "shootCone": 15,
+            "mirror": false,
+            "alternate": false,
+            "shots": 4,
+            "inaccuracy": 5,
+            "x": 0,
+            "y": -20,
+            "reload": 305,
+            "shootY": 23,
+            "rotate": true,
+            "rotateSpeed": 0.912,
+            "shootSound": "laserblast",
+            "shotDelay": 6,
+            "bullet": {
+              "type": "LaserBulletType",
+              "length": 450,
+              "width": 35,
+              "damage": 1000,
+	      "lightning": 10,
+	      "lightningLengthRand": 8,
+              "lightningCone": 35,
+              "lightningSpacing": 38,
+              "lightningLength": 12,
+              "lightningDelay": 0.8,
+              "lightningDamage": 50,
+              "lightningAngleRand": 45,
+              "lightColor": "ff0d0d",
+              "lightningColor": "ff0d0d",
+              "colors":["861303", "ff0d0d", "ff4949"],
+              "sideAngle": 35,
+              "sideLength": 28,
+              "sideWidth": 2
+        }
+	 },
+    {
+      "name": "hive-mg",
+      "range": 200,
+      "rotate": true,
+      "rotateSpeed": 20,
+      "x": 40,
+      "y": 11,
+      "targetGround": false,
+      "targetAir": true,
+      "reload": 2,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 8,
+        "damage": 44,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "hive-mg",
+      "range": 200,
+      "rotate": true,
+      "x": -40,
+      "rotateSpeed": 20,
+      "y": 11,
+      "targetGround": false,
+      "targetAir": true,
+      "reload": 2,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 8,
+        "damage": 44,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "hive-laser",
+      "range": 280,
+      "x": -60,
+      "targetGround": false,
+      "rotate": true,
+      "targetAir": true,
+      "y": 23,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "LaserBoltBulletType",
+        "speed": 8,
+        "height": 4,
+        "width": 7,
+        "color": "ff1717",
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "hive-laser",
+      "range": 280,
+      "x": 60,
+      "targetGround": false,
+      "rotate": true,
+      "targetAir": true,
+      "y": 23,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "LaserBoltBulletType",
+        "speed": 8,
+        "damage": 15,
+        "pierce": true,
+        "height": 4,
+        "color": "ff1717",
+        "width": 7,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "hive-repair",
+      "range": 100,
+      "x": 10,
+      "y": 10,
+      "reload": 25,
+      "targetAir": false,
+      "targetGround": true,
+      "shootCone": 360,
+      "shotSound": "flakExplosion",
+      "bullet": {
+        "type": "LaserBoltBulletType",
+        "speed": 5,
+        "healPercent": 8,
+        "canHeal": true,
+        "width": 3,
+        "rotate": false,
+        "color": "ff1717",
+        "height": 4,
+        "damage": 0,
+        "lifetime": 200,
+        "collidesTeam": true
+      }
+    },
+    {
+      "name": "hive-repair",
+      "range": 100,
+      "x": -10,
+      "y": 10,
+      "reload": 25,
+      "targetAir": false,
+      "targetGround": true,
+      "shootCone": 360,
+      "shotSound": "flakExplosion",
+      "bullet": {
+        "type": "LaserBoltBulletType",
+        "speed": 5,
+        "healPercent": 8,
+        "canHeal": true,
+        "width": 3,
+        "color": "ff1717",
+        "rotate": false,
+        "height": 4,
+        "damage": 0,
+        "lifetime": 200,
+        "collidesTeam": true
+      }
+    }
+  ],
+    "abilities": [
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "hive-attack",
+      "spawnX": 42,
+      "spawnY": -12,
+      "spawnTime": 800
+    },
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "hive-attack",
+      "spawnX": -42,
+      "spawnY": -12,
+      "spawnTime": 800
+    },
+    {
+      "type": "ForceFieldAbility",
+      "radius": 105,
+      "regen": 29,
+      "max": 20900,
+      "cooldown": 600
+    }
+  ]
+}

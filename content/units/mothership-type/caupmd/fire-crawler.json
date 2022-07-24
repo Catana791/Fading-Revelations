@@ -1,0 +1,53 @@
+{
+  "name": "Incendiary Crawler",
+  "description": "Runs towards the enemy and detonates itself, setting it's surroundings on fire",
+  "details": "Spawned by the C.A.U.P.M.D mothership.",
+  "health": 300,
+  "flying": false,
+  "commandLimit": 4,
+  "speed": 1.5,
+  "rotateSpeed": 4,
+  "armor": 0,
+  "range": 16,
+  "hasShadow": false,
+  "type": "legs",
+  "aiController": "SuicideAI",
+  "allowLegStep": false,
+  "lowAltitude": true,
+  "hitSize": 8,
+  "itemCapacity": 0,
+  "research": {
+    "parent": "test",
+    "requirements": [
+      {
+        "item": "blast-compound",
+        "amount": 400
+      }
+    ]
+  },
+  "weapons": [
+    {
+      "name": "nothing",
+      "mirror": false,
+      "rotate": false,
+      "reload": 60,
+      "range": 16,
+      "shots": 20,
+      "inaccuracy": 360,
+      "bullet": {
+        "type": "BasicBulletType",
+        "incendAmount": 20,
+        "incendSpread": 10,
+        "incendChance": 1,
+        "killShooter": true,
+        "splashDamage": 60,
+        "splashDamageRadius": 70,
+        "instantDisappear": true,
+        "pierce": true,
+        "knockback": 0.3,
+        "status": "burning",
+        "statusDuration": 180
+      }
+    }
+  ]
+}

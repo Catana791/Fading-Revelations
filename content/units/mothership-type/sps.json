@@ -1,0 +1,302 @@
+{
+  "type": "flying",
+  "name": "Orbital Platform Strahl",
+  "description": "The orbital platform Strahl is one of the most secretive units every made, The unit is known for its destructive potential and deadly range yet it never once was mentioned in any record, while the technologies the Strahl has seemingly pioneered are being implemented by military's across the cluster few will ever know that the unit truly existed fewer still will have ever encountered it and the few that did will have not survived. May be flying but is so heavy that it can't fly over water without getting destroyed.",
+  "drag": 0.15,
+  "rotateWeapon": true,
+  "speed": 0.96,
+  "flying": true,
+  "research": {
+    "parent": "mod-gate-units",
+    "requirements": [
+      {
+        "item": "silicon",
+        "amount": 2000
+      },
+      {
+        "item": "surge-alloy",
+        "amount": 2000
+      },
+      {
+        "item": "metaglass",
+        "amount": 1500
+      },
+      {
+        "item": "thorium",
+        "amount": 1000
+      },
+      {
+        "item": "titanium",
+        "amount": 4500
+      }
+    ]
+  },
+  "maxVelocity": 1.02,
+  "mass": 10,
+  "commandLimit": 21,
+  "hitsize": 45,
+  "health": 12880,
+  "rotateWeapon": true,
+  "rotatespeed": 0.06,
+  "baseRotateSpeed": 0.06,
+  "weapons": [
+    {
+      "name": "nothing",
+      "range": 200,
+      "x": -29,
+      "targetGround": true,
+      "rotate": true,
+      "targetAir": true,
+      "y": 18,
+      "reload": 2,
+      "shootcone": 360,
+      "shootSound": "shoot",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 10,
+        "damage": 5,
+        "pierce": false
+      }
+    },
+    {
+      "name": "nothing",
+      "range": 200,
+      "x": 29,
+      "targetGround": true,
+      "rotate": true,
+      "targetAir": true,
+      "y": 18,
+      "reload": 1,
+      "shootcone": 360,
+      "shootSound": "shoot",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 10,
+        "damage": 1,
+        "pierce": false
+      }
+    },
+    {
+      "name": "sps-air-fr",
+      "range": 250,
+      "rotate": true,
+      "x": 14,
+      "y": 14,
+      "targetGround": false,
+      "targetAir": true,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 8,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "air-cannon",
+      "range": 250,
+      "targetGround": false,
+      "targetAir": true,
+      "rotate": true,
+      "x": 4,
+      "y": -10,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 8,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "sps-air-side",
+      "range": 250,
+      "rotate": true,
+      "x": 38,
+      "targetGround": false,
+      "targetAir": true,
+      "y": 0,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 8,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "air-cannon",
+      "range": 250,
+      "targetGround": false,
+      "targetAir": true,
+      "x": -4,
+      "rotate": true,
+      "y": -8,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 8,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "sps-air-bk",
+      "range": 250,
+      "x": -16,
+      "targetGround": false,
+      "rotate": true,
+      "targetAir": true,
+      "y": -6,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 8,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "sps-air-bk",
+      "range": 250,
+      "x": 16,
+      "targetGround": false,
+      "rotate": true,
+      "targetAir": true,
+      "y": -6,
+      "reload": 50,
+      "shootcone": 360,
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 8,
+        "damage": 15,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "sps-lancer-left",
+      "range": 150,
+      "x": -25,
+      "y": 7,
+      "targetGround": true,
+      "targetAir": false,
+      "rotate": true,
+      "reload": 80,
+      "shootcone": 360,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBulletType",
+        "speed": 10,
+        "length": 200,
+        "damage": 20,
+        "lifetime": 9,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "sps-lancer-right",
+      "range": 150,
+      "x": 25,
+      "y": 7,
+      "rotate": true,
+      "reload": 80,
+      "targetAir": false,
+      "targetGround": true,
+      "shootcone": 360,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBulletType",
+        "speed": 10,
+        "length": 200,
+        "lifetime": 9,
+        "damage": 20,
+        "pierce": true,
+        "status": "burning",
+        "satusDuration": 60
+      }
+    },
+    {
+      "name": "sps-rail",
+      "range": 350,
+      "x": 0,
+      "y": -4,
+      "reload": 250,
+      "targetAir": false,
+      "targetGround": true,
+      "shootCone": 360,
+      "shotSound": "flakExplosion",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 5,
+        "width": 21,
+        "rotate": false,
+        "lifetime": 120,
+        "height": 35,
+        "damage": 780,
+        "pierce": true,
+        "pierceCap": 22
+        "status": "burning",
+        "statusDuration": 240,
+        "fragBullets": 3,
+        "fragBullet": {
+          "type": "LaserBulletType",
+          "liquid": "slag",
+          "damage": 100,
+          "length": 100,
+          "pierce": true,
+          "pierceCap": 6
+          "speed": 10,
+          "lifetime": 5,
+          "status": "burning",
+          "statusDuration": 10,
+          "fragBullets": 3,
+          "fragBullet": {
+             "type": "LiquidBulletType",
+             "liquid": "slag",
+             "damage": 10,
+             "speed": 10,
+             "pierce": true,
+             "pierceCap": 2,
+             "lifetime": 20,
+             "status": "burning",
+             "statusDuration": 10
+          }
+        }
+      }
+    }
+  ],
+  "abilities": [
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "lancer-drone",
+      "spawnX": 0,
+      "spawnY": -15,
+      "spawnTime": 420
+    }
+  ]
+}

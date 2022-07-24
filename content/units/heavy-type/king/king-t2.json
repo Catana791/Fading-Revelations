@@ -1,0 +1,118 @@
+{
+  "type": "flying",
+  "name": "K.I.N.G., Tier II",
+  "description": "The upgraded version of the K.I.N.G. Same equipment but a lot stronger",
+  "flying": "true",
+  "lowAltitude": true,
+  "rotateSpeed": 0.8,
+  "accel": 1.2,
+  "commandLimit": 14,
+  "range": 216,
+  "speed": 0.6,
+  "health": 30000,
+  "weapons": [
+    {
+      "name": "king-gattling2",
+      "x": -25,
+      "y": -25,
+      "shootSound": "missile",
+      "rotate": true,
+      "reload": 20,
+      "shootCone": 30,
+      "range": 216,
+      "bullet": {
+        "type": "MissileBulletType",
+        "damage": 10,
+        "pierce": false,
+        "splashDamage": 50,
+        "splashDamageRadius": 21,
+        "lifetime": 240,
+        "homingRange": 175,
+        "homingPower": 0.1
+      }
+    },
+    {
+      "name": "king-gattling2",
+      "x": 25,
+      "shootSound": "missile",
+      "y": -25,
+      "range": 216,
+      "rotate": true,
+      "reload": 20,
+      "shootCone": 30,
+      "bullet": {
+        "type": "MissileBulletType",
+        "damage": 10,
+        "splashDamage": 50,
+        "splashDamageRadius": 21,
+        "pierce": false,
+        "lifetime": 240,
+        "status": "burning",
+        "homingRange": 175,
+        "homingPower": 0.1
+      }
+    },
+    {
+      "name": "king-heal",
+      "x": 0,
+      "y": 10,
+      "range": 264,
+      "shootSound": "missile",
+      "rotate": true,
+      "reload": 20,
+      "shootCone": 30,
+      "bullet": {
+        "type": "LaserBoltBulletType",
+        "collidesTeam": true,
+        "damage": 2,
+        "lifetime": 290,
+        "healPercent": 15
+      }
+    },
+    {
+      "name": "king-gattling2",
+      "x": 25,
+      "shootSound": "missile",
+      "y": -25,
+      "range": 216,
+      "rotate": true,
+      "reload": 20,
+      "shootCone": 30,
+      "bullet": {
+        "type": "MissileBulletType",
+        "damage": 10,
+        "splashDamage": 50,
+        "splashDamageRadius": 21,
+        "pierce": false,
+        "lifetime": 240,
+        "status": "burning",
+        "homingRange": 175,
+        "homingPower": 0.1
+      }
+    },
+    {
+      "name": "king-gattling2",
+      "x": 25,
+      "shootSound": "missile",
+      "y": -25,
+      "range": 216,
+      "rotate": true,
+      "reload": 20,
+      "shootCone": 30,
+      "bullet": {
+        "type": "MissileBulletType",
+        "damage": 10,
+        "splashDamage": 50,
+        "splashDamageRadius": 21,
+        "pierce": false,
+        "lifetime": 240,
+        "status": "burning",
+        "homingRange": 175,
+        "homingPower": 0.1
+      }
+    }
+  ],
+  "category": "units",
+  "research": "king",
+  "shootSound": "missile"
+}

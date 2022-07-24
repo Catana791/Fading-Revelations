@@ -1,0 +1,237 @@
+{
+  "name": "C.A.U.P.M.D",
+  "type": "flying",
+  "description": "The Corrupted Attack Unit Programmed To Mass Destruction (short C.A.U.P.M.D) was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
+  "speed": 1.2,
+  "research": {
+    "parent": "sps",
+    "requirements": [
+      {
+        "item": "silicon",
+        "amount": 2100
+      },
+      {
+        "item": "plastanium",
+        "amount": 1300
+      },
+      {
+        "item": "surge-alloy",
+        "amount": 850
+      },
+      {
+        "item": "phase-fabric",
+        "amount": 400
+      },
+      {
+        "item": "titanium",
+        "amount": 2000
+      }
+    ]
+  },
+  "maxVelocity": 1.05,
+  "mass": 20,
+  "commandLimit": 10,
+  "flying": true,
+  "faceEnemy": true,
+  "hitSize": 75,
+  "health": 12000,
+  "armor": 10,
+  "baseRotateSpeed": 3,
+  "rotateWeapon": true,
+  "rotateSpeed": 6,
+  "weapons": [
+{ 
+"name": "nothing", 
+"shootSound": "explosion", 
+"range": 100, 
+"rotate": true, 
+"mirror": false, 
+"x": 0, 
+"y": 20, 
+"reload": 6, 
+"bullet": { 
+"type": "MissileBulletType", 
+"width": 5, 
+"height": 10,
+"speed": 10, 
+"damage": 30, 
+"lifetime": 50, 
+"pierce": true, 
+"pierceCap": 10, 
+"splashDamageRadius": 12, 
+"splashDamage": 15, 
+"trailColor": "665c9f", 
+"frontColor": "ce67e7", 
+"backColor": "c58be1" 
+}
+},
+    {
+      "name": "corruption-shooter",
+      "shootSound": "wave",
+      "reload": 300,
+      "alternate": false,
+      "rotate": true,
+      "rotateSpeed": 10,
+      "mirror": true,
+      "x": -20,
+      "y": -10,
+      "range": 400,
+      "bullet": {
+        "type": "BasicBulletType",
+        "width": 3,
+        "height": 3,
+        "lifetime": 5,
+        "collides": true,
+        "collidesAir": false,
+        "collidesGround": true,
+        "collidesTeam": false,
+        "speed": 50,
+        "length": 3,
+        "fragBullets": 1,
+        "fragBullet": {
+          "type": "BasicBulletType",
+          "speed": 0,
+          "damage": 70,
+          "lifetime": 50,
+          "height": 50,
+          "hitSize": 50,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
+          "width": 50,
+     
+          "splashDamage": 50,
+          "splashDamageRadius": 8,
+          "targetAir": true,
+          "targetGround": true,
+          "collides": true,
+          "collidesGround": true,
+          "fragBullets": 1,
+          "fragBullet": {
+            "type": "BasicBulletType",
+            "speed": 0,
+            "damage": 70,
+            "lifetime": 40,
+            "splashDamageRadius": 16,
+            "splashDamage": 50,
+            "hitSize": 60,
+            "height": 60,
+            "width": 60,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
+
+            "targetAir": true,
+            "targetGround": true,
+            "collides": true,
+            "fragBullets": 1,
+              "fragBullet": {
+                "type": "BasicBulletType",
+                "speed": 0,
+                "damage": 70,
+                "lifetime": 30,
+                "splashDamage": 50,
+                "hitSize": 70,
+                "collides": true,
+                "height": 70,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
+                "width": 70,
+               "splashDamageRadius": 24,
+                "targetAir": true,
+                "targetGround": true,
+                
+                "fragBullets": 1,
+            }
+        "fragBullet": {
+                "type": "BasicBulletType",
+                "speed": 0,
+                "damage": 70,
+                "lifetime": 20,
+            "splashDamage": 50,
+            "hitSize": 80,
+                "collides": true,
+                "height": 80,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
+                "width": 80,
+               "splashDamageRadius": 32,
+                "targetAir": true,
+                "targetGround": true,
+                
+                "fragBullets": 1,
+        "fragBullet": {
+                "type": "BasicBulletType",
+                "speed": 0,
+            "hitSize": 90,
+                "damage": 70,
+                "lifetime": 10,
+                "collides": true,
+            "splashDamage": 50,
+                "height": 90,
+            "splashDamageRadius": 40,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
+                "width": 90,
+               
+                "targetAir": true,
+                "targetGround": true,
+                
+                "fragBullets": 1,
+        "fragBullet": {
+                "type": "BasicBulletType",
+                "speed": 0,
+                "damage": 70,
+                "lifetime": 5,
+                "splashDamage": 50,
+                "height": 100,
+            "splashDamageRadius": 48,
+            "hitSize": 100,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
+                "width": 100,
+               
+                "targetAir": true,
+                "targetGround": true,
+                "collides": true,
+                "fragBullets": 1,
+        "fragBullet": {
+                "type": "BombBulletType",
+                "speed": 0,
+                "damage": 100,
+                "lifetime": 80,
+                "splashDamage": 50,
+                "height": 200,
+          "frontColor": "665c9f",
+          "backColor": "bf92f9",
+                "width": 200,
+            "splashDamageRadius": 90,
+                "hitSize": 200,
+                "targetAir": true,
+                "targetGround": true,
+                "collides": true,
+            }
+            }
+            
+            }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "abilities": [
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "cryo-crawler",
+      "spawnX": -20,
+      "spawnY": -20,
+      "spawnTime": 200
+    },
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "fire-crawler",
+      "spawnX": 20,
+      "spawnY": -20,
+      "spawnTime": 200
+    }
+  ]
+}
