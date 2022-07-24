@@ -1,0 +1,36 @@
+{
+  "name": "Outpost",
+  "description": "An outpost that can be built anywhere on the map and transfers all items that are inputted directly to the main core.",
+  "health": 1200,
+  "size": 3,
+  "buildLimit": 1,
+  "solid": true,
+  "buildLimit": 1,
+  "update": true,
+  "itemCapacity": 5,
+  "hasItems": true,
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 3000
+    },
+    {
+      "item": "lead",
+      "amount": 2500
+    },
+    {
+      "item": "titanium",
+      "amount": 2000
+    },
+    {
+        "item": "living-steel-hard",
+        "amount": 1000
+    },
+      {
+          "item": "gold",
+          "amount": 600
+      }
+  ],
+  "category": "effect",
+  "research": "mod-gate-effect"
+}

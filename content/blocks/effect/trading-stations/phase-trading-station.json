@@ -1,0 +1,40 @@
+{
+  "type": "GenericCrafter",
+  "name": "Phase Fabric Trading Station",
+  "description": "Exchange Station that exchanges 1 gold for 3 phase fabric.",
+  "size": 2,
+  "hasItems": true,
+  "craftTime": 30,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "gold",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 150
+    },
+    {
+      "item": "lead",
+      "amount": 40
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 20
+    }
+  ],
+  "category": "effect",
+  "research": "plastanium-trading-station",
+  "outputItem": {
+    "item": "phase-fabric",
+    "amount": 3
+  }
+}
