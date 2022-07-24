@@ -1,0 +1,58 @@
+{
+    "type": "Reconstructor",
+    "name": "Heavy Upgrader",
+    "description": "Upgrades heavy units from the Fading Revelations mod.",
+    "health": 2000,
+    "size": 5,
+    "constructTime": 36000,
+    "upgrades": [
+        ["king", "king-t2"]
+    ],
+    "consumes": {
+        "power": 28,
+        "items": {
+            "items": [
+                {
+                    "item": "silicon",
+                    "amount": 2000
+                },
+		{
+                  	"item": "living-steel-hard",
+                  	"amount": 600
+                },
+                {
+                    "item": "plastanium",
+                    "amount": 1200
+		},
+                {
+                    "item": "phase-fabric",
+                    "amount": 700
+		},
+		{
+			"item": "surge-alloy",
+			"amount": 1000
+		}
+            ]
+        }
+    },
+    "requirements": [
+        {
+            "item": "copper",
+            "amount": 3450
+		}
+        {
+            "item": "lead",
+            "amount": 3000
+        },
+        {
+            "item": "titanium",
+            "amount": 2000
+        },
+        {
+            "item": "thorium",
+            "amount": 1000
+		}
+    ],
+    "category": "units",
+    "research": "interceptor-upgrader"
+ }

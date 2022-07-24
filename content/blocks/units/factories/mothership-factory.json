@@ -1,0 +1,113 @@
+{
+  "type": "unitFactory",
+  "name": "[red]Mothership factory",
+  "description": "Creates slow and extremely powerful superclass units from the mod.",
+  "size": 7,
+  "consumes": {
+    "power": 20,
+  },
+  "plans": [
+    {
+      "unit": "hive",
+      "requirements": [
+        {
+          "item": "pyratite",
+          "amount": 750
+        },
+        {
+          "item": "silicon",
+          "amount": 2200
+        },
+        {
+          "item": "titanium",
+          "amount": 5000
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 1450
+        },
+        {
+          "item": "gold",
+          "amount": 1500
+        }
+      ],
+      "time": 60000
+    },
+    {
+      "unit": "sps",
+      "requirements": [
+        {
+          "item": "metaglass",
+          "amount": 1500
+        },
+        {
+          "item": "silicon",
+          "amount": 2000
+        },
+        {
+          "item": "titanium",
+          "amount": 4500
+        },
+        {
+          "item": "thorium",
+          "amount": 1000
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 2000
+        }
+      ],
+      "time": 60000
+    },
+    {
+      "unit": "test",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 2100
+        },
+        {
+          "item": "titanium",
+          "amount": 2000
+        },
+        {
+          "item": "plastanium",
+          "amount": 1300
+        },
+        {
+          "item": "phase-fabric",
+          "amount": 400
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 850
+        }
+      ],
+      "time": 60000
+    }
+  ],
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 5500
+    },
+    {
+      "item": "silicon",
+      "amount": 2000
+    },
+    {
+      "item": "plastanium",
+      "amount": 2200
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 800
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 1000
+    }
+  ],
+  "category": "units",
+  "research": "heavy-factory"
+}

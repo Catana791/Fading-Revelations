@@ -1,0 +1,101 @@
+{
+  "type": "unitFactory",
+  "name": "Heavy factory",
+  "description": "Creates slow and durable units from the mod.",
+  "size": 5,
+  "consumes": {
+    "power": 8
+  },
+  "plans": [
+    {
+      "unit": "king",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 550
+        },
+        {
+          "item": "plastanium",
+          "amount": 350
+        },
+        {
+          "item": "phase-fabric",
+          "amount": 200
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 180
+        }
+      ],
+      "time": 36000
+    },
+    {
+      "unit": "tentacle",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 500
+        },
+        {
+          "item": "plastanium",
+          "amount": 300
+        },
+        {
+          "item": "phase-fabric",
+          "amount": 150
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 150
+        }
+      ],
+      "time": 36000
+    },
+    {
+      "unit": "carrier-flagship",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 200
+        },
+        {
+          "item": "plastanium",
+          "amount": 150
+        },
+        {
+          "item": "phase-fabric",
+          "amount": 150
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 100
+        }
+      ],
+      "time": 12000
+    }
+  ],
+  "requirements": [
+    {
+      "item": "silicon",
+      "amount": 2000
+    },
+    {
+      "item": "titanium",
+      "amount": 2500
+    },
+    {
+      "item": "lead",
+      "amount": 4000
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 1000
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 750
+    }
+  ],
+  "category": "units",
+  "research": "interceptor-factory"
+}

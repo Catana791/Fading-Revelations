@@ -1,0 +1,45 @@
+{
+  "type": "unitFactory",
+  "name": "Interceptor factory",
+  "description": "Creates fast and cheap units from the mod.",
+  "size": 3,
+  "consumes": {
+    "power": 1.2
+  },
+  "plans": [
+    {
+      "unit": "lancer-drone",
+      "requirements": [
+        {
+          "item": "lead",
+          "amount": 30
+        },
+        {
+          "item": "graphite",
+          "amount": 20
+        },
+        {
+          "item": "silicon",
+          "amount": 20
+        }
+      ],
+      "time": 1000
+    }
+  ],
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 200
+    },
+    {
+      "item": "graphite",
+      "amount": 70
+    },
+    {
+      "item": "silicon",
+      "amount": 75
+    }
+  ],
+  "category": "units",
+  "research": "mod-gate-factories"
+}
