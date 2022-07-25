@@ -9,7 +9,8 @@
   "commandLimit": 14,
   "range": 216,
   "speed": 0.6,
-  "health": 30000,
+  "health": 25000,
+  "armor": 15
   "weapons": [
     {
       "name": "king-gattling2",
