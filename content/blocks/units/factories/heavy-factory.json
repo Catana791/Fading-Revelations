@@ -76,16 +76,16 @@
   ],
   "requirements": [
     {
+      "item": "lead",
+      "amount": 4000
+    },
+    {
       "item": "silicon",
       "amount": 2000
     },
     {
       "item": "titanium",
       "amount": 2500
-    },
-    {
-      "item": "lead",
-      "amount": 4000
     },
     {
       "item": "phase-fabric",
