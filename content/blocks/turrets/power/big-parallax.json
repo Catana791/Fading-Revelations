@@ -24,16 +24,16 @@
   "liquidBoostIntensity": 1.8,
   "requirements": [
     {
-      "item": "titanium",
-      "amount": 270
-    },
-    {
       "item": "graphite",
       "amount": 90
     },
     {
       "item": "silicon",
       "amount": 210
+    },
+    {
+      "item": "titanium",
+      "amount": 270
     }
   ],
   "category": "turret",
