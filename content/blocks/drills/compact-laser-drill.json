@@ -26,12 +26,12 @@
       "amount": 20
     },
     {
-      "item": "titanium",
-      "amount": 10
-    },
-    {
       "item": "silicon",
       "amount": 20
+    },
+    {
+      "item": "titanium",
+      "amount": 10
     }
   ],
   "category": "production",
