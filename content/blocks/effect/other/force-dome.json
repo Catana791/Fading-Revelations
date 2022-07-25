@@ -14,10 +14,10 @@
     "category": "effect",
     "requirements": [
         {"item": "lead", "amount": 300},
-        {"item": "titanium", "amount": 150},
         {"item": "silicon", "amount": 265},
-	    {"item": "thorium", "amount": 200},
-	    {"item": "plastanium", "amount": 100}
+        {"item": "titanium", "amount": 150},
+	      {"item": "thorium", "amount": 200},
+	      {"item": "plastanium", "amount": 100}
     ],
     "consumes": {
 		"power": 5,
