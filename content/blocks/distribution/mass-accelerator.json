@@ -14,14 +14,14 @@
     {
       "item": "lead",
       "amount": 200
+    },  
+    {
+      "item": "silicon",
+      "amount": 110
     },
     {
       "item": "titanium",
       "amount": 200
-    },
-    {
-      "item": "silicon",
-      "amount": 110
     },
     {
       "item": "phase-fabric",
