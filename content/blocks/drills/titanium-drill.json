@@ -15,16 +15,16 @@
   },
   "requirements": [
     {
-      "item": "titanium",
-      "amount": 20
-    },
-    {
       "item": "graphite",
       "amount": 10
     }
     {
       "item": "silicon",
       "amount": 10
+    },
+    {
+      "item": "titanium",
+      "amount": 20
     }
   ],
   "category": "production",
