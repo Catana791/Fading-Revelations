@@ -35,7 +35,7 @@
   "faceEnemy": true,
   "hitSize": 75,
   "health": 12000,
-  "armor": 10,
+  "armor": 26,
   "baseRotateSpeed": 3,
   "rotateWeapon": true,
   "rotateSpeed": 6,
