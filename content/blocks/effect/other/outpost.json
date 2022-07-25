@@ -26,10 +26,10 @@
         "item": "living-steel-hard",
         "amount": 1000
     },
-      {
-          "item": "gold",
-          "amount": 600
-      }
+    {
+        "item": "gold",
+        "amount": 600
+    }
   ],
   "category": "effect",
   "research": "mod-gate-effect"
