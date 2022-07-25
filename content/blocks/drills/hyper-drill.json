@@ -23,11 +23,11 @@
 }
  }, 
 "requirements": [
- { "item": "copper", "amount": 130 },
- { "item": "titanium", "amount": 100 },
- { "item": "silicon", "amount": 120 }, 
-{ "item": "living-steel", "amount": 85 },
- { "item": "thorium", "amount": 150 }
+  { "item": "copper", "amount": 130 },
+  { "item": "silicon", "amount": 120 }, 
+  { "item": "titanium", "amount": 100 },
+  { "item": "living-steel", "amount": 85 },
+  { "item": "thorium", "amount": 150 }
 ],
 "category": "production",
   "research": "compact-laser-drill"
