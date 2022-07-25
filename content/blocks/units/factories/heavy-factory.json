@@ -8,13 +8,6 @@
     "liquid": {
       "liquid": "cryofluid",
       "amount": 75
-    },
-    "items": {
-      "items": [
-        {
-         
-        }
-      ]
     }
   },
   "plans": [
