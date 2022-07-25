@@ -22,13 +22,13 @@
           "amount": 6
         },
         {
-          "item": "titanium",
-          "amount": 5
-        },
-        {
           "item": "silicon",
           "amount": 4
-        }
+        },
+        {
+          "item": "titanium",
+          "amount": 5
+        } 
       ]
     }
   },
@@ -38,12 +38,12 @@
       "amount": 160
     },
     {
-      "item": "thorium",
-      "amount": 140
-    },
-    {
       "item": "silicon",
       "amount": 160
+    },
+    {
+      "item": "thorium",
+      "amount": 140
     },
     {
       "item": "surge-alloy",
