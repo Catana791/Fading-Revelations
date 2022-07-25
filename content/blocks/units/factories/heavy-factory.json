@@ -3,6 +3,7 @@
   "name": "Heavy factory",
   "description": "Creates slow and durable units from the mod.",
   "size": 5,
+  "liquidCapacity": 300,
   "consumes": {
     "power": 15,
     "liquid": {
