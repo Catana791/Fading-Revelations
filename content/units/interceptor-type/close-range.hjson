@@ -12,6 +12,7 @@ health: 85
 aimDst: 15
 drag: 0.055
 accel: 0.075
+armor: 2
 faceTarget: true
 rotateShooting: true
 circleTarget: true
