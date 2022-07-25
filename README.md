@@ -94,22 +94,22 @@ extends **[Mindustry]** in fun ways while keeping it balanced.*
 
 [Badge License]: https://img.shields.io/badge/License-GPL_3-0369a3.svg?style=for-the-badge&labelColor=blue&logoColor=white&logo=GNU
 [Badge Discord]: https://img.shields.io/discord/815981543624933396?labelColor=5865F2&label=Discord&logoColor=white&logo=Discord&style=for-the-badge&color=4852bf
-[Badge Commit]: https://img.shields.io/github/last-commit/Fresh791/mindustry-extended?labelColor=F64935&label=Commit&logoColor=white&logo=GitExtensions&style=for-the-badge&color=cb3c2c
-[Badge Issues]: https://img.shields.io/github/issues/Fresh791/mindustry-extended?labelColor=ED1965&label=Issues&logoColor=white&logo=Pinboard&style=for-the-badge&color=bb124e
+[Badge Commit]: https://img.shields.io/github/last-commit/Fresh791/Fading-Revelations?labelColor=F64935&label=Commit&logoColor=white&logo=GitExtensions&style=for-the-badge&color=cb3c2c
+[Badge Issues]: https://img.shields.io/github/issues/Fresh791/Fading-Revelations?labelColor=ED1965&label=Issues&logoColor=white&logo=Pinboard&style=for-the-badge&color=bb124e
 
-[Item Unit Blocks]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/units?label=Unit%20Blocks&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Production]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/production?label=Production&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Conveyors]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/distribution?label=Conveyors&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Effects]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/effect?label=Effects&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Liquids]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/liquids?label=Liquids&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Turrets]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/turrets?label=Turrets&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Liquids]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/liquids?label=Liquids&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Drills]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/drills?label=Drills&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Walls]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/walls?label=Walls&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Items]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/items?label=Items&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Power]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/blocks/power?label=Power&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Units]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/units?label=Units&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Zones]: https://img.shields.io/github/directory-file-count/Fresh791/mindustry-extended/content/zones?label=Zones&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Unit Blocks]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/blocks/units?label=Unit%20Blocks&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Production]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/blocks/production?label=Production&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Conveyors]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/blocks/distribution?label=Conveyors&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Effects]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/blocks/effect?label=Effects&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Liquids]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/blocks/liquids?label=Liquids&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Turrets]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/blocks/turrets/item?label=Turrets&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Liquids]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/liquids?label=Liquids&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Drills]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/blocks/drills?label=Drills&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Walls]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/blocks/walls?label=Walls&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Items]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/items?label=Items&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Power]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/blocks/power?label=Power&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Units]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/units?label=Units&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Zones]: https://img.shields.io/github/directory-file-count/Fresh791/Fading-Revelations/content/zones?label=Zones&style=flat-square&labelColor=ffd37f&color=d3816b
 
 
 <!---------------------------------[ Buttons ]--------------------------------->
