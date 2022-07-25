@@ -15,7 +15,7 @@
 
 <br>
 
-![Item Unit Blocks Factories]  
+![Item Unit Blocks]  
 ![Item Production]  
 ![Item Conveyors]  
 ![Item Effects]  
