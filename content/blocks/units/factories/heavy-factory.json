@@ -7,7 +7,7 @@
     "power": 8,
     "liquid": {
       "liquid": "cryofluid",
-      "amount": 75
+      "amount": 1.2
     }
   },
   "plans": [
