@@ -4,7 +4,18 @@
   "description": "Creates slow and durable units from the mod.",
   "size": 5,
   "consumes": {
-    "power": 8
+    "power": 8,
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": 75
+    },
+    "items": {
+      "items": [
+        {
+         
+        }
+      ]
+    }
   },
   "plans": [
     {
