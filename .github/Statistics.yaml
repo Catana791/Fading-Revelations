@@ -1,5 +1,5 @@
-units-blocks: 5
 distribution: 4
+unit_blocks: 5
 production: 22
 liquids: 1
 turrets: 23
