@@ -27,16 +27,16 @@
       "amount": 200
     },
     {
-      "item": "titanium",
-      "amount": 200
-    },
-    {
       "item": "graphite",
       "amount": 75
     },
     {
       "item": "silicon",
       "amount": 75
+    },
+    {
+      "item": "titanium",
+      "amount": 200
     }
   ],
   "category": "crafting",
