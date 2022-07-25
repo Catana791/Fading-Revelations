@@ -2,7 +2,6 @@
   "type": "CoreBlock",
   "name": "Core: Atom",
   "description": "Core of the base. Very well armored and stores a good amount of resources.",
-  "details": "Is protected by the builder drone.",
   "size": 6,
   "researchCostMultiplier": 0.5,
   "health": 8000,
