@@ -10,6 +10,10 @@
     ],
     "consumes": {
         "power": 28,
+      "liquid": {
+        "liquid": "cryofluid",
+        "amount": 
+      },
         "items": {
             "items": [
                 {
