@@ -5,11 +5,11 @@
   "health": 250,
   "requirements": [
     {
-      "item": "lead",
+      "item": "copper",
       "amount": 4
     },
     {
-      "item": "copper",
+      "item": "lead",
       "amount": 4
     },
     {
