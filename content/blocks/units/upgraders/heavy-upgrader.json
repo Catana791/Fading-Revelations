@@ -4,7 +4,7 @@
     "description": "Upgrades heavy units from the Fading Revelations mod.",
     "health": 2000,
     "size": 5,
-    "constructTime": 36000,
+    "constructTime": 20000,
     "upgrades": [
         ["king", "king-t2"]
     ],
