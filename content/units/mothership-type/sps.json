@@ -36,6 +36,7 @@
   "commandLimit": 21,
   "hitsize": 45,
   "health": 12880,
+  "armor": 24,
   "rotateWeapon": true,
   "rotatespeed": 0.06,
   "baseRotateSpeed": 0.06,
