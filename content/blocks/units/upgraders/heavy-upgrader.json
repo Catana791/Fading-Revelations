@@ -9,10 +9,10 @@
         ["king", "king-t2"]
     ],
     "consumes": {
-        "power": 28,
+        "power": 22,
       "liquid": {
         "liquid": "cryofluid",
-        "amount": 
+        "amount": 1.5
       },
         "items": {
             "items": [
