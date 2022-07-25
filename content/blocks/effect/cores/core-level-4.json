@@ -17,23 +17,23 @@
       "amount": 10000
     },
     {
-      "item": "titanium",
-      "amount": 8000
-    },
-    {
       "item": "silicon",
       "amount": 6000
+    },
+    {
+      "item": "titanium",
+      "amount": 8000
     },
     {
       "item": "thorium",
       "amount": 10000
     },
     {
-      "item": "phase-fabric",
+      "item": "plastanium",
       "amount": 1000
     },
     {
-      "item": "plastanium",
+      "item": "phase-fabric",
       "amount": 1000
     }
   ],
