@@ -31,11 +31,11 @@
       "amount": 300
     },
     {
-      "item": "titanium",
+      "item": "graphite",
       "amount": 275
     },
     {
-      "item": "graphite",
+      "item": "titanium",
       "amount": 275
     },
     {
@@ -53,14 +53,6 @@
   ],
   "results": [
     {
-      "item": "thorium",
-      "amount": 4
-    },
-    {
-      "item": "titanium",
-      "amount": 6
-    },
-    {
       "item": "copper",
       "amount": 10
     },
@@ -69,20 +61,16 @@
       "amount": 10
     },
     {
-      "item": "coal",
-      "amount": 10
-    },
-    {
-      "item": "scrap",
-      "amount": 10
-    },
-    {
       "item": "graphite",
       "amount": 6
     },
     {
-      "item": "sand",
-      "amount": 8
+      "item": "titanium",
+      "amount": 6
+    },
+    {
+      "item": "thorium",
+      "amount": 4
     }
   ],
   "category": "crafting",
