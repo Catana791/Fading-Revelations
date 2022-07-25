@@ -8,6 +8,7 @@
   "research": "mod-gate-units",
   "flying": true,
   "health": 200,
+  "armor": 1,
   "commandLimit": 6,
   "engineOffset": 5.5,
   "range": 26,
