@@ -10,6 +10,7 @@
   "commandLimit": 10,
   "hitsize": 45,
   "health": 10000,
+  "armor": 6,
   "flying": true,
   "rotateWeapon": false,
   "engineOffset": 26,
