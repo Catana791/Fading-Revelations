@@ -6,8 +6,8 @@ import { join } from 'Path'
 
 const tracked = {
     
-    'units-blocks' : 'blocks/units' ,
     distribution : 'blocks/distribution' ,
+    unit_blocks : 'blocks/units' ,
     production : 'blocks/production' ,
     liquids : 'blocks/liquids' ,
     turrets : 'blocks/turrets' ,
