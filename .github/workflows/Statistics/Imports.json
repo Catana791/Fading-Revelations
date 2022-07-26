@@ -1,0 +1,9 @@
+{
+    "imports" : {
+        
+        "FileSystem" : "https://deno.land/std@0.149.0/fs/mod.ts" ,
+        "MapValues" : "https://deno.land/std@0.149.0/collections/map_values.ts" ,
+        "YAML" : "https://deno.land/std@0.149.0/encoding/yaml.ts" ,
+        "Path" : "https://deno.land/std@0.149.0/path/mod.ts"
+    }
+}
