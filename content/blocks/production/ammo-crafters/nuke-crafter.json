@@ -6,6 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
+  "itemCapacity": 60,
   "craftTime": 600,
   "consumes": {
     "power": 6,
@@ -43,7 +44,7 @@
   "category": "crafting",
   "research": "mod-gate-crafters",
   "outputItem": {
-    "item": "ammo-level-1",
+    "item": "nuke",
     "amount": 2
   }
 }
