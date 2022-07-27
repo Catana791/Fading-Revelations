@@ -36,7 +36,7 @@
       "type": "WaveEffect",
       "sizeFrom": 0,
       "sizeTo": 240,
-      "lifetime": 180,
+      "lifetime": 240,
       "colorFrom": "edf3a9",
       "colorTo": "9cb664"
     },
