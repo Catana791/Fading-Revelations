@@ -43,7 +43,7 @@
     {
     "type": "ParticleEffect",
     "baseLength": 120,
-    "lifetime": 2400,
+    "lifetime": 120,
     "colorFrom": "edf3a9",
     "colorTo": "fefefe",
     "interp": "circleOut",
