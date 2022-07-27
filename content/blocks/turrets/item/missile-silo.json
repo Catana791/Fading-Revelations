@@ -47,7 +47,7 @@
     "lifetime": 180,
     "colorFrom": "edf3a9",
     "colorTo": "fefefe",
-    "interp": "ElasticIn",
+    "interp": "elasticOut",
     "cone": 360,
     "particles": 32,
     "sizeFrom": 10,
