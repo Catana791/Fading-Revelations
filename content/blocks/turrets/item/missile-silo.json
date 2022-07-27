@@ -31,8 +31,8 @@
       "backColor": "000000"
       "trailEffect": {
     "type": "ParticleEffect",
-      "particles": 5,
-      "length": 3,
+      "particles": 25,
+      "length": 100,
        "lifetime": 30,
       "interp": "circleOut",
       "cone": 3,
