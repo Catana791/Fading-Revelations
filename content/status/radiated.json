@@ -1,0 +1,11 @@
+{
+  "damage": 1,
+  "effectChance": 0.3,
+  "effect": {
+    "type": "WaveEffect",
+    "sizeFrom": 2,
+    "sizeTo": 0,
+    "colorTo": "fb9b11",
+    "colorFrom": "f1d455"
+  }
+}
