@@ -1,0 +1,22 @@
+{
+  "name": "Nuke",
+  "description": "A nuclear warhead made using graphite and uraniumrods.",
+  "color": "22b400",
+  "hardness": 5,
+  "flammability": 1,
+  "explosiveness": 4,
+  "radioactivity": 4,
+  "research": {
+    "parent": "mod-gate-resources",
+    "requirements": [
+      {
+        "item": "uraniumnrod",
+        "amount": 100
+      },
+      {
+        "item": "graphite",
+        "amount": 300
+      }
+    ]
+  }
+}
