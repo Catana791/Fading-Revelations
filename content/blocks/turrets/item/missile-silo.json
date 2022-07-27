@@ -66,7 +66,18 @@
     "sizeFrom": 12,
     "sizeTo": 0,
     "spin": 0.2,
-  }
+  },
+          {
+            "type": "ParticleEffect",
+            "interp": "exp10Out",
+            "lifetime": 480,
+            "colorFrom": "d3ae8d",
+            "colorTo": "f7cba4",
+            "cone": 360,
+            "particles": 32,
+            "randLength": true,
+            "spin": 0.8
+          }
       ]
       }
     }
