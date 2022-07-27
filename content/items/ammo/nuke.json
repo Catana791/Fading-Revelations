@@ -7,14 +7,14 @@
   "explosiveness": 4,
   "radioactivity": 4,
   "research": {
-    "parent": "mod-gate-resources",
+    "parent": "uraniumrod",
     "requirements": [
       {
         "item": "graphite",
         "amount": 300
       },
       {
-        "item": "uraniumnrod",
+        "item": "uraniumrod",
         "amount": 100
       }
     ]
