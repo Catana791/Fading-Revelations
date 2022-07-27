@@ -53,7 +53,8 @@
       "sizeTo": 250,
       "lifetime": 120,
       "colorFrom": "edf3a9",
-      "colorTo": "9cb664"
+      "colorTo": "9cb664",
+        "startDelay": 20
     },
     {
     "type": "ParticleEffect",
@@ -70,7 +71,7 @@
   },
           {
             "type": "ParticleEffect",
-            "interp": "elasticOut",
+            "interp": "smooth",
             "lifetime": 480,
             "colorFrom": "d3ae8d",
             "colorTo": "f7cba4",
