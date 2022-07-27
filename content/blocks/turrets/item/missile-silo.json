@@ -33,6 +33,7 @@
     "type": "ParticleEffect",
       "particles": 25,
       "length": 30,
+      "offset": 20,
        "lifetime": 30,
       "useRotation": true,
       "interp": "circleOut",
