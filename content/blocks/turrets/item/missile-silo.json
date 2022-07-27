@@ -40,8 +40,7 @@
       "colorTo": "db401c",
       "sizeFrom": 3,
       "sizeTo": 0.6 
-  }
-    },
+  },
       "hitEffect": {
         "type": "MultiEffect",
         "effects": [
