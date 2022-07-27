@@ -26,8 +26,6 @@
       "splashDamageRadius": 240,
       "splashDamage": 20000,
       "ammoMultiplier": 1,
-      "homingRange": 0,
-      "homingPower": 0
       "sprite": "me-nuke-bullet"
       "frontColor": "9cb664",
       "backColor": "000000"
