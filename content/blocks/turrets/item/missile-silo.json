@@ -19,7 +19,7 @@
       "speed": 3,
       "splashDamageRadius": 240,
       "splashDamage": 20000,
-      "status": "me-radiated",
+      "status": "radiated",
       "statusDuration": 9999999999999999999
     }
   },
