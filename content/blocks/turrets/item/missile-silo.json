@@ -34,7 +34,7 @@
       "particles": 25,
       "length": 30,
       "offset": 20,
-       "lifetime": 30,
+       "lifetime": 50,
       "useRotation": true,
       "interp": "circleOut",
       "cone": 360,
