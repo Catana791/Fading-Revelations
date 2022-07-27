@@ -29,6 +29,8 @@
       "homingRange": 0,
       "homingPower": 0
       "sprite": "me-nuke-bullet"
+      "frontColor": "9cb664",
+      "backColor": "000000"
     }
   },
   "requirements": [
