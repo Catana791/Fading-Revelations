@@ -17,6 +17,7 @@
   "shootSound": "explosion",
   "ammoTypes": {
     "nuke": {
+      "type": "MissileBulletType",
       "speed": 3,
       "lifetime": 9999999,
       "widht": 30,
