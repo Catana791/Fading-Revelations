@@ -1,0 +1,49 @@
+{
+  "type": "GenericCrafter",
+  "name": "Level 1 Ammocrafter",
+  "description": "Crafts copper ammo out of copper and coal.",
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 600,
+  "consumes": {
+    "power": 6,
+    "items": {
+      "items": [
+        {
+          "item": "uraniumrod",
+          "amount": 5
+        },
+        {
+          "item": "graphite",
+          "amount": 20
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 1500
+    },
+    {
+      "item": "lead",
+      "amount": 1200
+    },
+    { 
+      "item": "graphite",
+      "amount": 1000
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 600
+    }
+  ],
+  "category": "crafting",
+  "research": "mod-gate-crafters",
+  "outputItem": {
+    "item": "ammo-level-1",
+    "amount": 2
+  }
+}
