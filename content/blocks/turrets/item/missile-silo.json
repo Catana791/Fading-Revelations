@@ -32,10 +32,11 @@
       "trailEffect": {
     "type": "ParticleEffect",
       "particles": 25,
-      "length": 100,
+      "length": 30,
        "lifetime": 30,
+      "useRotation": true,
       "interp": "circleOut",
-      "cone": 3,
+      "cone": 360,
       "colorFrom": "ffdd55",
       "colorTo": "db401c",
       "sizeFrom": 3,
