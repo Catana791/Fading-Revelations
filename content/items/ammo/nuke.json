@@ -10,12 +10,12 @@
     "parent": "mod-gate-resources",
     "requirements": [
       {
-        "item": "uraniumnrod",
-        "amount": 100
-      },
-      {
         "item": "graphite",
         "amount": 300
+      },
+      {
+        "item": "uraniumnrod",
+        "amount": 100
       }
     ]
   }
