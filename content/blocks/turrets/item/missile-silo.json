@@ -19,12 +19,12 @@
     "nuke": {
       "type": "MissileBulletType",
       "speed": 3,
-      "lifetime": 9999999,
+      "lifetime": 999999999,
       "widht": 100,
       "height": 90,
       "damage": 0,
       "splashDamageRadius": 240,
-      "splashDamage": 20000,
+      "splashDamage": 24000,
       "ammoMultiplier": 1,
       "sprite": "me-nuke-bullet"
       "frontColor": "9cb664",
