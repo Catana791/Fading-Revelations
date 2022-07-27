@@ -7,6 +7,7 @@
   "reloadTime": 7200,
   "targetAir": false,
   "targetGround": true,
+  "size": 3,
   "rotateSpeed": 0,
   "shootCone": 360,
   "rotate": false,
