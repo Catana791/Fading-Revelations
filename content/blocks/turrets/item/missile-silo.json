@@ -78,7 +78,7 @@
             "cone": 360,
             "particles": 32,
             "baseLength": 75,
-            "sizeFrom": 42,
+            "sizeFrom": 12,
             "sizeTo": 0,
             "spin": 0.8
           }
