@@ -20,12 +20,15 @@
       "type": "MissileBulletType",
       "speed": 3,
       "lifetime": 9999999,
-      "widht": 30,
-      "length": 45,
+      "widht": 50,
+      "length": 90,
       "damage": 0,
       "splashDamageRadius": 240,
       "splashDamage": 20000,
       "ammoMultiplier": 1,
+      "homingRange": 0,
+      "homingPower": 0
+      "sprite": "me-nuke-bullet"
     }
   },
   "requirements": [
