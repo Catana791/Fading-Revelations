@@ -18,6 +18,9 @@
   "ammoTypes": {
     "nuke": {
       "speed": 3,
+      "lifetime": 9999999,
+      "widht": 30,
+      "length": 45,
       "damage": 0,
       "splashDamageRadius": 240,
       "splashDamage": 20000,
