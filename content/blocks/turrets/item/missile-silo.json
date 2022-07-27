@@ -28,6 +28,7 @@
       "ammoMultiplier": 1,
       "sprite": "me-nuke-bullet"
       "frontColor": "9cb664",
+      "homingRange": 1600,
       "backColor": "000000"
       "trailEffect": {
     "type": "ParticleEffect",
