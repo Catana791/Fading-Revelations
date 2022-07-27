@@ -45,6 +45,6 @@
   "research": "mod-gate-crafters",
   "outputItem": {
     "item": "nuke",
-    "amount": 2
+    "amount": 1
   }
 }
