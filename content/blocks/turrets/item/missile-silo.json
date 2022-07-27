@@ -34,14 +34,14 @@
       "particles": 25,
       "length": 30,
       "offsetY": 30,
-       "lifetime": 50,
+       "lifetime": 60,
       "useRotation": true,
       "interp": "circleOut",
       "cone": 360,
       "colorFrom": "ffdd55",
       "colorTo": "db401c",
       "sizeFrom": 3,
-      "sizeTo": 0.6 
+      "sizeTo": 2 
   },
       "hitEffect": {
         "type": "MultiEffect",
