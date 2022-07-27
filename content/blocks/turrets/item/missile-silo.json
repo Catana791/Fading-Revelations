@@ -21,7 +21,7 @@
       "speed": 3,
       "lifetime": 999999999,
       "widht": 100,
-      "height": 90,
+      "height": 120,
       "damage": 0,
       "splashDamageRadius": 240,
       "splashDamage": 24000,
