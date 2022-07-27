@@ -41,7 +41,16 @@
       "lifetime": 15
     },
     {
-    "type": "ParticleEffect", 
+    "type": "ParticleEffect",
+      "particles": 5,
+      "length": 3,
+       "lifetime": 30,
+      "interp": "circleOut",
+      "cone": 3,
+      "colorFrom": "ffdd55",
+      "colorTo": "db401c",
+      "sizeFrom": 3,
+      "sizeTo": 0.6 
   }
       ]
     },
