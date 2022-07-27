@@ -43,13 +43,13 @@
     {
     "type": "ParticleEffect",
     "baseLength": 120,
-    "lifetime": 180,
+    "lifetime": 2400,
     "colorFrom": "edf3a9",
     "colorTo": "fefefe",
     "interp": "circleOut",
     "cone": 360,
     "particles": 32,
-    "sizeFrom": 20,
+    "sizeFrom": 12,
     "sizeTo": 0,
     "spin": 0.2,
   }
