@@ -29,6 +29,7 @@
       "sprite": "me-nuke-bullet"
       "frontColor": "9cb664",
       "homingRange": 1600,
+      "buildingDamageMultiplier": 0.1,
       "backColor": "000000"
       "trailEffect": {
     "type": "ParticleEffect",
