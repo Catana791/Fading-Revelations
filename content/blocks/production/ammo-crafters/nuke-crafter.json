@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
-  "name": "Level 1 Ammocrafter",
-  "description": "Crafts copper ammo out of copper and coal.",
+  "name": "Nuke Crafter",
+  "description": "Crafts nuclear warheads using uraniumrods and graphite.",
   "size": 2,
   "hasPower": true,
   "hasItems": true,
