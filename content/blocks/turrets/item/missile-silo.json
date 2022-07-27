@@ -42,18 +42,16 @@
     },
     {
     "type": "ParticleEffect",
-    "sizeFrom": 0,
-    "sizeTo": 240,
+    "baseLength": 240,
     "lifetime": 180,
     "colorFrom": "edf3a9",
     "colorTo": "fefefe",
-    "interp": "elasticOut",
+    "interp": "circleOut",
     "cone": 360,
     "particles": 32,
-    "sizeFrom": 10,
+    "sizeFrom": 20,
     "sizeTo": 0,
     "spin": 0.2,
-    
   }
       ]
       }
