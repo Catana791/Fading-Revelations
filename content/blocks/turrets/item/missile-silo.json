@@ -29,6 +29,19 @@
       "sprite": "me-nuke-bullet"
       "frontColor": "9cb664",
       "backColor": "000000"
+      "hitEffect": {
+        "type": "MultiEffect",
+        "effects": [
+      {
+      "type": "WaveEffect",
+      "sizeFrom": 0,
+      "sizeTo": 240,
+      "lifetime": 180,
+      "colorFrom": "edf3a9",
+      "colorTo": "9cb664"
+    }
+      ]
+      }
     }
   },
   "requirements": [
