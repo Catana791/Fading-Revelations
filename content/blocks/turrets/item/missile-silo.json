@@ -17,8 +17,38 @@
   "ammoTypes": {
     "nuke": {
       "speed": 3,
-      "damage": 20000,
-      "splashDamageRadius": 
+      "splashDamageRadius": 240,
+      "splashDamage": 20000,
+      "status": "me-radiated",
+      "statusDuration": 9999999999999999999
     }
-  }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 6000
+    },
+    {
+      "item": "lead",
+      "amount": 5000
+    },
+    {
+      "item": "graphite",
+      "amount": 4000
+    },
+    {
+      "item": "silicon",
+      "amount": 3500
+    },
+    {
+      "item": "plastanium",
+      "amount": 2400
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 2200
+    }
+  ],
+  "category": "turret",
+  "research": "ring-turret"
 }
