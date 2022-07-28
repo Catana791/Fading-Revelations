@@ -35,6 +35,6 @@
   "research": "coal-trading-station",
   "outputItem": {
     "item": "graphite",
-    "amount": 3
+    "amount": 8
   }
 }
