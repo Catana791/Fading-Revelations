@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Coal Trading Station",
-  "description": "Exchange Station that exchanges 1 gold for 16 coal.",
+  "description": "Exchange Station that exchanges gold for coal.",
   "size": 2,
   "hasItems": true,
   "craftTime": 30,
