@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Sand Trading Station",
-  "description": "Exchange Station that exchanges 1 gold for 32 sand.",
+  "description": "Exchange Station that exchanges gold for sand.",
   "size": 2,
   "itemCapacity": 64,
   "hasItems": true,
