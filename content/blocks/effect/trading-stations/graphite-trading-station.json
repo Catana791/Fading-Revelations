@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Graphite Trading Station",
-  "description": "Exchange Station that exchanges 1 gold for 8 graphite.",
+  "description": "Exchange Station that exchanges gold for graphite.",
   "size": 2,
   "hasItems": true,
   "craftTime": 30,
