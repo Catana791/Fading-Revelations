@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Surge Alloy Trading Station",
-  "description": "Exchange Station that exchanges 1 gold for 4 surge alloy.",
+  "description": "Exchange Station that exchanges gold for surge alloy.",
   "size": 2,
   "hasItems": true,
   "craftTime": 30,
