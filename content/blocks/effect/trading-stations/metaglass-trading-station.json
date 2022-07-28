@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Metaglass Trading Station",
-  "description": "Exchange Station that exchanges 1 gold for 8 metaglass.",
+  "description": "Exchange Station that exchanges gold for metaglass.",
   "size": 2,
   "hasItems": true,
   "itemCapacity": 64,
