@@ -4,6 +4,7 @@
   "description": "Exchange Station that exchanges 1 gold for 3 metaglass.",
   "size": 2,
   "hasItems": true,
+  "itemCapacity": 64,
   "craftTime": 30,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
