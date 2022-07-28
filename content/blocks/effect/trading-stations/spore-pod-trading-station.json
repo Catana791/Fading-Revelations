@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Spore Pod Trading Station",
-  "description": "Exchange Station that exchanges 1 gold for 8 spore pods.",
+  "description": "Exchange Station that exchanges gold for spore pods.",
   "size": 2,
   "itemCapacity": 64,
   "hasItems": true,
