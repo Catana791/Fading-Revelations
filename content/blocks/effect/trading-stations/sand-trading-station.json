@@ -1,0 +1,41 @@
+{
+  "type": "GenericCrafter",
+  "name": "Sand Trading Station",
+  "description": "Exchange Station that exchanges 1 gold for 32 sand.",
+  "size": 2,
+  "itemCapacity": 64,
+  "hasItems": true,
+  "craftTime": 30,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "gold",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 150
+    },
+    {
+      "item": "lead",
+      "amount": 40
+    },
+    {
+      "item": "sand",
+      "amount": 20
+    }
+  ],
+  "category": "effect",
+  "research": "mod-gate-effect",
+  "outputItem": {
+    "item": "sand",
+    "amount": 32
+  }
+}
