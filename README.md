@@ -72,7 +72,7 @@ extends **[Mindustry]** in fun ways while keeping it balanced.*
 
 -   The mod was made in **[VSCode]**.
 
--   Sound Effect from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=5981">Pixabay</a>
+-   Sound Effects mostly from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=5981">Pixabay</a>
 
 <br>
 
