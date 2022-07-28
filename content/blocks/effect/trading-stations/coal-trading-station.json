@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Coal Trading Station",
-  "description": "Exchange Station that exchanges 1 gold for 6 coal.",
+  "description": "Exchange Station that exchanges 1 gold for 16 coal.",
   "size": 2,
   "hasItems": true,
   "craftTime": 30,
@@ -33,7 +33,7 @@
     }
   ],
   "category": "effect",
-  "research": "mod-gate-effect",
+  "research": "sand-trading-station",
   "outputItem": {
     "item": "coal",
     "amount": 16
