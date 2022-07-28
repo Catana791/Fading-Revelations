@@ -8,7 +8,7 @@
   "targetAir": false,
   "targetGround": true,
   "shootSound": "missile-silo-launch",
-  "shootSoundVolume": 6,
+  "shootSoundVolume": 18,
   "size": 3,
   "hasLiquids": false,
   "hasPower": true,
