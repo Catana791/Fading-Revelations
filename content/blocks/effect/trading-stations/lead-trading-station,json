@@ -1,0 +1,41 @@
+{
+  "type": "GenericCrafter",
+  "name": "Lead Trading Station",
+  "description": "Exchange Station that exchanges 1 gold for 32 lead.",
+  "size": 2,
+  "itemCapacity": 64,
+  "hasItems": true,
+  "craftTime": 30,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "items": {
+      "items": [
+        {
+          "item": "gold",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 150
+    },
+    {
+      "item": "lead",
+      "amount": 40
+    },
+    {
+      "item": "lead",
+      "amount": 20
+    }
+  ],
+  "category": "effect",
+  "research": "sand-trading-station",
+  "outputItem": {
+    "item": "lead",
+    "amount": 32
+  }
+}
