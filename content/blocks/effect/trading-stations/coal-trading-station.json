@@ -5,6 +5,7 @@
   "size": 2,
   "hasItems": true,
   "craftTime": 30,
+  "itemCapacity": 64,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
@@ -35,6 +36,6 @@
   "research": "mod-gate-effect",
   "outputItem": {
     "item": "coal",
-    "amount": 6
+    "amount": 16
   }
 }
