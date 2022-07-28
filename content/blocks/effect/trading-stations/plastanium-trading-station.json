@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Plastanium Trading Station",
-  "description": "Exchange Station that exchanges 2 gold for 3 plastanium.",
+  "description": "Exchange Station that exchanges 2 gold for 4 plastanium.",
   "size": 2,
   "hasItems": true,
   "craftTime": 30,
