@@ -23,6 +23,8 @@
   "inaccuracy": 0,
   "ammoTypes": {
     "nuke": {
+      "hittable": false,
+      "absorbable": false,
       "type": "MissileBulletType",
       "speed": 3,
       "lifetime": 999999999,
