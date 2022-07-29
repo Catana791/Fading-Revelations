@@ -25,7 +25,7 @@
       "lifetime": 90,
       "useRotation": true,
       "interp": "circleOut",
-      "cone": 90,
+      "cone": 45,
       "colorFrom": "ffdd55",
       "colorTo": "db401c",
       "sizeFrom": 3,
