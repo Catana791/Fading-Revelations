@@ -1,5 +1,5 @@
 
 require('outpost');
 require('music');
-require('serpulo');
+require('campaign/serpulo');
 
