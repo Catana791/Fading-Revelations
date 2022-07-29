@@ -3,5 +3,5 @@ valleyOfDespair.captureWave = 100;
 valleyOfDespair.difficulty = 10;
 
 module.exports = {
-  valleyOfDespair: valleyOfDespair,
+  valleyOfDespair: valleyOfDespair
 };
