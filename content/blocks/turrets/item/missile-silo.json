@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Nuclear Launch Silo",
-  "description": "Takes very long to reload but shoots extremely powerful nuclear warheads that can eradicate almost any ground unit in one hit. Has enormous range but is very fragile so make sure to protect it well.",
+  "description": "Takes very long to reload but shoots extremely powerful nuclear warheads that can eradicate almost any ground unit in one hit. Has enormous range but is very fragile so make sure to protect it well. On hit, the nukes also suppress healing blocks effects for a while.",
   "health": 300,
   "maxAmmo": 10,
   "reloadTime": 7200,
@@ -23,6 +23,10 @@
   "inaccuracy": 0,
   "ammoTypes": {
     "nuke": {
+      "suppressionDuration": 600,
+      "suppressionRange": 240,
+      "hitShake": 3,
+      "reflectable": false,
       "hittable": false,
       "absorbable": false,
       "type": "MissileBulletType",
