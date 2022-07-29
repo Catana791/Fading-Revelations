@@ -61,7 +61,7 @@
       "reflectable": false,
       "hittable": false,
       "absorbable": false,
-      "type": "Artille",
+      "type": "MissileBulletType",
       "speed": 3,
       "lifetime": 999999999,
       "widht": 100,
