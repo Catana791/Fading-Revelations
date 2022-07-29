@@ -6,7 +6,7 @@
 
     author:
         '''
-        
+
         [maroon]Developers
         - Json/Hjson : Fresh791
         - Balancing : Fresh791
@@ -16,42 +16,42 @@
         - English : Fresh791
         - German : Fresh791
         - Spanish : Fresh791 / HairyNugget
-        - Ukrainian : Prosta4ok_ua
+        - Ukrainian : UkrainianMindustry
 
 
         [maroon]Contributors
         - Sprites : Fresh791 / ABreaker
- 
-        And many more people! 
-        Check the Discord 
+
+        And many more people!
+        Check the Discord
         for more information!
-        
-        
+
+
         '''
 
     description:
         '''
-        
+
         A fun & balanced content extension.
-        
-        
+
+
         Features
-        A custom map and many blocks, 
+        A custom map and many blocks,
         units, items, liquids, schematics
         & custom ammo types.
-        
-        
+
+
         Languages
         - English
         - German
         - Spanish
         - Ukrainian
-        
-        
-        Check Discord / GitHub 
+
+
+        Check Discord / GitHub
         for more information!
         '''
 
-    minGameVersion : 126.2
+    minGameVersion : 136
     version : 1.10
 }
