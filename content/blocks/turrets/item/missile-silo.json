@@ -19,41 +19,17 @@
   "shootCone": 360,
   "rotate": false,
   "shootEffect": {
-    "type": "MultiEffect",
-    "effects": [
-      {
-        "type": "ParticleEffect",
-        "particles": 32,
-        "length": 30,
-        "lifetime": 60,
-        "interp": "circleOut",
-        "cone": 360,
-        "colorFrom": "ffdd55",
-        "colorTo": "db401c",
-        "sizeFrom": 0,
-        "sizeTo": 3
-      },
-      {
-        "type": "ParticleEffect",
-        "particles": 64,
-        "length": 30,
-        "lifetime": 60,
-        "interp": "circleOut",
-        "cone": 360,
-        "colorFrom": "404040",
-        "colorTo": "2a2a2a",
-        "sizeFrom": 3,
-        "sizeTo": 0
-      },
-      {
-        "type": "WaveEffect",
-        "lifetime": 60
-        "sizeFrom": 8,
-        "sizeTo": 0,
-        "colorFrom": "ff795e",
-        "colorTo": "c85c51"
-      }
-    ]
+     "type": "ParticleEffect",
+      "particles": 32,
+      "length": 30,
+      "lifetime": 90,
+      "useRotation": true,
+      "interp": "circleOut",
+      "cone": 360,
+      "colorFrom": "ffdd55",
+      "colorTo": "db401c",
+      "sizeFrom": 3,
+      "sizeTo": 2.4
   },
   "recoil": 0,
   "range": 1600,
@@ -80,6 +56,7 @@
       "sprite": "me-nuke-bullet"
       "frontColor": "9cb664",
       "homingRange": 1600,
+      "homingPower": 0.9,
       "buildingDamageMultiplier": 0.05,
       "backColor": "000000"
       "trailEffect": {
