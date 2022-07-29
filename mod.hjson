@@ -52,6 +52,6 @@
         for more information!
         '''
 
-    minGameVersion : 136
+    minGameVersion : 126.2
     version : 1.10
 }
