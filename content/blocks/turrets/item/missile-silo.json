@@ -31,22 +31,22 @@
       "cone": 45,
       "colorFrom": "ffdd55",
       "colorTo": "db401c",
-      "sizeFrom": 3,
-      "sizeTo": 2.4
+      "sizeFrom": 1,
+      "sizeTo": 0.2
       },
       {
         "type": "ParticleEffect",
       "particles": 32,
       "length": 30,
       "lifetime": 90,
-        "startDelay": 30,
+        "startDelay": 90,
       "useRotation": true,
       "interp": "circleOut",
       "cone": 45,
       "colorFrom": "2a2a2a",
       "colorTo": "404040",
-      "sizeFrom": 3,
-      "sizeTo": 2.4 
+      "sizeFrom": 1,
+      "sizeTo": 0.2 
       }
     ]
   },
