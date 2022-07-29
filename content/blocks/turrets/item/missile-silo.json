@@ -25,7 +25,7 @@
         "type": "ParticleEffect",
         "particles": 32,
         "length": 30,
-        "lifetime": 60,
+        "lifetime": 180,
         "interp": "circleOut",
         "cone": 360,
         "colorFrom": "ffdd55",
@@ -37,7 +37,7 @@
         "type": "ParticleEffect",
         "particles": 64,
         "length": 40,
-        "lifetime": 120,
+        "lifetime": 240,
         "interp": "circleOut",
         "cone": 360,
         "colorFrom": "404040",
@@ -47,7 +47,7 @@
       },
       {
         "type": "WaveEffect",
-        "lifetime": 60
+        "lifetime": 120
         "sizeFrom": 8,
         "sizeTo": 0,
         "colorFrom": "ff795e",
