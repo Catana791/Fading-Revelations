@@ -4,7 +4,7 @@
   "description": "Takes very long to reload but shoots extremely powerful nuclear warheads that can eradicate almost any ground unit in one hit. Has enormous range but is very fragile so make sure to protect it well. On hit, the nukes also suppress healing blocks effects for a while.",
   "health": 300,
   "maxAmmo": 10,
-  "reloadTime": 7200,
+  "reloadTime": 14400,
   "targetAir": false,
   "targetGround": true,
   "shootSound": "missile-silo-launch",
@@ -38,7 +38,7 @@
       "hitSoundVolume": 4.5,
       "damage": 0,
       "splashDamageRadius": 240,
-      "splashDamage": 24000,
+      "splashDamage": 20000,
       "ammoMultiplier": 1,
       "sprite": "me-nuke-bullet"
       "frontColor": "9cb664",
