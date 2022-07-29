@@ -24,25 +24,25 @@
       {
         "type": "ParticleEffect",
         "particles": 32,
-        "length": 40,
+        "length": 30,
         "lifetime": 60,
         "interp": "circleOut",
         "cone": 360,
         "colorFrom": "ffdd55",
         "colorTo": "db401c",
         "sizeFrom": 0,
-        "sizeTo": 6
+        "sizeTo": 3
       },
       {
         "type": "ParticleEffect",
-        "particles": 32,
+        "particles": 64,
         "length": 40,
         "lifetime": 120,
         "interp": "circleOut",
         "cone": 360,
         "colorFrom": "404040",
         "colorTo": "2a2a2a",
-        "sizeFrom": 6,
+        "sizeFrom": 3,
         "sizeTo": 0
       },
       {
