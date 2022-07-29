@@ -18,6 +18,42 @@
   "rotateSpeed": 0,
   "shootCone": 360,
   "rotate": false,
+  "shootEffect": {
+    "type": "MultiEffect",
+    "effects": [
+      {
+        "type": "ParticleEffect",
+        "particles": 32,
+        "length": 40,
+        "lifetime": 60,
+        "interp": "circleOut",
+        "cone": 360,
+        "colorFrom": "ffdd55",
+        "colorTo": "db401c",
+        "sizeFrom": 0,
+        "sizeTo": 6
+      },
+      {
+        "type": "ParticleEffect",
+        "particles": 32,
+        "length": 40,
+        "lifetime": 120,
+        "interp": "circleOut",
+        "cone": 360,
+        "colorFrom": "404040",
+        "colorTo": "2a2a2a",
+        "sizeFrom": 6,
+        "sizeTo": 0
+      },
+      {
+        "type": "WaveEffect",
+        "lifetime": 60
+        "sizeFrom": 8,
+        "sizeTo": 0,
+        "colorFrom": "ff795e",
+        "colorTo": "c85c51"
+      }
+  ]
   "recoil": 0,
   "range": 1600,
   "inaccuracy": 0,
@@ -29,7 +65,7 @@
       "reflectable": false,
       "hittable": false,
       "absorbable": false,
-      "type": "MissileBulletType",
+      "type": "Artille",
       "speed": 3,
       "lifetime": 999999999,
       "widht": 100,
