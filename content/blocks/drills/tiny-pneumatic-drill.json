@@ -5,7 +5,7 @@
   "size": 1,
   "itemCapacity": 3,
   "tier": 3,
-  "drillTime": 365,
+  "drillTime": 355,
   "consumes": {
     "liquid": {
       "liquid": "water",
