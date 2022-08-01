@@ -1,0 +1,46 @@
+{
+  "type": "GenericSmelter",
+  "name": "Silicon Forge",
+  "description": "A better silicon smelter that is more cost-efficient.",
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 60,
+  "consumes": {
+    "power": 1,
+    "items": {
+      "items": [
+        {
+          "item": "coal",
+          "amount": 1
+        },
+        {
+          "item": "sand",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 75
+    },
+    {
+      "item": "lead",
+      "amount": 50
+    },
+    {
+      "item": "graphite",
+      "amount": 20
+    }
+  ],
+  "category": "crafting",
+  "research": "greenhouse",
+  "outputItem": {
+    "item": "silicon",
+    "amount": 4
+  },
+  "health": 320
+}
