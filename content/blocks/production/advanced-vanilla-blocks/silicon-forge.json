@@ -13,11 +13,11 @@
       "items": [
         {
           "item": "coal",
-          "amount": 1
+          "amount": 2
         },
         {
           "item": "sand",
-          "amount": 2
+          "amount": 4
         }
       ]
     }
