@@ -9,5 +9,11 @@
   "size": 2,
   "category": "power",
   "research": "duo"
-  "health": 240
+  "health": 240,
+  "requirements": [
+  {
+ "item": "copper,
+  "amount": 1
+}
+  ]
 }
