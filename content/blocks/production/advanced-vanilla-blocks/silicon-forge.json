@@ -37,7 +37,7 @@
     }
   ],
   "category": "crafting",
-  "research": "greenhouse",
+  "research": "induced-kiln",
   "outputItem": {
     "item": "silicon",
     "amount": 4
