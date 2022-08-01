@@ -25,15 +25,15 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 75
+      "amount": 90
     },
     {
       "item": "lead",
-      "amount": 50
+      "amount": 75
     },
     {
       "item": "graphite",
-      "amount": 20
+      "amount": 25
     }
   ],
   "category": "crafting",
