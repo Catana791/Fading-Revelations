@@ -11,8 +11,8 @@
      "parent": "test",
      "requirements": [
        {
-	"item": "silicon",
-	"amount": 2200
+	       "item": "silicon",
+	       "amount": 2200
        },
 	     {
 		     "item": "surge-alloy",
@@ -46,7 +46,7 @@
       "shootCone": 15,
             "mirror": false,
             "alternate": false,
-            "shots": 4,
+            "shots": 3,
             "inaccuracy": 5,
             "x": 0,
             "y": -20,
@@ -60,7 +60,7 @@
               "type": "LaserBulletType",
               "length": 450,
               "width": 35,
-              "damage": 1000,
+              "damage": 760,
 	      "lightning": 10,
 	      "lightningLengthRand": 8,
               "lightningCone": 35,
