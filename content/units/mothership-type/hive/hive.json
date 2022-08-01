@@ -54,6 +54,8 @@
               "colorFrom": "c80000",
               "colorTo": "ff2424",
               "lifetime": 600 
+              "sizeFrom": 40,
+              "sizeTo": 35
             },
             "x": 0,
             "y": -20,
