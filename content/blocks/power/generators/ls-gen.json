@@ -7,7 +7,7 @@
   "size": 2,
   "generateEffect": {
     "type": "ParticleEffect",
-    "particles": 12,
+    "particles": 8,
     "length": 10,
     "colorFrom": "6d0071",
     "colorTo": "8c0291",
