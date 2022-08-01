@@ -48,17 +48,6 @@
             "shots": 3,
             "top": true,
             "inaccuracy": 5,
-            "shootEffect": {
-              "sprite": "me-hn-shoot",
-              "particles": 1,
-              "spin": 60,
-              "colorFrom": "c80000",
-              "colorTo": "ff2424",
-              "lifetime": 600,
-              "interp": "circleOut",
-              "sizeFrom": 40,
-              "sizeTo": 35
-            },
             "x": 0,
             "y": -20,
             "reload": 600,
