@@ -47,7 +47,7 @@
     }
   ],
   "category": "crafting",
-  "research": "induced-kiln",
+  "research": "silicon-forge",
   "outputItem": {
     "item": "pyratite",
     "amount": 2
