@@ -12,7 +12,7 @@
   "health": 240,
   "requirements": [
   {
- "item": "copper,
+ "item": "copper",
   "amount": 1
 }
   ]
