@@ -3,8 +3,6 @@
   "description": "Produces heat in hot locations using intelligent spore steel activity. Is more efficient than the normal thermal generator.",
   "type": "ThermalGenerator",
   "attribute": "heat",
-  "displayEfficiency": true,
-  "minEfficiency": 1,
   "powerProduction": 2.2,
   "size": 2,
   "category": "power",
