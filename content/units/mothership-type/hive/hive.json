@@ -238,7 +238,7 @@
     },
       {
         "type": "SpawnDeathAbility",
-        "type": "hive-attack",
+        "UnitType": "hive-attack",
         "amount": 12,
         "faceOutwards": true
       }
