@@ -235,12 +235,6 @@
       "regen": 29,
       "max": 20900,
       "cooldown": 600
-    },
-      {
-        "type": "SpawnDeathAbility",
-        "UnitType": "hive-attack",
-        "amount": 12,
-        "faceOutwards": true
-      }
+    }
   ]
 }
