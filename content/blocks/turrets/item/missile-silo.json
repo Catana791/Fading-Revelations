@@ -43,7 +43,7 @@
       "widht": 100,
       "height": 120,
       "hitSound": "nuke-hit",
-      "hitSoundVolume": 4.5,
+      "hitSoundVolume": 6,
       "damage": 0,
       "splashDamageRadius": 240,
       "splashDamage": 20000,
