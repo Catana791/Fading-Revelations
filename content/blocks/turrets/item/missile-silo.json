@@ -19,37 +19,16 @@
   "shootCone": 360,
   "rotate": false,
   "shootEffect": {
-    "type": "MultiEffect",
-    "effects": [
-      {
-     "type": "ParticleEffect",
-      "particles": 32,
-      "length": 30,
-      "lifetime": 90,
-      "useRotation": true,
-      "interp": "circleOut",
-      "cone": 45,
-      "colorFrom": "ffdd55",
-      "colorTo": "db401c",
-      "sizeFrom": 2.6,
-      "sizeTo": 0.6
-      },
-      {
-        "type": "ParticleEffect",
-      "particles": 32,
-      "length": 30,
-      "lifetime": 90,
-        "startDelay": 90,
-      "useRotation": true,
-      "interp": "circleOut",
-      "cone": 45,
-      "colorFrom": "2a2a2a",
-      "colorTo": "404040",
-      "sizeFrom": 2.6,
-      "sizeTo": 0.6
-      }
-    ]
-  },
+              "sprite": "me-hn-shoot",
+              "particles": 1,
+              "spin": 60,
+              "colorFrom": "c80000",
+              "colorTo": "ff2424",
+              "lifetime": 600,
+              "interp": "circleOut",
+              "sizeFrom": 40,
+              "sizeTo": 35
+            },
   "recoil": 0,
   "range": 1600,
   "inaccuracy": 0,
