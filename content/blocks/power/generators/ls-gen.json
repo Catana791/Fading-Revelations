@@ -19,19 +19,19 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 40
-    },
-    {
-      "item": "lead",
       "amount": 50
     },
     {
+      "item": "lead",
+      "amount": 60
+    },
+    {
       "item": "metaglass",
-      "amount": 40
+      "amount": 50
     },
     {
       "item": "graphite",
-      "amount": 35
+      "amount": 45
     },
     {
       "item": "living-steel",
