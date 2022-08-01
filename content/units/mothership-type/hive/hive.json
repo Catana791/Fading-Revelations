@@ -46,6 +46,7 @@
             "mirror": false,
             "alternate": false,
             "shots": 3,
+            "top": true,
             "inaccuracy": 5,
             "shootEffect": {
               "sprite": "me-hn-shoot",
