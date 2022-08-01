@@ -48,9 +48,17 @@
             "alternate": false,
             "shots": 3,
             "inaccuracy": 5,
+            "shootEffect": {
+              "sprite": "me-hn-shoot",
+              "particles": 1,
+              "spin": 60,
+              "colorFrom": "c80000",
+              "colorTo": "ff2424",
+              "lifetime": 600 
+            },
             "x": 0,
             "y": -20,
-            "reload": 305,
+            "reload": 600,
             "shootY": 23,
             "rotate": true,
             "rotateSpeed": 0.912,
