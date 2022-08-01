@@ -43,7 +43,6 @@
   "weapons": [
     {
       "name": "hive-nuke",
-      "shootCone": 15,
             "mirror": false,
             "alternate": false,
             "shots": 3,
