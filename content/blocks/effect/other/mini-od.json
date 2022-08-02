@@ -9,7 +9,7 @@
   "research": "mod-gate-effect",
   "category": "effect",
   "consumes": {
-    "power": 2
+    "power": 1.25
   },
   "requirements": [
     {
