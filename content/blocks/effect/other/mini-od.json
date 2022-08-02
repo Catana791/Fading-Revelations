@@ -1,0 +1,25 @@
+{
+  "type": "OverdriveProjector",
+  "name": "Tiny Overdrive Projector",
+  "description": "A tiny overdrive projector. Makes everything in it's range faster but be aware that it also increases energy consumption!",
+  "range": 48,
+  "hasBoost": false,
+  "speedBoost": 0.4,
+  "reload": 1,
+  "research": "mod-gate-effect",
+  "category": "effect",
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 25
+    },
+    {
+      "item": "titanium",
+      "amount": 20
+    },
+    {
+      "item": "silicon",
+      "amount": 25
+    }
+  ]
+}
