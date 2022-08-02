@@ -8,6 +8,9 @@
   "reload": 1,
   "research": "mod-gate-effect",
   "category": "effect",
+  "consumes": {
+    "power": 2
+  },
   "requirements": [
     {
       "item": "lead",
