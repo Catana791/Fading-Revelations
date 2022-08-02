@@ -7,7 +7,8 @@
   "hasPower": true,
   "hasLiquids": true,
   "size": 3,
-  "pumpAmount": 0.25,
+  "affinities": ["sand"],
+  "pumpAmount": 0.3,
   "consumes": {
     "power": 0.8
   },
