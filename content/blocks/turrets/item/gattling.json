@@ -6,15 +6,13 @@
   "hasLiquids": true,
   "liquidCapacity": 20,
   "maxAmmo": 600,
-  "reloadTime": 5,
-  "range": 200,
+  "reloadTime": 1,
+  "range": 260,
   "ammoPerShot": 1,
   "size": 4,
   "targetAir": false,
   "targetGround": true,
   "rotatespeed": 8,
-  "shots": 4,
-  "alternate": true,
   "recoilAmount": 0.2,
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
@@ -29,7 +27,7 @@
       "height": 10,
       "inaccuracy": 14,
       "width": 5,
-      "ammoMultiplier": 2
+      "ammoMultiplier": 20
     },
     "ammo-level-2": {
       "type": "BasicBulletType",
@@ -42,28 +40,31 @@
       "width": 5,
       "pierce": true,
       "inaccuracy": 12,
-      "ammoMultiplier": 1
+      "ammoMultiplier": 25
     },
     "ammo-level-3": {
       "type": "BasicBulletType",
       "damage": 180,
       "splashDamageRadius": 12,
       "splashDamage": 18,
-      "speed": 25,
+      "speed": 12,
+      "lifetime": 25,
       "height": 12,
       "pierce": true,
       "width": 6,
       "inaccuracy": 8,
-      "ammoMultiplier": 1
+      "ammoMultiplier": 30
     },
     "homing-ammo": {
       "type": "MissileBulletType",
       "damage": 250,
       "splashDamageRadius": 14,
       "splashDamage": 20,
-      "speed": 25,
+      "speed": 12,
+      "lifetime": 25,
       "height": 12,
       "pierce": true,
+      "ammoMultiplier": 35
       "width": 6,
       "inaccuracy": 5,
       "homingPower": 0.2,
@@ -75,20 +76,24 @@
       "damage": 190,
       "splashDamageRadius": 6,
       "splashDamage": 10,
-      "speed": 18,
+      "speed": 12,
+      "lifetime": 25,
       "height": 12,
       "width": 6,
       "inaccuracy": 4,
       "status": "slow",
+      "ammoMultiplier": 20,
       "statusDuration": 3
     },
     "nano-ammo": {
       "type": "BasicBulletType",
       "damage": 25,
-      "speed": 20,
+      "speed": 12,
+      "lifetime": 25,
       "splashDamage": 1,
       "splashDamageRadius": 1,
       "status": "burning",
+      "ammoMultiplier": 30,
       "statusDuration": 8000000
     }
   },
