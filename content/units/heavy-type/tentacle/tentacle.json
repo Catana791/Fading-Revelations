@@ -19,13 +19,13 @@
   "baseRotateSpeed": 0.45,
   "weapons": [
     {
-      "name": "nothing",
+      "name": "tentacle-sniper",
       "range": 200,
       "x": 0,
       "rotate": false,
       "inaccuracy": 0,
       "shootCone": 10,
-      "y": -2,
+      "y": -12,
       "reload": 400,
       "shootSound": "laser",
       "bullet": {
