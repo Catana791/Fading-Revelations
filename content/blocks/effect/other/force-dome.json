@@ -13,7 +13,7 @@
       "type": "WaveEffect",
       "colorFrom": "ffd37f",
       "colorTo": "eab678",
-      "sizeFrom": 6,
+      "sizeFrom": 60,
       "sizeTo": 0
     },
     "cooldownNormal": 1.2,
