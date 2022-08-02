@@ -57,7 +57,7 @@ extends **[Mindustry]** in fun ways while keeping it balanced.*
 
 -   `7`  Ammo Types
 
--   `~120`  Blocks
+-   `100+`  Blocks
 
 <br>
 <br>
