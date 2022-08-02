@@ -8,14 +8,6 @@
     "shieldHealth": 1000,
     "phaseRadiusBoost": 100,
     "phaseUseTime": 350,
-    "breakage": 260,
-    "absorbEffect": {
-      "type": "WaveEffect",
-      "colorFrom": "ffd37f",
-      "colorTo": "eab678",
-      "sizeFrom": 60,
-      "sizeTo": 0
-    },
     "cooldownNormal": 1.2,
     "cooldownLiquid": 1.1,
     "category": "effect",
