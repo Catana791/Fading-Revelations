@@ -14,7 +14,7 @@
     "interp": "circleOut"
   },
   "category": "power",
-  "research": "duo"
+  "research": "mod-gate-power"
   "health": 240,
   "requirements": [
     {
