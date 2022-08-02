@@ -4,7 +4,7 @@
   "description": "A tiny overdrive projector. Makes everything in it's range faster but be aware that it also increases energy consumption!",
   "range": 48,
   "hasBoost": false,
-  "speedBoost": 1,
+  "speedBoost": 1.15,
   "reload": 1,
   "research": "mod-gate-effect",
   "category": "effect",
