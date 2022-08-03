@@ -41,7 +41,7 @@
     }
   ],
   "category": "crafting",
-  "research": "living-steel-infuser",
+  "research": "induced-kiln",
   "outputLiquid": {
     "liquid": "oil",
     "amount": 16
