@@ -41,7 +41,7 @@
     }
   ],
   "category": "crafting",
-  "research": "induced-kiln",
+  "research": "greenhouse",
   "outputLiquid": {
     "liquid": "oil",
     "amount": 16
