@@ -11,7 +11,7 @@
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
-    "power": 1.575,
+    "power": 1.6,
     "items": {
       "items": [
         {
