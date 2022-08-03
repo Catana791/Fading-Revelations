@@ -10,8 +10,15 @@
   "health": 720,
   "liquidCapacity": 120,
   "craftTime": 20,
-  "craftEffect": "smeltsmoke",
-  "updateEffect": "smeltsmoke",
+  "craftEffect": {
+     "type": "ParticleEffect",
+     "particles": 8,
+     "length": 16,
+     "colorFrom": "5c5e9f",
+    "colorTo": "bf92f9",
+    "interp": "circleIn"
+  },
+  "updateEffect": "none",
   "consumes": {
     "power": 1.6,
     "items": {
