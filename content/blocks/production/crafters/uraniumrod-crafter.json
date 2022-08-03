@@ -47,7 +47,7 @@
     }
   ],
   "category": "crafting",
-  "research": "surge-oven-big",
+  "research": "big-plastanium-press",
   "outputItem": {
     "item": "uraniumrod",
     "amount": 3
