@@ -24,7 +24,7 @@
       "x": 0,
       "rotate": false,
       "inaccuracy": 0,
-      "y": -8,
+      "y": -6,
       "reload": 400,
       "shootSound": "laser",
       "bullet": {
