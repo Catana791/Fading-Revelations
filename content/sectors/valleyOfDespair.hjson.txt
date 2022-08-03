@@ -1,0 +1,5 @@
+localizedName: "Valley of Despair"
+sector: 27
+captureWave: 200
+difficulty: 10
+research: nuclearComplex
