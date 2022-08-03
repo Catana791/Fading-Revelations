@@ -8,6 +8,7 @@
   "reloadTime": 10,
   "range": 200,
   "size": 3,
+  "squareSprite": false,
   "targetAir": true,
   "targetGround": true,
   "rotatespeed": 8,
