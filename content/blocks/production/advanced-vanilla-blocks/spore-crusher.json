@@ -9,7 +9,7 @@
   "itemCapacity": 20,
   "health": 720,
   "liquidCapacity": 120,
-  "craftTime": 20,
+  "craftTime": 30,
   "craftEffect": {
      "type": "ParticleEffect",
      "particles": 8,
@@ -44,6 +44,6 @@
   "research": "living-steel-infuser",
   "outputLiquid": {
     "liquid": "oil",
-    "amount": 14
+    "amount": 12
   }
 }
