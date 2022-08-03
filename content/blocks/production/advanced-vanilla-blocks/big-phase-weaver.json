@@ -43,7 +43,7 @@
   ],
   "drawer": "drawWeave",
   "category": "crafting",
-  "research": "big-plastanium-press",
+  "research": "uraniumrod-crafter",
   "outputItem": {
     "item": "phase-fabric",
     "amount": 4
