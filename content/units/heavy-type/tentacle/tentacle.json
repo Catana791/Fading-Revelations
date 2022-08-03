@@ -24,8 +24,9 @@
       "x": 0,
       "rotate": false,
       "inaccuracy": 0,
+      "mirror": false,
       "recoil": 3,
-      "cooldown": 360,
+      "cooldownTime": 360,
       "recoilTime": 200,
       "y": -6,
       "shootEffect": {
