@@ -42,7 +42,7 @@
     }
   ],
   "category": "crafting",
-  "research": "mod-gate-crafters",
+  "research": "nano-ammo-crafter",
   "outputItem": {
     "item": "nuke",
     "amount": 1
