@@ -6,6 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": true,
+  "itemCapacity": 20,
   "health": 720,
   "liquidCapacity": 120,
   "craftTime": 45,
