@@ -8,6 +8,7 @@
   "size": 3,
   "shots": 3,
   "spread": 10,
+  "squareSprite": false,
   "alternate": false,
   "targetAir": false,
   "targetGround": true,
