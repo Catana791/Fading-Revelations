@@ -10,7 +10,7 @@
   "craftEffect": "pulverizeRed",
   "updateEffect": "pulverizeRed",
   "consumes": {
-    "power": 0.4,
+    "power": 0.6,
     "items": {
       "items": [
         {
