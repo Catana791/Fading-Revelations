@@ -37,7 +37,7 @@
     }
   ],
   "category": "crafting",
-  "research": "greenhouse",
+  "research": "advanced-coal-centrifuge",
   "outputItem": {
     "item": "metaglass",
     "amount": 4
