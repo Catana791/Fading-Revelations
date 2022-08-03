@@ -24,7 +24,38 @@
       "x": 0,
       "rotate": false,
       "inaccuracy": 0,
+      "recoil": 3,
+      "recoilTime": 200,
       "y": -6,
+      "shootEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 0,
+            "sizeTo": 12,
+            "lifetime": "60",
+            "colorFrom": "ff1717",
+            "colorTo": "b91818"
+          },
+          {
+            "type": "ParticleEffect",
+            "particles": 8,
+            "length": 16,
+            "colorFrom": "ff1717",
+            "colorTo": "da1b1b",
+            "interp": "circleOut"
+          },
+          {
+            "type": "ParticleEffect",
+            "particles": 8,
+            "length": 16,
+            "colorFrom": "ffd64b",
+            "colorTo": "d5b342",
+            "interp": "circleOut"
+          }
+        ]
+      },
       "reload": 400,
       "shootSound": "laser",
       "bullet": {
