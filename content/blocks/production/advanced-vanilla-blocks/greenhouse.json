@@ -31,7 +31,7 @@
     }
   ],
   "category": "production",
-  "research": "advanced-coal-centrifuge",
+  "research": "induced-kiln",
   "outputItem": {
     "item": "spore-pod",
     "amount": 2
