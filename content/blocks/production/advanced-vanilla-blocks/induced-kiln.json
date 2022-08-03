@@ -37,7 +37,7 @@
     }
   ],
   "category": "crafting",
-  "research": "advanced-coal-centrifuge",
+  "research": "mod-gate-crafters",
   "outputItem": {
     "item": "metaglass",
     "amount": 4
