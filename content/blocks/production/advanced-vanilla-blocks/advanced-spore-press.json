@@ -1,7 +1,7 @@
 {
   "type": "GenericSmelter",
-  "name": "Living Steel Liquifying Chamber",
-  "description": "Liquifies living steel by infusing it with oil.",
+  "name": "Spore Crusher",
+  "description": "Creates oil by crushing spore pods.",
   "size": 3,
   "hasPower": true,
   "hasItems": true,
