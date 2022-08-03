@@ -37,7 +37,7 @@
     }
   ],
   "category": "crafting",
-  "research": "induced-kiln",
+  "research": "spore-crusher",
   "outputItem": {
     "item": "silicon",
     "amount": 4
