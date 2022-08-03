@@ -42,7 +42,7 @@
     }
   ],
   "category": "crafting",
-  "research": "enhanced-blast-mixer",
+  "research": "advanced-coal-centrifuge",
   "outputItem": {
     "item": "plastanium",
     "amount": 4
