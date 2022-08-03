@@ -1,0 +1,40 @@
+{
+  "type": "GenericSmelter",
+  "name": "Living Steel Liquifying Chamber",
+  "description": "Liquifies living steel by infusing it with oil.",
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "health": 720,
+  "craftTime": 45,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 1.575,
+    "items": {
+      "items": [
+        {
+          "item": "spore-pod",
+          "amount": 2
+        }
+      ]
+    } 
+  },
+  "requirements": [
+    {
+      "item": "lead",
+      "amount": 80
+    },
+    {
+      "item": "silicon",
+      "amount": 70
+    }
+  ],
+  "category": "crafting",
+  "research": "living-steel-infuser",
+  "outputLiquid": {
+    "liquid": "oil",
+    "amount": 22
+  }
+}
