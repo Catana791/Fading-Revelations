@@ -9,7 +9,7 @@
   "itemCapacity": 20,
   "health": 720,
   "liquidCapacity": 120,
-  "craftTime": 25,
+  "craftTime": 20,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
@@ -37,6 +37,6 @@
   "research": "living-steel-infuser",
   "outputLiquid": {
     "liquid": "oil",
-    "amount": 16
+    "amount": 12
   }
 }
