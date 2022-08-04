@@ -70,16 +70,16 @@
                 "effects": [
                 {
                   "type": "WaveEffect",
-                  "sizeFrom": 22,
-                  "sizeTo": 0,
+                  "sizeFrom": 32,
+                  "sizeTo": 22,
                   "colorFrom": "ff0d0d",
                   "colorTo": "ff4949",
                   "lifetime": 120
                 },
                 { 
                   "type": "WaveEffect",
-                  "sizeFrom": 0,
-                  "sizeTo": 22,
+                  "sizeFrom": 22,
+                  "sizeTo": 32,
                   "colorFrom": "ff4949",
                   "colorTo": "ff0d0d",
                   "lifetime": 120
