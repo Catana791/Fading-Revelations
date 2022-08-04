@@ -51,7 +51,7 @@
             "y": -20,
             "reload": 600,
             "rotate": false,
-            "shootSound": "hive-meltdown",
+            "shootSound": "laserbig",
             "bullet": {
               "type": "ContinuousLaserBulletType",
               "length": 500,
@@ -64,8 +64,45 @@
               "layer": 0,
               "lifetime": 420,
               "colors":["861303", "ff0d0d", "ff4949"],
-        }
-	 },
+              "hitEffect": {
+                "type": "MultiEffect",
+                "effects: [
+                {
+                  "type": "WaveEffect",
+                  "sizeFrom": 22,
+                  "sizeTo": 0,
+                  "colorFrom": "ff0d0d",
+                  "colorTo": "ff4949",
+                  "lifetime": 120
+                },
+                { 
+                  "type": "WaveEffect",
+                  "sizeFrom": 0,
+                  "sizeTo": 22,
+                  "colorFrom": "ff4949",
+                  "colorTo": "ff0d0d",
+                  "lifetime": 120
+                },
+              {
+                "type": "ParticleEffect",
+                "particles": 16,
+                "length": 30,
+                "colorFrom": "ff4949",
+                "colorTo": "ff0d0d",
+                "lifetime": 240
+              },
+              {
+                "type": "ParticleEffect",
+                "particles": 16,
+                "length": 30,
+                "colorFrom": "ff0d0d",
+                "colorTo": "ff4949",
+                "lifetime": 240
+              }
+            ]
+          }
+       }
+	  },
     {
       "name": "hive-mg",
       "range": 200,
