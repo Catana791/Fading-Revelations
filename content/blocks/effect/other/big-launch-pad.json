@@ -7,12 +7,10 @@
   "lightColor": "8c0291",
   "consumes": {
     "power": 6,
-    "liquid": [
-      "liquid":{
-        "liquid": "water",
-        "amount": 12
-      }
-    ]
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.3
+    }
   },
   "category": "effect",
   "research": "mod-gate-effect",
