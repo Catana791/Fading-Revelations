@@ -6,7 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "craftTime": 90,
+  "craftTime": 60,
   "itemCapacity": 15,
   "consumes": {
     "power": 0.4,
