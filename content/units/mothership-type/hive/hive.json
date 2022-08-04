@@ -113,12 +113,6 @@
               "lifetime": 280,
               "fadeTime": 60,
               "colors":["861303", "ff0d0d", "ff4949"],
-              "lightning": 32,
-              "lightningAngle": 40,
-              "lightningLength": 10,
-              "lightningLengthRand": 2,
-              "lightningDamage": 12,
-              "lightningColor": "da2020",
               "hitEffect": {
                 "type": "MultiEffect",
                 "effects": [
@@ -176,6 +170,12 @@
         "status": "burning",
         "satusDuration": 60,
         "colors":["861303", "ff0d0d", "ff4949"]
+        "lightning": 8,
+              "lightningAngle": 40,
+              "lightningLength": 4,
+              "lightningLengthRand": 1,
+              "lightningDamage": 12,
+              "lightningColor": "da2020",
       }
     },
     {
