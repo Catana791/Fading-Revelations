@@ -9,7 +9,7 @@
   "craftTime": 60,
   "itemCapacity": 15,
   "consumes": {
-    "power": 0.2,
+    "power": 0.4,
   },
   "requirements": [
     {
