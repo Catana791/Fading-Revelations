@@ -44,7 +44,7 @@
         "type": "ExplosionEffect",
         "smokeColor": "282828",
         "smokeRad": 30,
-        "smokes: 42,
+        "smokes": 42,
         "smokeSize": 30,
         "sparks": 32,
         "sparkLen": 30,
