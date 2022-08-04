@@ -8,6 +8,12 @@
   "hasLiquids": false,
   "craftTime": 60,
   "itemCapacity": 30,
+  "craftEffect": {
+    "type": "WaveEffect",
+    "colorFrom": "f7cba4",
+    "colorTo": "d3ae8d",
+    "lifetime": 45,
+  },
   "consumes": {
     "power": 2,
   },
