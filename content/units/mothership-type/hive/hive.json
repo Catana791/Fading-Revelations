@@ -162,10 +162,10 @@
       "targetGround": false,
       "targetAir": true,
       "reload": 30,
-      "shootSound": "artillery",
+      "shootSound": "laser",
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 60,
+        "damage": 45,
         "length": 460,
         "status": "burning",
         "satusDuration": 60,
