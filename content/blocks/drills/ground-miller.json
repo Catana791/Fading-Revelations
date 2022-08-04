@@ -1,0 +1,34 @@
+{
+  "type": "GenericCrafter",
+  "name": "Ground Miller",
+  "description": "Grinds the ground at medium speeds and creates sand from it while using power.",
+  "size": 1,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 60,
+  "itemCapacity": 30,
+  "consumes": {
+    "power": 2,
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 100
+    },
+    {
+      "item": "lead",
+      "amount": 60
+    },
+    {
+      "item": "graphite",
+      "amount": 40
+    },
+  ],
+  "category": "ground-grinder",
+  "research": "mod-gate-drills",
+  "outputItem": {
+    "item": "sand",
+    "amount": 3
+  }
+}
