@@ -118,6 +118,7 @@
               "lightningLength": 10,
               "lightningLengthRand": 2,
               "lightningDamage": 12,
+              "lightningColor": "da2020",
               "hitEffect": {
                 "type": "MultiEffect",
                 "effects": [
