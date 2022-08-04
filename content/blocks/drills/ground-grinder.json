@@ -8,7 +8,6 @@
   "hasLiquids": false,
   "craftTime": 60,
   "itemCapacity": 15,
-  "craftEffect": "plastExplosion",
   "consumes": {
     "power": 0.2,
   },
