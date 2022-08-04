@@ -11,7 +11,9 @@
     "power": 6,
     "liquid": {
       "liquid": "water",
-      "amount": 0.3
+      "amount": 0.3,
+      "optional": false,
+      "booster": false
     }
   },
   "category": "effect",
