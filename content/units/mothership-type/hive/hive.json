@@ -113,6 +113,11 @@
               "lifetime": 280,
               "fadeTime": 60,
               "colors":["861303", "ff0d0d", "ff4949"],
+              "lightning": 32,
+              "lightningAngle": 40,
+              "lightningLength": 10,
+              "lightningLengthRand": 2,
+              "lightningDamage": 12,
               "hitEffect": {
                 "type": "MultiEffect",
                 "effects": [
@@ -182,7 +187,7 @@
       "rotateSpeed": 20,
       "targetAir": true,
       "y": 23,
-      "reload": 180,
+      "reload": 240,
       "continuous": true,
       "shootSound": "laserblast",
       "bullet": {
