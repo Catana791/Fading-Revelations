@@ -6,6 +6,7 @@
   "launchTime": 600,
   "lightColor": "8c0291",
   "itemCapacity": 200,
+  "size": 3,
   "consumes": {
     "power": 6,
     "liquid": {
