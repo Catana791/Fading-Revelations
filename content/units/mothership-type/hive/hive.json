@@ -55,7 +55,7 @@
             "bullet": {
               "type": "ContinuousLaserBulletType",
               "length": 450,
-              "width": 12,
+              "width": 16,
               "bulletInterval": 1,
               "makeFire": false,
               "status": "melting",
