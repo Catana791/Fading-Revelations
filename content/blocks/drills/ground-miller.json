@@ -2,7 +2,7 @@
   "type": "GenericCrafter",
   "name": "Ground Miller",
   "description": "Grinds the ground at medium speeds and creates sand from it while using power.",
-  "size": 1,
+  "size": 2,
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
