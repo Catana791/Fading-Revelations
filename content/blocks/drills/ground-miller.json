@@ -25,8 +25,8 @@
       "amount": 40
     },
   ],
-  "category": "ground-grinder",
-  "research": "mod-gate-drills",
+  "category": "production",
+  "research": "ground-grinder",
   "outputItem": {
     "item": "sand",
     "amount": 3
