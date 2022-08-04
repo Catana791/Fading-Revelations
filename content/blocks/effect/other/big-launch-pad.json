@@ -3,7 +3,7 @@
   "health": 740,
   "name": "Advanced Launch Pad",
   "description": "Uses technology infused with living steel to launch items faster than the regular launch pad.",
-  "launchTime": 600,
+  "launchTime": 780,
   "lightColor": "8c0291",
   "itemCapacity": 200,
   "size": 4,
