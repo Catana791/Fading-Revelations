@@ -62,8 +62,8 @@
               "statusDuration": 600,
               "damage": 45,
               "layer": 0,
-              "lifetime": 540,
-              "fadeTime": 240,
+              "lifetime": 350,
+              "fadeTime": 200,
               "colors":["861303", "ff0d0d", "ff4949"],
         }
 	 },
