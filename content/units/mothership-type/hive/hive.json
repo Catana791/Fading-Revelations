@@ -181,20 +181,20 @@
       "rotate": true,
       "targetAir": true,
       "y": 23,
-      "reload": 120,
+      "reload": 180,
       "shootcone": 360,
       "continuous": true,
       "shootSound": "laser",
       "bullet": {
         "type": "ContinuousLaserBulletType",
-              "length": 280,
+              "length": 320,
               "width": 6,
               "makeFire": false,
               "status": "melting",
               "statusDuration": 60,
               "damage": 10,
-              "lifetime": 100,
-              "fadeTime": 10,
+              "lifetime": 120,
+              "fadeTime": 20,
               "colors":["861303", "ff0d0d", "ff4949"]
       }
     }
