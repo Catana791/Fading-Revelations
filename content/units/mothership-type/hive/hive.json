@@ -87,20 +87,20 @@
               {
                 "type": "ParticleEffect",
                 "particles": 16,
-                "length": 60,
+                "length": 35,
                 "sizeFrom": 12,
                 "sizeTo": 10,
                 "colorFrom": "1d1d1d",
-                "colorTo": "2e2e2e",
+                "colorTo": "070707",
                 "lifetime": 420
               },
               {
                 "type": "ParticleEffect",
                 "particles": 16,
-                "length": 60,
+                "length": 35,
                 "sizeFrom": 12,
                 "sizeTo": 10,
-                "colorFrom": "2e2e2e",
+                "colorFrom": "070707",
                 "colorTo": "1d1d1d",
                 "lifetime": 420
               }
