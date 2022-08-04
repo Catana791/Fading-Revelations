@@ -7,7 +7,6 @@
   "lightColor": "8c0291",
   "itemCapacity": 200,
   "size": 4,
-  "podRegion": "me-big-launch-pad-launch-pod",
   "consumes": {
     "power": 6,
     "liquid": {
