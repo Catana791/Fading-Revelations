@@ -54,7 +54,7 @@
             "shootSound": "laserblast",
             "bullet": {
               "type": "ContinuousLaserBulletType",
-              "length": 450,
+              "length": 500,
               "width": 16,
               "bulletInterval": 1,
               "makeFire": false,
@@ -63,7 +63,6 @@
               "damage": 45,
               "layer": 0,
               "lifetime": 350,
-              "fadeTime": 200,
               "colors":["861303", "ff0d0d", "ff4949"],
         }
 	 },
