@@ -7,6 +7,8 @@
   "hasItems": true,
   "hasLiquids": false,
   "craftTime": 60,
+  "loopSound": "crush",
+  "loopsSoundVolume": 0.4,
   "itemCapacity": 30,
   "craftEffect": {
     "type": "WaveEffect",
