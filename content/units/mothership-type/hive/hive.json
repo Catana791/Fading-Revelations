@@ -179,6 +179,7 @@
       "x": -60,
       "targetGround": false,
       "rotate": true,
+      "rotateSpeed": 20,
       "targetAir": true,
       "y": 23,
       "reload": 180,
