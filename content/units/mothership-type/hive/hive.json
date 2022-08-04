@@ -47,6 +47,7 @@
             "alternate": false,
             "top": true,
             "x": 0,
+            "continuous": true,
             "y": -20,
             "reload": 600,
             "rotate": true,
@@ -57,24 +58,11 @@
               "type": "ContinuousLaserBulletType",
               "length": 450,
               "width": 12,
+              "bulletInterval": 1,
               "damage": 90,
-	            "lightning": 10,
               "lifetime": 300,
               "fadeTime": 120
-              "colors": ["cd5353", "ff0000", "8a2c2c"],
-	            "lightningLengthRand": 8,
-              "lightningCone": 35,
-              "lightningSpacing": 38,
-              "lightningLength": 12,
-              "lightningDelay": 0.8,
-              "lightningDamage": 50,
-              "lightningAngleRand": 45,
-              "lightColor": "ff0d0d",
-              "lightningColor": "ff0d0d",
               "colors":["861303", "ff0d0d", "ff4949"],
-              "sideAngle": 35,
-              "sideLength": 28,
-              "sideWidth": 2
         }
 	 },
     {
