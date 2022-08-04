@@ -158,17 +158,15 @@
       "rotate": true,
       "rotateSpeed": 20,
       "x": 40,
-      "y": 11,
+      "y": 8,
       "targetGround": false,
       "targetAir": true,
-      "reload": 2,
-      "shootcone": 360,
+      "reload": 30,
       "shootSound": "artillery",
       "bullet": {
-        "type": "BasicBulletType",
-        "speed": 8,
-        "damage": 44,
-        "pierce": true,
+        "type": "LaserBulletType",
+        "damage": 60,
+        "length": 460,
         "status": "burning",
         "satusDuration": 60
       }
