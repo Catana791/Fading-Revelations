@@ -62,7 +62,7 @@
               "statusDuration": 600,
               "damage": 45,
               "layer": 0,
-              "lifetime": 420,
+              "lifetime": 300,
               "colors":["861303", "ff0d0d", "ff4949"],
               "hitEffect": {
                 "type": "MultiEffect",
