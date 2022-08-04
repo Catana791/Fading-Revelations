@@ -168,7 +168,8 @@
         "damage": 60,
         "length": 460,
         "status": "burning",
-        "satusDuration": 60
+        "satusDuration": 60,
+        "colors":["861303", "ff0d0d", "ff4949"]
       }
     },
     {
