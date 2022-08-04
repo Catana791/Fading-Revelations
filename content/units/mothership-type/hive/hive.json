@@ -195,7 +195,15 @@
               "damage": 10,
               "lifetime": 120,
               "fadeTime": 20,
-              "colors":["861303", "ff0d0d", "ff4949"]
+              "colors":["861303", "ff0d0d", "ff4949"],
+        "hitEffect": {
+                  "type": "WaveEffect",
+                  "sizeFrom": 16,
+                  "sizeTo": 0,
+                  "colorFrom": "ff0d0d",
+                  "colorTo": "ff4949",
+                  "lifetime": 90 
+        }
       }
     },
     {
@@ -221,7 +229,15 @@
               "damage": 10,
               "lifetime": 120,
               "fadeTime": 20,
-              "colors":["861303", "ff0d0d", "ff4949"]
+              "colors":["861303", "ff0d0d", "ff4949"],
+  "hitEffect": {
+                  "type": "WaveEffect",
+                  "sizeFrom": 16,
+                  "sizeTo": 0,
+                  "colorFrom": "ff0d0d",
+                  "colorTo": "ff4949",
+                  "lifetime": 90 
+        }
       }
     }
   ],
