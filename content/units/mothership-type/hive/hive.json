@@ -183,6 +183,7 @@
       "y": 23,
       "reload": 120,
       "shootcone": 360,
+      "continuous": true,
       "shootSound": "laser",
       "bullet": {
         "type": "ContinuousLaserBulletType",
