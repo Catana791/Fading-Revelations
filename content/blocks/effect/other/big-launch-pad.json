@@ -5,6 +5,7 @@
   "description": "Uses technology infused with living steel to launch items faster than the regular launch pad.",
   "launchTime": 720,
   "lightColor": "8c0291",
+  "itemCapacity": 200,
   "consumes": {
     "power": 6,
     "liquid": {
