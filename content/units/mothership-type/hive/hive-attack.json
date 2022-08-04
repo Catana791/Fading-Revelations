@@ -37,7 +37,7 @@
         "damage": 50,
         "pierce": true,
         "pierceBuilding": true,
-        "pierceCap": 3,
+        "pierceCap": 4,
         "homingPower": 0.0003,
         "homingRange": 25
       }
