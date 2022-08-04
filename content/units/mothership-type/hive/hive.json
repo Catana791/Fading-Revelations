@@ -51,7 +51,7 @@
             "y": -20,
             "reload": 600,
             "rotate": false,
-            "shootSound": "laserblast",
+            "shootSound": "hive-meltdown",
             "bullet": {
               "type": "ContinuousLaserBulletType",
               "length": 500,
