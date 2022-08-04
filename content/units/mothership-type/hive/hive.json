@@ -199,7 +199,8 @@
               "colors":["861303", "ff0d0d", "ff4949"]
       }
     },
-    "name": "hive-laser",
+    {
+      "name": "hive-laser",
       "range": 280,
       "x": 60,
       "mirror": false,
