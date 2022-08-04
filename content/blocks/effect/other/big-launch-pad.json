@@ -5,11 +5,6 @@
   "description": "Uses technology infused with living steel to launch items faster than the regular launch pad.",
   "launchTime": 600,
   "lightColor": "8c0291",
-  "podRegion": {
-    "texture": "big-launch-pad-launch-pod",
-    "height": 128,
-    "width": 128
-  },
   "itemCapacity": 200,
   "size": 3,
   "consumes": {
