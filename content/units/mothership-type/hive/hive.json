@@ -88,8 +88,6 @@
                 "type": "ParticleEffect",
                 "particles": 8,
                 "length": 35,
-                "sizeFrom": 6,
-                "sizeTo": 4,
                 "colorFrom": "1d1d1d",
                 "colorTo": "070707",
                 "lifetime": 420
@@ -98,8 +96,6 @@
                 "type": "ParticleEffect",
                 "particles": 8,
                 "length": 35,
-                "sizeFrom": 6,
-                "sizeTo": 4,
                 "colorFrom": "070707",
                 "colorTo": "1d1d1d",
                 "lifetime": 420
