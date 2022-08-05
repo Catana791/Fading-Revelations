@@ -13,7 +13,6 @@ restitution: 0.02
 shootSound: laserbig
 shots: 3
 spread: 10
-shootSound: shootBig
 shootType: {
   type: ContinuousLaserBulletType
   damage: 90
