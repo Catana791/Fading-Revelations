@@ -42,7 +42,7 @@
   "baseRotateSpeed": 0.06,
   "weapons": [
     {
-      "name": "nothing",
+      "name": "sps-air-fr",
       "range": 200,
       "x": -29,
       "mirror": false,
@@ -59,7 +59,7 @@
       }
     },
     {
-      "name": "nothing",
+      "name": "sps-air-fr",
       "range": 200,
       "x": 29,
       "mirror": false,
@@ -76,7 +76,7 @@
       }
     },
     {
-      "name": "sps-air-bk",
+      "name": "sps-lancer-left",
       "range": 250,
       "x": -16,
       "rotate": true,
@@ -98,7 +98,7 @@
       }
     },
     {
-      "name": "sps-air-bk",
+      "name": "sps-sps-lancer-right",
       "range": 250,
       "x": 16,
       "rotate": true,
@@ -123,48 +123,19 @@
       "range": 350,
       "x": 0,
       "y": -4,
-      "reload": 250,
       "targetAir": false,
+      "alwaysContinuous": true,
       "targetGround": true,
       "shootCone": 360,
       "shotSound": "flakExplosion",
       "bullet": {
-        "type": "BasicBulletType",
-        "speed": 5,
-        "width": 21,
-        "rotate": false,
-        "lifetime": 120,
-        "height": 35,
-        "damage": 780,
-        "pierce": true,
-        "pierceCap": 22
-        "status": "burning",
-        "statusDuration": 240,
-        "fragBullets": 3,
-        "fragBullet": {
-          "type": "LaserBulletType",
-          "liquid": "slag",
-          "damage": 100,
-          "length": 100,
-          "pierce": true,
-          "pierceCap": 6
-          "speed": 10,
-          "lifetime": 5,
-          "status": "burning",
-          "statusDuration": 10,
-          "fragBullets": 3,
-          "fragBullet": {
-             "type": "LiquidBulletType",
-             "liquid": "slag",
-             "damage": 10,
-             "speed": 10,
-             "pierce": true,
-             "pierceCap": 2,
-             "lifetime": 20,
-             "status": "burning",
-             "statusDuration": 10
-          }
-        }
+        "type": "ContinuousLaserBulletType",
+        "width": 8,
+        "colors": ["6586b0", "87ceeb", "c0ecff"],
+        "status": "melting",
+        "statusDuration": 30,
+        "length": 350,
+        "damage": 20
       }
     }
   ],
