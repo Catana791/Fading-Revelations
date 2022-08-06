@@ -6,6 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
+  "attribute": "spores",
   "craftTime": 60,
   "craftEffect": "smeltsmoke",
   "updateEffect": "pulverize",
