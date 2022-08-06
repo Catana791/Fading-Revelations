@@ -101,8 +101,30 @@
             "y": -20,
             "reload": 600,
             "rotate": false,
+            "shotDelay": 60,
             "shootSound": "laserbig",
             "bullet": {
+              "chargeEffect": {
+                "type": "MultiEffect",
+                "effects": [
+                  {
+                    "type": "WaveEffect",
+                    "colorFrom": "d71c1c",
+                    "colorTo": "992323",
+                    "sizeFrom": 22,
+                    "sizeTo": 0,
+                    "lifetime": 55
+                  },
+                  {
+                    "type": "ParticleEffect",
+                    "interp": "circleIn",
+                    "sizeFrom": 6,
+                    "sizeTo": 0,
+                    "length": 18,
+                    "lifetime: 45
+                  }
+                ]
+              },
               "type": "ContinuousLaserBulletType",
               "length": 500,
               "width": 16,
