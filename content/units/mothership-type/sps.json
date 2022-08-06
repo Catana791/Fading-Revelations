@@ -130,7 +130,7 @@
       "continuous": true,
       "reload": 600,
       "targetGround": true,
-      "shotSound": "laserbig",
+      "shootSound": "laserbig",
       "bullet": {
         "type": "ContinuousLaserBulletType",
         "width": 6,
