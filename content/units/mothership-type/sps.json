@@ -49,32 +49,33 @@
       "rotate": true,
       "targetAir": true,
       "y": 18,
-      "reload": 2,
+      "reload": 30,
       "shootcone": 360,
       "shootSound": "shoot",
       "bullet": {
-        "type": "BasicBulletType",
-        "speed": 10,
-        "damage": 5,
-        "pierce": false
+        "type": "LaserBulletType",
+        "damage": 60,
+        "width": 6,
+        "length": 200,
+        "colors": ["6586b0", "87ceeb", "c0ecff"]
       }
     },
-    {
-      "name": "nothing",
+    "name": "nothing",
       "range": 200,
-      "x": 29,
+      "x": -29,
       "targetGround": true,
       "rotate": true,
       "targetAir": true,
       "y": 18,
-      "reload": 1,
+      "reload": 30,
       "shootcone": 360,
       "shootSound": "shoot",
       "bullet": {
-        "type": "BasicBulletType",
-        "speed": 10,
-        "damage": 1,
-        "pierce": false
+        "type": "LaserBulletType",
+        "damage": 60,
+        "width": 6,
+        "length": 200,
+        "colors": ["6586b0", "87ceeb", "c0ecff"]
       }
     },
     {
