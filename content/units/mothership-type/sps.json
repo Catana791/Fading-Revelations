@@ -60,7 +60,8 @@
         "colors": ["6586b0", "87ceeb", "c0ecff"]
       }
     },
-    "name": "nothing",
+    {
+      "name": "nothing",
       "range": 200,
       "x": -29,
       "targetGround": true,
