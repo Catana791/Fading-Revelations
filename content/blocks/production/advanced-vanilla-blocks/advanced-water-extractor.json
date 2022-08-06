@@ -5,6 +5,7 @@
   "health": 320,
   "result": "water",
   "hasPower": true,
+  "attribute": "water",
   "hasLiquids": true,
   "size": 3,
   "affinities": ["sand"],
