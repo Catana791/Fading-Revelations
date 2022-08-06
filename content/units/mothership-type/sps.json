@@ -61,7 +61,7 @@
     {
       "name": "nothing",
       "range": 200,
-      "x": -29,
+      "x": 29,
       "mirror": false,
       "rotate": true,
       "y": 18,
@@ -88,7 +88,7 @@
       "bullet": {
         "type": "ContinuousLaserBulletType",
         "length": 250,
-        "width": 12,
+        "width": 4,
         "damage": 10,
         "lifetime": 120,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
@@ -109,7 +109,7 @@
       "bullet": {
         "type": "ContinuousLaserBulletType",
         "length": 250,
-        "width": 12,
+        "width": 4,
         "damage": 10,
         "lifetime": 120,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
