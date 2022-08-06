@@ -32,7 +32,7 @@ rotate: false
 shootEffect: none
 bullet: {
 type: LaserBulletType
-damage: 30
+damage: 40
 speed: 10
 drag: -0.0015
 pierce: true
