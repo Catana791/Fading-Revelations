@@ -42,7 +42,7 @@
   "weapons": [
 { 
 "name": "nothing", 
-"shootSound": "explosion", 
+"shootSound": "missile", 
 "range": 100, 
 "rotate": true, 
 "mirror": false, 
