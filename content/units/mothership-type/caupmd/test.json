@@ -66,6 +66,7 @@
 }
 },
     {
+      ##todoaddcustombulletsprite
       "name": "corruption-shooter",
       "shootSound": "wave",
       "reload": 300,
