@@ -1,5 +1,5 @@
 {
-  "type": "GenericCrafter",
+  "type": "AttributeCrafter",
   "name": "Greenhouse",
   "description": "A better cultivator that creates a lot more spore pods.",
   "size": 3,
