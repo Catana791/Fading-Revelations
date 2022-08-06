@@ -95,27 +95,6 @@
       "name": "hive-nuke",
             "mirror": false,
             "alternate": false,
-      "shootEffect": {
-                "type": "MultiEffect",
-                "effects": [
-                  {
-                    "type": "WaveEffect",
-                    "colorFrom": "d71c1c",
-                    "colorTo": "992323",
-                    "sizeFrom": 22,
-                    "sizeTo": 0,
-                    "lifetime": 55
-                  },
-                  {
-                    "type": "ParticleEffect",
-                    "interp": "circleIn",
-                    "sizeFrom": 6,
-                    "sizeTo": 0,
-                    "length": 18,
-                    "lifetime": 45
-                  }
-                ]
-              },
             "x": 0,
             "continuous": true,
             "y": -20,
