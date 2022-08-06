@@ -20,7 +20,7 @@
   "weapons": [
     {
       "name": "tentacle-sniper",
-      "range": 200,
+      "range": 600,
       "x": 0,
       "rotate": false,
       "inaccuracy": 0,
