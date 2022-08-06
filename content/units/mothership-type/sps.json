@@ -44,10 +44,10 @@
     {
       "name": "sps-air-fr",
       "range": 200,
-      "x": -29,
+      "x": -28,
       "mirror": false,
       "rotate": true,
-      "y": 18,
+      "y": 8,
       "reload": 30,
       "shootSound": "laser",
       "bullet": {
@@ -61,10 +61,10 @@
     {
       "name": "sps-air-fr",
       "range": 200,
-      "x": 29,
+      "x": 28,
       "mirror": false,
       "rotate": true,
-      "y": 18,
+      "y": 8,
       "reload": 30,
       "shootSound": "laser",
       "bullet": {
