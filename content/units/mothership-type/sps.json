@@ -134,7 +134,7 @@
       "bullet": {
         "type": "ContinuousLaserBulletType",
         "width": 6,
-        "lifetime": 480,
+        "lifetime": 360,
         "fadeTime": 60,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
         "status": "melting",
