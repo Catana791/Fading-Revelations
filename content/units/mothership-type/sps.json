@@ -87,7 +87,7 @@
       "bullet": {
         "type": "ContinuousLaserBulletType",
         "length": 250,
-        "width": 4,
+        "width": 2,
         "damage": 10,
         "lifetime": 120,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
@@ -110,7 +110,7 @@
       "bullet": {
         "type": "ContinuousLaserBulletType",
         "length": 250,
-        "width": 4,
+        "width": 2,
         "damage": 10,
         "lifetime": 120,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
@@ -133,7 +133,7 @@
       "shotSound": "laserbig",
       "bullet": {
         "type": "ContinuousLaserBulletType",
-        "width": 8,
+        "width": 6,
         "lifetime": 420,
         "fadeTime": 60,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
