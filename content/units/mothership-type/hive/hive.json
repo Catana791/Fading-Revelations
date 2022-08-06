@@ -102,9 +102,8 @@
             "reload": 600,
             "rotate": false,
             "shotDelay": 60,
-            "shootSound": "laserbig",
-            "bullet": {
-              "chargeEffect": {
+            "firstShotDelay": 60,
+            "chargeEffect": {
                 "type": "MultiEffect",
                 "effects": [
                   {
@@ -125,6 +124,8 @@
                   }
                 ]
               },
+            "shootSound": "laserbig",
+            "bullet": {
               "type": "ContinuousLaserBulletType",
               "length": 500,
               "width": 16,
