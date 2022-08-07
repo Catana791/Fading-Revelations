@@ -6,6 +6,9 @@
   "speed": 0.9,
   "buildRange": 80,
   "buildSpeed": 5,
+  "itemCapacity": 
+  "range": 320,
+  "itemCapacity": 100,
   "defaultCommand": "assistCommand",
   "canAttack": false,
   "category": "unit",
