@@ -4,6 +4,7 @@ valleyOfDespair.difficulty = 10;
 valleyOfDespair.localizedName = "Valley of Despair";
 valleyOfDespair.alwaysUnlocked = true;
 valleyOfDespair.research = "nuclearComplex";
+valleyOfDespair.preset = "valleyOfDespair";
 
 module.exports = {
   valleyOfDespair: valleyOfDespair
