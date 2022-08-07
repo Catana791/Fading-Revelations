@@ -57,7 +57,8 @@
         "lightningLength": 26,
         "lightning": 2,
         "lightningAngle": 10,
-        "lightningDamage": 5,
+        "lightningDamage": 5
+      }
     }
   ],
   "abilities": [
