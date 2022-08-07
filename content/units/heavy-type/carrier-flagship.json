@@ -35,56 +35,54 @@
   "armor": 9,
   "rotateWeapon": false,
   "rotatespeed": 0.03,
-  "weapons": [
-    {
-      "name": "nothing", 
-      "range": 150,
-      "rotate": true, 
-      "x": -14.8,
-      "mirror": true, 
-      "y": 0.5,  
-      "reload": 5, 
-      "bullet": { 
-        "type": "MissileBulletType", 
-        "width": 9, 
-        "speed": 2, 
-        "damage": 40,
-        "height": 12, 
-        "bulletShrink": 0, 
-        "drag": -0.002,
-        "homingRange": 50, 
-        "keepVelocity": false, 
-        "splashDamageRadius": 10, 
-        "splashDamage": 4, 
-        "lifetime": 260, 
-        "trailColor": "67bb26", 
-        "backColor": "1a1a1a", 
-        "frontColor": "1b1b1b", 
-        "weaveScale": 10, 
-        "weaveMag": 1
-      }
-    } 
-  ],
   "abilities": [
     {
       "type": "UnitSpawnAbility",
-      "unit": "flare",
-      "spawnX": -2,
-      "spawnY": -2,
-      "spawnTime": 500
+      "unit": "zenith",
+      "spawnX": 0,
+      "spawnY": -1,
+      "spawnTime": 600
     },
     {
       "type": "UnitSpawnAbility",
       "unit": "horizon",
       "spawnX": 0,
       "spawnY": -1,
-      "spawnTime": 500
+      "spawnTime": 300
     },
     {
-      "type": "RepairFieldAbility",
-      "range": 60,
-      "amount": 20,
-      "reload": 60
+      "type": "EnergyFieldAbility",
+      "color": "3bbe29",
+      "damage": 20,
+      "damageEffect": {
+        "type": "ParticleEffect",
+        "particles": 8,
+        "colorFrom": "cb3636",
+        "colorTo": "b12f2f",
+        "interp": "circleIn"
+      },
+      "hitBuildings": true,
+      "hitUnits": true,
+      "hitEffect": {
+        "type": "ParticleEffect",
+        "particles": 8,
+        "colorFrom": "efe417",
+        "colorTo": "cfc511",
+        "interp": "circleIn",
+      },
+      "maxTargets": 16,
+      "healPercent": 10,
+      "healEffect": {
+        "type": "ParticleEffect",
+        "particles": 8,
+        "colorFrom": "87e422",
+        "colorTo": "70b921",
+        "interp": "circleIn",
+      },
+      "range": 48,
+      "reload": 60,
+      "targetAir": true,
+      "targetGround": true
     }
   ]
 }
