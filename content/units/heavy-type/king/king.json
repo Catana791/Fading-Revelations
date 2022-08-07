@@ -116,5 +116,6 @@
   ],
   "category": "units",
   "research": "tentacle",
-  "shootSound": "missile"
+  "shootSound": "missile",
+  "hitSize": 40
 }
