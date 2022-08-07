@@ -34,7 +34,7 @@
   "maxVelocity": 1.02,
   "mass": 10,
   "commandLimit": 21,
-  "hitsize": 45,
+  "hitsize": 44,
   "health": 11000,
   "armor": 24,
   "rotateWeapon": true,
