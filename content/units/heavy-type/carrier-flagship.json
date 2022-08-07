@@ -6,14 +6,7 @@
   "speed": 0.9,
   "buildRange": 80,
   "buildSpeed": 2.5,
-  "defaultCommands": [
-    {
-      "name": "repairCommand" 
-    },
-    {
-      "name": "assistCommand" 
-    }
-  ],
+  "defaultCommand": "assistCommand",
   "canAttack": false,
   "category": "unit",
   "research": {
