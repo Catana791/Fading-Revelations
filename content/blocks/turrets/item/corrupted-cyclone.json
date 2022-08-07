@@ -8,7 +8,6 @@
   "reloadTime": 10,
   "range": 200,
   "size": 3,
-  "fullIcon": "corrupted-cyclone-icon",
   "squareSprite": false,
   "targetAir": true,
   "targetGround": true,
