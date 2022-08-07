@@ -1,5 +1,8 @@
-const valleyOfDespair = extend(SectorPreset, "valleyOfDespair", serpulo, 7, {
-  localizedName: "Valley of Despair",
-  difficulty: 10,
-  alwaysUnlocked: true
-});
+const valleyOfDespair = new SectorPreset("valleyOfDespair", Planets.serpulo, 7);
+valleyOfDespair.captureWave = 100;
+valleyOfDespair.difficulty = 10;
+valleyOfDespair.localizedName = "Valley of Despair";
+
+module.exports = {
+  valleyOfDespair: valleyOfDespair
+};
