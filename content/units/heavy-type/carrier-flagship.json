@@ -91,7 +91,7 @@
       "activeEffect": {
         "type": "WaveEffect",
         "sizeFrom": 0,
-        "sizeTo": 28,
+        "sizeTo": 40,
         "colorFrom": "87e422",
         "colorTo": "70b921"
       }
