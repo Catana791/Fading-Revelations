@@ -7,6 +7,7 @@
   "commandLimit": 4,
   "speed": 1.5,
   "type": "legs",
+  "legCount": 0,
   "rotateSpeed": 4,
   "armor": 0,
   "range": 16,
