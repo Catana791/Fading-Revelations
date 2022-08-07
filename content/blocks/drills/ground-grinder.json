@@ -17,6 +17,7 @@
     "colorFrom": "f7cba4",
     "colorTo": "d3ae8d"
     "particles": 1,
+    "length": -1
   },
   "consumes": {
     "power": 1,
