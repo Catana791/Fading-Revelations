@@ -4,5 +4,5 @@ valleyOfDespair.difficulty = 10;
 valleyOfDespair.localizedName = "Valley of Despair";
 
 module.exports = {
-  valleyOfDespair = valley-of-despair
+  valleyOfDespair = valleyOfDespair
 };
