@@ -51,38 +51,17 @@
       "spawnTime": 300
     },
     {
-      "type": "EnergyFieldAbility",
-      "color": "3bbe29",
-      "damage": 20,
-      "damageEffect": {
-        "type": "ParticleEffect",
-        "particles": 8,
-        "colorFrom": "cb3636",
-        "colorTo": "b12f2f",
-        "interp": "circleIn"
-      },
-      "hitBuildings": true,
-      "hitUnits": true,
-      "hitEffect": {
-        "type": "ParticleEffect",
-        "particles": 8,
-        "colorFrom": "efe417",
-        "colorTo": "cfc511",
-        "interp": "circleIn",
-      },
-      "maxTargets": 16,
-      "healPercent": 10,
+      "type": "RepairFieldAbility",
+      "amount": 30,
+      "range": 48,
+      "reload": 60,
       "healEffect": {
         "type": "ParticleEffect",
         "particles": 8,
         "colorFrom": "87e422",
         "colorTo": "70b921",
         "interp": "circleIn",
-      },
-      "range": 48,
-      "reload": 60,
-      "targetAir": true,
-      "targetGround": true
+      }
     }
   ]
 }
