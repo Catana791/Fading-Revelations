@@ -61,6 +61,13 @@
         "colorFrom": "87e422",
         "colorTo": "70b921",
         "interp": "circleIn",
+      },
+      "activeEffect": {
+        "type": "WaveEffect",
+        "sizeFrom": 0,
+        "sizeTo": 12,
+        "colorFrom": "87e422",
+        "colorTo": "70b921"
       }
     }
   ]
