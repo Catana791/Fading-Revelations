@@ -47,7 +47,7 @@
       "name": "nothing",
       "x": 4,
       "y": 2,
-      "reload": 60,
+      "reload": 30,
       "alternate": true,
       "mirror": true,
       "range": 64,
@@ -55,8 +55,7 @@
         "type": "LightningBulletType",
         "damage": 15,
         "lightningColor": "13d5c8",
-        "lightningLength": 52,
-        "lightningLengthRand": 12,
+        "lightningLength": 26,
         "lightning": 2,
         "lightningAngle": 10,
         "lightningDamage": 5
