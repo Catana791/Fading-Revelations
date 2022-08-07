@@ -115,5 +115,6 @@
   ],
   "category": "units",
   "research": "king",
-  "shootSound": "missile"
+  "shootSound": "missile",
+"hitSize": 45
 }
