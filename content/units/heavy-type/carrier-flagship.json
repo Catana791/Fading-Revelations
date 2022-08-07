@@ -4,6 +4,16 @@
   "description": "A water flagship carrier. Has no weapons but constructs horizon, flare and mono units and has a healing field.",
   "drag": 0.15,
   "speed": 0.9,
+  "buildRange": 80,
+  "buildSpeed": 2.5,
+  "defaultCommands": [
+    {
+      "name": "repairCommand" 
+    },
+    {
+      "name": "assistCommand" 
+    }
+  ],
   "canAttack": false,
   "category": "unit",
   "research": {
@@ -42,7 +52,7 @@
       "unit": "zenith",
       "spawnX": 0,
       "spawnY": -1,
-      "spawnTime": 600
+      "spawnTime": 1200
     },
     {
       "type": "UnitSpawnAbility",
