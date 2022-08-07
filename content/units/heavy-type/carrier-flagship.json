@@ -4,6 +4,7 @@
   "description": "A water flagship carrier. Has no weapons but constructs horizon, flare and mono units and has a healing field.",
   "drag": 0.15,
   "speed": 0.9,
+  "canAttack": false,
   "category": "unit",
   "research": {
     "parent": "king",
