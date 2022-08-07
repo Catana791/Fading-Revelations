@@ -80,7 +80,6 @@
         "type": "BasicBulletType",
         "width": 3,
         "height": 3,
-        "lifetime": 5,
         "collides": true,
         "collidesAir": false,
         "collidesGround": true,
