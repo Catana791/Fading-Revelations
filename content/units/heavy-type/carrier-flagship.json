@@ -58,7 +58,28 @@
         "lightningLength": 26,
         "lightning": 2,
         "lightningAngle": 10,
-        "lightningDamage": 5
+        "lightningDamage": 5,
+        "hitEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "sizeFrom": 16,
+              "sizeTo": 16,
+              "lifetime": 20,
+              "colorFrom": "13d5c8",
+              "colorTo": "13d5c8"
+            },
+            {
+              "type": "ParticleEffect",
+              "sizeFrom": 8,
+              "sizeTo": 7,
+              "colorFrom": "13d5c8",
+              "colorTo": "13d5c8",
+              "lifetime": 20
+            }
+          ]
+        }
       }
     }
   ],
