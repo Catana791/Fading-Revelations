@@ -15,7 +15,7 @@
     "colorFrom": "f7cba4",
     "colorTo": "d3ae8d",
     "lifetime": 45,
-    "sizeFrom": 10,
+    "sizeFrom": 8,
     "sizeTo": 0
   },
   "consumes": {
