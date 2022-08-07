@@ -84,6 +84,7 @@
         "collidesAir": false,
         "collidesGround": true,
         "collidesTeam": false,
+        "lifetime": 5,
         "speed": 50,
         "length": 3,
         "fragBullets": 1,
