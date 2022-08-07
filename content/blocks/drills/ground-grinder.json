@@ -11,13 +11,12 @@
   "craftTime": 60,
   "itemCapacity": 15,
   "craftEffect": {
-    "type": "ParticleEffect",
-    "sizeFrom": 2,
-    "sizeTo": 1.6,
+    "type": "WaveEffect",
     "colorFrom": "f7cba4",
-    "colorTo": "d3ae8d"
-    "particles": 1,
-    "length": -1
+    "colorTo": "d3ae8d",
+    "lifetime": 45,
+    "sizeFrom": 6,
+    "sizeTo": 0
   },
   "consumes": {
     "power": 1,
