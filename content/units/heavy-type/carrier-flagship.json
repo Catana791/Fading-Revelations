@@ -6,7 +6,7 @@
   "speed": 0.9,
   "buildRange": 80,
   "buildSpeed": 5,
-  "itemCapacity": 
+  "itemCapacity": 100,
   "range": 320,
   "itemCapacity": 100,
   "defaultCommand": "assistCommand",
