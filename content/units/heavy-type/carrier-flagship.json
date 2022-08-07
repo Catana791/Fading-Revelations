@@ -10,7 +10,6 @@
   "range": 320,
   "itemCapacity": 100,
   "defaultCommand": "assistCommand",
-  "canAttack": false,
   "category": "unit",
   "research": {
     "parent": "king",
