@@ -5,7 +5,7 @@
   "drag": 0.15,
   "speed": 0.9,
   "buildRange": 80,
-  "buildSpeed": 2.5,
+  "buildSpeed": 5,
   "defaultCommand": "assistCommand",
   "canAttack": false,
   "category": "unit",
