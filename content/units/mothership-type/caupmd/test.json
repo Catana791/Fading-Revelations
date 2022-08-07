@@ -233,5 +233,6 @@
       "spawnY": -20,
       "spawnTime": 200
     }
-  ]
+  ],
+"hitSize": 53
 }
