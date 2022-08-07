@@ -44,6 +44,7 @@ collide: true
 collideAir: false
 collideTeam: false
 collideTile: false
+hitSize: 13
 }
 }
 ]
