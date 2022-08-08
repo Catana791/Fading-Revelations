@@ -4,11 +4,11 @@
   "description": "The Corrupted Attack Unit Programmed To Mass Destruction (short C.A.U.P.M.D) was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
   "speed": 1.2,
   "legCount": 6,
-  "legLength": 160,
+  "legLength": 100,
   "legGroupSize": 1,
   "legSpeed": 1,
-  "legMinLength": 140,
-  "legMaxLength": 180,
+  "legMinLength": 80,
+  "legMaxLength": 110,
   "research": {
     "parent": "sps",
     "requirements": [
