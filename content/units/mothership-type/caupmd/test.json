@@ -6,7 +6,7 @@
   "legCount": 8,
   "legMoveSpace": 0.8,
   "legPairOffset": 3,
-  "legLength": 75,
+  "legLength": 100,
   "legExtension": -20,
   "legBaseOffset": 8,
   "stepShake": 1.5,
