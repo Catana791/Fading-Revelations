@@ -45,9 +45,11 @@
       "name": "nothing",
       "x": 4,
       "y": 2,
-      "reload": 30,
+      "reload": 10,
       "alternate": true,
       "mirror": true,
+      "rotate": true,
+      "rotateSpeed": 20,
       "range": 64,
       "bullet": {
         "type": "LightningBulletType",
