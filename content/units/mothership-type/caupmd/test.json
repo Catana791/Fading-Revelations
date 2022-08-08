@@ -32,7 +32,6 @@
   "maxVelocity": 1.05,
   "mass": 20,
   "commandLimit": 10,
-  "flying": true,
   "faceEnemy": true,
   "hitSize": 75,
   "health": 19000,
