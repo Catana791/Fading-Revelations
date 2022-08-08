@@ -11,7 +11,7 @@
   "legBaseOffset": 8,
   "stepShake": 1.5,
   "LegLengthScl": 0.93,
-  "rippleScale": 3,
+  "rippleScale": 12,
   "legSpeed": 0.19,
   "legSplashDamage": 120,
   "legSplashRange": 72,
