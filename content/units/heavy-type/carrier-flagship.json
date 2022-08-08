@@ -36,8 +36,6 @@
   "maxVelocity": 0.95,
   "mass": 10,
   "commandLimit": 10,
-  "flying": true,
-  "hitsize": 45,
   "health": 5800,
   "armor": 9,
   "rotateWeapon": false,
