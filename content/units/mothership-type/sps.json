@@ -97,7 +97,7 @@
       }
     },
     {
-      "name": "sps-sps-lancer-right",
+      "name": "sps-sps-lancer-left",
       "range": 250,
       "x": 16,
       "rotate": true,
