@@ -44,10 +44,10 @@
     {
       "name": "sps-air-fr",
       "range": 200,
-      "x": -28,
+      "x": -56,
       "mirror": false,
       "rotate": true,
-      "y": 8,
+      "y": 16,
       "reload": 30,
       "shootSound": "laser",
       "bullet": {
@@ -61,10 +61,10 @@
     {
       "name": "sps-air-fr",
       "range": 200,
-      "x": 28,
+      "x": 56,
       "mirror": false,
       "rotate": true,
-      "y": 8,
+      "y": 16,
       "reload": 30,
       "shootSound": "laser",
       "bullet": {
@@ -78,10 +78,10 @@
     {
       "name": "sps-lancer-left",
       "range": 250,
-      "x": -16,
+      "x": -32,
       "rotate": true,
       "continuous": true,
-      "y": -6,
+      "y": -12,
       "reload": 240,
       "shootSound": "laserblast",
       "bullet": {
@@ -99,9 +99,9 @@
     {
       "name": "sps-sps-lancer-left",
       "range": 250,
-      "x": 16,
+      "x": 32,
       "rotate": true,
-      "y": -6,
+      "y": -12,
       "continuous": true,
       "reload": 240,
       "recoil": 4,
@@ -123,7 +123,7 @@
       "name": "sps-rail",
       "range": 350,
       "x": 0,
-      "y": -4,
+      "y": -8,
       "recoil": 8,
       "recoilTime": 180,
       "targetAir": false,
