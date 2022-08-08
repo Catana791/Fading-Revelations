@@ -7,6 +7,7 @@
   "legLength": 160,
   "legGroupSize": 1,
   "legSpeed": 1,
+  "legExtension": 0,
   "legStraightLength": 160,
   "legContinuousMove": true,
   "lockLegBase": true,
