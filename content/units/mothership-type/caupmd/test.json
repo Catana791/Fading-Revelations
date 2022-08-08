@@ -9,7 +9,7 @@
   "legLength": 120,
   "legExtension": -20,
   "legBaseOffset": 8,
-  "stepShake": 2,
+  "stepShake": 8,
   "legLengthScl": 0.93,
   "rippleScale": 8,
   "legSpeed": 0.19,
