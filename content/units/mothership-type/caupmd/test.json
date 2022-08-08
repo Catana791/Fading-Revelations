@@ -64,8 +64,8 @@
       "bullet": {
         "type": "ContinuousLaserBulletType",
         "length": 500,
-        "width": 8,
-        "damage": 20,
+        "width": 4,
+        "damage": 10,
         "lifetime": 160,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
         "fadeTime": 40,
@@ -87,8 +87,8 @@
       "bullet": {
         "type": "ContinuousLaserBulletType",
         "length": 500,
-        "width": 8,
-        "damage": 30,
+        "width": 4,
+        "damage": 15,
         "lifetime": 160,
         "colors": ["c85c51", "ff795e", "dc796e"],
         "fadeTime": 40,
