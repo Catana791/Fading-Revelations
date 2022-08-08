@@ -3,7 +3,7 @@
   "name": "Carrier Flagship",
   "description": "A water flagship carrier. Has no weapons but constructs horizon, flare and mono units and has a healing field.",
   "drag": 0.15,
-  "speed": 0.9,
+  "speed": 2.7,
   "naval": true,
   "buildRange": 80,
   "buildSpeed": 5,
