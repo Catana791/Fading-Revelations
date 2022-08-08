@@ -5,7 +5,7 @@
   "speed": 1.2,
   "legCount": 6,
   "legLength": 160,
-  "legGroupSize": 3,
+  "legGroupSize": 1,
   "legSpeed": 1,
   "legMinLength": 140,
   "legMaxLength": 180,
