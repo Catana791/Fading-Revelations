@@ -150,12 +150,12 @@
       "type": "UnitSpawnAbility",
       "unit": "lancer-drone",
       "spawnX": 0,
-      "spawnY": -15,
+      "spawnY": -30,
       "spawnTime": 420
     },
     {
       "type": "ForceFieldAbility",
-      "radius": 55,
+      "radius": 110,
       "regen": 2.5,
       "max": 9000,
       "cooldown": 600
