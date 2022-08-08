@@ -52,7 +52,7 @@
   "weapons": [
     { 
       "name": "corruption-shooter",
-      "x": -40,
+      "x": -30,
       "y": -20,
       "reload": 420,
       "mirror": false,
@@ -75,7 +75,7 @@
     },
     { 
       "name": "corruption-shooter",
-      "x": 40,
+      "x": 30,
       "y": -20,
       "reload": 420,
       "mirror": false,
