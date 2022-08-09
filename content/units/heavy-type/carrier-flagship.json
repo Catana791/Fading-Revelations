@@ -1,7 +1,7 @@
 {
   "type": "naval",
   "name": "Carrier Flagship",
-  "description": "A water flagship carrier. Has no weapons but constructs horizon, flare and mono units and has a healing field.",
+  "description": "A water flagship carrier. Equipped with just a simple energy arc weapon but creates Horizon and Zenith units and has a healing field.",
   "drag": 0.15,
   "speed": 2.7,
   "naval": true,
