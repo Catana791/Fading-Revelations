@@ -53,7 +53,7 @@
       "pierce": true,
       "width": 6,
       "inaccuracy": 8,
-      "ammoMultiplier": 20
+      "ammoMultiplier": 15
     },
     "homing-ammo": {
       "type": "MissileBulletType",
@@ -64,7 +64,7 @@
       "lifetime": 25,
       "height": 12,
       "pierce": true,
-      "ammoMultiplier": 20
+      "ammoMultiplier": 15
       "width": 6,
       "inaccuracy": 5,
       "homingPower": 0.2,
@@ -82,7 +82,7 @@
       "width": 6,
       "inaccuracy": 4,
       "status": "slow",
-      "ammoMultiplier": 20,
+      "ammoMultiplier": 15,
       "statusDuration": 3
     },
     "nano-ammo": {
@@ -93,7 +93,7 @@
       "splashDamage": 1,
       "splashDamageRadius": 1,
       "status": "burning",
-      "ammoMultiplier": 20,
+      "ammoMultiplier": 15,
       "statusDuration": 8000000
     }
   },
