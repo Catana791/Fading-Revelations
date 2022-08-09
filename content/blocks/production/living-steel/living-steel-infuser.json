@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Living Steel Infusion Chamber",
   "description": "Crafts living steel by infusing titanium with spores.",
   "size": 2,
