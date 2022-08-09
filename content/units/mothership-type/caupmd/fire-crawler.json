@@ -1,7 +1,7 @@
 {
   "name": "Toruct",
-  "description": "Equipped with a small version of the Tritantis' fire laser, this unit can set it's targets on fire.",
-  "details": "Spawned by the Tritantis mothership.",
+  "description": "Equipped with a small version of the Tritantes' fire laser, this unit can set it's targets on fire.",
+  "details": "Spawned by the Tritantes mothership.",
   "health": 660,
   "flying": false,
   "legCount": 6,
