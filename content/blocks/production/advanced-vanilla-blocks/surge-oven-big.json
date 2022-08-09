@@ -7,7 +7,6 @@
   "hasItems": true,
   "hasLiquids": false,
   "craftTime": 130,
-  "craftEffect": "pulverizeRedder",
   "updateEffect": "hitMeltdown",
   "consumes": {
     "power": 6,
