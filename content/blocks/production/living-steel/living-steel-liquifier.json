@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Living Steel Liquifying Chamber",
   "description": "Liquifies living steel by infusing it with oil.",
   "size": 2,
