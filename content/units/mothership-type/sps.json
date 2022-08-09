@@ -82,7 +82,7 @@
       "rotate": true,
       "continuous": true,
       "y": -12,
-      "reload": 240,
+      "reload": 200,
       "shootSound": "laserblast",
       "bullet": {
         "type": "ContinuousLaserBulletType",
@@ -129,7 +129,7 @@
       "targetAir": false,
       "continuous": true,
       "mirror": false,
-      "reload": 600,
+      "reload": 500,
       "targetGround": true,
       "shootSound": "laserbig",
       "bullet": {
