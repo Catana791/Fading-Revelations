@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Induced Kiln",
   "description": "A better kiln that is more cost-efficient.",
   "size": 3,
