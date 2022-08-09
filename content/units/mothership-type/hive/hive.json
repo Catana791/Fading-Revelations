@@ -108,7 +108,7 @@
               "makeFire": false,
               "status": "melting",
               "statusDuration": 600,
-              "damage": 60,
+              "damage": 75,
               "layer": 0,
               "lifetime": 280,
               "fadeTime": 60,
@@ -166,7 +166,7 @@
       "shootSound": "laser",
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 60,
+        "damage": 80,
         "length": 460,
         "status": "burning",
         "satusDuration": 60,
@@ -187,7 +187,7 @@
       "shootSound": "laser",
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 60,
+        "damage": 80,
         "length": 460,
         "status": "burning",
         "satusDuration": 60,
@@ -214,7 +214,7 @@
               "makeFire": false,
               "status": "melting",
               "statusDuration": 60,
-              "damage": 15,
+              "damage": 30,
               "lifetime": 120,
               "fadeTime": 20,
               "colors":["861303", "ff0d0d", "ff4949"],
@@ -248,7 +248,7 @@
               "makeFire": false,
               "status": "melting",
               "statusDuration": 60,
-              "damage": 15,
+              "damage": 30,
               "lifetime": 120,
               "fadeTime": 20,
               "colors":["861303", "ff0d0d", "ff4949"],
@@ -281,7 +281,7 @@
     {
       "type": "ForceFieldAbility",
       "radius": 115,
-      "regen": 5.8,
+      "regen": 20,
       "max": 20900,
       "cooldown": 600
     }
