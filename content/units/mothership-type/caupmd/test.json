@@ -64,7 +64,7 @@
       "rotateSpeed": 3,
       "ejectEffect": "casing1",
       "shootSound": "shootBig",
-      "rotate": true",
+      "rotate": true,
       "mirror": false,
       "recoil": 4,
       "bullet": {
@@ -93,7 +93,7 @@
       "rotateSpeed": 3,
       "ejectEffect": "casing1",
       "shootSound": "shootBig",
-      "rotate": true",
+      "rotate": true,
       "mirror": false,
       "recoil": 4,
       "bullet": {
