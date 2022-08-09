@@ -1,6 +1,6 @@
 {
   "name": "Reduct",
-  "description": "Uses a tiny version of the Reclusa's weapon, freezing it's targets.",
+  "description": "Equipped with a small version of the Reclusa's frost laser, this unit can freeze it's targets.",
   "details": "Spawned by the Reclusa mothership.",
   "health": 660,
   "flying": false,
