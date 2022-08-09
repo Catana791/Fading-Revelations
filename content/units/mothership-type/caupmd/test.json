@@ -49,7 +49,7 @@
   "mass": 20,
   "commandLimit": 10,
   "faceEnemy": true,
-  "health": 19000,
+  "health": 22000,
   "armor": 26,
   "baseRotateSpeed": 3,
   "rotateWeapon": true,
