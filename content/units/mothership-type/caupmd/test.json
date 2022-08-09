@@ -160,7 +160,7 @@
     "collidesTiles": true,
     "collides": true,
     "splashDamageRadius": 80,
-    "splashDamage": 20,
+    "splashDamage": 45,
     "backColor": "665c9f",
     "frontColor": "bf92f9",
     "lightningColor": "bf92f9", 
