@@ -58,7 +58,7 @@
     {
       "name": "reclusa-laser",
       "x": -28,
-      "y": 20,
+      "y": 25,
       "reload": 30,
       "shake": 2,
       "rotateSpeed": 3,
@@ -88,7 +88,7 @@
     {
       "name": "reclusa-laser",
       "x": 28,
-      "y": 20,
+      "y": 25,
       "reload": 30,
       "shake": 2,
       "rotateSpeed": 3,
@@ -122,7 +122,7 @@
   "shake": 8,
   "recoil": 12,
   "x": 0,
-  "y": -20,
+  "y": 10,
   "rotateSpeed": 2,
   "ejectEffect": "casing3",
   "shootSound": "artillery",
