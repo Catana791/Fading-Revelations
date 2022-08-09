@@ -30,7 +30,7 @@
       "shootCone": 180,
       "ejectEffect": "none",
       "shootSound": "explosion",
-      "x" = 0,
+      "x": 0,
       "shootY": 0,
       "mirror": false,
       "bullet": {
@@ -42,7 +42,7 @@
         "speed": 0,
         "splashDamageRadius": 65,
         "instantDisappear": true,
-        "splashDamage: 110,
+        "splashDamage": 110,
         "killShooter": true,
         "hittable": false,
         "collidesAir": true,
