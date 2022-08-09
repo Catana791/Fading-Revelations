@@ -56,7 +56,7 @@
   "rotateSpeed": 6,
   "weapons": [
     {
-      "name": "corruption-shooter",
+      "name": "reclusa-laser",
       "x": -30,
       "y": 25,
       "reload": 30,
@@ -86,7 +86,7 @@
       }
     },
     {
-      "name": "corruption-shooter",
+      "name": "reclusa-laser",
       "x": 30,
       "y": 25,
       "reload": 30,
@@ -116,7 +116,7 @@
       }
     },
 {
-  "name": "corruption-shooter",
+  "name": "reclusa-main",
   "mirror": false,
   "reload": 300,
   "shake": 8,
