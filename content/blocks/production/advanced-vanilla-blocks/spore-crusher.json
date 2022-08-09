@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Spore Crusher",
   "description": "Creates oil by crushing spore pods.",
   "size": 3,
