@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Silicon Forge",
   "description": "A better silicon smelter that is more cost-efficient.",
   "size": 3,
