@@ -22,7 +22,7 @@
     "parent": "test",
     "requirements": [
       {
-        "item": "blast-compound",
+        "item": "titanium",
         "amount": 400
       }
     ]
