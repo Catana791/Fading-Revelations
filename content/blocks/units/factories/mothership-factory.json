@@ -17,23 +17,23 @@
       "requirements": [
         {
           "item": "pyratite",
-          "amount": 750
+          "amount": 1500
         },
         {
           "item": "silicon",
-          "amount": 2200
+          "amount": 3000
         },
         {
           "item": "titanium",
-          "amount": 5000
+          "amount": 5500
         },
         {
           "item": "surge-alloy",
-          "amount": 1450
+          "amount": 1750
         },
         {
           "item": "gold",
-          "amount": 1500
+          "amount": 1800
         }
       ],
       "time": 36000
@@ -43,23 +43,23 @@
       "requirements": [
         {
           "item": "metaglass",
-          "amount": 1500
+          "amount": 1700
         },
         {
           "item": "silicon",
-          "amount": 2000
+          "amount": 2200
         },
         {
           "item": "titanium",
-          "amount": 4500
+          "amount": 5500
         },
         {
           "item": "thorium",
-          "amount": 1000
+          "amount": 1600
         },
         {
           "item": "surge-alloy",
-          "amount": 2000
+          "amount": 2200
         }
       ],
       "time": 36000
@@ -69,23 +69,23 @@
       "requirements": [
         {
           "item": "silicon",
-          "amount": 2100
+          "amount": 2500
         },
         {
           "item": "titanium",
-          "amount": 2000
+          "amount": 2400
         },
         {
           "item": "plastanium",
-          "amount": 1300
+          "amount": 1500
         },
         {
           "item": "phase-fabric",
-          "amount": 400
+          "amount": 2500
         },
         {
           "item": "surge-alloy",
-          "amount": 850
+          "amount": 2600
         }
       ],
       "time": 36000
