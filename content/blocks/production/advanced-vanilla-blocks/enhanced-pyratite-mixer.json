@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "AttributeCrafter",
   "name": "Pyratite Forge",
   "description": "A stronger pyratite mixer. Gets very hot so needs graphite for isolation.",
   "size": 3,
