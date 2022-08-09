@@ -122,7 +122,7 @@
   "shake": 8,
   "recoil": 12,
   "x": 0,
-  "y": -10,
+  "y": -20,
   "rotateSpeed": 2,
   "ejectEffect": "casing3",
   "shootSound": "artillery",
