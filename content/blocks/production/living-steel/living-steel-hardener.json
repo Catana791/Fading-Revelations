@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Living Steel Hardening Chamber",
   "description": "Hardens living steel by infusing it with thorium.",
   "size": 2,
