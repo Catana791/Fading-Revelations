@@ -1,7 +1,7 @@
 {
   "name": "Reduct",
-  "description": "Equipped with a small version of the Tritantes' frost laser, this unit can freeze it's targets.",
-  "details": "Spawned by the Tritantes mothership.",
+  "description": "Equipped with a small version of the Lycosid's frost laser, this unit can freeze it's targets.",
+  "details": "Spawned by the Lycosid mothership.",
   "health": 660,
   "flying": false,
   "legCount": 6,
