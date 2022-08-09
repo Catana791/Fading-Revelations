@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Alloy Forge",
   "description": "A better forge alloy forge that is more costefficient.",
   "size": 4,
