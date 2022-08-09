@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Enhanced Blast Mixer",
   "description": "A better blast mixer. Gets very hot so it uses graphite for isolation.",
   "size": 3,
