@@ -1,7 +1,7 @@
 {
   "name": "Toruct",
-  "description": "Uses a small version of the CAUPMDs weapon, setting it's targets on fire",
-  "details": "Spawned by the C.A.U.P.M.D mothership.",
+  "description": "Uses a small version of the Reclusa's weapon, setting it's targets on fire",
+  "details": "Spawned by the Reclusa mothership.",
   "health": 660,
   "flying": false,
   "legCount": 6,
