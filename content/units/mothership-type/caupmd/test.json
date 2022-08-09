@@ -1,7 +1,7 @@
 {
-  "name": "C.A.U.P.M.D",
+  "name": "Reclusa",
   "type": "legs",
-  "description": "The Corrupted Attack Unit Programmed To Mass Destruction (short C.A.U.P.M.D) was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
+  "description": "The Reclusa unit was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
   "speed": 0.66,
   "legCount": 8,
   "allowLegStep": true,
