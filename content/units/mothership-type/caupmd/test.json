@@ -7,6 +7,7 @@
   "allowLegStep": true,
   "hovering": true,
   "canDrown": false,
+  "legContinuousMove": false,
   "drownTimeMultiplier": 99999999999,
   "legMoveSpace": 0.8,
   "legPairOffset": 3,
