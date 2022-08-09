@@ -148,7 +148,7 @@
   "abilities": [
     {
       "type": "UnitSpawnAbility",
-      "unit": "lancer-drone",
+      "unit": "close-range",
       "spawnX": 0,
       "spawnY": -30,
       "spawnTime": 240
