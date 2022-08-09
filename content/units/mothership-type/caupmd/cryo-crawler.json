@@ -9,7 +9,7 @@
   "speed": 1.5,
   "rotateSpeed": 4,
   "armor": 0,
-  "range": 40,
+  "range": 80,
   "mechSideSway": 0.25,
   "type": "legs",
   "hitSize": 8,
