@@ -1,6 +1,6 @@
 {
   "name": "Toruct",
-  "description": "Uses a small version of the Reclusa's weapon, setting it's targets on fire",
+  "description": "Equipped with a small version of the Reclusa's fire laser, this unit can set it's targets on fire.",
   "details": "Spawned by the Reclusa mothership.",
   "health": 660,
   "flying": false,
