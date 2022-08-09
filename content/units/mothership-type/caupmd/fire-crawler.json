@@ -45,7 +45,9 @@
         "splashDamage: 110,
         "killShooter": true,
         "hittable": false,
-        "collidesAir": true
+        "collidesAir": true,
+        "status": "melting",
+        "statusDuration": 240
       }
     }
   ]
