@@ -208,14 +208,14 @@
       "type": "UnitSpawnAbility",
       "unit": "cryo-crawler",
       "spawnX": -20,
-      "spawnY": -55,
+      "spawnY": -48,
       "spawnTime": 200
     },
     {
       "type": "UnitSpawnAbility",
       "unit": "fire-crawler",
       "spawnX": 20,
-      "spawnY": -55,
+      "spawnY": -48,
       "spawnTime": 200
     }
   ],
