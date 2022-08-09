@@ -28,6 +28,35 @@
     ]
   },
   "weapons": [
-
+    {
+      "name": "corruption-shooter",
+      "x": 0,
+      "y": 0,
+      "reload": 60,
+      "shake": 2,
+      "rotateSpeed": 3,
+      "ejectEffect": "casing1",
+      "shootSound": "shoot",
+      "rotate": true,
+      "mirror": false,
+      "recoil": 1,
+      "bullet": {
+         "type": "ShrapnelBulletType",
+          "damage": 30,
+        "width": 10,
+      "serrationLenScl": 8,
+      "serrationSpaceOffset": 70,
+      "serrationFadeOffset": 0,
+      "serrations": 8,
+        "length": 100,
+      "serrationWidth": 7,
+      "fromColor": "c85c51",
+      "toColor": "ff795e",
+      "shootEffect": "sparkShoot",
+      "smokeEffect": "sparkShoot",
+    "status": "melting",
+    "statusDuration": 30
+      }
+    },
   ]
 }
