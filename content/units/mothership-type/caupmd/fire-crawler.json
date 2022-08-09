@@ -47,7 +47,7 @@
         "hittable": false,
         "collidesAir": true,
         "status": "melting",
-        "statusDuration": 240
+        "statusDuration": 120
       }
     }
   ]
