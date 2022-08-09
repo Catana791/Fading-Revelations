@@ -57,8 +57,8 @@
   "weapons": [
     {
       "name": "corruption-shooter",
-      "x": -30,
-      "y": -20,
+      "x": -40,
+      "y": -5,
       "reload": 30,
       "shake": 5,
       "rotateSpeed": 3,
@@ -87,8 +87,8 @@
     },
     {
       "name": "corruption-shooter",
-      "x": 30,
-      "y": -20,
+      "x": 40,
+      "y": -5,
       "reload": 30,
       "shake": 5,
       "rotateSpeed": 3,
@@ -121,6 +121,8 @@
   "reload": 180,
   "shake": 11,
   "recoil": 12,
+  "x": 0,
+  "y": 10,
   "rotateSpeed": 2,
   "ejectEffect": "casing3",
   "shootSound": "artillery",
