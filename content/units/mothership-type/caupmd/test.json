@@ -1,7 +1,7 @@
 {
-  "name": "Tritantes",
+  "name": "Lycosid",
   "type": "legs",
-  "description": "The Tritantes unit was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
+  "description": "The Lycosid was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
   "speed": 0.66,
   "legCount": 8,
   "allowLegStep": true,
