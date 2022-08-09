@@ -52,7 +52,7 @@
       "shootSound": "laser",
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 60,
+        "damage": 80,
         "width": 6,
         "length": 200,
         "colors": ["6586b0", "87ceeb", "c0ecff"]
@@ -69,7 +69,7 @@
       "shootSound": "laser",
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 60,
+        "damage": 80,
         "width": 6,
         "length": 200,
         "colors": ["6586b0", "87ceeb", "c0ecff"]
@@ -88,7 +88,7 @@
         "type": "ContinuousLaserBulletType",
         "length": 250,
         "width": 2,
-        "damage": 10,
+        "damage": 20,
         "lifetime": 120,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
         "fadeTime": 30,
@@ -111,7 +111,7 @@
         "type": "ContinuousLaserBulletType",
         "length": 250,
         "width": 2,
-        "damage": 10,
+        "damage": 20,
         "lifetime": 120,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
         "fadeTime": 30,
@@ -141,7 +141,7 @@
         "status": "melting",
         "statusDuration": 30,
         "length": 350,
-        "damage": 20
+        "damage": 30
       }
     }
   ],
@@ -151,7 +151,7 @@
       "unit": "lancer-drone",
       "spawnX": 0,
       "spawnY": -30,
-      "spawnTime": 420
+      "spawnTime": 240
     },
     {
       "type": "ForceFieldAbility",
