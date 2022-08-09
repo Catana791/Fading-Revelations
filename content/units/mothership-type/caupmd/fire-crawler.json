@@ -42,8 +42,8 @@
       "recoil": 1,
       "bullet": {
          "type": "ShrapnelBulletType",
-          "damage": 30,
-        "width": 10,
+          "damage": 20,
+        "width": 4,
       "serrationLenScl": 8,
       "serrationSpaceOffset": 70,
       "serrationFadeOffset": 0,
