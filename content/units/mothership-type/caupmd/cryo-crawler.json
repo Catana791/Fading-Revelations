@@ -1,7 +1,7 @@
 {
   "name": "Reduct",
-  "description": "Uses a tiny version of the CAUPMDS weapon, freezing it's targets.",
-  "details": "Spawned by the C.A.U.P.M.D mothership.",
+  "description": "Uses a tiny version of the Reclusa's weapon, freezing it's targets.",
+  "details": "Spawned by the Reclusa mothership.",
   "health": 660,
   "flying": false,
   "legCount": 6,
