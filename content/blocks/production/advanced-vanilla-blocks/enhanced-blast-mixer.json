@@ -5,6 +5,7 @@
   "size": 3,
   "hasPower": true,
   "hasItems": true,
+  "health": 240,
   "hasLiquids": false,
   "craftTime": 85,
   "craftEffect": "plasticExplosion",
