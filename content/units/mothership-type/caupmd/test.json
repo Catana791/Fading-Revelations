@@ -57,10 +57,10 @@
   "weapons": [
     {
       "name": "corruption-shooter",
-      "x": -40,
-      "y": -5,
+      "x": -30,
+      "y": 5,
       "reload": 30,
-      "shake": 5,
+      "shake": 1,
       "rotateSpeed": 3,
       "ejectEffect": "casing1",
       "shootSound": "shootBig",
@@ -87,10 +87,10 @@
     },
     {
       "name": "corruption-shooter",
-      "x": 40,
-      "y": -5,
+      "x": 30,
+      "y": 5,
       "reload": 30,
-      "shake": 5,
+      "shake": 1,
       "rotateSpeed": 3,
       "ejectEffect": "casing1",
       "shootSound": "shootBig",
