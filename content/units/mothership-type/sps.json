@@ -88,7 +88,7 @@
         "type": "ContinuousLaserBulletType",
         "length": 250,
         "width": 2,
-        "damage": 35,
+        "damage": 25,
         "lifetime": 120,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
         "fadeTime": 30,
@@ -111,7 +111,7 @@
         "type": "ContinuousLaserBulletType",
         "length": 250,
         "width": 2,
-        "damage": 35,
+        "damage": 25,
         "lifetime": 120,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
         "fadeTime": 30,
@@ -141,7 +141,7 @@
         "status": "melting",
         "statusDuration": 30,
         "length": 350,
-        "damage": 50
+        "damage": 30
       }
     }
   ],
