@@ -6,6 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
+  "health": 240,
   "craftTime": 75,
   "craftEffect": "pulverizeRed",
   "updateEffect": "pulverizeRed",
