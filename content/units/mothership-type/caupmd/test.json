@@ -1,7 +1,7 @@
 {
-  "name": "Reclusa",
+  "name": "Tritantis",
   "type": "legs",
-  "description": "The Reclusa unit was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
+  "description": "The Tritantis unit was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
   "speed": 0.66,
   "legCount": 8,
   "allowLegStep": true,
