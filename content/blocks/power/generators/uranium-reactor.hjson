@@ -5,7 +5,32 @@ size: 4
 hasPower: true
 hasLiquids: true
 hasItems: true
+explosionShake: 10
+explodeSound: nrexp
 itemCapacity: 20
+explodeEffect: {
+  type: MultiEffect
+  effects: [
+  {
+  type: WaveEffect
+  sizeFrom: 0
+  sizeTo: 40
+  colorFrom: 6fc423
+  colorTo: 4a9929
+  lifetime: 480
+  }
+  {
+    type: ParticleEffect
+    particles: 32
+    length: 30
+    sizeFrom: 22
+    sizeTo: 0,
+    colorFrom: 6fc423
+  colorTo: 4a9929
+  lifetime: 480
+  }
+  ]
+}
 liquidCapacity: 120
 itemDuration: 1650
 powerProduction: 200
