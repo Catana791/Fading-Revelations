@@ -20,10 +20,6 @@
 "amount": 0.18,
  "optional": false, 
 "booster": false,
-  "liquid": "living-steel-liquid",
-  "amount": 0.18,
-  "booster": true,
-  "optional": true
 }
  }, 
 "requirements": [
