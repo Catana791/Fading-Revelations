@@ -6,7 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "drawer": {
-     "type": "DrawDefault"
+     "type": "DrawBlock"
   },
   "hasLiquids": false,
   "craftTime": 130,
