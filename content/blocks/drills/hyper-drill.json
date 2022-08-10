@@ -3,6 +3,31 @@
 "description": "An even better airblast drill that needs liquid living steel to not break. Doesn't operate if not supplied with it.", 
 "type": "Drill", 
 "size": 5, 
+"drillEffect": {
+   "type": "MultiEffect",
+  "effects": [
+    {
+      "type": "WaveEffect",
+      "sizeFrom": 0,
+      "sizeTo": 28,
+      "colorFrom": "bc5452",
+      "colorTo": "e06e5b"
+    }
+    {
+      "type": "ParticleEffect",
+      "particles": 16,
+    "length": 20,
+    "sizeFrom": 0,
+    "sizeTo": 8,
+    "line": true,
+    "strokeFrom": 1,
+    "strokeTo": 2,
+    "interp": "pow2Out"
+    "colorFrom": "bc5452",
+    "colorTo": "e06e5b"
+    }
+  ]
+},
 "hasPower": true, 
 "drawRim": true, 
 "hasLiquids": true, 
