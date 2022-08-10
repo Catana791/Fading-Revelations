@@ -16,7 +16,7 @@
   "updateEffect": "smeltsmoke",
   "consumes": {
     "power": 1,
-    "liquids": {
+    "liquid": {
       "liquid": "oil",
       "amount": 0.15
   },
