@@ -2,7 +2,7 @@
   "type": "LaunchPad",
   "health": 740,
   "name": "Advanced Launch Pad",
-  "description": "Uses technology infused with living steel to launch items faster than the regular launch pad.",
+  "description": "Uses technology infused with living steel to launch items faster than the regular launch pad. Can be boosted by using water",
   "launchTime": 780,
   "lightColor": "8c0291",
   "itemCapacity": 200,
@@ -12,8 +12,8 @@
     "liquid": {
       "liquid": "water",
       "amount": 0.3,
-      "optional": false,
-      "booster": false
+      "optional": true,
+      "booster": true
     }
   },
   "category": "effect",
