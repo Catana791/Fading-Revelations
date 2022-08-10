@@ -5,6 +5,15 @@
   "size": 4,
   "hasPower": true,
   "hasItems": true,
+  "drawer": {
+     "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawCircles",
+        "amount": 2
+      }
+    ]
+  },
   "hasLiquids": false,
   "craftTime": 130,
   "updateEffect": "hitMeltdown",
