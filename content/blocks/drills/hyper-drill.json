@@ -2,14 +2,17 @@
 "name": "Hyper Drill", 
 "description": "An even better airblast drill that needs liquid living steel to not break. Doesn't operate if not supplied with it.", 
 "type": "Drill", 
+  "updateEffectChance: 0.2,
 "size": 5, 
-"drillEffect": {
+"updateEffect": {
    "type": "MultiEffect",
   "effects": [
     {
       "type": "WaveEffect",
       "colorFrom": "bc5452",
-      "colorTo": "e06e5b"
+      "colorTo": "e06e5b",
+      "sizeFrom": 0,
+  "sizeTo": 22
     }
     {
       "type": "ParticleEffect",
