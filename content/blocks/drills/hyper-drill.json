@@ -9,6 +9,8 @@
       "type": "ParticleEffect",
       "particles": 8,
       "line": true,
+      "sizeFrom": 1,
+      "sizeTo": 2,
       "interp": "pow2Out"
       "colorFrom": "bc5452",
       "colorTo": "e06e5b"
