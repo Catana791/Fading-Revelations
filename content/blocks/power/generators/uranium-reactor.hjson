@@ -27,7 +27,8 @@ explodeEffect: {
     sizeTo: 0,
     colorFrom: 6fc423
   colorTo: 4a9929
-  lifetime: 480
+  interp: pow5Out
+  lifetime: 2400
   }
   ]
 }
