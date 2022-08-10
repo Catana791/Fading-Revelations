@@ -6,13 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "drawer": {
-     "type": "DrawMulti",
-    "drawers": [
-      {
-        "type": "DrawCircles",
-        "amount": 2
-      }
-    ]
+     "type": "DrawDefault"
   },
   "hasLiquids": false,
   "craftTime": 130,
