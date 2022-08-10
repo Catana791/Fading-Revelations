@@ -10,7 +10,7 @@
 "hasItems": true, 
 "itemCapacity": 60, 
 "tier": 5, 
-"drillTime": 35, 
+"drillTime": 40, 
 "rotateSpeed": 10, 
 "liquidBoostIntensity": 1,
 "consumes": { 
