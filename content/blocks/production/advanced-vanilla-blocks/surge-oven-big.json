@@ -6,9 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "drawer": {
-    "iconOverride": "surge-oven-big-top"
-  },
+  "drawer": "DrawDefault",
   "craftTime": 130,
   "updateEffect": "hitMeltdown",
   "consumes": {
