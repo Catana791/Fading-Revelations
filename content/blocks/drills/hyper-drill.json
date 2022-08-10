@@ -4,7 +4,7 @@
 "type": "Drill", 
   "updateEffectChance": 0.05,
 "size": 5, 
-"updateEffect": {
+"updateEffect": 
     {
       "type": "ParticleEffect",
       "particles": 4,
@@ -12,8 +12,6 @@
       "interp": "pow2Out"
       "colorFrom": "bc5452",
       "colorTo": "e06e5b"
-    }
-  ]
 },
 "hasPower": true, 
 "drawRim": true, 
