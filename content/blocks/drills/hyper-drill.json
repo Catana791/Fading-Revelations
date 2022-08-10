@@ -16,10 +16,14 @@
 "consumes": { 
 "power": 4, 
 "liquid": {
- "liquid": "living-steel-liquid", 
+ "liquid": "cryofluid", 
 "amount": 0.18,
  "optional": false, 
-"booster": false
+"booster": false,
+  "liquid": "living-steel-liquid",
+  "amount": 0.18,
+  "booster": true,
+  "optional": true
 }
  }, 
 "requirements": [
