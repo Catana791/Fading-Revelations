@@ -6,7 +6,6 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "drawer": "DrawDefault",
   "craftTime": 130,
   "updateEffect": "hitMeltdown",
   "consumes": {
