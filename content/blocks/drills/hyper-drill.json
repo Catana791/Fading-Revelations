@@ -12,8 +12,8 @@
       "sizeFrom": 1,
       "sizeTo": 2,
       "interp": "pow2Out"
-      "colorFrom": "bc5452",
-      "colorTo": "e06e5b"
+      "colorFrom": "61018a",
+      "colorTo": "b200ff"
 },
 "hasPower": true, 
 "drawRim": true, 
@@ -29,7 +29,7 @@
 "power": 4, 
 "liquid": {
  "liquid": "cryofluid", 
-"amount": 0.18,
+"amount": 0.9,
  "optional": false, 
 "booster": false,
 }
