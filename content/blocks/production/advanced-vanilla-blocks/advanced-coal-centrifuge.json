@@ -16,10 +16,16 @@
   "updateEffect": "smeltsmoke",
   "consumes": {
     "power": 1,
-    "liquid": {
+    "liquids": [
+      {
       "liquid": "oil",
       "amount": 0.15
-    }
+    },
+      {
+        "liquid": "water",
+        "amount": 0.1
+      }
+      ]
   },
   "requirements": [
     {
