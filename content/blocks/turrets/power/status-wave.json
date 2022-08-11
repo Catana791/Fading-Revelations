@@ -9,8 +9,12 @@
     "damage": 0,
     "splashDamage": 25,
     "splashDamageRadius": 800,
-    "status": "freezing",
-    "statusDuration": 30,
+    "status": {
+      "name": "me-schockslowed",
+      "localizedName": "Shock-Slowed",
+      "speedMultiplier": 0.5,
+    },
+    "statusDuration": 30
   },
   "rotate": false,
   "rotateSpeed": 0,
