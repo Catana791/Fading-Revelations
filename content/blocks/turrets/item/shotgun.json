@@ -26,7 +26,7 @@
       "frontColor": "d17f4d",
       "backColor": "b87044",
       "shrinkY": 0.10
-    }.
+    },
     "ammo-level-2": {
       "damage": 75,
       "speed": 6,
