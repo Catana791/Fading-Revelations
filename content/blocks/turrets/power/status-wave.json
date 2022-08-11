@@ -7,7 +7,7 @@
   "shootType": {
     "instantDisappear": true,
     "damage": 0,
-    "splashDamage": 80,
+    "splashDamage": 25,
     "splashDamageRadius": 800,
     "status": "unmoving",
     "statusDuration": 25,
