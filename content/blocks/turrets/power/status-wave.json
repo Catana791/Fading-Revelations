@@ -50,20 +50,40 @@
   "reloadTime": 120,
   "ammoTypes": {
     "water": {
-      "instantDisappear": true,
+      "type": "ArtilleryBulletType",
+      "frontColor": "174da0",
+      "backColor": "2160c0",
+      "speed": 2,
+      "lifetime": 300,
       "damage": 0,
-      "splashDamage": 60,
-      "splashDamageRadius": 800,
+      "splashDamage": 100,
+      "splashDamageRadius": 80,
       "knockback": 10,
       "status": "wet",
-      "statusDuration": 360,
+      "statusDuration": 120,
+      "despawnHit": false,
       "hitEffect": {
-        "type": "WaveEffect",
-        "sizeFrom": 0,
-        "sizeTo": 800,
-        "colorFrom": "13448f",
-        "colorTo": "174da0",
-        "lifetime": 80
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "type": "WaveEffect",
+            "colorFrom": "174da0",
+            "colorTo": "2160c0",
+            "sizeFrom": 0,
+            "sizeTo": 40,
+            "lifetime": 60
+          },
+          {
+            "type": "ParticleEffect",
+            "particles": 16,
+            "length": 40,
+            "sizeFrom": 6,
+            "sizeTo": 0,
+            "lifetime": 45,
+            "colorFrom": "2160c0",
+            "colorTo": "174da0"
+          }
+        ]
       }
     }
   }
