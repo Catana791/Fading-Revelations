@@ -10,7 +10,7 @@ targetAir: false
 shootSound: flame
 ammoTypes: {
   coal: {
-    damage: 18
+    damage: 22
     speed: 6
     pierce: true
     pierceBuilding: true
@@ -35,7 +35,7 @@ ammoTypes: {
     }
   }
   pyratite: {
-  damage: 28
+  damage: 32
     speed: 6
     pierce: true
     pierceBuilding: true
