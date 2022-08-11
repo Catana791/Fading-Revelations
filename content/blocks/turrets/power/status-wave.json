@@ -17,6 +17,13 @@
   "shootCone": 360,
   "size": 3,
   "shootEffect": "none",
+  "ammoUseEffect": {
+    "type": "WaveEffect",
+    "sizeFrom": 0,
+    "sizeTo": 400,
+    "colorFrom": "e5ed2c",
+    "colorTo": "cfd712"
+  },
   "category": "turret",
   "research": "duo",
   "requirements": [
