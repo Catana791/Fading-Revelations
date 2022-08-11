@@ -1,7 +1,7 @@
 {
   "type": "PowerTurret",
   "name": "Stasis Field",
-  "description": "Shoots out shockwaves that deal damage and freeze enemies briefly, slowing them down.",
+  "description": "Shoots out shockwaves that deal damage and shock them, slowing them down quite a bit.",
   "range": 640,
   "reloadTime": 60,
   "shootType": {
@@ -14,7 +14,7 @@
       "localizedName": "Shock-Slowed",
       "speedMultiplier": 0.3,
     },
-    "statusDuration": 30
+    "statusDuration": 60
   },
   "rotate": false,
   "rotateSpeed": 0,
