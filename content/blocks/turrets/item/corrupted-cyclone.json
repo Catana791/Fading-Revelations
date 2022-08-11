@@ -3,7 +3,7 @@
   "name": "Hurricane",
   "description": "An enhanced version of the cyclone.",
   "health": 1905,
-  "reloadTime": 16,
+  "reloadTime": 8,
   "range": 224,
   "size": 3,
   "squareSprite": false,
