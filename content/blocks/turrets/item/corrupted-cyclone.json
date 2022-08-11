@@ -26,10 +26,10 @@
       "shootEffect": "shootSmall",
       "reloadMultiplier": 0.8,
       "width": 6,
-      "damage": 5,
+      "damage": 8,
       "height": 6,
       "hitEffect": "flakExplosion",
-      "splashDamage": 38,
+      "splashDamage": 42,
       "splashDamageRadius": 25,
       "fragBullets": 4,
       "fragBullet": {
@@ -46,10 +46,10 @@
     },
     "blast-compound": {
       "type": "FlakBulletType",
-      "damage": 7,
+      "damage": 10,
       "ammoMultiplier": 5,
       "shootEffect": "shootBig",
-      "splashDamage": 43,
+      "splashDamage": 46,
       "splashDamageRadius": 60,
       "collidesGround": true,
       "status": "blasted",
@@ -58,8 +58,8 @@
     "plastanium": {
       "type": "FlakBulletType",
       "splashDamageRadius": 40,
-      "splashDamage": 39,
-      "damage": 8,
+      "splashDamage": 42,
+      "damage": 11,
       "hitEffect": "plasticExplosion",
       "frontColor": "plastaniumFront",
       "backColor": "plastaniumBack",
@@ -79,7 +79,7 @@
     },
     "surge-alloy": {
       "ammoMultiplier": 5,
-      "splashDamage": 78,
+      "splashDamage": 82,
       "splashDamageRadius": 38,
       "lightning": 2,
       "ligtningLength": 7,
@@ -87,7 +87,7 @@
       "shootEffect": "shootBig",
       "explodeRange": 20,
       "collidesGround": true,
-      "damage": 15
+      "damage": 18
     }
   },
   "requirements": [
