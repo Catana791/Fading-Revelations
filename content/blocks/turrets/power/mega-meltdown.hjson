@@ -15,7 +15,7 @@ shots: 3
 spread: 10
 shootType: {
   type: ContinuousLaserBulletType
-  damage: 90
+  damage: 45
   lifetime: 150
   fadeTime: 10
   length: 320
