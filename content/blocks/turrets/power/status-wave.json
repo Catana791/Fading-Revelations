@@ -31,7 +31,7 @@
     "colorTo": "cfd712"
   },
   "category": "turret",
-  "research": "duo",
+  "research": "shotgun",
   "requirements": [
     {"item": "copper", "amount": 300},
     {"item": "lead", "amount": 250},
