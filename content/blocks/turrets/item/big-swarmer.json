@@ -35,7 +35,7 @@
       "statusDuration": 60,
       "damage": 14,
       "speed": 6,
-      "lifetime": 40,
+      "lifetime": 30,
     }
   },
   "requirements": [
