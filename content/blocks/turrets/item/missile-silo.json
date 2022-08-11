@@ -55,6 +55,24 @@
       "homingRange": 1600,
       "homingPower": 0.9,
       "buildingDamageMultiplier": 0.05,
+      "status": {
+        "name": "me-radiated",
+      "localizedName": "Radiated",
+      "damage": 1,
+      "permanent": true,
+      "alwaysUnlocked": true,
+      "effectChance": 0.3,
+      "speedMultiplier": 0.9,
+      "reloadMultiplier": 0.9,
+      "healthMultiplier": 0.9,
+      "effect": {
+      "type": "ParticleEffect",
+      "particles": 8,
+      "colorFrom": "30af1f",
+      "colorTo": "328926",
+      "interp": "circleOut"
+    }
+    },
       "backColor": "000000"
       "trailEffect": {
     "type": "ParticleEffect",
