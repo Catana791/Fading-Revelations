@@ -8,7 +8,7 @@
   "health": 680,
   "shootEffect": {
       "type": "MultiEffect",
-    "effects": [
+      "effects": [
       {
         "type": "WaveEffect",
         "sizeFrom": 26,
@@ -44,7 +44,7 @@
     }
   ],
   "shootY": 0,
-  "reload": 360,
+  "reloadTime": 360,
   "ammoTypes": {
     "water": {
       "instantDisappear": true,
