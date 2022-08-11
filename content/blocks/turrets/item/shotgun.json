@@ -51,7 +51,6 @@
       "shrinkY": 0.10,
     },
     "homing-ammo": {
-      "ammo-level-3": {
       "damage": 120,
       "speed": 6,
       "type": "BasicBulletType",
