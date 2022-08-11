@@ -11,37 +11,14 @@
     "splashDamageRadius": 800,
     "status": "unmoving",
     "statusDuration": 20,
-    "hitEffect": {
-      "type": "MultiEffect",
-      "effects": [
-    {
-    "type": "WaveEffect",
-    "sizeFrom": 0,
-    "sizeTo": 22,
-    "colorFrom": "e7ef26",
-    "colorTo": "bbc21e",
-    "lifetime": 45
   },
-  {
-  "type": "WaveEffect",
-  "sizeFrom": 22,
-    "sizeTo": 0,
-    "colorFrom": "bbc21e",
-    "colorTo": "e7ef26",
-    "lifetime": 45
-},
-{
-  "type": "ParticleEffect",
-  "spin": 3,
-  "interp": "pow5Out",
-  "particles": 12,
-  "length": 20,
-  "line": true,
-    "colorFrom": "e7ef26",
-    "colorTo": "bbc21e",
-    "lifetime": 20
-}
-      ]
-    } 
-  }
+  "rotate": false,
+  "rotateSpeed": 0,
+  "shootCone": 360,
+  "shootEffect": "none",
+  "category": "turret",
+  "research": "duo",
+  "requirements": [
+    {"item": "copper", "amount": 1}  
+  ]
 }
