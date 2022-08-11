@@ -46,7 +46,7 @@
       "shrinkY": 0,
       "homingPower": 0.08,
       "splashDamageRadius": 20,
-      "splashDamage": 40,
+      "splashDamage": 60,
       "damage": 16,
       "makeFire": true,
       "ammoMultiplier": 5,
