@@ -1,4 +1,5 @@
 {
+  "type": "StatusEffect",
   "name": "steel-sapped",
   "localizedName": "Steel-Sapped",
   "damage": 0.125,
