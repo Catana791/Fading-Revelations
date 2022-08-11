@@ -8,7 +8,7 @@
     "instantDisappear": true,
     "damage": 0,
     "splashDamage": 25,
-    "splashDamageRadius": 800,
+    "splashDamageRadius": 640,
     "status": {
       "name": "me-shockslowed",
       "localizedName": "Shock-Slowed",
