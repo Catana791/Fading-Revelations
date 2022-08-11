@@ -27,7 +27,7 @@
       "height": 8,
       "shrinkY": 0,
       "splashDamageRadius": 30,
-      "splashDamage": 40,
+      "splashDamage": 55,
       "ammoMultiplier": 5,
       "hitEffect": "blastExplosion",
       "despawnEffect": "blastExplosion",
@@ -35,7 +35,42 @@
       "statusDuration": 60,
       "damage": 14,
       "speed": 6,
-      "lifetime": 30,
+      "lifetime": 30
+    },
+    "pyratite": {
+      "type": "MissileBulletType",
+      "frontColor": "e49431",
+      "backColor": "c9842f",
+      "widht": 7,
+      "height": 8,
+      "shrinkY": 0,
+      "homingPower": 0.08,
+      "splashDamageRadius": 20,
+      "splashDamage": 40,
+      "damage": 16,
+      "makeFire": true,
+      "ammoMultiplier": 5,
+      "hitEffect": "blastExplosion",
+      "status": "burning"
+      "speed": 6,
+      "lifetime": 30
+    },
+    "surge-alloy": {
+      "type": "MissileBulletType",
+      "width": 8,
+      "height": 8,
+      "shrinkY": 0,
+      "splashDamageRadius": 25,
+      "splashDamage": 42,
+      "damage": 22,
+      "hitEffect": "blastExplosion",
+      "despawnEffect": "blastExplosion",
+      "ammoMultiplier": 4,
+      "ligtning": 2,
+      "lightningLength": 10,
+      "lightningDamage: 15,
+      "speed: 6,
+      "lifetime": 30
     }
   },
   "requirements": [
