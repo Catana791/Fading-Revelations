@@ -36,6 +36,7 @@
       "damage": 14,
       "speed": 6,
       "lifetime": 47.5,
+    }
   },
   "requirements": [
     {
