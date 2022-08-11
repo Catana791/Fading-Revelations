@@ -21,19 +21,12 @@
   },
   "liquidBoostIntensity": 1.6,
   "requirements": [
-    {
-      "item": "silicon",
-      "amount": 260
-    },
-    {
-      "item": "thorium",
-      "amount": 120
-    },
-    {
-      "item": "phase-fabric",
-      "amount": 80
-    }
+    {"item": "copper", "amount": 200},
+    {"item": "lead", "amount": 180},
+    {"item": "silicon", "amount": 180},
+    {"item": "thorium", "amount": 100},
+    {"item": "phase-fabric", "amount": 60}
   ],
   "category": "turret",
-  "research": "arc-coil-big"
+  "research": "status-wave"
 }
