@@ -36,6 +36,12 @@
   "research": "duo",
   "range": 800,
   "shootX": 0,
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 1
+    }
+  ],
   "shootY": 0,
   "reload": 360,
   "ammoTypes": {
