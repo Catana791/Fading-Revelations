@@ -14,7 +14,7 @@
   "rotateSpeed": 8,
   "range": 500,
   "ammoTypes": {
-    "ammo-level-2": {
+    "ammo-level-1": {
       "type": "BasicBulletType",
       "speed": 8,
       "collidesTiles": false,
