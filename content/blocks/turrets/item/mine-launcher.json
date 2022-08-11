@@ -86,6 +86,7 @@
         "lifetime": 720,
         "status": "melting",
         "statusDuration": 300
+      }
     }
   },
   "requirements": [
