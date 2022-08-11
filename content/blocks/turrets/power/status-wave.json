@@ -1,7 +1,7 @@
 {
   "type": "LiquidTurret",
   "name": "Status Wave",
-  "description": "Shoots out shockwaves that don't deal a lot of damage but push back enemies and inflict various status effects.",
+  "description": "Shoots out shockwaves that deal damage and inflict various status effects.",
   "consumes": {
     "power": 4 
   },
@@ -52,7 +52,7 @@
     "water": {
       "instantDisappear": true,
       "damage": 0,
-      "splashDamage": 5,
+      "splashDamage": 20,
       "splashDamageRadius": 800,
       "knockback": 10,
       "status": "wet",
@@ -60,9 +60,10 @@
       "hitEffect": {
         "type": "WaveEffect",
         "sizeFrom": 0,
-        "sizeTo": 20,
+        "sizeTo": 800,
         "colorFrom": "13448f",
-        "colorTo": "13448f"
+        "colorTo": "13448f",
+        "offsetX": -5
       }
     }
   }
