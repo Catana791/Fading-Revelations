@@ -18,7 +18,7 @@
   "buildCostMultiplier": 0.2,
   "ammoTypes": {
     "metaglass": {
-      "lifetime": 60,
+      "lifetime": 55,
       "speed": 4,
       "type": "FlakBulletType",
       "ammoMultiplier": 3,
@@ -44,6 +44,8 @@
       "collidesGround": true
     },
     "blast-compound": {
+      "lifetime": 55,
+      "speed": 4,
       "type": "FlakBulletType",
       "damage": 10,
       "ammoMultiplier": 5,
@@ -55,6 +57,8 @@
       "statusDuration": 60
     },
     "plastanium": {
+      "lifetime": 55,
+      "speed": 4,
       "type": "FlakBulletType",
       "splashDamageRadius": 40,
       "splashDamage": 68,
@@ -73,6 +77,8 @@
       }
     },
     "surge-alloy": {
+      "lifetime": 55,
+      "speed": 4,
       "ammoMultiplier": 5,
       "splashDamage": 82,
       "splashDamageRadius": 38,
