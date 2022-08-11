@@ -7,7 +7,7 @@
   },
   "health": 680,
   "shootEffect": {
-      "type": "SeqEffect",
+      "type": "MultiEffect",
     "effects": [
       {
         "type": "WaveEffect",
