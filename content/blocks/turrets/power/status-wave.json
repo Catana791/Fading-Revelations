@@ -15,6 +15,7 @@
   "rotate": false,
   "rotateSpeed": 0,
   "shootCone": 360,
+  "size": 3,
   "shootEffect": "none",
   "category": "turret",
   "research": "duo",
