@@ -18,8 +18,8 @@
   "recoil": 0,
   "recoilAmount": 0,
   "size": 3,
-  "tammoUseEffect": "none",
-  "shootEffec": {
+  "ammoUseEffect": "none",
+  "shootEffect": {
     "type": "WaveEffect",
     "sizeFrom": 0,
     "sizeTo": 400,
