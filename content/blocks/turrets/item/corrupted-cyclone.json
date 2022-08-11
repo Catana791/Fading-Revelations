@@ -5,8 +5,8 @@
   "health": 1905,
   "maxAmmo": 600,
   "ammoPerShot": 1,
-  "reloadTime": 10,
-  "range": 200,
+  "reloadTime": 8,
+  "range": 224,
   "size": 3,
   "squareSprite": false,
   "targetAir": true,
@@ -20,47 +20,74 @@
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
   "ammoTypes": {
-    "phase-fabric": {
-      "type": "MissileBulletType",
-      "damage": 280,
+    "metaglass": {
+      "type": "FlakBulletType",
+      "ammoMultiplier": 3,
+      "shootEffect": "shootSmall",
+      "reloadMultiplier": 0.8,
+      "width": 6,
+      "damage": 5,
+      "height": 6,
+      "hitEffect": "flakExplosion",
+      "splashDamage": 38,
+      "splashDamageRadius": 25,
+      "fragBullets": 4,
+      "fragBullet": {
+        "width": 5,
+        "height": 12,
+        "shrinkY": 1,
+        "lifetime": 20,
+        "backColor": "484848",
+        "frontColor": "ffffff",
+        "despawnEffect": "none"
+      },
+      "explodeRange": 20,
+      "collidesGround": true
+    },
+    "blast-compound": {
+      "type": "FlakBulletType",
+      "damage": 7,
+      "ammoMultiplier": 5,
+      "shootEffect": "shootBig",
+      "splashDamage": 43,
+      "splashDamageRadius": 60,
+      "collidesGround": true,
+      "status": "blasted",
+      "statusDuration": 60
+    },
+    "plastanium": {
+      "type": "FlakBulletType",
       "splashDamageRadius": 40,
-      "splashDamage": 7,
-      "speed": 8,
-      "lifetime": 25,
-      "height": 10,
-      "width": 5,
-      "ammoMultiplier": 2,
-      "homingPower": 0.55,
+      "splashDamage": 39,
+      "damage": 8,
       "hitEffect": "plasticExplosion",
-      "statusEffect": "shocked",
-      "statusDuration": 600
+      "frontColor": "plastaniumFront",
+      "backColor": "plastaniumBack",
+      "shootEffect": "shootBig",
+      "collidesGround": true,
+      "explodeRange": 20,
+      "fragBullets": 6,
+      "fragBullet": {
+        "width": 10,
+        "height": 12,
+        "shrinkY": 1,
+        "lifetime": 15,
+        "backColor": "plastaniumBack",
+        "frontColor": "plastaniumFront",
+        "despawnEffect": "none"
+      }
     },
     "surge-alloy": {
-      "type": "BasicBulletType",
-      "damage": 310,
-      "height": 15,
-      "width": 5,
-      "speed": 10,
-      "lifetime": 25,
-      "ammoMultiplier": 1,
-      "pierce": true,
-      "hitEffect": "hitBulletBig",
-      "statusEffect": "shocked",
-      "statusDuration": 600
-    },
-    "living-steel": {
-      "type": "BasicBulletType",
-      "speed": 10,
-      "damage": 120,
-      "status": "slow",
-      "statusDuration": 350
-    },
-    "nano-ammo": {
-      "type": "BasicBulletType",
-      "speed": 9,
-      "damage": 15,
-      "status": "burning",
-      "statusDuration": 8000000
+      "ammoMultiplier": 5,
+      "splashDamage": 78,
+      "splashDamageRadius": 38,
+      "lightning": 2,
+      "ligtningLength": 7,
+      "lightningDamage": 15,
+      "shootEffect": "shootBig",
+      "explodeRange": 20,
+      "collidesGround": true,
+      "damage": 15
     }
   },
   "requirements": [
