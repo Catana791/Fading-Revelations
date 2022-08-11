@@ -4,10 +4,10 @@
   "description": "A shotgun turret. More damage the closer the enemies are to it's barrel.",
   "health": 800,
   "maxAmmo": 10,
-  "reloadTime": 200,
+  "reloadTime": 120,
   "range": 175,
   "shots": 25,
-  "inaccuracy": 20,
+  "inaccuracy": 16,
   "velocityInaccuracy": 0.10,
   "size": 3,
   "targetAir": false,
@@ -17,19 +17,53 @@
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
   "ammoTypes": {
+    "ammo-level-1": {
+       "type": "BasicBulletType",
+      "damage": 50,
+      "speed": 5,
+      "width": 3,
+      "height": 6,
+      "frontColor": "d17f4d",
+      "backColor": "b87044",
+      "shrinkY": 0.10
+    }.
     "ammo-level-2": {
-      "damage": 62,
-      "speed": 8,
+      "damage": 75,
+      "speed": 6,
       "type": "BasicBulletType",
       "lifetime": 30,
       "width": 4,
       "height": 7,
-      "frontColor": "ff0000",
-      "backColor": "ff0000",
-      "shrinkY": 0.10
+      "frontColor": "2a4bc2",
+      "backColor": "2442ab",
+      "shrinkY": 0.10,
+      "pierce": true
+    },
+    "ammo-level-3": {
+      "damage": 100,
+      "speed": 6,
+      "type": "BasicBulletType",
+      "lifetime": 30,
+      "width": 4,
+      "height": 7,
+      "frontColor": "c03939",
+      "backColor": "a23030",
+      "shrinkY": 0.10,
+    },
+    "homing-ammo": {
+      "ammo-level-3": {
+      "damage": 120,
+      "speed": 6,
+      "type": "BasicBulletType",
+      "lifetime": 30,
+      "width": 4,
+      "height": 7,
+      "frontColor": "963ac4",
+      "backColor": "772c9c",
+      "shrinkY": 0.10,
     },
     "living-steel": {
-      "damage": 55,
+      "damage": 75,
       "speed": 6,
       "type": "BasicBulletType",
       "lifetime": 24,
@@ -42,11 +76,11 @@
     },
     "nano-ammo": {
       "type": "BasicBulletType",
-      "speed": 9,
-      "damage": 9,
+      "speed": 7,
+      "damage": 10,
       "splashDamage": 1,
       "splashDamageRadius": 1,
-      "status": "burning",
+      "status": "melting",
       "statusDuration": 8000000
     }
   },
