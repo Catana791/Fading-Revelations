@@ -56,8 +56,8 @@
     "plastanium": {
       "type": "FlakBulletType",
       "splashDamageRadius": 40,
-      "splashDamage": 52,
-      "damage": 16,
+      "splashDamage": 68,
+      "damage": 28,
       "hitEffect": "plasticExplosion",
       "shootEffect": "shootBig",
       "collidesGround": true,
