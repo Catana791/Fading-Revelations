@@ -68,8 +68,8 @@
       "ammoMultiplier": 4,
       "ligtning": 2,
       "lightningLength": 10,
-      "lightningDamage: 15,
-      "speed: 6,
+      "lightningDamage": 15,
+      "speed": 6,
       "lifetime": 30
     }
   },
