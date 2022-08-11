@@ -14,32 +14,17 @@
   "rotateSpeed": 10,
   "range": 293,
   "ammoTypes":{
-    "phase-fabric":{
-		"type": "BasicBulletType",
-		"speed": 2,
-		"lifetime": 140,
-		"collides": true,
-		"damage": 30,
-		"fragBullets": 10,
-		"fragBullet":{
-		  "type": "BasicBulletType",
-		  "speed": 3,
-		  "damage": 10, 
-  		"lifetime": 45,
-		  "collides": true
-      }
-    },
     "ammo-level-1": {
     "type": "BasicBulletType",
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
-		"damage": 20,
+		"damage": 40,
 		"fragBullets": 10,
 		"fragBullet":{
 		  "type": "BasicBulletType",
 		  "speed": 3,
-		  "damage": 10, 
+		  "damage": 15, 
   		"lifetime": 45,
 		  "collides": true
       }
@@ -49,34 +34,35 @@
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
-		"damage": 30,
+		"damage": 60,
 		"fragBullets": 10,
+      "pierce": true,
 		"fragBullet":{
 		  "type": "BasicBulletType",
 		  "speed": 3,
-		  "damage": 13, 
+		  "damage": 20, 
   		"lifetime": 45,
+      "pierce": true
 		  "collides": true,
-	  
       }
     },
-    "homing-ammo": {
-         "type": "MissileBulletType",
+    "ammo-level-3": {
+    "type": "BasicBulletType",
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
-		"damage": 40,
-		"homingPower": 0.001,
+		"damage": 90,
+      "status": "blasted",
+      "statusDuration": 60,
 		"fragBullets": 10,
 		"fragBullet":{
 		  "type": "BasicBulletType",
 		  "speed": 3,
-		  "damage": 9,
-		  "homingPower": 0.0008,
+      "status": "blasted",
+      "statusDuration": 60,
+		  "damage": 25, 
   		"lifetime": 45,
 		  "collides": true,
-	  	
-
       }
     },
     "nano-ammo": {
@@ -84,7 +70,7 @@
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
-		"damage": 15,
+		"damage": 5,
 		"fragBullets": 10,
 		"fragBullet":{
 		  "type": "BasicBulletType",
@@ -101,8 +87,10 @@
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
-		"damage": 25,
+		"damage": 30,
 		"fragBullets": 10,
+      "status": "sapped",
+      "statusDuration": 60,
 		"fragBullet":{
 		  "type": "BasicBulletType",
 		  "speed": 3,
@@ -110,6 +98,8 @@
 		  "status": "slow",
 		  "statusDuration": 100,
   		"lifetime": 45,
+      "status": "sapped",
+      "statusDuration": 60,
 		  "collides": true
       }
     }
