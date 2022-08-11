@@ -36,6 +36,7 @@
   "research": "duo",
   "range": 800,
   "shootX": 0,
+  "size": 3,
   "requirements": [
     {
       "item": "copper",
