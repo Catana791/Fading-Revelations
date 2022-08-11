@@ -39,7 +39,7 @@
   "size": 3,
   "rotate": false,
   "rotateSpeed": 0,
-  "shootCone": 0,
+  "shootCone": 360,
   "requirements": [
     {
       "item": "copper",
