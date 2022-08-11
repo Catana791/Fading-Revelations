@@ -60,7 +60,7 @@
       "pierceBuilding": true,
       "buildingDamageMultiplier": 0.5
     },
-    "homingAmmo": {
+    "homing-ammo": {
       "type": "BasicBulletType",
       "speed": 8,
       "collidesTiles": false,
