@@ -19,6 +19,8 @@
   "buildCostMultiplier": 0.2,
   "ammoTypes": {
     "metaglass": {
+      "lifetime": 60,
+      "speed": 3,
       "type": "FlakBulletType",
       "ammoMultiplier": 3,
       "shootEffect": "shootSmall",
