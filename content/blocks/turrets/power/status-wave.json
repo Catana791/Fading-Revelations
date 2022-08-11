@@ -47,7 +47,7 @@
     }
   ],
   "shootY": 0,
-  "reloadTime": 60,
+  "reloadTime": 120,
   "ammoTypes": {
     "water": {
       "instantDisappear": true,
@@ -62,8 +62,8 @@
         "sizeFrom": 0,
         "sizeTo": 800,
         "colorFrom": "13448f",
-        "colorTo": "13448f",
-        "offsetX": -5
+        "colorTo": "174da0",
+        "lifetime": 80
       }
     }
   }
