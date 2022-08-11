@@ -27,7 +27,7 @@
       "height": 8,
       "shrinkY": 0,
       "splashDamageRadius": 30,
-      "splashDamage: 40,
+      "splashDamage": 40,
       "ammoMultiplier": 5,
       "hitEffect": "blastExplosion",
       "despawnEffect": "blastExplosion",
