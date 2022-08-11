@@ -16,8 +16,8 @@
   "rotateSpeed": 0,
   "shootCone": 360,
   "size": 3,
-  "shootEffect": "none",
-  "ammoUseEffect": {
+  "tammoUseEffect": "none",
+  "shootEffec": {
     "type": "WaveEffect",
     "sizeFrom": 0,
     "sizeTo": 400,
