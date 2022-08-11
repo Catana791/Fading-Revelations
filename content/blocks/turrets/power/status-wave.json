@@ -33,6 +33,10 @@
   "category": "turret",
   "research": "duo",
   "requirements": [
-    {"item": "copper", "amount": 1}  
+    {"item": "copper", "amount": 300},
+    {"item": "lead", "amount": 250},
+    {"item": "graphite", "amount": 200},
+    {"item": "silicon", "amount": 150},
+    {"item": "living-steel-hard", "amount": 100}
   ]
 }
