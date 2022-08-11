@@ -6,7 +6,7 @@
     "power": 4 
   },
   "health": 680,
-  "shootEffect": {
+  "ammoUseEffect": {
       "type": "MultiEffect",
       "effects": [
       {
@@ -34,7 +34,7 @@
   },
   "category": "turret",
   "research": "duo",
-  "range": 400,
+  "range": 640,
   "shootX": 0,
   "size": 3,
   "requirements": [
@@ -44,7 +44,7 @@
     }
   ],
   "shootY": 0,
-  "reloadTime": 360,
+  "reloadTime": 60,
   "ammoTypes": {
     "water": {
       "instantDisappear": true,
@@ -53,7 +53,14 @@
       "splashDamageRadius": 800,
       "knockback": 10,
       "status": "wet",
-      "statusDuration": 360
+      "statusDuration": 360,
+      "hitEffect": {
+        "type": "WaveEffect",
+        "sizeFrom": 0,
+        "sizeTo": 20,
+        "colorFrom": "13448f",
+        "colorTo": "13448f"
+      }
     }
   }
 }
