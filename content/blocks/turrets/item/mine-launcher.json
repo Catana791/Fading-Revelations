@@ -51,6 +51,41 @@
         "status": "melting",
         "statusDuration": 240
       }
+    },
+    "ammo-level-3": {
+      "speed": 10,
+      "ammoMultiplier": 3,
+      "height": 0,
+      "type": "BasicBulletType",
+      "width": 0,
+      "hittable": false,
+      "damage": 0,
+      "lifetime": 15,
+      "length": 0,
+      "pierce": false,
+      "collides": true,
+      "knockback": 8,
+      "fragBullets": 1,
+      "fragBullet": {
+        "type": "BasicBulletType",
+        "height": 32,
+        "width": 32,
+        "hitSize": 32,
+        "damage": 90,
+        "sprite": "me-lml-mine"
+        "frontColor": "d99f6b",
+        "bulletShrink": -1,
+        "despawnEffect": "none",
+        "backColor": "f3e979",
+        "splashDamage": 75,
+        "splashDamageRadius": 45,
+        "speed": 0,
+        "hittable": false,
+        "collides": true,
+        "pierce": false,
+        "lifetime": 720,
+        "status": "melting",
+        "statusDuration": 300
     }
   },
   "requirements": [
