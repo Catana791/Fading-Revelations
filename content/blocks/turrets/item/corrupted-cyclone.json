@@ -5,7 +5,7 @@
   "health": 1905,
   "maxAmmo": 600,
   "ammoPerShot": 1,
-  "reloadTime": 8,
+  "reloadTime": 16,
   "range": 224,
   "size": 3,
   "squareSprite": false,
