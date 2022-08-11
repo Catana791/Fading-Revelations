@@ -22,7 +22,7 @@
   "shootEffect": {
     "type": "WaveEffect",
     "sizeFrom": 0,
-    "sizeTo": 400,
+    "sizeTo": 600,
     "colorFrom": "e5ed2c",
     "colorTo": "cfd712"
   },
