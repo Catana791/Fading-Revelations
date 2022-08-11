@@ -59,6 +59,7 @@
       "shootEffect": "shootHeal",
       "damage": 0,
       "healPercent": 5,
+      "targetHealing": true,
       "collidesTeam": true,
       "backColor": "98ffa9",
       "frontColor": "ffffff",
