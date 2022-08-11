@@ -56,11 +56,9 @@
     "plastanium": {
       "type": "FlakBulletType",
       "splashDamageRadius": 40,
-      "splashDamage": 42,
-      "damage": 11,
+      "splashDamage": 52,
+      "damage": 16,
       "hitEffect": "plasticExplosion",
-      "frontColor": "plastaniumFront",
-      "backColor": "plastaniumBack",
       "shootEffect": "shootBig",
       "collidesGround": true,
       "explodeRange": 20,
@@ -70,8 +68,6 @@
         "height": 12,
         "shrinkY": 1,
         "lifetime": 15,
-        "backColor": "plastaniumBack",
-        "frontColor": "plastaniumFront",
         "despawnEffect": "none"
       }
     },
