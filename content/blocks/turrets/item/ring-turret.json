@@ -37,13 +37,15 @@
 		"damage": 60,
 		"fragBullets": 10,
       "pierce": true,
+      "pierceCap": 4,
 		"fragBullet":{
 		  "type": "BasicBulletType",
 		  "speed": 3,
 		  "damage": 20, 
   		"lifetime": 45,
-      "pierce": true
-		  "collides": true,
+      "pierce": true,
+      "pierceCap": 4,
+		  "collides": true
       }
     },
     "ammo-level-3": {
