@@ -34,7 +34,7 @@
   },
   "category": "turret",
   "research": "duo",
-  "range": 800,
+  "range": 400,
   "shootX": 0,
   "size": 3,
   "requirements": [
