@@ -65,7 +65,7 @@ ammoTypes: {
     pierce: true
     pierceBuilding: true
     ammoMultiplier: 8
-    status: me-steel-sapped
+    status: melting
     makeFire: true
     lifetime: 18
     width: 0.01
