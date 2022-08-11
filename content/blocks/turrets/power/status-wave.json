@@ -31,7 +31,7 @@
     "colorTo": "cfd712"
   },
   "category": "turret",
-  "research": "shotgun",
+  "research": "arc-coil-big",
   "requirements": [
     {"item": "copper", "amount": 300},
     {"item": "lead", "amount": 250},
