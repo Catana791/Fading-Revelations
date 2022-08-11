@@ -58,7 +58,7 @@
       "status": {
         "name": "me-radiated",
       "localizedName": "Radiated",
-      "damage": 1,
+      "damage": 0.25,
       "permanent": true,
       "alwaysUnlocked": true,
       "effectChance": 0.3,
