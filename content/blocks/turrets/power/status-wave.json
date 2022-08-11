@@ -1,0 +1,52 @@
+{
+  "type": "LiquidTurret",
+  "name": "Status Wave",
+  "description": "Shoots out shockwaves that don't deal a lot of damage but push back enemies and inflict various status effects.",
+  "consumes": {
+    "power": 4 
+  },
+  "health": 680,
+  "shootEffect": {
+      "type": "SeqEffect",
+    "effects": [
+      {
+        "type": "WaveEffect",
+        "sizeFrom": 26,
+        "sizeTo": 0,
+        "colorFrom": "dde435",
+        "colorTo": "b4ba1c"
+      },
+      {
+        "type": "ParticleEffect",
+        "interp": "circleIn",
+        "colorFrom": "dde435",
+        "colorTo": "b4ba1c"
+      },
+      {
+        "type": "WaveEffect",
+        "colorFrom": "dde435",
+        "colorTo": "b4ba1c",
+        "lifetime": 180,
+        "sizeFrom": 0,
+        "sizeTo": 50
+      }
+      ]
+  },
+  "category": "turret",
+  "research": "duo",
+  "range": 800,
+  "shootX": 0,
+  "shootY": 0,
+  "reload": 360,
+  "ammoTypes": {
+    "water": {
+      "instantDisappear": true,
+      "damage": 0,
+      "splashDamage": 5,
+      "splashDamageRadius": 800,
+      "knockback": 10,
+      "status": "wet",
+      "statusDuration": 360
+    }
+  }
+}
