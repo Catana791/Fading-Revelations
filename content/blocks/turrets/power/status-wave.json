@@ -52,7 +52,7 @@
     "water": {
       "instantDisappear": true,
       "damage": 0,
-      "splashDamage": 20,
+      "splashDamage": 60,
       "splashDamageRadius": 800,
       "knockback": 10,
       "status": "wet",
