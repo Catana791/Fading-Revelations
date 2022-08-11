@@ -59,6 +59,31 @@ ammoTypes: {
       sizeTo: 0.6
     }
   }
+  living-steel: {
+    damage: 42
+    speed: 6
+    pierce: true
+    pierceBuilding: true
+    ammoMultiplier: 8
+    status: burning
+    makeFire: true
+    lifetime: 18
+    width: 0.01
+    despawnEffect: none
+    height: 0.01
+    smokeEffect: {
+      type: ParticleEffect
+      particles: 25
+      length: 140
+      lifetime: 36
+      interp: circleOut
+      cone: 3
+      colorFrom: ffdd55
+      colorTo: db401c
+      sizeFrom: 4
+      sizeTo: 0.6
+    }
+  }
 }
 category: turret
 research: trio
