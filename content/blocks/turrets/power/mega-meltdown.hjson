@@ -21,7 +21,7 @@ shootType: {
   length: 320
   width: 10
 }
-research: big-parallax
+research: big-segment
 category: turret
 requirements: [
   copper/1600
