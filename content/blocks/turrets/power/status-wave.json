@@ -10,7 +10,7 @@
     "splashDamage": 80,
     "splashDamageRadius": 800,
     "status": "unmoving",
-    "statusDuration": 20,
+    "statusDuration": 25,
   },
   "rotate": false,
   "rotateSpeed": 0,
