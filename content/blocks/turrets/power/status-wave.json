@@ -13,6 +13,7 @@
       "name": "me-shockslowed",
       "localizedName": "Shock-Slowed",
       "speedMultiplier": 0.3,
+      "alwaysUnlocked": true
     },
     "statusDuration": 60
   },
