@@ -10,7 +10,7 @@
     "splashDamage": 25,
     "splashDamageRadius": 800,
     "status": {
-      "name": "me-schockslowed",
+      "name": "me-shockslowed",
       "localizedName": "Shock-Slowed",
       "speedMultiplier": 0.3,
     },
