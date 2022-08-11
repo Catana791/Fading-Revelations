@@ -61,7 +61,6 @@
       "damage": 0.25,
       "permanent": true,
       "alwaysUnlocked": true,
-      "effectChance": 0.3,
       "speedMultiplier": 0.9,
       "reloadMultiplier": 0.9,
       "healthMultiplier": 0.9,
