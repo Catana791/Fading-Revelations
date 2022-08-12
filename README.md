@@ -76,7 +76,7 @@ extends **[Mindustry]** in fun ways while keeping it balanced.*
 
 <br>
 
-[Preview]
+![Preview]
 
 
 <!----------------------------------------------------------------------------->
