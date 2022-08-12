@@ -76,6 +76,8 @@ extends **[Mindustry]** in fun ways while keeping it balanced.*
 
 <br>
 
+[Preview]
+
 
 <!----------------------------------------------------------------------------->
 
@@ -89,6 +91,7 @@ extends **[Mindustry]** in fun ways while keeping it balanced.*
 
 [License]: LICENSE
 [Logo]: github/Banner.png
+[Preview]: .github/github_preview.png
 
 
 <!----------------------------------[ Badges ]--------------------------------->
