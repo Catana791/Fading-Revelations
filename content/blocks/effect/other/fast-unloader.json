@@ -1,6 +1,7 @@
 {
   "type": "Unloader" 
-  "name": "Me-Unloadtest",
+  "name": "Advanced Unloader",
+  "description": "An unloader that unloads items way faster than the normal one.",
 "size": 1,
 "dumpTime": 1,
 "itemCapacity": 100,
@@ -8,8 +9,12 @@
 "research": "duo",
 "requirements": [
 {
-"item": "copper",
-"amount": 1
+"item": "silicon",
+"amount": 50
+},
+{
+"item": "titanium",
+"amount": 45
 }
 ]
 }
