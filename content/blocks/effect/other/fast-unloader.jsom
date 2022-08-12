@@ -1,10 +1,10 @@
 {
   "type": "Unloader" 
-  "name": "",
+  "name": "Me-Unloadtest",
 "size": 1,
 "dumpTime": 1,
 "itemCapacity": 100,
-"category": effect 
+"category": "effect",
 "research": "duo",
 "requirements": [
 {
