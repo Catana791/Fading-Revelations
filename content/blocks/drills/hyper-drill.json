@@ -23,8 +23,8 @@
 "itemCapacity": 60, 
 "tier": 15, 
 "drillTime": 40, 
-"rotateSpeed": 10, 
-"liquidBoostIntensity": 1.2,
+"rotateSpeed": 12, 
+"liquidBoostIntensity": 1.3,
 "consumes": { 
 "power": 4, 
 "liquid": {
