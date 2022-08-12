@@ -1,0 +1,14 @@
+{
+  "name": "Titanium Router",
+  "description": "A faster router that is made out of titanium.",
+  "type": "Router",
+  "dumpTime": 1,
+  "health": 75,
+  "size": 1,
+  "requirements": [
+    {"item": "copper", "amount": 5},
+    {"item": "titanium", "amount": 2}
+  ],
+  "category": "distribution",
+  "research": "mod-gate-distribution",
+}
