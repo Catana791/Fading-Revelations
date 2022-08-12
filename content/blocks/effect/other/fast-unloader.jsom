@@ -1,0 +1,15 @@
+{
+  "type": "Unloader" 
+  "name": "",
+"size": 1,
+"dumpTime": 1,
+"itemCapacity": 100,
+"category": effect 
+"research": "duo",
+"requirements": [
+{
+"item": "copper",
+"amount": 1
+}
+]
+}
