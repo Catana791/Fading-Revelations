@@ -7,7 +7,7 @@
   "hasItems": true,
   "health": 240,
   "hasLiquids": false,
-  "craftTime": 30,
+  "craftTime": 60,
   "consumes": {
     "power": 1.1,
     "items": {
@@ -45,7 +45,7 @@
   "research": "mod-gate-crafters",
   "outputItem": {
     "item": "metaglass",
-    "amount": 4
+    "amount": 3
   },
   "health": 320
 }
