@@ -25,11 +25,7 @@
     },
     {
       "item": "lead",
-      "amount": 40
-    },
-    {
-      "item": "lead",
-      "amount": 20
+      "amount": 60
     }
   ],
   "category": "effect",
