@@ -45,7 +45,7 @@
   "research": "mod-gate-crafters",
   "outputItem": {
     "item": "metaglass",
-    "amount": 3
+    "amount": 4
   },
   "health": 320
 }
