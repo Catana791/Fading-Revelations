@@ -6,7 +6,7 @@
 "dumpTime": 1,
 "itemCapacity": 100,
 "category": "effect",
-"research": "duo",
+"research": "mod-gate-effect",
 "requirements": [
 {
 "item": "silicon",
