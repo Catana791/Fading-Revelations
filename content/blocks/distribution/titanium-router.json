@@ -12,5 +12,5 @@
     {"item": "titanium", "amount": 2}
   ],
   "category": "distribution",
-  "research": "mod-gate-distribution",
+  "research": "titanium-junction",
 }
