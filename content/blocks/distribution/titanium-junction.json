@@ -4,7 +4,7 @@
   "type": "Junction",
   "dumpTime": 1,
   "speed": 0.1,
-  "health": 75,
+  "health": 45,
   "itemCapacity": 20,
   "size": 1,
   "requirements": [
