@@ -27,7 +27,6 @@
 ![Item Items]  
 ![Item Power]  
 ![Item Units]  
-![Item Zones]
 
 <br>
 <br>
