@@ -34,7 +34,7 @@
 
 *Formerly **Mindustry Extended**, now **Fading Revelations**, <br>
 extends **[Mindustry]** in fun ways while keeping it balanced. <br>
-    For a preview of this mod's content, scroll further down!*
+    For a **preview** of this mod's content, scroll **further down**!*
 
 <br>
 <br>
