@@ -17,7 +17,6 @@ const tracked = {
     walls : 'blocks/walls' ,
     items : 'items' ,
     units : 'units' ,
-    zones : 'zones'
 }
 
 
