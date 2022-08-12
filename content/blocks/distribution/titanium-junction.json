@@ -1,0 +1,16 @@
+{
+  "name": "Titanium Router",
+  "description": "A faster junction that is made out of titanium.",
+  "type": "Junction",
+  "dumpTime": 1,
+  "speed": 0.1,
+  "health": 75,
+  "itemCapacity": 20,
+  "size": 1,
+  "requirements": [
+    {"item": "copper", "amount": 6},
+    {"item": "titanium", "amount": 4}
+  ],
+  "category": "distribution",
+  "research": "titanium-router",
+}
