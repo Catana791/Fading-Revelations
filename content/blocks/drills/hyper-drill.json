@@ -24,7 +24,7 @@
 "tier": 15, 
 "drillTime": 40, 
 "rotateSpeed": 10, 
-"liquidBoostIntensity": 2,
+"liquidBoostIntensity": 1.2,
 "consumes": { 
 "power": 4, 
 "liquid": {
