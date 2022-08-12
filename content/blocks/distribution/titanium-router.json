@@ -3,6 +3,7 @@
   "description": "A faster router that is made out of titanium.",
   "type": "Router",
   "dumpTime": 1,
+  "speed": 1,
   "health": 75,
   "size": 1,
   "requirements": [
