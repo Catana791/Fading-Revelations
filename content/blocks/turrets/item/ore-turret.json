@@ -53,6 +53,43 @@
         ]
       },
       "despawnEffect": "none"
+    },
+    "graphite": {
+      "sprite": "me-graphite-bullet",
+      "type": "BasicBulletType",
+      "speed": 3,
+      "height": 20,
+      "despawnHit": true,
+      "width": 20,
+      "damage": 30,
+      "splashDamage": 35,
+      "splashDamageRadius": 24,
+      "frontColor": "95abd9",
+      "backColor": "626f9b",
+      "lifetime": 60,
+      "hitEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "type": "ParticleEffect",
+            "particles": 10,
+            "length": 16,
+            "sizeFrom": 10,
+            "sizeTo": 0,
+            "colorFrom": "95abd9",
+            "colorTo": "626f9b",
+            "interp": "pow5Out"
+          },
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 0,
+            "sizeTo": 18,
+            "colorFrom": "95abd9",
+            "colorTo": "626f9b",
+          }
+        ]
+      },
+      "despawnEffect": "none"
     }
   },
   "requirements": [
