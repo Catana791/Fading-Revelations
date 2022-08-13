@@ -30,6 +30,7 @@
       "lifetime": 60,
       "status": "burning",
       "statusDuration": 60,
+      "makeFire": true,
       "hitEffect": {
         "type": "ParticleEffect",
         "particles": 8,
