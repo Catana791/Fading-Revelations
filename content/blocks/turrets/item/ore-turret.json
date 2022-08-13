@@ -28,7 +28,17 @@
       "backColor": "2a2a2a",
       "lifetime": 210,
       "status": "burning",
-      "statusDuration": 60
+      "statusDuration": 60,
+      "hitEffect": {
+        "type": "ParticleEffect",
+        "particles": 16,
+        "length": 10,
+        "sizeFrom": 6,
+        "sizeTo": 0,
+        "colorFrom": "404040",
+        "colorTo": "2a2a2a",
+        "interp": "pow5Out"
+      }
     }
   },
   "requirements": [
