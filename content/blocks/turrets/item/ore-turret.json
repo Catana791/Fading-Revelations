@@ -7,7 +7,7 @@
   "category": "turret",
   "research": "duo",
   "range": 176,
-  "reloadTime": 90,
+  "reloadTime": 60,
   "rotateSpeed": 4,
   "targetAir": true,
   "targetGround": true,
