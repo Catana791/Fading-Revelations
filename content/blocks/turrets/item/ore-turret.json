@@ -146,7 +146,7 @@
       },
       "despawnEffect": "none"
     },
-    "coal": {
+    "thorium": {
       "sprite": "me-thorium-bullet",
       "type": "BasicBulletType",
       "speed": 3,
@@ -166,6 +166,7 @@
       "status": "burning",
       "lightOpacity": 1,
       "statusDuration": 60,
+      "homingPower": 0.08,
       "hitEffect": {
         "type": "MultiEffect",
         "effects": [
