@@ -6,7 +6,7 @@
   "size": 2,
   "category": "turret",
   "research": "duo",
-  "range": 96,
+  "range": 120,
   "reloadTime": 90,
   "rotateSpeed": 4,
   "targetAir": true,
@@ -27,7 +27,7 @@
       "splashDamagRadius": 16,
       "frontColor": "404040",
       "backColor": "2a2a2a",
-      "lifetime": 120,
+      "lifetime": 180,
       "status": "burning",
       "statusDuration": 60
     }
