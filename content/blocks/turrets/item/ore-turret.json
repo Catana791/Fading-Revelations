@@ -64,7 +64,7 @@
       "damage": 30,
       "splashDamage": 35,
       "splashDamageRadius": 24,
-      "frontColor": "95abd9",
+      "frontColor": "899bc0",
       "backColor": "626f9b",
       "lifetime": 60,
       "hitEffect": {
