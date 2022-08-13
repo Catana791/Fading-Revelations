@@ -296,7 +296,23 @@
       "backColor": "2cfa1f",
       "ammoMultiplier": 4,
       "lifetime": 60,
-      "status": "me-radiated",
+      "status": {
+        "name": "me-radiated",
+      "localizedName": "Radiated",
+      "damage": 0.125,
+      "permanent": true,
+      "alwaysUnlocked": true,
+      "speedMultiplier": 0.9,
+      "reloadMultiplier": 0.9,
+      "healthMultiplier": 0.9,
+      "effect": {
+      "type": "ParticleEffect",
+      "particles": 8,
+      "colorFrom": "30af1f",
+      "colorTo": "328926",
+      "interp": "circleOut"
+    }
+    },
       "lightOpacity": 1,
       "statusDuration": 60,
       "hitEffect": {
