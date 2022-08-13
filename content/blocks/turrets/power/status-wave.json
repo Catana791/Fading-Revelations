@@ -3,6 +3,8 @@
   "name": "Stasis Field",
   "description": "Shoots out shockwaves that deal damage and shock them, slowing them down quite a bit.",
   "range": 640,
+  "canOverdrive": false,
+  "liquidBoostIntensity": 0,
   "reloadTime": 60,
   "consumes": {
     "power": 8
