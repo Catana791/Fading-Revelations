@@ -40,7 +40,8 @@
         "colorFrom": "404040",
         "colorTo": "2a2a2a",
         "interp": "pow5Out"
-      }
+      },
+      "despawnEffect": "none"
     }
   },
   "requirements": [
