@@ -33,8 +33,8 @@
       "hitEffect": {
         "type": "ParticleEffect",
         "particles": 16,
-        "length": 10,
-        "sizeFrom": 6,
+        "length": 12,
+        "sizeFrom": 8,
         "sizeTo": 0,
         "colorFrom": "404040",
         "colorTo": "2a2a2a",
