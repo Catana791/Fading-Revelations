@@ -6,7 +6,7 @@
   "size": 2,
   "category": "turret",
   "research": "duo",
-  "range": 120,
+  "range": 176,
   "reloadTime": 90,
   "rotateSpeed": 4,
   "targetAir": true,
@@ -16,18 +16,18 @@
   "ammoTypes": {
     "coal": {
       "sprite": "me-coal-bullet",
-      "type": "BasicBulletType",
+      "type": "ArtilleryBulletType",
       "damage": 25,
-      "speeed": 2,
+      "speeed": 2.4,
       "height": 16,
-      "trailSize": 0.1,
+      "trailSize": 0.3,
       "width": 16,
       "trailChance": 0,
       "splashDamage": 15,
       "splashDamagRadius": 16,
       "frontColor": "404040",
       "backColor": "2a2a2a",
-      "lifetime": 180,
+      "lifetime": 210,
       "status": "burning",
       "statusDuration": 60
     }
