@@ -137,7 +137,7 @@
         "lifetime": 280,
         "fadeTime": 25,
         "colors": ["6586b0", "87ceeb", "c0ecff"],
-        "status": "melting",
+        "status": "freezing",
         "statusDuration": 30,
         "length": 350,
         "damage": 30
