@@ -11,3 +11,6 @@ Item Duration   |     60         |     1 Second
 fters)          |                |
 -------------------------------------------------------
 Time (General)  |     60         |     1 Second
+----------------|----------------|---------------------
+hitSize         | Divide Sprite  |
+                | size by 8.     |
