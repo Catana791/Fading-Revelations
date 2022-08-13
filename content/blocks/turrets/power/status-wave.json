@@ -4,10 +4,13 @@
   "description": "Shoots out shockwaves that deal damage and shock them, slowing them down quite a bit.",
   "range": 640,
   "reloadTime": 60,
+  "consumes": {
+    "power": 12
+  },
   "shootType": {
     "instantDisappear": true,
     "damage": 0,
-    "splashDamage": 25,
+    "splashDamage": 15,
     "splashDamageRadius": 640,
     "status": {
       "name": "me-shockslowed",
