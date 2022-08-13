@@ -1,0 +1,36 @@
+{
+  "type": "ItemTurret",
+  "name": "Ore Launcher",
+  "description": "Launches raw pieces of ore / material at enemies.",
+  "health": 320,
+  "size": 2,
+  "category": "turret",
+  "research": "duo",
+  "range": 96,
+  "reload": 90,
+  "rotateSpeed": 1.2,
+  "targetAir": true,
+  "targetGround": true,
+  "recoilAmount": 0.6,
+  "recoilTime": 60,
+  "ammoTypes": {
+    "coal": {
+      "type": "ArtilleryBulletType",
+      "damage": 25,
+      "speeed": 2,
+      "splashDamage": 15,
+      "splashDamagRadius": 16,
+      "frontColor": "404040",
+      "backColor": "2a2a2a",
+      "lifetime": 120,
+      "status": "burning",
+      "statusDuration": 60
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 1
+    }
+  ]
+}
