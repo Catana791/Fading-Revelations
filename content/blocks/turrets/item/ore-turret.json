@@ -111,7 +111,7 @@
       "pierceCap": 6,
       "width": 20,
       "lightRadius": 0,
-      "lightOpacity": 1,
+      "lightOpacity": 0,
       "damage": 10,
       "splashDamage": 15,
       "splashDamageRadius": 16,
