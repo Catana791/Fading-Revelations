@@ -110,6 +110,7 @@
       "pierce": true,
       "pierceCap": 6,
       "width": 20,
+      "lightColor": "d3ae8d",
       "lightRadius": 0,
       "lightOpacity": 0,
       "damage": 10,
