@@ -22,7 +22,7 @@
       "despawnHit": true,
       "lightRadius": 0,
       "pierce": true,
-      "pierceCap": 10,
+      "pierceCap": 8,
       "width": 20,
       "damage": 20,
       "splashDamage": 25,
@@ -65,7 +65,7 @@
       "speed": 3,
       "height": 20,
       "pierce": true,
-      "pierceCap": 20,
+      "pierceCap": 12,
       "despawnHit": true,
       "lightRadius": 0,
       "width": 20,
@@ -145,7 +145,51 @@
         ]
       },
       "despawnEffect": "none"
-    }
+    },
+    "coal": {
+      "sprite": "me-thorium-bullet",
+      "type": "BasicBulletType",
+      "speed": 3,
+      "height": 20,
+      "despawnHit": true,
+      "lightRadius": 0,
+      "pierce": true,
+      "pierceCap": 16,
+      "width": 20,
+      "damage": 40,
+      "splashDamage": 45,
+      "splashDamageRadius": 32,
+      "frontColor": "f9a3c7",
+      "backColor": "cb8ebf",
+      "ammoMultiplier": 4,
+      "lifetime": 60,
+      "status": "burning",
+      "lightOpacity": 1,
+      "statusDuration": 60,
+      "hitEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "type": "ParticleEffect",
+            "particles": 10,
+            "length": 16,
+            "sizeFrom": 10,
+            "sizeTo": 0,
+            "colorFrom": "f9a3c7",
+            "colorTo": "cb8ebf",
+            "interp": "pow5Out"
+          },
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 0,
+            "sizeTo": 18,
+            "colorFrom": "f9a3c7",
+            "colorTo": "cb8ebf",
+          }
+        ]
+      },
+      "despawnEffect": "none"
+    },
   },
   "requirements": [
     {
