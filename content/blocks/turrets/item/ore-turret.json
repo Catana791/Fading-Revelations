@@ -17,7 +17,7 @@
     "coal": {
       "sprite": "me-coal-bullet",
       "type": "BasicBulletType",
-      "speeed": 3,
+      "speeed": 4,
       "height": 20,
       "despawnHit": true,
       "trailSize": 4,
