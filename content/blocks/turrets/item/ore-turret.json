@@ -20,6 +20,7 @@
       "damage": 25,
       "speeed": 2,
       "height": 16,
+      "trailSize": 0.1,
       "width": 16,
       "trailChance": 0,
       "splashDamage": 15,
