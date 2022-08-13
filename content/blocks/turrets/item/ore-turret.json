@@ -11,6 +11,7 @@
   "rotateSpeed": 4,
   "targetAir": true,
   "targetGround": true,
+  "shootSound": "rockBreak",
   "recoilAmount": 0.6,
   "recoilTime": 60,
   "ammoTypes": {
