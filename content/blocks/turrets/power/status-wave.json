@@ -5,7 +5,7 @@
   "range": 640,
   "reloadTime": 60,
   "consumes": {
-    "power": 12
+    "power": 8
   },
   "shootType": {
     "instantDisappear": true,
