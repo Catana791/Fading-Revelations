@@ -15,6 +15,7 @@
   "recoilTime": 60,
   "ammoTypes": {
     "coal": {
+      "sprite": "me-coal-bullet",
       "type": "ArtilleryBulletType",
       "damage": 25,
       "speeed": 2,
