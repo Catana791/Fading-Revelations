@@ -7,7 +7,7 @@
   "liquidBoostIntensity": 0,
   "reloadTime": 60,
   "consumes": {
-    "power": 8
+    "power": 7
   },
   "shootType": {
     "instantDisappear": true,
