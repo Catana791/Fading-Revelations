@@ -28,6 +28,7 @@
       "splashDamageRadius": 24,
       "frontColor": "404040",
       "backColor": "2a2a2a",
+      "ammoMultiplier": 1,
       "lifetime": 60,
       "status": "burning",
       "statusDuration": 60,
@@ -70,6 +71,7 @@
       "splashDamageRadius": 24,
       "frontColor": "899bc0",
       "backColor": "626f9b",
+      "ammoMultiplier": 3,
       "lifetime": 60,
       "hitEffect": {
         "type": "MultiEffect",
@@ -90,6 +92,48 @@
             "sizeTo": 18,
             "colorFrom": "95abd9",
             "colorTo": "626f9b",
+          }
+        ]
+      },
+      "despawnEffect": "none"
+    },
+    "sand": {
+      "sprite": "me-sand-bullet",
+      "type": "BasicBulletType",
+      "speed": 3,
+      "height": 20,
+      "despawnHit": true,
+      "pierce": true,
+      "pierceCap": 6,
+      "width": 20,
+      "damage": 10,
+      "splashDamage": 15,
+      "splashDamageRadius": 16,
+      "frontColor": "f7cba4",
+      "backColor": "d3ae8d",
+      "lifetime": 60,
+      "ammoMultiplier": 1,
+      "status": "muddy",
+      "statusDuration": 60,
+      "hitEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "type": "ParticleEffect",
+            "particles": 10,
+            "length": 16,
+            "sizeFrom": 10,
+            "sizeTo": 0,
+            "colorFrom": "f7cba4",
+            "colorTo": "d3ae8d",
+            "interp": "pow5Out"
+          },
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 0,
+            "sizeTo": 18,
+            "colorFrom": "f7cba4",
+            "colorTo": "d3ae8d",
           }
         ]
       },
