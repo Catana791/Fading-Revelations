@@ -236,6 +236,51 @@
       },
       "despawnEffect": "none"
     },
+    "pyratite": {
+      "sprite": "me-blast-bullet",
+      "type": "BasicBulletType",
+      "speed": 3,
+      "height": 16,
+      "despawnHit": true,
+      "lightRadius": 0,
+      "pierce": true,
+      "pierceCap": 12,
+      "width": 16,
+      "damage": 30,
+      "splashDamage": 35,
+      "splashDamageRadius": 24,
+      "frontColor": "ffaa5f",
+      "backColor": "d37f47",
+      "ammoMultiplier": 1,
+      "lifetime": 60,
+      "status": "melting",
+      "lightOpacity": 1,
+      "statusDuration": 60,
+      "makeFire": true,
+      "hitEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "type": "ParticleEffect",
+            "particles": 10,
+            "length": 16,
+            "sizeFrom": 10,
+            "sizeTo": 0,
+            "colorFrom": "ffaa5f",
+            "colorTo": "d37f47",
+            "interp": "pow5Out"
+          },
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 0,
+            "sizeTo": 18,
+            "colorFrom": "ffaa5f",
+            "colorTo": "d37f47",
+          }
+        ]
+      },
+      "despawnEffect": "none"
+    }
   },
   "requirements": [
     {
