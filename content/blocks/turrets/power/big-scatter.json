@@ -132,6 +132,6 @@
     }
   ],
   "category": "turret",
-  "research": "sear",
+  "research": "ore-turret",
   "buildVisibility": "shown"
 }
