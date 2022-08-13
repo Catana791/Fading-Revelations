@@ -166,7 +166,7 @@
       "status": "burning",
       "lightOpacity": 1,
       "statusDuration": 60,
-      "homingPower": 0.08,
+      "homingPower": 0.2,
       "hitEffect": {
         "type": "MultiEffect",
         "effects": [
