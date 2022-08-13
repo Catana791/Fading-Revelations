@@ -16,7 +16,7 @@
   "ammoTypes": {
     "coal": {
       "sprite": "me-coal-bullet",
-      "type": "ArtilleryBulletType",
+      "type": "BasicBulletType",
       "damage": 25,
       "speeed": 2,
       "height": 16,
