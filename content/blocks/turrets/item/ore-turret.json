@@ -20,6 +20,7 @@
       "damage": 25,
       "speeed": 2.4,
       "height": 20,
+      "despawnHit": true,
       "trailSize": 4,
       "width": 20,
       "splashDamage": 15,
