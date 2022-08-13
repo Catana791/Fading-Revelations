@@ -163,9 +163,7 @@
       "backColor": "cb8ebf",
       "ammoMultiplier": 4,
       "lifetime": 60,
-      "status": "burning",
       "lightOpacity": 1,
-      "statusDuration": 60,
       "homingPower": 0.2,
       "hitEffect": {
         "type": "MultiEffect",
