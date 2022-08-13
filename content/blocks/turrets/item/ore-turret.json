@@ -57,7 +57,7 @@
     "graphite": {
       "sprite": "me-graphite-bullet",
       "type": "BasicBulletType",
-      "speed": 1.8,
+      "speed": 3,
       "height": 20,
       "despawnHit": true,
       "width": 20,
