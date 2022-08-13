@@ -16,13 +16,15 @@
   "ammoTypes": {
     "coal": {
       "sprite": "me-coal-bullet",
-      "type": "ArtilleryBulletType",
+      "type": "BasicBulletType",
       "speeed": 2.4,
       "height": 20,
       "despawnHit": true,
       "trailSize": 4,
       "width": 20,
+      "damage": 20,
       "splashDamage": 25,
+      "splashDamageRadius": 24,
       "frontColor": "404040",
       "backColor": "2a2a2a",
       "lifetime": 210,
