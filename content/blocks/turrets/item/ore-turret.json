@@ -27,19 +27,31 @@
       "splashDamageRadius": 24,
       "frontColor": "404040",
       "backColor": "2a2a2a",
-      "lifetime": 40,
+      "lifetime": 60,
       "status": "burning",
       "statusDuration": 60,
       "makeFire": true,
       "hitEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
         "type": "ParticleEffect",
         "particles": 8,
-        "length": 12,
-        "sizeFrom": 4,
+        "length": 14,
+        "sizeFrom": 8,
         "sizeTo": 0,
         "colorFrom": "404040",
         "colorTo": "2a2a2a",
         "interp": "pow5Out"
+          }
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 0,
+          "sizeTo": 12,
+          "colorFrom": "404040",
+        "colorTo": "2a2a2a",
+          }
+          ]
       },
       "despawnEffect": "none"
     }
