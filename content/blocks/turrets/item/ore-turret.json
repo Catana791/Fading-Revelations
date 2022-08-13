@@ -5,7 +5,7 @@
   "health": 320,
   "size": 2,
   "category": "turret",
-  "research": "duo",
+  "research": "sear",
   "range": 176,
   "reloadTime": 60,
   "rotateSpeed": 4,
@@ -285,7 +285,19 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 1
+      "amount": 250
+    },
+    {
+      "item": "lead",
+      "amount": 200
+    },
+    {
+      "item": "graphite",
+      "amount": 150
+    },
+    {
+      "item": "silicon",
+      "amount": 100
     }
   ]
 }
