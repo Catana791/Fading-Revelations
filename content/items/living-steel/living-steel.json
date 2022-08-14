@@ -1,9 +1,9 @@
 {
   "name": "Living Steel",
   "description": "A living piece of metal. Titanium infused with spores.",
+  "details": "In a small sector on Cerbero, a virus was contained by the ministry of defense. \n The virus consisted of intelligent spores. \n Scientists had done experiments and found that the spores had the ability to alter parts of electrical circuits to change the behaviour of maschines to their likings. \n \n After the invention of the 'main core', these spores were infused into steel, hoping that their power could be used while annihilating their risks. \n It was later found that the infused steel could multiply itself. \n \n But is this really the case or does the infusion give the spores more power? \n Only time will tell...",
   "cost": 2.5,
-  "color": "88299f",
-  "details": "While the advent of Living metal and its other variants have revolutionized many civilian aspects of life it has also brought upon a new age of weapon never seen before, pervious limitations of military technology are being broken at a rapid pace, new living metal infused AIs are starting to outpace even the most advanced military thinkers at an alarming rate, and weapons that are capable of uprooting even the most heavily fortified bases are starting to spread rapidly, today fears of a armed conflict with these new technologies are rampant and right fully so... \n \n For a new age of conflict has begun."
+  "color": "88299f", 
   "hardness": 1,
   "flammability": 0.5,
   "explosiveness": 0,
