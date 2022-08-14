@@ -27,7 +27,7 @@
         "lifetime": 180,
         "fadeTime": 20,
         "colors": ["d06b53", "d18877", "ffa665"],
-        "damage": 22,
+        "damage": 20,
         "length": 240,
         "makeFire": true,
         "width": 6,
