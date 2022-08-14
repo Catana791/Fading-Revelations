@@ -8,6 +8,7 @@
   "health": 2000,
   "armor": 6,
   "commandLimit": 12,
+  "lowAltitude": true,
   "weapons": [
     {
       "name": "king-main",
@@ -46,6 +47,7 @@
       "rotateSpeed": 6,
       "shootSound": "spark",
       "recoilAmount": 0,
+      "recoil": 0,
       "bullet": {
         "type": "LightningBulletType",
         "lightningLength": 35,
@@ -63,6 +65,7 @@
       "top": true,
       "shootSound": "spark",
       "rotateSpeed": 6,
+      "recoil": 0,
       "recoilAmount": 0,
       "bullet": {
         "type": "LightningBulletType",
