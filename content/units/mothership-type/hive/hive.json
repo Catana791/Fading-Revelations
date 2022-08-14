@@ -7,6 +7,7 @@
   "rotateWeapon": true,
   "aimDst": 600,
   "createWreck": true,
+  "lowAltitude": true,
   "speed": 0.96,
   "deathExplosionEffect": {
     "type": "MultiEffect",
