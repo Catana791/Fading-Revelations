@@ -42,6 +42,8 @@ extends **[Mindustry]** in fun ways while keeping it balanced. <br>
 
 ## Features
 
+A huge content extension mod!
+
 -   A unit upgrading system to buff their stats
 
 -   A trading system using gold as currency
