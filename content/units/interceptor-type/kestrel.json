@@ -30,7 +30,7 @@
         "damage": 10,
         "length": 240,
         "makeFire": true,
-        "width": 16,
+        "width": 8,
         "status": "burning"
       }
     },
@@ -82,7 +82,6 @@
         "colors": ["d06b53", "d18877", "ffa665"],
         "length": 200,
         "damage": 20,
-        "width": 10,
         "makeFire": true,
         "status": "burning",
         "statusDuration": 60
