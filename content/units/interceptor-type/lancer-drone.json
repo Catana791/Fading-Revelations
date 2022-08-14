@@ -4,7 +4,7 @@
   "name": "Areus",
   "description": "Shoots using a miniature Lancer.",
   "details": "Often regarded as a staple unit among many militaries in the Cluster. Areus drone is a cheap attack drone that can devastate enemy formations and bases in the right conditions. Originally designed as a fast interceptor craft it was later reworked into a glass cannon like unit with low speed and abysmally fragility, to make up for its fragility the unit has twin high damage lancer beams . \n \n While the Areus by itself is very vulnerable and can be easily shot down, swarms of drones can be a dangerous opponent for any enemy formation or base, news of these drone swarms crippling or even overwhelming the defenses of bases are not uncommon. \n \n As technology continues to advance so will the weapons of militaries in the Cluster, the Areus drone may become outdated replaced with new better units, with the advent of living steel it is only matter of time before it gets replaced by something that can unleash far more carnage on the Cluster.",
-  "speed": 4,
+  "speed": 3,
   "research": "mod-gate-units",
   "flying": true,
   "health": 200,
