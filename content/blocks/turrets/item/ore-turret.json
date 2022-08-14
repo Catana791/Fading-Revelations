@@ -1,6 +1,6 @@
 {
   "type": "ItemTurret",
-  "name": "Ore Launcher",
+  "name": "Itemslinger",
   "description": "Launches raw pieces of ore / material at enemies.",
   "health": 320,
   "size": 2,
