@@ -1,0 +1,15 @@
+{
+  "type": "flying",
+  "name": "Kestrel",
+  "description": "The last unit of the Areus unit tree. Fast and equipped with many energy weapons, this unit will help you to destroy your enemies.",
+  "speed": 1.1,
+  "research": "mod-gate-units",
+  "flying": true,
+  "health": 2000,
+  "armor": 6,
+  "commandLimit": 12,
+  "weapons": [
+    
+  ],
+  "hitSize": 27
+}
