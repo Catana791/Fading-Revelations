@@ -6,6 +6,7 @@
   "rotateWeapon": true,
   "speed": 0.96,
   "flying": true,
+  "lowAltitude": true,
   "research": {
     "parent": "mod-gate-units",
     "requirements": [
