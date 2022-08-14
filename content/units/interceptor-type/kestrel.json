@@ -10,7 +10,7 @@
   "commandLimit": 12,
   "weapons": [
     {
-      "name": "nothing",
+      "name": "king-main",
       "x": 0,
       "y": -15,
       "range": 240,
@@ -35,7 +35,7 @@
       }
     },
     {
-      "name": "nothing",
+      "name": "arc-weapon",
       "x": -15,
       "y": 5,
       "range": 160,
@@ -53,7 +53,7 @@
       }
     },
     {
-      "name": "nothing",
+      "name": "arc-weapon",
       "x": 15,
       "y": 5,
       "range": 160,
@@ -71,7 +71,7 @@
       }
     },
     {
-      "name": "nothing",
+      "name": "king-heal",
       "x": 0,
       "y": 15,
       "range": 200,
