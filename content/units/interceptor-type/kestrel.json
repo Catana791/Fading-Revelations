@@ -24,13 +24,13 @@
       "continuous": true,
       "bullet": {
         "type": "ContinuousLaserBulletType",
-        "lifetime": 120,
+        "lifetime": 180,
         "fadeTime": 20,
         "colors": ["d06b53", "d18877", "ffa665"],
-        "damage": 10,
+        "damage": 15,
         "length": 240,
         "makeFire": true,
-        "width": 8,
+        "width": 6,
         "status": "burning"
       }
     },
