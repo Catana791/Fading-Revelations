@@ -31,7 +31,7 @@
         "damage": 20,
         "length": 240,
         "makeFire": true,
-        "width": 6,
+        "width": 4,
         "status": "burning"
       }
     },
