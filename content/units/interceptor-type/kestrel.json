@@ -44,7 +44,7 @@
       "mirror": false,
       "top": true,
       "rotateSpeed": 6,
-      "shootSound": "lightning",
+      "shootSound": "spark",
       "recoilAmount": 0,
       "bullet": {
         "type": "LightningBulletType",
@@ -61,7 +61,7 @@
       "rotate": true,
       "mirror": false,
       "top": true,
-      "shootSound": "lightning",
+      "shootSound": "spark",
       "rotateSpeed": 6,
       "recoilAmount": 0,
       "bullet": {
