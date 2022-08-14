@@ -2,7 +2,7 @@
   "type": "flying",
   "name": "Kestrel",
   "description": "The last unit of the Areus unit tree. Fast and equipped with many energy weapons, this unit will help you to destroy your enemies.",
-  "speed": 1.1,
+  "speed": 5,
   "research": "close-range",
   "flying": true,
   "health": 2000,
