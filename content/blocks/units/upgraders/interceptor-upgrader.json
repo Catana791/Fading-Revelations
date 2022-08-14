@@ -6,7 +6,8 @@
     "size": 3,
     "constructTime": 600,
     "upgrades": [
-        ["lancer-drone","close-range"]
+        ["lancer-drone","close-range"],
+        ["close-range", "kestrel"]
     ],
     "consumes": {
         "power": 0.8,
