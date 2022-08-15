@@ -1,8 +1,8 @@
 {
   "name": "Steel Amalgam",
-  "description": "A compound material made from Living Steel and Surge Alloy.",
+  "description": "A compound material made from Copper, Living Steel and Surge Alloy.",
   "color": "ba6a83",
-  "flammability": 0.4,
+  "flammability": 0.6,
   "explosiveness": 0.2,
   "charge": 0.9,
   "radioactivity": 0,
@@ -10,7 +10,6 @@
     "parent": "living-steel",
     "requirements": [
       {"item": "copper", "amount": 200},
-      {"item": "lead", "amount": 200},
       {"item": "living-steel", "amount": 200},
       {"item": "surge-alloy", "amount": 200}
     ]
