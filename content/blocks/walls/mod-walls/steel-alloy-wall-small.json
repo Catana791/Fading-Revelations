@@ -19,11 +19,9 @@
   "shootCone": 360,
   "targetAir": false,
   "targetGround": true,
-  "shots": 32,
-  "spread": 2,
   "reloadTime": 60,
   "shootType": {
-    "damage": 3,
+    "damage": 20,
     "speed": 4,
     "pierce": true,
     "pierceBuilding": false,
