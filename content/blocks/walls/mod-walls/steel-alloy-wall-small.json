@@ -19,7 +19,7 @@
   "targetGround": true,
   "reloadTime": 60,
   "shootType": {
-    "damage": 20,
+    "damage": 30,
     "speed": 4,
     "pierce": true,
     "pierceBuilding": false,
