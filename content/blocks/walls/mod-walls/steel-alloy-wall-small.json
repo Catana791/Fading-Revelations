@@ -12,37 +12,23 @@
   "canOverdrive": false,
   "size": 1,
   "recoil": 0,
-  "range": 40,
+  "rotate": false,
+  "shootCone": 360,
+  "range": 30,
   "recoilAmount": 0,
   "shootCone": 360,
   "targetAir": false,
   "targetGround": true,
   "reloadTime": 60,
+  "shots": 10,
+  "spread": 30,
   "shootType": {
-    "damage": 30,
-    "speed": 4,
-    "pierce": true,
-    "pierceBuilding": false,
-  "status": "burning",
-  "statusDuration": 45,
-  "makeFire": false,
-  "lifetime": 10,
-  "despawnEffect": "none",
-  "width": 0.01,
-  "height": 0.01,
-  "smokeEffect": {
-  "type": "ParticleEffect",
-  "particles": 22,
-  "length": 40,
-  "lifetime": 36,
-  "interp": "circleOut",
-  "cone": 4,
-  "colorFrom": "ffdd55",
-  "colorTo": "db401c",
-  "sizeFrom": 6,
-  "sizeTo": 0
-}
-  },
+    "type": "LightningBulletType",
+    "lightningLength": 7,
+    "damage": 10,
+    "lightningColor": "bd7374"
+  }
+},
 "requirements": [
   {
     "item": "steel-alloy",
