@@ -9,6 +9,8 @@
   "research": {
     "parent": "living-steel",
     "requirements": [
+      {"item": "copper", "amount": 200},
+      {"item": "lead", "amount": 200},
       {"item": "living-steel", "amount": 200},
       {"item": "surge-alloy", "amount": 200}
     ]
