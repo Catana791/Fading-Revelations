@@ -71,6 +71,23 @@
       "lightningDamage": 15,
       "speed": 6,
       "lifetime": 30
+    },
+    "steel-alloy": {
+      "type": "MissileBulletType",
+      "width": 8,
+      "height": 8,
+      "shrinkY": 0,
+      "splashDamageRadius": 25,
+      "splashDamage": 71,
+      "damage": 30,
+      "hitEffect": "blastExplosion",
+      "despawnEffect": "blastExplosion",
+      "ammoMultiplier": 4,
+      "ligtning": 3,
+      "lightningLength": 12,
+      "lightningDamage": 18,
+      "speed": 6,
+      "lifetime": 30
     }
   },
   "requirements": [
