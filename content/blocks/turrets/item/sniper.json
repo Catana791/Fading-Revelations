@@ -104,6 +104,24 @@
       "height": 14,
       "status": "slow",
       "statusDuration": 250
+    },
+    "steel-alloy": {
+      "speed": 25,
+      "collidesTiles": false,
+      "damage": 800,
+      "splashDamageRadius": 24,
+      "splashDamage": 800,
+      "collidesTeam": false,
+      "pierce": true,
+      "collidesAir": false,
+      "ammoMultiplier": 2,
+      "width": 10,
+      "height": 14,
+      "lightning": 3,
+      "lightningLength": 6,
+      "lightningDamage": 20,
+      "status": "shocked",
+      "statusDuration": 250
     }
   },
   "requirements": [
