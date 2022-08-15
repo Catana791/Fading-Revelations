@@ -8,7 +8,7 @@
   "radioactivity": 0,
   "research": {
     "parent": "living-steel",
-    "requirements: [
+    "requirements": [
       {"item": "living-steel", "amount": 200},
       {"item": "surge-alloy", "amount": 200}
     ]
