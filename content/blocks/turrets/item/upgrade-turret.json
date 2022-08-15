@@ -84,6 +84,19 @@
       "statusDuration": 8000000,
       "splashDamage": 1,
       "splashDamageRadius": 1
+    },
+    "steel-alloy": {
+      "speed": 10,
+      "ammoMultiplier": 5,
+      "splashDamage": 12,
+      "splashDamageRadius": 14,
+      "lightning": 3,
+      "ligtningLength": 4,
+      "lightningDamage": 9,
+      "shootEffect": "shootBig",
+      "explodeRange": 20,
+      "collidesGround": true,
+      "damage": 62
     }
   },
   "requirements": [
