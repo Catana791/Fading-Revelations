@@ -1,0 +1,62 @@
+{
+  "type": "GenericCrafter",
+  "name": "Amalgam Smelter",
+  "description": "Smelts copper, living steel and surge alloy into Steel Amalgam using slag as a heat source.",
+  "outputItem": {
+    "liquid": "steel-alloy",
+    "amount": 2
+  },
+  "health": 740,
+  "itemCapacity": 30,
+  "size": 3,
+  "craftTime": 120,
+  "health": 240,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 7,
+    "liquid": {
+      "liquid": "slag",
+      "amount": 0.2
+    },
+    "items": {
+      "items": [
+        {
+          "item": "copper",
+          "amount": 2
+        },
+        {
+          "item": "living-steel",
+          "amount": 3
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  "requirements": [
+
+    {
+      "item": "copper",
+      "amount": 250
+    },
+    {
+      "item": "lead",
+      "amount": 200
+    },
+    {
+      "item": "living-steel",
+      "amount": 100
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 50
+    }
+  ],
+  "category": "crafting",
+  "research": "mod-gate-production"
+}
