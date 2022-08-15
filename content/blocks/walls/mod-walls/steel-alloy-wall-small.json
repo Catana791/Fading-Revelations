@@ -1,7 +1,7 @@
 {
   "name": "Steel Amalgam Wall",
   "description": "A small wall made from Steel Amalgam. Creates rings of fire around it when enemies get close.",
-  "type": "PowerTurret",
+  "type": "ItemTurret",
   "hasItems": false,
   "hasPower": false,
   "consumes": {
