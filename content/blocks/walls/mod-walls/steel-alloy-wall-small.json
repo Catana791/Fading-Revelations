@@ -36,14 +36,14 @@
   "height": 0.01,
   "smokeEffect": {
   "type": "ParticleEffect",
-  "particles": 18,
+  "particles": 22,
   "length": 40,
   "lifetime": 36,
   "interp": "circleOut",
-  "cone": 3,
+  "cone": 4,
   "colorFrom": "ffdd55",
   "colorTo": "db401c",
-  "sizeFrom": 4,
+  "sizeFrom": 6,
   "sizeTo": 0
 }
   },
