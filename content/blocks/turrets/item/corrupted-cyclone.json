@@ -89,6 +89,20 @@
       "explodeRange": 20,
       "collidesGround": true,
       "damage": 18
+    },
+    "surge-alloy": {
+      "lifetime": 55,
+      "speed": 4,
+      "ammoMultiplier": 5,
+      "splashDamage": 91
+      "splashDamageRadius": 38,
+      "lightning": 3,
+      "ligtningLength": 9,
+      "lightningDamage": 19,
+      "shootEffect": "shootBig",
+      "explodeRange": 20,
+      "collidesGround": true,
+      "damage": 25
     }
   },
   "requirements": [
