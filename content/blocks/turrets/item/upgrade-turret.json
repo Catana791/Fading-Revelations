@@ -12,6 +12,7 @@
   "targetGround": true,
   "rotatespeed": 8,
   "shots": 3,
+  "targetHealing": true,
   "recoilAmount": 2,
   "restitution": 0.8,
   "shootSound": "shoot",
@@ -59,7 +60,6 @@
       "shootEffect": "shootHeal",
       "damage": 0,
       "healPercent": 5,
-      "targetHealing": true,
       "collidesTeam": true,
       "backColor": "98ffa9",
       "frontColor": "ffffff",
@@ -96,7 +96,7 @@
       "shootEffect": "shootBig",
       "explodeRange": 20,
       "collidesGround": true,
-      "damage": 62
+      "damage": 61
     }
   },
   "requirements": [
