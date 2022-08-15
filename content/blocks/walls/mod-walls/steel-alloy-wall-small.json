@@ -1,6 +1,6 @@
 {
   "type": "PowerTurret",
-  "hasItems": "false,
+  "hasItems": false,
   "hasPower": false,
   "hasLiquids": false,
   "liquidBoostIntensity": 0,
