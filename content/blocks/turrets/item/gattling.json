@@ -95,6 +95,20 @@
       "status": "burning",
       "ammoMultiplier": 15,
       "statusDuration": 8000000
+    },
+    "steel-alloy": {
+      "lifetime": 25,
+      "speed": 12,
+      "ammoMultiplier": 5,
+      "splashDamage": 16,
+      "splashDamageRadius": 9,
+      "lightning": 2,
+      "ligtningLength": 5,
+      "lightningDamage": 11,
+      "shootEffect": "shootBig",
+      "explodeRange": 20,
+      "collidesGround": true,
+      "damage": 8
     }
   },
   "requirements": [
