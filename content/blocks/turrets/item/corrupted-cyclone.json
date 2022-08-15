@@ -90,7 +90,7 @@
       "collidesGround": true,
       "damage": 18
     },
-    "surge-alloy": {
+    "steel-alloy": {
       "lifetime": 55,
       "speed": 4,
       "ammoMultiplier": 5,
