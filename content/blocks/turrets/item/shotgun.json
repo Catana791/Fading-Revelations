@@ -81,6 +81,21 @@
       "splashDamageRadius": 1,
       "status": "melting",
       "statusDuration": 8000000
+    },
+    "steel-alloy": {
+      "damage": 90,
+      "speed": 6,
+      "type": "BasicBulletType",
+      "lifetime": 24,
+      "width": 3,
+      "height": 6,
+      "lightning": 3,
+      "lightningLength": 2,
+      "lightningDamage": 6,
+      "frontColor": "8b0091",
+      "backColor": "af00b5",
+      "shrinkX": 0.1,
+      "shrinkY": 0.1
     }
   },
   "requirements": [
