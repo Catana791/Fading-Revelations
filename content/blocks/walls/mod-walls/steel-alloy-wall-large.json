@@ -1,0 +1,48 @@
+{
+  "name": "Large Amalgam Wall",
+  "description": "A large wall made from Steel Amalgam. Creates rings of fire around it when enemies get close.",
+  "type": "PowerTurret",
+  "hasItems": false,
+  "hasPower": false,
+  "consumes": {
+    "power": 0.3
+  },
+  "hasLiquids": false,
+  "liquidBoostIntensity": 0,
+  "canOverdrive": false,
+  "size": 1,
+  "recoil": 0,
+  "rotate": false,
+  "rotateSpeed": 0,
+  "shootCone": 360,
+  "range": 60,
+  "recoilAmount": 0,
+  "shootCone": 360,
+  "targetAir": false,
+  "targetGround": true,
+  "reloadTime": 60,
+  "shots": 15,
+  "spread": 30,
+  "shootType": {
+    "type": "LightningBulletType",
+    "lightningLength": 10,
+    "damage": 25,
+    "lightningColor": "bd7374"
+},
+"requirements": [
+  {
+    "item": "steel-alloy",
+    "amount": 24
+  }
+  ],
+"category": "defense",
+"research": {
+ "parent": "living-steel-wall-2",
+  "requirements": [
+    {
+      "item": "steel-alloy",
+      "amount": 200
+    }
+    ]
+  }
+}
