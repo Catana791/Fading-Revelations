@@ -21,7 +21,7 @@
   "targetAir": false,
   "targetGround": true,
   "reloadTime": 60,
-  "shots": 10,
+  "shots": 15,
   "spread": 30,
   "shootType": {
     "type": "LightningBulletType",
