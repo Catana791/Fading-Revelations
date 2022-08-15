@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Amalgam Forge",
-  "description": "Smelts copper, living steel and surge alloy into Steel Amalgam using slag as a heat source.",
+  "description": "Smelts copper, living steel and surge alloy into Steel Amalgam using slag as a heat source. Is more cost-efficient than the Amalgam Smelter.",
   "outputItem": {
     "item": "steel-alloy",
     "amount": 2
