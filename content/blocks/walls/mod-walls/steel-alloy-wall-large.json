@@ -10,7 +10,7 @@
   "hasLiquids": false,
   "liquidBoostIntensity": 0,
   "canOverdrive": false,
-  "size": 1,
+  "size": 2,
   "recoil": 0,
   "rotate": false,
   "rotateSpeed": 0,
@@ -21,7 +21,7 @@
   "targetAir": false,
   "targetGround": true,
   "reloadTime": 90,
-  "shots": 15,
+  "shots": 20,
   "spread": 30,
   "shootType": {
     "type": "LightningBulletType",
