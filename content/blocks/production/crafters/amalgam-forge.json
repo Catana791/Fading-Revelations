@@ -1,0 +1,62 @@
+{
+  "type": "GenericCrafter",
+  "name": "Amalgam Smelter",
+  "description": "Smelts copper, living steel and surge alloy into Steel Amalgam using slag as a heat source.",
+  "outputItem": {
+    "liquid": "steel-alloy",
+    "amount": 2
+  },
+  "health": 740,
+  "itemCapacity": 30,
+  "size": 4,
+  "craftTime": 75,
+  "health": 240,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 7.4,
+    "liquid": {
+      "liquid": "slag",
+      "amount": 0.2
+    },
+    "items": {
+      "items": [
+        {
+          "item": "copper",
+          "amount": 2
+        },
+        {
+          "item": "living-steel",
+          "amount": 3
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  "requirements": [
+
+    {
+      "item": "copper",
+      "amount": 360
+    },
+    {
+      "item": "lead",
+      "amount": 300
+    },
+    {
+      "item": "living-steel",
+      "amount": 150
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 75
+    }
+  ],
+  "category": "crafting",
+  "research": "amalgam-smelter"
+}
