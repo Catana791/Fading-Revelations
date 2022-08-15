@@ -20,7 +20,7 @@
   "shootCone": 360,
   "targetAir": false,
   "targetGround": true,
-  "reloadTime": 60,
+  "reloadTime": 90,
   "shots": 15,
   "spread": 30,
   "shootType": {
