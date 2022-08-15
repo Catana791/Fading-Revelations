@@ -27,7 +27,6 @@
     "lightningLength": 7,
     "damage": 10,
     "lightningColor": "bd7374"
-  }
 },
 "requirements": [
   {
@@ -44,4 +43,5 @@
       "amount": 100
     }
     ]
+  }
 }
