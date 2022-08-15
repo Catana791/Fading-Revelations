@@ -3,7 +3,7 @@
   "name": "Amalgam Smelter",
   "description": "Smelts copper, living steel and surge alloy into Steel Amalgam using slag as a heat source.",
   "outputItem": {
-    "liquid": "steel-alloy",
+    "item": "steel-alloy",
     "amount": 2
   },
   "health": 740,
