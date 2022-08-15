@@ -1,0 +1,60 @@
+{
+  "type": "PowerTurret",
+  "hasItems": "false,
+  "hasPower": false,
+  "hasLiquids": false,
+  "liquidBoostIntensity": 0,
+  "canOverdrive": false,
+  "size": 1,
+  "rotate": false,
+  "rotateSpeed": 0,
+  "recoil": 0,
+  "range": 16,
+  "recoilAmount": 0,
+  "shootCone": 360,
+  "targetAir": false,
+  "targetGround": true,
+  "shots": 32,
+  "reloadTime": 60,
+  "shootType": {
+    "damage": 3,
+    "speed": 4,
+    "pierce": true,
+    "pierceBuilding": false,
+  "status": "burning",
+  "statusDuration": 45,
+  "makeFire": false,
+  "lifetime": 5,
+  "despawnEffect": "none",
+  "width": 0.01,
+  "height": 0.01,
+  "smokeEffect": {
+  "type": "ParticleEffect",
+  "particles": 18,
+  "length": 20,
+  "lifetime": 10,
+  "interp": "circleOut",
+  "cone": 1,
+  "colorFrom": "ffdd55",
+  "colorTo": "db401c",
+  "sizeFrom": 2,
+  "sizeTo": 0
+}
+  },
+"requirements": [
+  {
+    "item": "steel-alloy",
+    "amount": 6
+  }
+  ],
+"category": "defense",
+"research": {
+ "parent": "living-steel-wall-2",
+  "requirements": [
+    {
+      "item": "steel-alloy",
+      "amount": 100
+    }
+    ]
+}
+}
