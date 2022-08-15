@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "name": "Amalgam Smelter",
+  "name": "Amalgam Forge",
   "description": "Smelts copper, living steel and surge alloy into Steel Amalgam using slag as a heat source.",
   "outputItem": {
     "liquid": "steel-alloy",
