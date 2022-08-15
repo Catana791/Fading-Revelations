@@ -27,7 +27,12 @@
     "type": "LightningBulletType",
     "lightningLength": 7,
     "damage": 15,
-    "lightningColor": "bd7374"
+    "lightningColor": "bd7374",
+    "hitEffect": {
+      "type": "WaveEffect",
+      "colorFrom": "dbaf85",
+      "colorTo": "ba6a83"
+    }
 },
 "requirements": [
   {
