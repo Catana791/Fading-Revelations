@@ -1,6 +1,6 @@
 {
   "name": "Large Amalgam Wall",
-  "description": "A large wall made from Steel Amalgam. Creates rings of fire around it when enemies get close.",
+  "description": "A large wall made from Steel Amalgam. Zaps enemies around it when they get close.",
   "type": "PowerTurret",
   "hasItems": false,
   "hasPower": false,
