@@ -32,7 +32,7 @@ ammoTypes: {
       interp: circleOut
       colorFrom: f88711
       colorTo: f8d454
-      cone: 22
+      cone: 16
     }
     hitEffect: {
       type: ParticleEffect
