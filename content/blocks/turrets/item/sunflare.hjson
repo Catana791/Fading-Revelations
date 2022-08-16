@@ -11,7 +11,7 @@ spread: 2
 shootSound: flame
 ammoTypes: {
   coal: {
-    damage: 5
+    damage: 3
     speed: 6
     pierce: true
     pierceBuilding: true
@@ -49,7 +49,7 @@ ammoTypes: {
     reflectable: false
   }
   pyratite: {
-  damage: 7
+  damage: 5
     speed: 6
     pierce: true
     pierceBuilding: true
@@ -87,7 +87,7 @@ ammoTypes: {
     reflectable: false
   }
   living-steel: {
-    damage: 9
+    damage: 7
     speed: 6
     pierce: true
     pierceBuilding: true
@@ -125,7 +125,7 @@ ammoTypes: {
     reflectable: false
   }
   steel-alloy: {
-    damage: 11
+    damage: 9
     speed: 6
     pierce: true
     pierceBuilding: true
