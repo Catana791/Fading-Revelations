@@ -16,7 +16,7 @@
   "ammoTypes": {
     "ammo-level-1": {
       "type": "BasicBulletType",
-      "speed": 8,
+      "speed": 10,
       "damage": 300,
       "splashDamage": 300,
       "splashDamageRadius": 16,
@@ -27,7 +27,7 @@
     },
     "ammo-level-2": {
       "type": "BasicBulletType",
-      "speed": 8,
+      "speed": 10,
       "damage": 400,
       "splashDamage": 400,
       "splashDamageRadius": 24,
@@ -40,7 +40,7 @@
     },
     "ammo-level-3": {
       "type": "BasicBulletType",
-      "speed": 8,
+      "speed": 10,
       "damage": 500,
       "splashDamage": 500,
       "splashDamageRadius": 24,
@@ -51,7 +51,7 @@
     },
     "homing-ammo": {
       "type": "BasicBulletType",
-      "speed": 8,
+      "speed": 10,
       "damage": 600,
       "splashDamage": 600,
       "splashDamageRadius": 32,
@@ -62,7 +62,7 @@
       "homingPower": 0.9
     },
     "nano-ammo": {
-      "speed": 8,
+      "speed": 10,
       "damage": 30,
       "splashDamage": 30,
       "splashDamageRadius": 24,
@@ -74,7 +74,7 @@
       "statusDuration": 8000000
     },
     "living-steel": {
-      "speed": 25,
+      "speed": 10,
       "damage": 600,
       "splashDamageRadius": 24,
       "splashDamage": 600,
@@ -86,7 +86,7 @@
       "statusDuration": 250
     },
     "steel-alloy": {
-      "speed": 25,
+      "speed": 10,
       "damage": 800,
       "splashDamageRadius": 24,
       "splashDamage": 800,
