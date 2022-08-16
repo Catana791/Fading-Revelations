@@ -9,16 +9,20 @@
   "inaccuracy": 1,
   "ammoTypes": {
     "water": {
-      "type": "LiquidBulletType",
-      "damage": 20,
+      "type": "BasicBulletType",
+      "sprite": "me-liquid-vortex",
+      "frontColor": "486acd",
+      "backColor": "7090ea",
+      "spin": 8,
+      "speed": 2,
       "knockback": 45,
+      "damage": 20,
       "lifetime": 57,
       "pierce": true,
       "pierceCap": 10,
       "liquid": "water",
       "status": "wet",
       "statusDuration": 20,
-      "puddleSize": 10,
     },
     "cryofluid": {
       "type": "LiquidBulletType",
