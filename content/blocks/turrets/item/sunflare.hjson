@@ -18,7 +18,7 @@ ammoTypes: {
     ammoMultiplier: 5
     status: burning
     makeFire: true
-    lifetime: 18
+    lifetime: 55
     despawnEffect: none
     width: 3
     height: 3
