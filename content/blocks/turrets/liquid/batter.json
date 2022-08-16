@@ -24,6 +24,8 @@
         "colorFrom": "486acd",
         "colorTo": "7090ea",
       },
+      "shrinkX": 0,
+      "shrinkY": 0,
       "knockback": 45,
       "damage": 20,
       "pierce": true,
