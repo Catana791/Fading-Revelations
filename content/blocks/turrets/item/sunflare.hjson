@@ -56,7 +56,7 @@ ammoTypes: {
     ammoMultiplier: 15
     status: burning
     makeFire: true
-    lifetime: 18
+    lifetime: 45
     width: 0.01
     despawnEffect: none
     height: 0.01
@@ -94,7 +94,7 @@ ammoTypes: {
     ammoMultiplier: 18
     status: melting
     makeFire: true
-    lifetime: 18
+    lifetime: 45
     width: 0.01
     despawnEffect: none
     height: 0.01
@@ -132,7 +132,7 @@ ammoTypes: {
     ammoMultiplier: 22
     status: melting
     makeFire: true
-    lifetime: 18
+    lifetime: 45
     width: 0.01
     despawnEffect: none
     lightning: 2
