@@ -18,14 +18,14 @@ ammoTypes: {
     ammoMultiplier: 5
     status: burning
     makeFire: true
-    lifetime: 55
+    lifetime: 45
     despawnEffect: none
-    width: 3
-    height: 3
+    width: 10
+    height: 10
     smokeEffect: {
       type: ParticleEffect
-      particles: 1
-      length: 140
+      particles: 60
+      length: 300
       lifetime: 36
       interp: circleOut
       cone: 30
