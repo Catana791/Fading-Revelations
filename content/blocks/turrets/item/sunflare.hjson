@@ -24,8 +24,8 @@ ammoTypes: {
     height: 10
     smokeEffect: {
       type: ParticleEffect
-      particles: 60
-      length: 300
+      particles: 300
+      length: 290
       lifetime: 36
       interp: circleOut
       cone: 30
