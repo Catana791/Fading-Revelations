@@ -11,7 +11,7 @@ spread: 2
 shootSound: flame
 ammoTypes: {
   coal: {
-    damage: 4
+    damage: 10
     speed: 6
     pierce: true
     pierceBuilding: true
@@ -49,7 +49,7 @@ ammoTypes: {
     reflectable: false
   }
   pyratite: {
-  damage: 6
+  damage: 15
     speed: 6
     pierce: true
     pierceBuilding: true
@@ -87,7 +87,7 @@ ammoTypes: {
     reflectable: false
   }
   living-steel: {
-    damage: 8
+    damage: 20
     speed: 6
     pierce: true
     pierceBuilding: true
@@ -112,7 +112,7 @@ ammoTypes: {
     }
     hitEffect: {
       type: ParticleEffect
-      particles: 10
+      particles: 11
       sizeFrom: 0
       sizeTo: 1
       colorFrom: f88711
@@ -125,7 +125,7 @@ ammoTypes: {
     reflectable: false
   }
   steel-alloy: {
-    damage: 10
+    damage: 25
     speed: 6
     pierce: true
     pierceBuilding: true
@@ -167,8 +167,10 @@ ammoTypes: {
   }
 }
 category: turret
-research: trio
+research: missile-silo
 requirements: [
-  copper/50
-  graphite/44
+  copper/300
+  lead/250
+  graphite/200
+  steel-alloy/100
 ]
