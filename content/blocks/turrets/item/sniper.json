@@ -86,7 +86,7 @@
       "statusDuration": 250
     },
     "steel-alloy": {
-      "speed": 10,
+      "speed": 12,
       "damage": 800,
       "splashDamageRadius": 24,
       "splashDamage": 800,
