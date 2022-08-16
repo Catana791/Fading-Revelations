@@ -4,10 +4,11 @@ description: A better version of the Sear. Shoots cones of fire every second tha
 size: 4
 health: 1720
 range: 240
+
 reloadTime: 60
 recoilAmount: 4
 shots: 12
-spread: 4
+spread: 2
 shootSound: flame
 ammoTypes: {
   coal: {
@@ -22,18 +23,31 @@ ammoTypes: {
     despawnEffect: none
     width: 10
     height: 10
-    smokeEffect: {
+    shootEffect: {
       type: ParticleEffect
-      particles: 300
+      particles: 40
+      sizeFrom: 7
+      sizeTo: 1
       length: 290
-      lifetime: 36
+      lifetime: 60
       interp: circleOut
-      cone: 30
-      colorFrom: ffdd55
-      colorTo: db401c
-      sizeFrom: 4
-      sizeTo: 0.6
+      colorFrom: f88711
+      colorTo: f6a30c
+      cone: 16
     }
+    hitEffect: {
+      type: ParticleEffect
+      particles: 10
+      sizeFrom: 0
+      sizeTo: 1
+      colorFrom: f88711
+      colorTo: f6a30c
+      lifetime: 22
+      length: 20
+      cone: 16
+    }
+    hittable: false
+    reflectable: false
   }
   pyratite: {
   damage: 32
@@ -47,18 +61,31 @@ ammoTypes: {
     width: 0.01
     despawnEffect: none
     height: 0.01
-    smokeEffect: {
+    shootEffect: {
       type: ParticleEffect
-      particles: 25
-      length: 140
-      lifetime: 36
+      particles: 40
+      sizeFrom: 7
+      sizeTo: 1
+      length: 290
+      lifetime: 60
       interp: circleOut
-      cone: 3
-      colorFrom: ffdd55
-      colorTo: db401c
-      sizeFrom: 4
-      sizeTo: 0.6
+      colorFrom: f88711
+      colorTo: f6a30c
+      cone: 16
     }
+    hitEffect: {
+      type: ParticleEffect
+      particles: 10
+      sizeFrom: 0
+      sizeTo: 1
+      colorFrom: f88711
+      colorTo: f6a30c
+      lifetime: 22
+      length: 20
+      cone: 16
+    }
+    hittable: false
+    reflectable: false
   }
   living-steel: {
     damage: 42
@@ -72,18 +99,31 @@ ammoTypes: {
     width: 0.01
     despawnEffect: none
     height: 0.01
-    smokeEffect: {
+    shootEffect: {
       type: ParticleEffect
-      particles: 25
-      length: 140
-      lifetime: 36
+      particles: 40
+      sizeFrom: 7
+      sizeTo: 1
+      length: 290
+      lifetime: 60
       interp: circleOut
-      cone: 3
-      colorFrom: ffdd55
-      colorTo: db401c
-      sizeFrom: 4
-      sizeTo: 0.6
+      colorFrom: f88711
+      colorTo: f6a30c
+      cone: 16
     }
+    hitEffect: {
+      type: ParticleEffect
+      particles: 10
+      sizeFrom: 0
+      sizeTo: 1
+      colorFrom: f88711
+      colorTo: f6a30c
+      lifetime: 22
+      length: 20
+      cone: 16
+    }
+    hittable: false
+    reflectable: false
   }
   steel-alloy: {
     damage: 60
@@ -100,19 +140,31 @@ ammoTypes: {
     lightningLength: 1
     lightningDamage: 6
     height: 0.01
-    smokeEffect: {
+    shootEffect: {
       type: ParticleEffect
-      particles: 25
-      length: 140
-      lifetime: 36
+      particles: 40
+      sizeFrom: 7
+      sizeTo: 1
+      length: 290
+      lifetime: 60
       interp: circleOut
-      cone: 3
-      colorFrom: ffdd55
-      colorTo: db401c
-      sizeFrom: 4
-      sizeTo: 0.6
+      colorFrom: f88711
+      colorTo: f6a30c
+      cone: 16
     }
-  }
+    hitEffect: {
+      type: ParticleEffect
+      particles: 10
+      sizeFrom: 0
+      sizeTo: 1
+      colorFrom: f88711
+      colorTo: f6a30c
+      lifetime: 22
+      length: 20
+      cone: 16
+    }
+    hittable: false
+    reflectable: false
 }
 category: turret
 research: trio
