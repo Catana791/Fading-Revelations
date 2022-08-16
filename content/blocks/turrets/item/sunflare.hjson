@@ -24,7 +24,7 @@ ammoTypes: {
     height: 0.01
     shootEffect: {
       type: ParticleEffect
-      particles: 40
+      particles: 50
       sizeFrom: 7
       sizeTo: 1
       length: 290
@@ -32,7 +32,7 @@ ammoTypes: {
       interp: circleOut
       colorFrom: f88711
       colorTo: f8d454
-      cone: 16
+      cone: 22
     }
     hitEffect: {
       type: ParticleEffect
