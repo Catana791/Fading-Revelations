@@ -20,11 +20,11 @@ ammoTypes: {
     makeFire: true
     lifetime: 18
     despawnEffect: none
-    width: 0.01
-    height: 0.01
+    width: 3
+    height: 3
     smokeEffect: {
       type: ParticleEffect
-      particles: 25
+      particles: 1
       length: 140
       lifetime: 36
       interp: circleOut
