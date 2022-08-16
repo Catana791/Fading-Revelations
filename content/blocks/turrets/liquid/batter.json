@@ -11,12 +11,12 @@
     "water": {
       "type": "BasicBulletType",
       "sprite": "me-liquid-vortex",
-      "frontColor": "486acd",
-      "backColor": "7090ea",
+      "mixColorFrom": "486acd",
+      "mixColorTo": "7090ea",
       "spin": 8,
       "speed": 2,
-      "height": 10,
-      "width": 10,
+      "height": 25,
+      "width": 25,
       "lifetime": 100,
       "despawnHit": true,
       "hitEffect": {
