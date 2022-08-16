@@ -4,8 +4,7 @@ description: A better version of the Sear. Shoots cones of fire every second tha
 size: 4
 health: 1720
 range: 240
-
-reloadTime: 60
+reloadTime: 1
 recoilAmount: 4
 shots: 12
 spread: 2
@@ -16,16 +15,16 @@ ammoTypes: {
     speed: 6
     pierce: true
     pierceBuilding: true
-    ammoMultiplier: 5
+    ammoMultiplier: 10
     status: burning
     makeFire: true
     lifetime: 45
     despawnEffect: none
-    width: 10
-    height: 10
+    width: 0.01
+    height: 0.01
     shootEffect: {
       type: ParticleEffect
-      particles: 40
+      particles: 80
       sizeFrom: 7
       sizeTo: 1
       length: 290
@@ -54,7 +53,7 @@ ammoTypes: {
     speed: 6
     pierce: true
     pierceBuilding: true
-    ammoMultiplier: 7
+    ammoMultiplier: 15
     status: burning
     makeFire: true
     lifetime: 18
@@ -92,7 +91,7 @@ ammoTypes: {
     speed: 6
     pierce: true
     pierceBuilding: true
-    ammoMultiplier: 8
+    ammoMultiplier: 18
     status: melting
     makeFire: true
     lifetime: 18
@@ -130,7 +129,7 @@ ammoTypes: {
     speed: 6
     pierce: true
     pierceBuilding: true
-    ammoMultiplier: 12
+    ammoMultiplier: 22
     status: melting
     makeFire: true
     lifetime: 18
