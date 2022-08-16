@@ -36,8 +36,6 @@
       "suppressionRange": 240,
       "hitShake": 3,
       "reflectable": false,
-      "hittable": false,
-      "absorbable": false,
       "type": "MissileBulletType",
       "speed": 3,
       "targetAir": false,
@@ -138,8 +136,8 @@
       "amount": 2400
     },
     {
-      "item": "surge-alloy",
-      "amount": 2200
+      "item": "steel-alloy",
+      "amount": 1800
     }
   ],
   "category": "turret",
