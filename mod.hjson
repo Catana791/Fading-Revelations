@@ -1,5 +1,4 @@
 {
-    multiplayerCompatible : true
     displayName : Fading Revelations
     repo : Fresh791/Fading-Revelations
     name : me
@@ -21,7 +20,7 @@
 
         [maroon]Contributors
         - Sprites : Fresh791 
-        - Lore: iori
+        - Lore: iori / Fresh791
  
         And many more people! 
         Check the Discord 
