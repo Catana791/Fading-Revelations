@@ -4,7 +4,7 @@ description: A better version of the Sear. Shoots cones of fire every second tha
 size: 4
 health: 1720
 range: 240
-reloadTime: 1
+reloadTime: 4
 recoilAmount: 4
 shots: 12
 spread: 2
@@ -31,7 +31,7 @@ ammoTypes: {
       lifetime: 60
       interp: circleOut
       colorFrom: f88711
-      colorTo: f6a30c
+      colorTo: f8d454
       cone: 16
     }
     hitEffect: {
@@ -40,7 +40,7 @@ ammoTypes: {
       sizeFrom: 0
       sizeTo: 1
       colorFrom: f88711
-      colorTo: f6a30c
+      colorTo: f8d454
       lifetime: 22
       length: 20
       cone: 16
@@ -69,7 +69,7 @@ ammoTypes: {
       lifetime: 60
       interp: circleOut
       colorFrom: f88711
-      colorTo: f6a30c
+      colorTo: f8d454
       cone: 16
     }
     hitEffect: {
@@ -78,7 +78,7 @@ ammoTypes: {
       sizeFrom: 0
       sizeTo: 1
       colorFrom: f88711
-      colorTo: f6a30c
+      colorTo: f8d454
       lifetime: 22
       length: 20
       cone: 16
@@ -107,7 +107,7 @@ ammoTypes: {
       lifetime: 60
       interp: circleOut
       colorFrom: f88711
-      colorTo: f6a30c
+      colorTo: f8d454
       cone: 16
     }
     hitEffect: {
@@ -116,7 +116,7 @@ ammoTypes: {
       sizeFrom: 0
       sizeTo: 1
       colorFrom: f88711
-      colorTo: f6a30c
+      colorTo: f8d454
       lifetime: 22
       length: 20
       cone: 16
@@ -148,7 +148,7 @@ ammoTypes: {
       lifetime: 60
       interp: circleOut
       colorFrom: f88711
-      colorTo: f6a30c
+      colorTo: f8d454
       cone: 16
     }
     hitEffect: {
@@ -157,7 +157,7 @@ ammoTypes: {
       sizeFrom: 0
       sizeTo: 1
       colorFrom: f88711
-      colorTo: f6a30c
+      colorTo: f8d454
       lifetime: 22
       length: 20
       cone: 16
