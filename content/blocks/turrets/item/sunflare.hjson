@@ -31,7 +31,7 @@ ammoTypes: {
       lifetime: 60
       interp: circleOut
       colorFrom: f88711
-      colorTo: 37352f
+      colorTo: f8d454
       cone: 16
     }
     hitEffect: {
@@ -40,7 +40,7 @@ ammoTypes: {
       sizeFrom: 0
       sizeTo: 1
       colorFrom: f88711
-      colorTo: 37352f
+      colorTo: f8d454
       lifetime: 22
       length: 20
       cone: 16
