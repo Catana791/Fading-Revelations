@@ -18,6 +18,7 @@
   "range": 60,
   "recoilAmount": 0,
   "shootCone": 360,
+  "health": 4200,
   "targetAir": false,
   "targetGround": true,
   "reloadTime": 90,
