@@ -1,6 +1,6 @@
 type: ItemTurret
-name: Sear
-description: A better version of the Scorch. Burns enemies with more range and damage.
+name: Sunflare
+description: A better version of the Sear. Shoots cones of fire every second that burn enemies.
 size: 4
 health: 1720
 range: 240
