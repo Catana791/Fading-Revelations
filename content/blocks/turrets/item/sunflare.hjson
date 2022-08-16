@@ -129,7 +129,7 @@ ammoTypes: {
     speed: 6
     pierce: true
     pierceBuilding: true
-    ammoMultiplier: 22
+    ammoMultiplier: 25
     status: melting
     makeFire: true
     lifetime: 45
