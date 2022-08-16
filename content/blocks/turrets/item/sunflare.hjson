@@ -26,7 +26,7 @@ ammoTypes: {
       type: ParticleEffect
       particles: 50
       sizeFrom: 7
-      sizeTo: 1
+      sizeTo: 3
       length: 290
       lifetime: 60
       interp: circleOut
