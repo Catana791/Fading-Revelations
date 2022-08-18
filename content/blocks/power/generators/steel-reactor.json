@@ -23,7 +23,7 @@
   "consumes": {
     "power": 20,
     "liquid": {
-      "liquid": "cryfluid",
+      "liquid": "cryofluid",
       "amount": 0.1
     },
     "items": [
