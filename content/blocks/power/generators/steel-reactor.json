@@ -42,5 +42,5 @@
     {"item": "steel-alloy", "amount": 50}
   ],
   "category": "power",
-  "research": "uranium-reactor"
+  "research": "solar-array"
 }
