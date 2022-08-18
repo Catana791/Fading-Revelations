@@ -2,7 +2,7 @@
   "type": "unitFactory",
   "name": "[red]Mothership factory",
   "description": "Creates slow and extremely powerful superclass units from the mod.",
-  "size": 7,
+  "size": 14,
   "liquidCapacity": 600,
   "consumes": {
     "power": 43.33333333333333,
