@@ -6,12 +6,16 @@
     "size": 5,
     "constructTime": 1800,
     "upgrades": [
-        ["lancer-drone","close-range"],
+        ["close-range","kestrel"],
     ],
     "consumes": {
         "power": 2.8,
         "items": {
             "items": [
+              {
+                "item": "silicon",
+                "amount": 500
+              }
                 {
                     "item": "titanium",
                     "amount": 300
