@@ -39,6 +39,7 @@
         "damage": 20,
         "length": 240,
         "makeFire": true,
+        "pierceBuilding": false,
         "width": 4,
         "status": "burning"
       }
