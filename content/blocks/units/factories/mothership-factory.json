@@ -16,16 +16,16 @@
       "unit": "hive",
       "requirements": [
         {
-          "item": "pyratite",
-          "amount": 1500
-        },
-        {
           "item": "silicon",
           "amount": 3000
         },
         {
           "item": "titanium",
           "amount": 5500
+        },
+        {
+          "item": "living-steel",
+          "amount": 1500
         },
         {
           "item": "surge-alloy",
