@@ -26,9 +26,11 @@
       "liquid": "cryofluid",
       "amount": 0.1
     },
-    "items": [
-      {"item": "steel-alloy", "amount": 1}
-    ]
+    "items": {
+      "items": [
+        {"item": "steel-alloy", "amount": 1}
+      ]
+    }
   },
   "requirements": [
     {"item": "copper", "amount": 750},
