@@ -43,7 +43,7 @@
   ],
 "category": "defense",
 "research": {
- "parent": "living-steel-wall-2",
+ "parent": "steel-alloy-wall-small",
   "requirements": [
     {
       "item": "steel-alloy",
