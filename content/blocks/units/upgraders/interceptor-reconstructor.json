@@ -1,7 +1,7 @@
 {
     "type": "Reconstructor",
     "name": "Interceptor Upgrader",
-    "description": "Upgrades interceptor units from the Mindustry Extended mod.",
+    "description": "Upgrades interceptor units from the Mindustry Extended mod to their 3rd tier.",
     "health": 1680,
     "size": 5,
     "constructTime": 1800,
