@@ -3,7 +3,7 @@
   "name": "Solar Array",
   "description": "An array of solar panels that use Steel Amalgam as a conductor. Produces a lot of power for a solar panel!",
   "health": 280,
-  "size": 3,
+  "size": 6,
   "hasPower": true,
   "hasLiquids": false,
   "powerProduction": 10,
