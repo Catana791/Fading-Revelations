@@ -1,0 +1,42 @@
+{
+  "type": "ImpactReactor",
+  "name": "Amalgam Generator",
+  "description": "Uses highly charged and burnable Steel Amalgam to create big amounts of power.",
+  "health": 1100,
+  "size": 4,
+  "hasPower": true,
+  "hasLiquids": true,
+  "hasItems": true,
+  "explosionShake": 15,
+  "lightColor": "000000",
+  "explodeSound": "me-nrexp",
+  "itemCapacity": 30,
+  "liquidCapacity": 200,
+  "itemDuration": 360,
+  "powerProduction": 166.667,
+  "heating": 0.003,
+  "smokeThreshold": 0.3,
+  "flashThreshold": 0.4,
+  "coolantPower": 1,
+  "explosionDamage": 4000,
+  "explosionRadius": 320,
+  "consumes": {
+    "power": 20,
+    "liquid": {
+      "liquid": "cryfluid",
+      "amount": 0.1
+    },
+    "items": [
+      {"item": "steel-alloy", "amount": 1}
+    ]
+  },
+  "requirements": [
+    {"item": "copper", "amount": 750},
+    {"item": "lead", "amount": 700},
+    {"item": "graphite", "amount": 400},
+    {"item": "metaglass", "amount": 350},
+    {"item": "silicon", "amount": 350},
+    {"item": "thorium", "amount": 150},
+    {"item": "steel-alloy", "amount": 50}
+  ],
+}
