@@ -36,7 +36,7 @@
         "lifetime": 180,
         "fadeTime": 20,
         "colors": ["d06b53", "d18877", "ffa665"],
-        "damage": 20,
+        "damage": 10,
         "length": 240,
         "makeFire": true,
         "pierceBuilding": false,
