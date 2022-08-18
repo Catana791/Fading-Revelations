@@ -3,7 +3,7 @@
     "name": "Heavy Upgrader",
     "description": "Upgrades heavy units from the Fading Revelations mod.",
     "health": 2000,
-    "size": 6,
+    "size": 7,
   "liquidCapacity": 400,
     "constructTime": 20000,
     "upgrades": [
