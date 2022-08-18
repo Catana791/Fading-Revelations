@@ -1,0 +1,54 @@
+{
+    "type": "Reconstructor",
+    "name": "Interceptor Upgrader",
+    "description": "Upgrades interceptor units from the Mindustry Extended mod.",
+    "health": 1680,
+    "size": 5,
+    "constructTime": 1800,
+    "upgrades": [
+        ["lancer-drone","close-range"],
+    ],
+    "consumes": {
+        "power": 2.8,
+        "items": {
+            "items": [
+                {
+                    "item": "titanium",
+                    "amount": 300
+                },
+                {
+                  "item": "living-steel-hard",
+                  "amount": 150
+                }
+            ]
+        }
+    },
+    "requirements": [
+        {
+            "item": "copper",
+            "amount": 600
+		    }
+        {
+            "item": "lead",
+            "amount": 500
+        },
+{
+  "item": "graphite",
+  "amount": 400
+},
+{
+  "item": "silicon",
+  "amount": 300
+}
+        {
+            "item": "titanium",
+            "amount": 300
+        },
+{
+  "item": "living-steel-hard",
+  "amount": 200
+}
+    ],
+    "category": "units",
+    "research": "mod-gate-factories"
+ }
