@@ -39,4 +39,6 @@
     {"item": "thorium", "amount": 150},
     {"item": "steel-alloy", "amount": 50}
   ],
+  "category": "power",
+  "research": "uranium-reactor"
 }
