@@ -8,8 +8,8 @@
   "research": {
      "parent": "mod-gate-units",
     "requirements": [
-      {"item": "lead", "amount": 500},
-      {"item": "silicon", "amount": 300}
+      {"item": "lead", "amount": 300},
+      {"item": "silicon", "amount": 200}
       ]
   },
   "flying": true,
