@@ -51,11 +51,13 @@ consumes: {
   }
 }
 requirements: [
-  copper/300
-  metaglass/200
-  silicon/170
-  titanium/180
-  thorium/150
+  copper/1000
+  lead/900
+  graphite/750
+  metaglass/500
+  silicon/500
+  titanium/800
+  thorium/1200
 ]
 category: power
 research: advanced-solar-panel
