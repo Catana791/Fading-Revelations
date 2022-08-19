@@ -1,7 +1,7 @@
 {
   "type": "ImpactReactor",
   "name": "Amalgam Generator",
-  "description": "Uses highly charged and burnable Steel Amalgam to create big amounts of power.",
+  "description": "Uses the high flammability of Steel Amalgam to create large amounts of power from it.",
   "health": 1100,
   "size": 4,
   "hasPower": true,
