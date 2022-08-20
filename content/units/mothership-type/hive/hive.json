@@ -63,23 +63,23 @@
      "requirements": [
        {
 	       "item": "silicon",
-	       "amount": 2200
+	       "amount": 10000
        },
 	     {
+		     "item": "titanium",
+		     "amount": 9000
+	     },
+	     {
+		     "item": "living-steel",
+		     "amount": 6000
+	     },
+	     {
 		     "item": "surge-alloy",
-		     "amount": 1450
+		     "amount": 4000
 	     },
 	     {
 		     "item": "gold",
-		     "amount": 1500
-	     },
-	     {
-		     "item": "pyratite",
-		     "amount": 750
-	     },
-	     {
-		     "item": "titanium",
-		     "amount": 5000
+		     "amount": 1800
 	     }
     ]
   },
