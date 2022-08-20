@@ -12,39 +12,6 @@
   "legLength": 30,
   "legBaseOffset": 12,
   "legMoveSpace": 1.5,
-  "chargeEffect": {
-          "type": "MultiEffect",
-          "effects": [
-            {
-              "type": "ParticleEffect",
-              "particles": 32,
-              "sizeFrom": 12,
-              "sizeTo": 9,
-              "colorFrom": "7dbc2b",
-              "colorTo": "578022",
-              "length": 20,
-              "interp": "circleIn",
-              "lifetime": 60
-            },
-            {
-              "type": "WaveEffect",
-              "sizeFrom": 20,
-              "sizeTo": 0,
-              "colorFrom": "7dbc2b",
-              "colorTo": "578022",
-              "lifetime": 60
-            },
-            {
-              "type": "WaveEffect",
-              "sizeFrom": 0,
-              "sizeTo": 16,
-              "colorFrom": "578022",
-              "colorTo": "7dbc2b",
-              "startDelay": 60,
-              "lifetime": 30
-            }
-          ]
-        },
   "legForwardScl": 0.6,
   "hovering": true,
   "shadowElevation": 0.2,
@@ -88,7 +55,40 @@
         "sideAngle": 15,
         "sideWidth": 0,
         "sideLength": 0,
-        "colors": ["6fa629", "92e02f", "ffffff"]
+        "colors": ["6fa629", "92e02f", "ffffff"],
+         "chargeEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "type": "ParticleEffect",
+              "particles": 32,
+              "sizeFrom": 12,
+              "sizeTo": 9,
+              "colorFrom": "7dbc2b",
+              "colorTo": "578022",
+              "length": 20,
+              "interp": "circleIn",
+              "lifetime": 60
+            },
+            {
+              "type": "WaveEffect",
+              "sizeFrom": 20,
+              "sizeTo": 0,
+              "colorFrom": "7dbc2b",
+              "colorTo": "578022",
+              "lifetime": 60
+            },
+            {
+              "type": "WaveEffect",
+              "sizeFrom": 0,
+              "sizeTo": 16,
+              "colorFrom": "578022",
+              "colorTo": "7dbc2b",
+              "startDelay": 60,
+              "lifetime": 30
+            }
+          ]
+        },
       }
     }
   ],
