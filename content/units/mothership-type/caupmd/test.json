@@ -155,7 +155,7 @@
     },
     "knockback": 1,
     "sprite": "me-lycosid-bullet",
-    "lifetime": 180,
+    "lifetime": 360,
     "width": 30,
     "damage": 50,
     "height": 30,
