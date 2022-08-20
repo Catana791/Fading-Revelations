@@ -158,12 +158,13 @@
       "frontColor": "bf92f9",
       "backColor": "665c9f",
       "trailColor": "bf92f9",
-      "lifetime": 60,
+      "lifetime": 20,
       "trailLength": 6,
       "trailWidth": 3,
       "shrinkX": 0,
       "shrinkY": 0,
-      "width": 35
+      "width": 35,
+      "despawnEffect": "none"
     }
   }
 }
