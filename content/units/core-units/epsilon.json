@@ -4,7 +4,7 @@
   "description": "Defends the Element core from enemies. Builds structures quickly.",
   "drag": 0.15,
   "speed": 4.25,
-  "research": "core-level-5",
+  "research": "delta",
   "maxVelocity": 2,
   "canBuild": true,
   "buildSpeed": 3,
