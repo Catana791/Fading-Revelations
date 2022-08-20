@@ -116,7 +116,9 @@
         "healPercent": 2,
         "collidesTeam": true,
         "width": 28,
-        "height": 30
+        "height": 30,
+        "frontColor": "6fa629", 
+        "backColor": "92e02f",
       }
     }
   ],
