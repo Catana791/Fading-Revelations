@@ -93,5 +93,27 @@
     }
   ],
   "research": "mod-gate-units",
-  "hitSize": 52
+  "hitSize": 52,
+  "abilities": [
+    {
+      "type": "RepairFieldAbility",
+      "amount": 60,
+      "range": 120,
+      "reload": 60,
+      "healEffect": {
+        "type": "ParticleEffect",
+        "particles": 32,
+        "colorFrom": "87e422",
+        "colorTo": "70b921",
+        "interp": "circleIn",
+      },
+      "activeEffect": {
+        "type": "WaveEffect",
+        "sizeFrom": 0,
+        "sizeTo": 180,
+        "colorFrom": "87e422",
+        "colorTo": "70b921"
+      }
+    }
+  ]
 }
