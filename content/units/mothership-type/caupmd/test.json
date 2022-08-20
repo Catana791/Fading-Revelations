@@ -144,7 +144,7 @@
     "trailColor": "bf92f9",
     "frontColor": "bf92f9",
     "backColor": "665c9f",
-    "fragBullets": 1000,
+    "fragBullets": 1500,
     "fragRandomSpread": 360,
     "fragVelocityMax": 10,
     "fragVelocityMin": 10,
