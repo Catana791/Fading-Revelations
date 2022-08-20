@@ -138,8 +138,8 @@
           "type": "ParticleEffect",
           "particles": 8,
           "length": 20,
-          "sizeFrom": 12,
-          "sizeTo": 8,
+          "sizeFrom": 8,
+          "sizeTo": 4,
           "colorFrom": "bf92f9",
           "colorTo": "665c9f",
           "interp": "circleIn"
