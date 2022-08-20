@@ -104,8 +104,8 @@
       "bullet": {
         "type": "MissileBulletType",
         "sprite": "me-triangle",
-        "weaveMag": 10,
-        "weaveScale": 6,
+        "weaveMag": 2,
+        "weaveScale": 1,
         "speed": 2,
         "lifetime": 180,
         "damage": 40,
