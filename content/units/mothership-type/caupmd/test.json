@@ -131,6 +131,7 @@
   "rotationLimit": 90,
   "bullet": {
     "type": "ArtilleryBulletType",
+    "spin": 2,
     "hitEffect": {
       "type": "MultiEffect",
       "effects": [
