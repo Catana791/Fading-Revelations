@@ -33,7 +33,7 @@
       "cooldownTime": 480,
       "shootStatus": "unmoving",
       "shootStatusDuration": 120,
-      "firstShotDelay": 140,
+      "firstShotDelay": 110,
       "parentizeEffects": true,
       "bullet": {
         "type": "LaserBulletType",
