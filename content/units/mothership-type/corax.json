@@ -1,7 +1,7 @@
 {
   "type": "legs",
   "name": "Corax",
-  "description": "A heavy unit with an appearance similar to that of Corvus. Shoots a similar laser to Corvus but also some weaving Missiles.",
+  "description": "A heavy unit with an appearance similar to that of Corvus. Shoots a similar laser to Corvus but also some light artillery.",
   "health": 18000,
   "armor": 14,
   "stepShake": 2,
