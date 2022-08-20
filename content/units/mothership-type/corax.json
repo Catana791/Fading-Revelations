@@ -12,28 +12,7 @@
   "legLength": 30,
   "legBaseOffset": 12,
   "legMoveSpace": 1.5,
-  "legForwardScl": 0.6,
-  "hovering": true,
-  "shadowElevation": 0.2,
-  "speed": 0.45,
-  "drawShields": false,
-  "weapons": [
-    {
-      "name": "nothing",
-      "x": 0,
-      "y": 20,
-      "shootSound": "laserblast",
-      "chargeSound": "lasercharge",
-      "soundPitchMin": 1,
-      "top": false,
-      "mirror": false,
-      "shake": 16,
-      "reload": 480,
-      "recoil": 0,
-      "cooldownTime": 480,
-      "shootStatus": "unmoving",
-      "shootStatusDuration": 180,
-      "chargeEffect": {
+  "chargeEffect": {
           "type": "MultiEffect",
           "effects": [
             {
@@ -66,6 +45,27 @@
             }
           ]
         },
+  "legForwardScl": 0.6,
+  "hovering": true,
+  "shadowElevation": 0.2,
+  "speed": 0.45,
+  "drawShields": false,
+  "weapons": [
+    {
+      "name": "nothing",
+      "x": 0,
+      "y": 20,
+      "shootSound": "laserblast",
+      "chargeSound": "lasercharge",
+      "soundPitchMin": 1,
+      "top": false,
+      "mirror": false,
+      "shake": 16,
+      "reload": 480,
+      "recoil": 0,
+      "cooldownTime": 480,
+      "shootStatus": "unmoving",
+      "shootStatusDuration": 180,
       "firstShotDelay": 100,
       "parentizeEffects": true,
       "bullet": {
