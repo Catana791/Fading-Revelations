@@ -101,7 +101,6 @@
       "reload": 600,
       "alternate": true,
       "mirror": true,
-      "top": false,
       "bullet": {
         "type": "BasicBulletType",
         "sprite": "me-corax-bullet",
