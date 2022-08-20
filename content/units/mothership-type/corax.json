@@ -96,6 +96,7 @@
     {
       "name": "nothing",
       "x": 30,
+      "shootSound": "bigshot",
       "y": 35,
       "reload": 10,
       "alternate": true,
