@@ -4,7 +4,7 @@
     "description": "Upgrades interceptor units from the Mindustry Extended mod to their 3rd tier.",
     "health": 1680,
     "size": 5,
-    "constructTime": 1800,
+    "constructTime": 6000,
     "upgrades": [
         ["close-range","kestrel"],
     ],
