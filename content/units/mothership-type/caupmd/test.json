@@ -26,23 +26,23 @@
     "requirements": [
       {
         "item": "silicon",
-        "amount": 2100
-      },
-      {
-        "item": "plastanium",
-        "amount": 1300
-      },
-      {
-        "item": "surge-alloy",
-        "amount": 850
-      },
-      {
-        "item": "phase-fabric",
-        "amount": 400
+        "amount": 9000
       },
       {
         "item": "titanium",
-        "amount": 2000
+        "amount": 8000
+      },
+      {
+        "item": "living-steel",
+        "amount": 6000
+      },
+      {
+        "item": "phase-fabric",
+        "amount": 5000
+      },
+      {
+        "item": "surge-alloy",
+        "amount": 4000
       }
     ]
   },
