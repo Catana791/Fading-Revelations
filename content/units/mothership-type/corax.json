@@ -97,12 +97,13 @@
   "abilities": [
     {
       "type": "RepairFieldAbility",
-      "amount": 60,
+      "amount": 240,
       "range": 120,
-      "reload": 60,
+      "reload": 120,
       "healEffect": {
         "type": "ParticleEffect",
         "particles": 32,
+        "length": 100,
         "colorFrom": "87e422",
         "colorTo": "70b921",
         "interp": "circleIn",
