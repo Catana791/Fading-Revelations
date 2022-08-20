@@ -106,7 +106,7 @@
         "sprite": "me-lycosid-bullet",
         "speed": 2,
         "lifetime": 180,
-        "damage": 40,
+        "damage": 10,
         "pierce": true,
         "pierceBuilding": true,
         "pierceCap": 5,
