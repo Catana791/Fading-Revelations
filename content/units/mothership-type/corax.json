@@ -110,8 +110,6 @@
         "lifetime": 180,
         "damage": 40,
         "pierce": true,
-        "homingRange": 64,
-        "homingPower": 0.1,
         "pierceBuilding": true,
         "pierceCap": 5,
         "healPercent": 2,
