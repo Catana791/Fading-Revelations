@@ -13,23 +13,34 @@
   },
   "plans": [
     {
+      "unit": "corax",
+      "requirements": [
+        {"item": "silicon", "amount": 4000},
+        {"item": "titanium", "amount": 3000},
+        {"item": "living-steel", "amount": 2500},
+        {"item": "thorium", "amount": 2500},
+        {"item": "surge-alloy", "amount": 2000}
+      ],
+      "time": 36000
+    },
+    {
       "unit": "hive",
       "requirements": [
         {
           "item": "silicon",
-          "amount": 3000
+          "amount": 5000
         },
         {
           "item": "titanium",
-          "amount": 5500
+          "amount": 4500
         },
         {
           "item": "living-steel",
-          "amount": 1500
+          "amount": 3000
         },
         {
           "item": "surge-alloy",
-          "amount": 1750
+          "amount": 2000
         },
         {
           "item": "gold",
@@ -42,24 +53,24 @@
       "unit": "sps",
       "requirements": [
         {
-          "item": "metaglass",
-          "amount": 1700
-        },
-        {
           "item": "silicon",
-          "amount": 2200
+          "amount": 4000
         },
         {
           "item": "titanium",
-          "amount": 5500
+          "amount": 3000
+        },
+        {
+          "item": "living-steel",
+          "amount": 2500
         },
         {
           "item": "thorium",
-          "amount": 1600
+          "amount": 2500
         },
         {
           "item": "surge-alloy",
-          "amount": 2200
+          "amount": 2000
         }
       ],
       "time": 36000
@@ -69,15 +80,15 @@
       "requirements": [
         {
           "item": "silicon",
-          "amount": 2500
+          "amount": 4500
         },
         {
           "item": "titanium",
-          "amount": 2400
+          "amount": 4000
         },
         {
-          "item": "plastanium",
-          "amount": 1500
+          "item": "living-steel",
+          "amount": 3000
         },
         {
           "item": "phase-fabric",
@@ -85,7 +96,7 @@
         },
         {
           "item": "surge-alloy",
-          "amount": 2600
+          "amount": 2000
         }
       ],
       "time": 36000
