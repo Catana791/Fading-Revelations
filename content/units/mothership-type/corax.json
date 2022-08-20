@@ -95,8 +95,8 @@
     },
     {
       "name": "nothing",
-      "x": 40,
-      "y": 30,
+      "x": 30,
+      "y": 35,
       "reload": 90,
       "alternate": true,
       "mirror": true,
@@ -104,7 +104,7 @@
       "bullet": {
         "type": "BasicBulletType",
         "sprite": "me-lycosid-bullet",
-        "weaveMag": 2,
+        "weaveMag": 8,
         "weaveScale": 1,
         "speed": 2,
         "lifetime": 180,
