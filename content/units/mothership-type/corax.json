@@ -13,6 +13,7 @@
   "legLength": 30,
   "legBaseOffset": 0,
   "legMoveSpace": 1.5,
+  "mechSideSway": 2,
   "legForwardScl": 0.6,
   "hovering": true,
   "shadowElevation": 0.2,
