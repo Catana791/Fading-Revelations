@@ -33,24 +33,7 @@
       "cooldownTime": 480,
       "shootStatus": "unmoving",
       "shootStatusDuration": 180,
-      "firstShotDelay": 100,
-      "parentizeEffects": true,
-      "bullet": {
-        "type": "LaserBulletType",
-        "length": 580,
-        "damage": 620,
-        "width": 80,
-        "lifetime": 100,
-        "lightningSpacing": 35,
-        "lightningLength": 5,
-        "lightningDelay": 1.1,
-        "lightningLengthRand": 15,
-        "lightningDamage": 60,
-        "lightingAngleRand": 40,
-        "largeHit": true,
-        "lightColor": "92e02f",
-        "lightningColor": "92e02f",
-        "chargeEffect": {
+      "chargeEffect": {
           "type": "MultiEffect",
           "effects": [
             {
@@ -83,6 +66,23 @@
             }
           ]
         },
+      "firstShotDelay": 100,
+      "parentizeEffects": true,
+      "bullet": {
+        "type": "LaserBulletType",
+        "length": 580,
+        "damage": 620,
+        "width": 80,
+        "lifetime": 100,
+        "lightningSpacing": 35,
+        "lightningLength": 5,
+        "lightningDelay": 1.1,
+        "lightningLengthRand": 15,
+        "lightningDamage": 60,
+        "lightingAngleRand": 40,
+        "largeHit": true,
+        "lightColor": "92e02f",
+        "lightningColor": "92e02f",
         "healPercent": 30,
         "collidesTeam": true,
         "sideAngle": 15,
