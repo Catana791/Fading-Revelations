@@ -22,7 +22,7 @@
       "name": "nothing",
       "x": 0,
       "y": 20,
-      "shootSound": "laserBlast",
+      "shootSound": "laserblast",
       "chargeSound": "lasercharge",
       "soundPitchMin": 1.1,
       "top": false,
@@ -33,7 +33,7 @@
       "cooldownTime": 480,
       "shootStatus": "unmoving",
       "shootStatusDuration": 120,
-      "firstShotDelay": 180,
+      "firstShotDelay": 140,
       "parentizeEffects": true,
       "bullet": {
         "type": "LaserBulletType",
