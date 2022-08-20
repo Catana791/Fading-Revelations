@@ -111,7 +111,7 @@
         "pierce": true,
         "pierceBuilding": true,
         "collides": true,
-        "hitSize": 64,
+        "hitSize": 128,
         "width": 64,
         "height": 64,
         "spin": 2,
