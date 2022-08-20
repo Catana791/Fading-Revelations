@@ -9,7 +9,7 @@
   "canDrown": false,
   "drownTimeMultiplier": 999999999999999999,
   "legCount": 4,
-  "legLength": 18,
+  "legLength": 30,
   "legBaseOffset": 12,
   "legMoveSpace": 1.5,
   "legForwardScl": 0.6,
