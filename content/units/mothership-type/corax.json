@@ -117,8 +117,8 @@
         "spin": 2,
         "shrinkX": 0,
         "shrinkY": 0,
-        "mixColorFrom": "6fa629", 
-        "mixColorTo": "92e02f",
+        "backColor": "6fa629", 
+        "frontColor": "92e02f",
       }
     }
   ],
