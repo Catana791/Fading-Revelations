@@ -32,7 +32,7 @@
         "homingRange": 175,
         "homingPower": 0.1,
         "weaveScale": 2,
-        "weaveMag": 10
+        "weaveMag": 20
       }
     },
     {
@@ -55,7 +55,7 @@
         "homingRange": 175,
         "homingPower": 0.1,
         "weaveScale": 2,
-        "weaveMag": 10
+        "weaveMag": 20
       }
     },
     {
@@ -95,7 +95,7 @@
         "homingRange": 175,
         "homingPower": 0.1
         "weaveScale": 2,
-        "weaveMag": 10
+        "weaveMag": 20
       }
     },
     {
@@ -118,7 +118,7 @@
         "homingRange": 175,
         "homingPower": 0.1,
         "weaveScale": 2,
-        "weaveMag": 10
+        "weaveMag": 20
       }
     }
   ],
