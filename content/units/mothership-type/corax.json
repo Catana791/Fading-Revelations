@@ -42,7 +42,7 @@
         "width": 80,
         "lifetime": 100,
         "lightningSpacing": 35,
-        "lightningLength": 5,
+        "lightningLength": 12,
         "lightningDelay": 1.1,
         "lightningLengthRand": 15,
         "lightningDamage": 60,
