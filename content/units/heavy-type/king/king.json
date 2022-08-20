@@ -31,8 +31,8 @@
         "lifetime": 240,
         "homingRange": 175,
         "homingPower": 0.1,
-        "weaveScale": 2,
-        "weaveMag": 2
+        "weaveScale": 10,
+        "weaveMag": 10
       }
     },
     {
@@ -54,8 +54,8 @@
         "status": "burning",
         "homingRange": 175,
         "homingPower": 0.1,
-        "weaveScale": 2,
-        "weaveMag": 2
+        "weaveScale": 10,
+        "weaveMag": 10
       }
     },
     {
@@ -94,8 +94,8 @@
         "status": "burning",
         "homingRange": 175,
         "homingPower": 0.1
-        "weaveScale": 2,
-        "weaveMag": 2
+        "weaveScale": 10,
+        "weaveMag": 10
       }
     },
     {
@@ -117,8 +117,8 @@
         "status": "burning",
         "homingRange": 175,
         "homingPower": 0.1,
-        "weaveScale": 2,
-        "weaveMag": 2
+        "weaveScale": 10,
+        "weaveMag": 10
       }
     }
   ],
