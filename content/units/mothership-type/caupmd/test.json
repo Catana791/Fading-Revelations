@@ -119,7 +119,7 @@
 {
   "name": "reclusa-main",
   "mirror": false,
-  "reload": 600,
+  "reload": 300,
   "shake": 8,
   "recoil": 12,
   "x": 0,
