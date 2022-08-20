@@ -181,6 +181,7 @@
     "fragBullet": {
       "type": "ArtilleryBulletType",
       "hitEffect": "sapExplosion",
+      "sprite": "me-lycosid-bullet",
       "width": 25,
       "height": 25,
       "lifetime": 140,
