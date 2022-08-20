@@ -40,7 +40,7 @@
       "bullet": {
         "type": "LaserBulletType",
         "length": 580,
-        "damage": 620,
+        "damage": 580,
         "width": 80,
         "lifetime": 100,
         "lightningSpacing": 35,
@@ -106,7 +106,7 @@
         "sprite": "me-lycosid-bullet",
         "speed": 2,
         "lifetime": 180,
-        "damage": 10,
+        "damage": 50,
         "pierce": true,
         "pierceBuilding": true,
         "pierceCap": 5,
