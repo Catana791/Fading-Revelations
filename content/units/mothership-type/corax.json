@@ -122,6 +122,15 @@
       }
     }
   ],
-  "research": "mod-gate-units",
+  "research": {
+    "parent": "mod-gate-units",
+    "requirements": [
+      {"item": "silicon", "amount": 8000},
+      {"item": "titanium", "amount": 6000},
+      {"item": "living-steel", "amount": 5000},
+      {"item": "thorium", "amount": 5000},
+      {"item": "surge-alloy", "amount": 2000}
+    ]
+  }
   "hitSize": 52,
 }
