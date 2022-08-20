@@ -6,6 +6,7 @@
   "armor": 18,
   "stepShake": 2,
   "rotateSpeed": 1.9,
+  "legGroupSize": 2,
   "canDrown": false,
   "drownTimeMultiplier": 999999999999999999,
   "legCount": 4,
