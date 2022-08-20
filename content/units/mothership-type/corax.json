@@ -104,8 +104,6 @@
       "bullet": {
         "type": "BasicBulletType",
         "sprite": "me-lycosid-bullet",
-        "weaveMag": 8,
-        "weaveScale": 3,
         "speed": 2,
         "lifetime": 180,
         "damage": 40,
