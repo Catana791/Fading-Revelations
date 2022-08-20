@@ -114,7 +114,9 @@
         "pierceBuilding": true,
         "pierceCap": 5,
         "healPercent": 2,
-        "collidesTeam": true
+        "collidesTeam": true,
+        "width": 28,
+        "height": 30
       }
     }
   ],
