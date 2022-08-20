@@ -92,6 +92,30 @@
           ]
         },
       }
+    },
+    {
+      "name": "nothing",
+      "x": 40,
+      "y": 30,
+      "reload": 30,
+      "alternate": true,
+      "mirror": true,
+      "top": false,
+      "bullet": {
+        "type": "MissileBulletType",
+        "weaveMag": 10,
+        "weaveScale": 4,
+        "speed": 5,
+        "lifetime": 180,
+        "damage": 40,
+        "pierce": true,
+        "homingRange": 64,
+        "homingPower": 0.09,
+        "pierceBuilding": true,
+        "pierceCap": 5,
+        "healPercent": 2,
+        "collidesTeam": true
+      }
     }
   ],
   "research": "mod-gate-units",
