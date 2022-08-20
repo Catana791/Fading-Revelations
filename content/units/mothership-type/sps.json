@@ -12,23 +12,23 @@
     "requirements": [
       {
         "item": "silicon",
-        "amount": 2000
-      },
-      {
-        "item": "surge-alloy",
-        "amount": 2000
-      },
-      {
-        "item": "metaglass",
-        "amount": 1500
-      },
-      {
-        "item": "thorium",
-        "amount": 1000
+        "amount": 8000
       },
       {
         "item": "titanium",
-        "amount": 4500
+        "amount": 6000
+      },
+      {
+        "item": "living-steel",
+        "amount": 5000
+      },
+      {
+        "item": "thorium",
+        "amount": 5000
+      },
+      {
+        "item": "surge-alloy",
+        "amount": 4000
       }
     ]
   },
