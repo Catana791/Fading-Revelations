@@ -43,7 +43,7 @@
         "lifetime": 90,
         "lightningSpacing": 35,
         "lightningLength": 5,
-        "lightningDelay". 1.1,
+        "lightningDelay": 1.1,
         "lightningLengthRand": 15,
         "lightningDamage": 60,
         "lightingAngleRand": 40,
