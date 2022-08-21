@@ -32,7 +32,8 @@
         "healPercent": 5,
         "lightningLength": 12,
         "lightningDamage": 0,
-        "lightningColor": "84f491"
+        "lightningColor": "84f491",
+        "collidesTeam": true
       }
     }
   ],
