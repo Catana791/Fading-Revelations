@@ -173,6 +173,7 @@ ammoTypes: {
     lifetime: 45
     width: 0.01
     despawnEffect: none
+    despawnHit: false
     lightning: 2
     lightningLength: 1
     lightningDamage: 6
