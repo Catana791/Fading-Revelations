@@ -8,7 +8,7 @@
   "flying": true,
   "lowAltitude": true,
   "research": {
-    "parent": "mod-gate-units",
+    "parent": "corax",
     "requirements": [
       {
         "item": "silicon",
