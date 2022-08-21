@@ -20,7 +20,7 @@
   "health": 250,
   "mineHardnessScaling": true,
   "flying": true,
-  "controller": "MinerAi",
+  "controller": "RepairAi",
   "weapons": [
     {
       "name": "nothing",
