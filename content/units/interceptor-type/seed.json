@@ -22,16 +22,15 @@
       "name": "nothing",
       "x": 0,
       "y": 2,
-      "reload": 20,
+      "reload": 30,
       "rotate": false,
       "range": 120,
       "bullet": {
-        "type": "LightningBulletType",
+        "type": "LaserBulletType",
         "damage": 0,
-        "healPercent": 5,
-        "lightningLength": 12,
-        "lightningDamage": 0,
-        "lightningColor": "84f491",
+        "healPercent": 10,
+        "length": 120,
+        "colors": ["84f491", "ffffff", "62ae7f"]
         "collidesTeam": true
       }
     }
