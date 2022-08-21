@@ -20,7 +20,7 @@
   "health": 250,
   "mineHardnessScaling": true,
   "flying": true,
-  "controller": "FlyingFollowAi",
+  "controller": "MinerAi",
   "weapons": [
     {
       "name": "nothing",
