@@ -31,7 +31,7 @@
       "effect": {
         "name": "me-hastened",
         "localizedName": "Hastened",
-        "speedMultiplier": 1.8,
+        "speedMultiplier": 1.6,
         "reloadMultiplier": 1.2,
         "alwaysUnlocked": true
       }
