@@ -123,7 +123,7 @@
     }
   ],
   "research": {
-    "parent": "plant",
+    "parent": "mod-gate-units",
     "requirements": [
       {"item": "silicon", "amount": 8000},
       {"item": "titanium", "amount": 6000},
