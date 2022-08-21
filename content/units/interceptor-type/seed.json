@@ -31,7 +31,7 @@
       "range": 120,
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 5,
+        "damage": 0,
         "healPercent": 10,
         "length": 80,
         "colors": ["84f491", "ffffff", "62ae7f"]
