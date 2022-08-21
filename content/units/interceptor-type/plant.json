@@ -103,10 +103,10 @@
   "research": {
     "parent": "sapling",
     "requirements": [
-      {"item": "lead", "amount": 4000},
-      {"item": "graphite", "amount": 3500},
-      {"item": "silicon", "amount": 3000},
-      {"item": "titanium", "amount": 2500}
+      {"item": "lead", "amount": 10000},
+      {"item": "silicon", "amount": 7500},
+      {"item": "titanium", "amount": 5000},
+      {"item": "thorium", "amount": 2000}
     ]
   }
 }
