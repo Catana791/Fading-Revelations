@@ -32,7 +32,7 @@
         "name": "me-hastened",
         "localizedName": "Hastened",
         "speedMultiplier": 1.8,
-        "reloadMultiplier": 0.8
+        "reloadMultiplier": 1.5
       }
     }
   ],
