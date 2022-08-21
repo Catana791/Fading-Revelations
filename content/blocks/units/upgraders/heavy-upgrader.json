@@ -43,23 +43,23 @@
     "requirements": [
         {
             "item": "copper",
-            "amount": 5000
+            "amount": 4500
 		    }
         {
             "item": "lead",
-            "amount": 4500
+            "amount": 4050
         },
         {
             "item": "titanium",
-            "amount": 3000
+            "amount": 2700
         },
         {
             "item": "phase-fabric",
-            "amount": 1500
+            "amount": 1350
 		    },
 {
   "item": "surge-alloy",
-  "amount": 1000
+  "amount": 900
 }
     ],
     "category": "units",
