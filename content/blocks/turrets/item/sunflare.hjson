@@ -163,7 +163,7 @@ ammoTypes: {
     reflectable: false
   }
   steel-alloy: {
-    damage: 23
+    damage: 16
     speed: 6
     pierce: true
     pierceBuilding: true
