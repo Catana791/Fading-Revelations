@@ -27,12 +27,12 @@
         "colorFrom": "ed9436", 
         "colorTo": "eb7e3c"
       },
-      "duration": 90,
+      "duration": 120,
       "effect": {
         "name": "me-hastened",
         "localizedName": "Hastened",
-        "speedMultiplier": 1.5,
-        "reloadMultiplier": 1.2
+        "speedMultiplier": 1.8,
+        "reloadMultiplier": 0.8
       }
     }
   ],
