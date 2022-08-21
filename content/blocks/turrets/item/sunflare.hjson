@@ -5,16 +5,16 @@ size: 4
 health: 1720
 range: 240
 reloadTime: 5
-recoilAmount: 4
 shots: 12
 spread: 2
 shootSound: flame
 ammoTypes: {
   coal: {
-    damage: 6
+    damage: 1
     speed: 6
     pierce: true
     pierceBuilding: true
+    pierceCap: 2
     ammoMultiplier: 10
     status: burning
     makeFire: true
@@ -49,10 +49,11 @@ ammoTypes: {
     reflectable: false
   }
   pyratite: {
-  damage: 8
+  damage: 3
     speed: 6
     pierce: true
     pierceBuilding: true
+pierceCap: 2
     ammoMultiplier: 15
     status: burning
     makeFire: true
@@ -87,11 +88,12 @@ ammoTypes: {
     reflectable: false
   }
   blast-compound: {
-  damage: 10
+  damage: 4
     speed: 6
     pierce: true
     pierceBuilding: true
     ammoMultiplier: 15
+pierceCap: 2
     status: blasted
     makeFire: true
     lifetime: 45
@@ -125,10 +127,11 @@ ammoTypes: {
     reflectable: false
   }
   living-steel: {
-    damage: 12
+    damage: 6
     speed: 6
     pierce: true
     pierceBuilding: true
+pierceCap: 2
     ammoMultiplier: 18
     status: melting
     makeFire: true
@@ -163,10 +166,11 @@ ammoTypes: {
     reflectable: false
   }
   steel-alloy: {
-    damage: 16
+    damage: 8
     speed: 6
     pierce: true
     pierceBuilding: true
+pierceCap: 2
     ammoMultiplier: 25
     status: melting
     makeFire: true
@@ -208,8 +212,8 @@ ammoTypes: {
 category: turret
 research: missile-silo
 requirements: [
-  copper/300
-  lead/250
-  graphite/200
-  steel-alloy/100
+  copper/4000
+  lead/3000
+  graphite/2000
+  steel-alloy/400
 ]
