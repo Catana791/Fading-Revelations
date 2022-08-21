@@ -7,22 +7,24 @@
     "constructTime": 6000,
     "upgrades": [
         ["close-range","kestrel"],
+        ["sapling", "plant"]
     ],
     "consumes": {
         "power": 2.8,
         "items": {
             "items": [
+              {"item": "lead", "amount": 1000}
               {
                 "item": "silicon",
-                "amount": 500
+                "amount": 750
               }
                 {
                     "item": "titanium",
-                    "amount": 300
+                    "amount": 500
                 },
                 {
-                  "item": "living-steel-hard",
-                  "amount": 150
+                  "item": "thorium",
+                  "amount": 200
                 }
             ]
         }
