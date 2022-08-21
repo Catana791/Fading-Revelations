@@ -3,10 +3,9 @@
   "description": "A rod made out of Uranium.",
   "cost": 2.5,
   "color": "22b400",
-  "hardness": 3,
-  "flammability": 2,
-  "explosiveness": 2,
-  "radioactivity": 2,
+  "flammability": 0.1,
+  "explosiveness": 0.2,
+  "radioactivity": 1,
   "research": {
     "parent": "mod-gate-resources",
     "requirements": [
