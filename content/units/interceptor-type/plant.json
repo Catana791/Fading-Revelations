@@ -58,7 +58,7 @@
     {
       "name": "nothing",
       "shootSound": "laser",
-      "x": 25,
+      "x": 18,
       "y": -10,
       "reload": 30,
       "rotate": true,
