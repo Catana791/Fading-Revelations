@@ -84,33 +84,49 @@ Turrets:
 
 <br>
 
+Production Blocks:
+
 ![Production_Preview]
 
 <br>
+
+Distribution Blocks:
 
 ![Distribution_Preview]
 
 <br>
 
+Power Blocks:
+
 ![Power_Preview]
 
 <br>
+
+Walls:
 
 ![Wall_Preview]
 
 <br>
 
+Factories:
+
 ![Factory_Preview]
 
 <br>
+
+Unit Factories:
 
 ![Unit_Factory_Preview]
 
 <br>
 
+Effect Blocks:
+
 ![Effect_Preview]
 
 <br>
+
+Trading Blocks:
 
 ![Trading_Preview]
 
@@ -134,7 +150,7 @@ Turrets:
 [Wall_Preview]: github/wall_preview.png
 [Factory_Preview]: github/factory_preview.png
 [Unit_Factory_Preview]: github/unit_factory_preview.png
-[Effect_Preview]: github/effect_preview
+[Effect_Preview]: github/effect_preview.png
 [Trading_Preview]: github/trading_preview.png
 
 
