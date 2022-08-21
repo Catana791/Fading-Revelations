@@ -6,7 +6,7 @@
     {
       "type": "RepairFieldAbility", 
       "range": 120, 
-      "amount": 40, 
+      "amount": 20, 
       "reload": 60, 
       "activeEffect": {
         "type": "WaveEffect", 
