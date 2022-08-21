@@ -32,27 +32,27 @@
     "requirements": [
         {
             "item": "copper",
-            "amount": 600
+            "amount": 2000
 		    }
         {
             "item": "lead",
-            "amount": 500
+            "amount": 1800
         },
 {
   "item": "graphite",
-  "amount": 400
+  "amount": 1500
 },
 {
   "item": "silicon",
-  "amount": 300
+  "amount": 1200
 }
         {
             "item": "titanium",
-            "amount": 300
+            "amount": 1000
         },
 {
-  "item": "living-steel-hard",
-  "amount": 200
+  "item": "thorium",
+  "amount": 600
 }
     ],
     "category": "units",
