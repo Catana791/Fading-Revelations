@@ -7,6 +7,7 @@
   ],
   "mineSpeed": 1.1,
   "mineTier": 1,
+  "canAttack": false,
   "buildSpeed": 1.5,
   "canAttack": false,
   "engineColor": "84f491",
