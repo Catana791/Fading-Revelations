@@ -9,6 +9,8 @@
   "mineTier": 1,
   "buildSpeed": 1.5,
   "canAttack": false,
+  "engineColor": "84f491",
+  "engineColorInner": "62ae7f",
   "armor": 0,
   "itemCapacity": 30,
   "speed": 1.5,
