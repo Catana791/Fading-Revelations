@@ -30,7 +30,7 @@
       "bullet": {
         "type": "LaserBulletType",
         "damage": 0,
-        "width": 1,
+        "width": 2,
         "healPercent": 10,
         "length": 80,
         "colors": ["84f491", "ffffff", "62ae7f"]
