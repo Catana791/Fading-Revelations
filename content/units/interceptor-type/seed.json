@@ -25,7 +25,6 @@
       "reload": 20,
       "rotate": false,
       "range": 120,
-      "noAttack": true,
       "bullet": {
         "type": "LightningBulletType",
         "damage": 0,
