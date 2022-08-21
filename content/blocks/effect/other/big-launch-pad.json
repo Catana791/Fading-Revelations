@@ -21,8 +21,8 @@
 "requirements": [
   {"item": "copper", "amount": 600},
   {"item": "lead", "amount": 360},
+  {"item": "silicon", "amount": 200},
   {"item": "titanium", "amount": 220},
   {"item": "living-steel", "amount": 160}
-  {"item": "silicon", "amount": 200}
   ]
 }
