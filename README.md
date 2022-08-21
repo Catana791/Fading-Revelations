@@ -149,6 +149,13 @@ Motherships:
 
 ![Mothership_Preview]
 
+<br>
+<br>
+
+Items: 
+
+![Item_Preview]
+
 <!----------------------------------------------------------------------------->
 
 [Mindustry]: https://github.com/Anuken/Mindustry
@@ -175,6 +182,8 @@ Motherships:
 [Interceptor_Preview]: github/interceptor_preview.png
 [Heavy_Preview]: github/heavy_preview.png
 [Mothership_Preview]: github/mothership_preview.png
+
+[Item_Preview]: github/item_preview.png
 
 <!----------------------------------[ Badges ]--------------------------------->
 
