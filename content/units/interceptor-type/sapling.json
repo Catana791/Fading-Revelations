@@ -32,7 +32,8 @@
         "name": "me-hastened",
         "localizedName": "Hastened",
         "speedMultiplier": 1.8,
-        "reloadMultiplier": 1.2
+        "reloadMultiplier": 1.2,
+        "alwaysUnlocked": true
       }
     }
   ],
