@@ -43,21 +43,25 @@
     "requirements": [
         {
             "item": "copper",
-            "amount": 3450
-		}
+            "amount": 5000
+		    }
         {
             "item": "lead",
-            "amount": 3000
+            "amount": 4500
         },
         {
             "item": "titanium",
-            "amount": 2000
+            "amount": 3000
         },
         {
-            "item": "thorium",
-            "amount": 1000
-		}
+            "item": "phase-fabric",
+            "amount": 1500
+		    },
+{
+  "item": "surge-alloy",
+  "amount": 1000
+}
     ],
     "category": "units",
-    "research": "interceptor-upgrader"
+    "research": "interceptor-reconstructor"
  }
