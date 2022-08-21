@@ -78,7 +78,9 @@ A huge content extension mod!
 
 <br>
 
+Turrets:
 
+![Turret_Preview]
 
 
 <!----------------------------------------------------------------------------->
@@ -93,7 +95,7 @@ A huge content extension mod!
 
 [License]: LICENSE
 [Logo]: github/Banner.png
-[Turret_Preview]: 
+[Turret_Preview]: github/turret_preview.png
 
 
 <!----------------------------------[ Badges ]--------------------------------->
