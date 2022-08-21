@@ -1,0 +1,108 @@
+{
+  "type": "flying",
+  "name": "Sapling",
+  "description": "A large support drone with decent health and very high healing capabilities.",
+  "abilities": [
+    {
+      "type": "RepairFieldAbility", 
+      "range": 240, 
+      "amount": 80, 
+      "reload": 60, 
+      "activeEffect": {
+        "type": "WaveEffect", 
+        "sizeFrom": 0, 
+        "sizeTo": 120, 
+        "colorFrom": "84f491", 
+        "colorTo": "62ae7f"
+      }
+    },
+    {
+      "type": "StatusFieldAbility", 
+      "range": 240, 
+      "reload": 180, 
+      "activeEffect": {
+        "type": "WaveEffect", 
+        "sizeFrom": 0, 
+        "sizeTo": 60, 
+        "colorFrom": "ed9436", 
+        "colorTo": "eb7e3c"
+      },
+      "duration": 160,
+      "effect": {
+        "name": "me-super-hastened",
+        "localizedName": "Super Hastened",
+        "speedMultiplier": 2,
+        "reloadMultiplier": 1.6,
+        "alwaysUnlocked": true
+      }
+    }
+  ],
+  "lowAltitude": true,
+  "mineSpeed": 3,
+  "mineTier": 5,
+  "canAttack": false,
+  "buildSpeed": 3,
+  "canAttack": false,
+  "engineColor": "84f491",
+  "engineColorInner": "62ae7f",
+  "armor": 6,
+  "itemCapacity": 60,
+  "speed": 1.9,
+  "canHeal": true,
+  "drawBuildBeam": true,
+  "health": 1580,
+  "mineHardnessScaling": true,
+  "flying": true,
+  "controller": "RepairAi",
+  "weapons": [
+    {
+      "name": "nothing",
+      "shootSound": "laser",
+      "x": 3,
+      "y": -8,
+      "reload": 30,
+      "rotate": true,
+      "noAttack": true,
+      "range": 260,
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 5,
+        "healPercent": 6,
+        "length": 140,
+        "colors": ["84f491", "ffffff", "62ae7f"]
+        "collidesTeam": true,
+        "collidesTiles": true,
+        "collidesAir": true,
+        "collidesBlocks": true,
+      }
+    },
+    {
+      "name": "nothing",
+      "x": 0,
+      "y": 5,
+      "reload": 120,
+      "rotate": false,
+      "shootSound": "laserblast",
+      "bullet": {
+        "type": "ContinuousLaserBulletType",
+        "length": 250,
+        "width": 2,
+        "damage": 2,
+        "lifetime": 60,
+        "colors": ["84f491", "ffffff", "62ae7f"],
+        "fadeTime": 20,
+        "status": "sapped",
+        "statusDuration": 30,
+      }
+    }
+  ],
+  "research": {
+    "parent": "sapling",
+    "requirements": [
+      {"item": "lead", "amount": 1500},
+      {"item": "graphite", "amount": 1200},
+      {"item": "silicon", "amount": 1000},
+      {"item": "titanium", "amount": 600}
+    ]
+  }
+}
