@@ -6,7 +6,7 @@
 "dumpTime": 1,
 "itemCapacity": 100,
 "category": "effect",
-"research": "mod-gate-effect",
+"research": "titanium-bridge-conveyor",
 "requirements": [
 {
 "item": "silicon",
