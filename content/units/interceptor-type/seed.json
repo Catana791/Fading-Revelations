@@ -28,6 +28,7 @@
       "y": 2,
       "reload": 40,
       "rotate": false,
+      "noAttack": true,
       "range": 120,
       "bullet": {
         "type": "LaserBulletType",
