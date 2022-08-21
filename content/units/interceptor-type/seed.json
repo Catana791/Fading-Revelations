@@ -1,6 +1,6 @@
 {
   "type": "flying",
-  "name": "Alzir",
+  "name": "Seed",
   "description": "A small support drone with low health.",
   "abilities": [
     {"type": "RepairFieldAbility", "range": 24, "amount": 20, "reload": 60}
