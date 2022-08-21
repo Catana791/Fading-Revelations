@@ -6,10 +6,10 @@
   "research": {
      "parent": "close-range",
     "requirements": [
-      {"item": "lead", "amount": 3000},
-      {"item": "silicon", "amount": 2000},
-      {"item": "titanium", "amount": 1500},
-      {"item": "living-steel-hard", "amount": 1000}
+      {"item": "lead", "amount": 10000},
+      {"item": "silicon", "amount": 7500},
+      {"item": "titanium", "amount": 5000},
+      {"item": "thorium", "amount": 2000}
       ]
   },
   "flying": true,
