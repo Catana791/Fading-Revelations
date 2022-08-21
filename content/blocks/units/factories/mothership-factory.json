@@ -15,11 +15,11 @@
     {
       "unit": "corax",
       "requirements": [
-        {"item": "silicon", "amount": 4000},
-        {"item": "titanium", "amount": 3000},
-        {"item": "living-steel", "amount": 2500},
-        {"item": "thorium", "amount": 2500},
-        {"item": "surge-alloy", "amount": 2000}
+        {"item": "silicon", "amount": 3600},
+        {"item": "titanium", "amount": 2700},
+        {"item": "living-steel", "amount": 2250},
+        {"item": "thorium", "amount": 2250},
+        {"item": "surge-alloy", "amount": 1800}
       ],
       "time": 36000
     },
@@ -28,23 +28,23 @@
       "requirements": [
         {
           "item": "silicon",
-          "amount": 5000
-        },
-        {
-          "item": "titanium",
           "amount": 4500
         },
         {
+          "item": "titanium",
+          "amount": 4150
+        },
+        {
           "item": "living-steel",
-          "amount": 3000
+          "amount": 2700
         },
         {
           "item": "surge-alloy",
-          "amount": 2000
+          "amount": 1800
         },
         {
           "item": "gold",
-          "amount": 1800
+          "amount": 1620
         }
       ],
       "time": 36000
@@ -54,23 +54,23 @@
       "requirements": [
         {
           "item": "silicon",
-          "amount": 4000
+          "amount": 3600
         },
         {
           "item": "titanium",
-          "amount": 3000
+          "amount": 2700
         },
         {
           "item": "living-steel",
-          "amount": 2500
+          "amount": 2250
         },
         {
           "item": "thorium",
-          "amount": 2500
+          "amount": 2250
         },
         {
           "item": "surge-alloy",
-          "amount": 2000
+          "amount": 1800
         }
       ],
       "time": 36000
@@ -80,23 +80,23 @@
       "requirements": [
         {
           "item": "silicon",
-          "amount": 4500
+          "amount": 4050
         },
         {
           "item": "titanium",
-          "amount": 4000
+          "amount": 3600
         },
         {
           "item": "living-steel",
-          "amount": 3000
+          "amount": 2700
         },
         {
           "item": "phase-fabric",
-          "amount": 2500
+          "amount": 2250
         },
         {
           "item": "surge-alloy",
-          "amount": 2000
+          "amount": 1800
         }
       ],
       "time": 36000
@@ -105,23 +105,23 @@
   "requirements": [
     {
       "item": "lead",
-      "amount": 6000
+      "amount": 5400
     },
     {
       "item": "silicon",
-      "amount": 3000
+      "amount": 2700
     },
     {
       "item": "titanium",
-      "amount": 3500
+      "amount": 3150
     },
     {
       "item": "phase-fabric",
-      "amount": 1800
+      "amount": 1620
     },
     {
       "item": "surge-alloy",
-      "amount": 1500
+      "amount": 1350
     }
   ],
   "category": "units",
