@@ -52,12 +52,12 @@ research: {
 parent: lancer-drone
 requirements: [
 {
-  item: titanium
-  amount: 150
+  item: silicon
+  amount: 1000
 }
 {
-  item: living-steel-hard
-  amount: 100
+  item: titanium
+  amount: 500
 }
 ]
 }
