@@ -78,7 +78,7 @@ A huge content extension mod!
 
 <br>
 
-![Preview]
+
 
 
 <!----------------------------------------------------------------------------->
@@ -93,7 +93,7 @@ A huge content extension mod!
 
 [License]: LICENSE
 [Logo]: github/Banner.png
-[Preview]: .github/github_preview.png
+[Turret_Preview]: 
 
 
 <!----------------------------------[ Badges ]--------------------------------->
