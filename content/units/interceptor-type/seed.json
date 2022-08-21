@@ -30,8 +30,9 @@
         "type": "LightningBulletType",
         "damage": 0,
         "healPercent": 5,
-        "lightningLength": 5,
-        "lightningDamage": 0
+        "lightningLength": 20,
+        "lightningDamage": 0,
+        "lighningColor": "84f491"
       }
     }
   ],
