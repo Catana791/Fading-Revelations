@@ -3,9 +3,9 @@
   "description": "A nuclear warhead made using graphite and uraniumrods.",
   "color": "22b400",
   "hardness": 5,
-  "flammability": 1,
-  "explosiveness": 4,
-  "radioactivity": 4,
+  "flammability": 0.5,
+  "explosiveness": 2,
+  "radioactivity": 1,
   "research": {
     "parent": "uraniumrod",
     "requirements": [
