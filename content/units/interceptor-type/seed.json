@@ -24,8 +24,9 @@
       "name": "nothing",
       "x": 0,
       "y": 2,
-      "reload": 60,
+      "reload": 40,
       "rotate": false,
+      "continuous": true,
       "range": 120,
       "bullet": {
         "type": "LaserBulletType",
