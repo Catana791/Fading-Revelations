@@ -129,7 +129,7 @@ Turrets:
 [Logo]: github/Banner.png
 [Turret_Preview]: github/turret_preview.png
 [Production_Preview]: github/production_preview.png
-[Distribution_Preview]: github/distribution_preview
+[Distribution_Preview]: github/distribution_preview.png
 [Power_Preview]: github/power_preview.png
 [Wall_Preview]: github/wall_preview.png
 [Factory_Preview]: github/factory_preview.png
