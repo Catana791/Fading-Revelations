@@ -23,7 +23,7 @@
     {
       "name": "nothing",
       "mirror": false,
-      "shootSound": "pew",
+      "shootSound": "laser",
       "x": 0,
       "y": 2,
       "reload": 40,
