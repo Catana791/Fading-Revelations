@@ -40,7 +40,7 @@
     }
   ],
   "category": "crafting",
-  "research": "living-steel-infuser",
+  "research": "living-steel-liquifier",
   "outputItem": {
     "item": "living-steel-hard",
     "amount": 2
