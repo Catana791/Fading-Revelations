@@ -1,0 +1,101 @@
+{
+  "type": "flying",
+  "name": "Seed",
+  "description": "A medium sized support drone with mediocre health but high healing capabilities.",
+  "abilities": [
+    {
+      "type": "RepairFieldAbility", 
+      "range": 120, 
+      "amount": 40, 
+      "reload": 60, 
+      "activeEffect": {
+        "type": "WaveEffect", 
+        "sizeFrom": 0, 
+        "sizeTo": 30, 
+        "colorFrom": "84f491", 
+        "colorTo": "62ae7f"
+      }
+    },
+    {
+      "type": "StatusFieldAbility", 
+      "range": 120, 
+      "reload": 180, 
+      "activeEffect": {
+        "type": "WaveEffect", 
+        "sizeFrom": 0, 
+        "sizeTo": 30, 
+        "colorFrom": "ed9436", 
+        "colorTo": "eb7e3c"
+      },
+      "duration": 90,
+      "effect": {
+        "name": "me-hastened",
+        "localizedName": "Hastened",
+        "speedMultiplier": 1.5,
+        "reloadMultiplier": 1.2
+      }
+    }
+  ],
+  "mineSpeed": 2.1,
+  "mineTier": 2,
+  "canAttack": false,
+  "buildSpeed": 2.5,
+  "canAttack": false,
+  "engineColor": "84f491",
+  "engineColorInner": "62ae7f",
+  "armor": 0,
+  "itemCapacity": 60,
+  "speed": 1.7,
+  "canHeal": true,
+  "drawBuildBeam": true,
+  "health": 680,
+  "mineHardnessScaling": true,
+  "flying": true,
+  "controller": "RepairAi",
+  "weapons": [
+    {
+      "name": "nothing",
+      "shootSound": "laser",
+      "x": 3,
+      "y": -8,
+      "reload": 30,
+      "rotate": true,
+      "noAttack": true,
+      "range": 260,
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 5,
+        "healPercent": 6,
+        "length": 140,
+        "colors": ["84f491", "ffffff", "62ae7f"]
+        "collidesTeam": true,
+        "collidesTiles": true,
+        "collidesAir": true,
+        "collidesBlocks": true,
+      }
+    },
+    {
+      "name": "nothing",
+      "x": 0,
+      "y": 5,
+      "reload": 5,
+      "rotate": false,
+      "shootSound": "lightning",
+      "bullet": {
+        "type": "LightningBulletType",
+        "lightningLength": 15,
+        "lightningDamage": 20,
+        "lightningColor": "84f491",
+      }
+    }
+  ],
+  "research": {
+    "parent": "seed",
+    "requirements": [
+      {"item": "lead", "amount": 1500},
+      {"item": "graphite", "amount": 1200},
+      {"item": "silicon", "amount": 1000},
+      {"item": "titanium", "amount": 600}
+    ]
+  }
+}
