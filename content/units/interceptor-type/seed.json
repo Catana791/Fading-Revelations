@@ -5,7 +5,7 @@
   "abilities": [
     {"type": "RepairFieldAbility", "range": 24, "amount": 20, "reload": 60}
   ],
-  "mineSpeed": 5,
+  "mineSpeed": 1.1,
   "mineTier": 1,
   "buildSpeed": 1.5,
   "canAttack": false,
