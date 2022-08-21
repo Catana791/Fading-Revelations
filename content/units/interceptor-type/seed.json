@@ -1,0 +1,45 @@
+{
+  "type": "flying",
+  "name": "Alzir",
+  "description": "A small support drone with low health.",
+  "abilities": [
+    {"type": "RepairFieldAbility", "range": 24, "amount": 20, "reload": 60}
+  ],
+  "mineSpeed": 5,
+  "mineTier": 1,
+  "buildSpeed": 1.5,
+  "canAttack": false,
+  "armor": 0,
+  "itemCapacity": 30,
+  "speed": 1.5,
+  "canHeal": true,
+  "drawBuildBeam": true,
+  "health": 250,
+  "mineHardnessScaling": true,
+  "flying": true,
+  "weapons": [
+    {
+      "name": "nothing",
+      "x": 0,
+      "y": 2,
+      "reload": 20,
+      "rotate": false,
+      "range": 120,
+      "noAttack": true,
+      "bullet": {
+        "type": "LightningBulletType",
+        "damage": 0,
+        "healPercent": 5,
+        "lightningLength": 5,
+        "lightningDamage": 0
+      }
+    }
+  ],
+  "research": {
+    "parent": "mod-gate-units",
+    "requirements": [
+      {"item": "lead", "amount": 300},
+      {"item": "silicon", "amount": 200}
+    ]
+  }
+}
