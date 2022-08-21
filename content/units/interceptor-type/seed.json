@@ -31,13 +31,14 @@
       "range": 120,
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 0,
-        "largeHit": true,
-        "width": 4,
+        "damage": 5,
         "healPercent": 10,
         "length": 80,
         "colors": ["84f491", "ffffff", "62ae7f"]
-        "collidesTeam": true
+        "collidesTeam": true,
+        "collidesTiles": true,
+        "collidesAir": true,
+        "collidesBlocks": true,
       }
     }
   ],
