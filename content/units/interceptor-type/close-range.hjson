@@ -52,6 +52,10 @@ research: {
 parent: lancer-drone
 requirements: [
 {
+  item: lead
+  amount: 5000
+}
+{
   item: silicon
   amount: 1000
 }
