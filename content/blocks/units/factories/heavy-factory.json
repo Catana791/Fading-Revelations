@@ -82,23 +82,23 @@
   "requirements": [
     {
       "item": "lead",
-      "amount": 4000
+      "amount": 2600
     },
     {
       "item": "silicon",
-      "amount": 2000
+      "amount": 1800
     },
     {
       "item": "titanium",
-      "amount": 2500
+      "amount": 2250
     },
     {
       "item": "phase-fabric",
-      "amount": 1000
+      "amount": 900
     },
     {
       "item": "surge-alloy",
-      "amount": 750
+      "amount": 600
     }
   ],
   "category": "units",
