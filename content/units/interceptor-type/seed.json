@@ -33,6 +33,7 @@
       "bullet": {
         "type": "LaserBulletType",
         "damage": 0,
+        "largeHit": true,
         "width": 4,
         "healPercent": 10,
         "length": 80,
