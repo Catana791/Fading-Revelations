@@ -11,7 +11,7 @@
       "activeEffect": {
         "type": "WaveEffect", 
         "sizeFrom": 0, 
-        "sizeTo": 30, 
+        "sizeTo": 60, 
         "colorFrom": "84f491", 
         "colorTo": "62ae7f"
       }
@@ -23,7 +23,7 @@
       "activeEffect": {
         "type": "WaveEffect", 
         "sizeFrom": 0, 
-        "sizeTo": 30, 
+        "sizeTo": 60, 
         "colorFrom": "ed9436", 
         "colorTo": "eb7e3c"
       },
