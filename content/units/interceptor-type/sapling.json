@@ -36,6 +36,7 @@
       }
     }
   ],
+  "lowAltitude": true,
   "mineSpeed": 2.1,
   "mineTier": 2,
   "canAttack": false,
