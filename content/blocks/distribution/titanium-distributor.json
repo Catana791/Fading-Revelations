@@ -1,0 +1,17 @@
+{
+  "name": "Titanium Distributor",
+  "description": "A faster distributor that is made out of titanium.",
+  "type": "Router",
+  "dumpTime": 1,
+  "speed": 0.1,
+  "health": 220,
+  "itemCapacity": 20,
+  "size": 2,
+  "requirements": [
+    {"item": "copper", "amount": 8},
+    {"item": "lead", "amount": 6},
+    {"item": "titanium", "amount": 4}
+  ],
+  "category": "distribution",
+  "research": "titanium-router",
+}
