@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "name": "Advanced-Coal-Centrifuge",
+  "name": "Coal Condenser",
   "description": "Presses Oil to coal.",
   "details": "A lot more effective than the original.",
   "outputItem": {
