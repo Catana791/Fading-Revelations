@@ -8,9 +8,7 @@ range: 220
 size: 3
 shootSound: laser
 heatColor: 5782c2
-accurateDelay: true
 powerUse: 7
-moveWhileCharging: true
 chargeTime: 30
 firstShotDelay: 30
 chargeBeginEffect: {
