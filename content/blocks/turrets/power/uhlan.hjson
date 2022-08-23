@@ -11,7 +11,8 @@ heatColor: 5782c2
 accurateDelay: true
 powerUse: 7
 moveWhileCharging: true
-chargeTime: 60
+chargeTime: 30
+firstShotDelay: 30
 chargeBeginEffect: {
   type: ParticleEffect
   lifetime: 30
