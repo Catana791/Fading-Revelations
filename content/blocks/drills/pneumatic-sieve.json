@@ -1,0 +1,42 @@
+{
+  "type": "GenericCrafter",
+  "name": "Mechanical Sieve",
+  "description": "Filters water faster than the mechanical sieve to extract gold from it faster..",
+  "health": 160,
+  "size": 2,
+  "hasLiquids": true,
+  "hasItems": true,
+  "hasPower": false,
+  "updateEffect": {
+    "type": "MultiEffect",
+    "effects": [
+      {
+        "type": "WaveEffect",
+        "sizeFrom": 0,
+        "sizeTo": 12,
+        "colorFrom": "3b85d3",
+        "colorTo": "2c5682",
+        "interp": "pow2Out"
+      }
+    ]
+  },
+  "updateEffectChance": 0.02,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.1
+    }
+  },
+  "craftTime": 60,
+  "outputItem": {
+    "item": "gold",
+    "amount": 1
+  },
+  "category": "production",
+  "research": "mechanical-sieve",
+  "requirements": [
+    {"item": "copper", "amount": 240},
+    {"item": "lead", "amount": 160},
+    {"item": "graphite", "amount": 45}
+  ]
+}
