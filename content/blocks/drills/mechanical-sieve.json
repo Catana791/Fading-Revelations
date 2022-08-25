@@ -20,7 +20,7 @@
       }
     ]
   },
-  "updateEffectChance": 0.05,
+  "updateEffectChance": 0.025,
   "consumes": {
     "liquid": {
       "liquid": "water",
