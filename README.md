@@ -194,7 +194,7 @@ Items:
 
 
 [Item Unit Blocks]: https://img.shields.io/badge/dynamic/yaml?query=%24.unit_blocks&url=https%3A%2F%2Fraw.githubusercontent.com%2FFresh791%2FFading-Revelations%2Fmain%2F.github%2FStatistics.yaml&label=Unit%20Blocks&style=flat-square&labelColor=ffd37f&color=d3816b
-[Item Production]: https://img.shields.io/badge/dynamic/yaml?query=%24.production&url=https%3A%2F%2Fraw.githubusercontent.com%2FFresh791%2FFading-Revelations%2Fmain%2F.github%2FStatistics.yaml&label=Production&style=flat-square&labelColor=ffd37f&color=d3816b
+[Item Production]: https://img.shields.io/badge/dynamic/yaml?query=%24.production&url=https%3A%2F%2Fraw.githubusercontent.com%2FFresh791%2FFading-Revelations%2Fmain%2F.github%2FStatistics.yaml&label=Crafters&style=flat-square&labelColor=ffd37f&color=d3816b
 [Item Distribution]: https://img.shields.io/badge/dynamic/yaml?query=%24.distribution&url=https%3A%2F%2Fraw.githubusercontent.com%2FFresh791%2FFading-Revelations%2Fmain%2F.github%2FStatistics.yaml&label=Distribution&style=flat-square&labelColor=ffd37f&color=d3816b
 [Item Effect Blocks]: https://img.shields.io/badge/dynamic/yaml?query=%24.effects&url=https%3A%2F%2Fraw.githubusercontent.com%2FFresh791%2FFading-Revelations%2Fmain%2F.github%2FStatistics.yaml&label=Effect%20Blocks&style=flat-square&labelColor=ffd37f&color=d3816b
 [Item Liquids]: https://img.shields.io/badge/dynamic/yaml?query=%24.liquids&url=https%3A%2F%2Fraw.githubusercontent.com%2FFresh791%2FFading-Revelations%2Fmain%2F.github%2FStatistics.yaml&label=Liquids&style=flat-square&labelColor=ffd37f&color=d3816b
