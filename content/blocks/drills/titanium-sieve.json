@@ -7,6 +7,8 @@
   "hasLiquids": true,
   "hasItems": true,
   "hasPower": true,
+  "itemCapacity": 40,
+  "liquidCapactiy": 160,
   "craftEffect": {
     "type": "MultiEffect",
     "effects": [
@@ -25,7 +27,7 @@
     "power": 2,
     "liquid": {
       "liquid": "water",
-      "amount": 0.9
+      "amount": 0.45
     }
   },
   "craftTime": 60,
