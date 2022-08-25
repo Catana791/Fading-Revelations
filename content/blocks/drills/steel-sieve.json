@@ -24,7 +24,7 @@
     "power": 4,
     "liquid": {
       "liquid": "water",
-      "amount": 0.2
+      "amount": 1.2
     }
   },
   "craftTime": 30,
