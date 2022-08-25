@@ -6,7 +6,7 @@
   "size": 3,
   "hasLiquids": true,
   "hasItems": true,
-  "hasPower": false,
+  "hasPower": true,
   "craftEffect": {
     "type": "MultiEffect",
     "effects": [
