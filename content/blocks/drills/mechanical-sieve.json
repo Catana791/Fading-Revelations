@@ -7,6 +7,29 @@
   "hasLiquids": true,
   "hasItems": true,
   "hasPower": false,
+  "updateEffect": {
+    "type": "MultiEffect",
+    "effects": [
+      {
+        "type": "ParticleEffect",
+        "particles": 8,
+        "length": 12,
+        "colorFrom": "f2ff9c",
+        "colorTo": "dab85c",
+        "sizeFrom": 6,
+        "sizeTo": 2,
+        "interp": "circleIn"
+      },
+      {
+        "type": "WaveEffect",
+        "sizeFrom": 0,
+        "sizeTo": 12,
+        "colorFrom": "3b85d3",
+        "colorTo": "2c5682"
+      }
+    ]
+  },
+  "updateEffectChance": 0.15,
   "consumes": {
     "liquid": {
       "liquid": "water",
@@ -19,5 +42,9 @@
     "amount": 1
   },
   "category": "production",
-  "research": "duo"
+  "research": "duo",
+  "requirements": [
+    {"item": "copper", "amount": 120},
+    {"item": "lead", "amount": 80}
+  ]
 }
