@@ -30,7 +30,7 @@
   "craftTime": 30,
   "outputItem": {
     "item": "gold",
-    "amount": 2
+    "amount": 1
   },
   "category": "production",
   "research": "titanium-sieve",
