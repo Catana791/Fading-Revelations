@@ -23,7 +23,7 @@
   "consumes": {
     "liquid": {
       "liquid": "water",
-      "amount": 0.6
+      "amount": 0.3
     }
   },
   "craftTime": 120,
