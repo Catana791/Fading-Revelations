@@ -7,7 +7,7 @@
   "hasLiquids": true,
   "hasItems": true,
   "hasPower": false,
-  "updateEffect": {
+  "craftEffect": {
     "type": "MultiEffect",
     "effects": [
       {
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "updateEffectChance": 0.01,
   "consumes": {
     "liquid": {
       "liquid": "water",
@@ -33,7 +32,7 @@
     "amount": 1
   },
   "category": "production",
-  "research": "duo",
+  "research": "mod-gate-drills",
   "requirements": [
     {"item": "copper", "amount": 120},
     {"item": "lead", "amount": 80}
