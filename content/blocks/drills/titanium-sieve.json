@@ -7,7 +7,7 @@
   "hasLiquids": true,
   "hasItems": true,
   "hasPower": false,
-  "updateEffect": {
+  "craftEffect": {
     "type": "MultiEffect",
     "effects": [
       {
