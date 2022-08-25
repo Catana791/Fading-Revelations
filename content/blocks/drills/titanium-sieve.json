@@ -22,6 +22,7 @@
   },
   "updateEffectChance": 0.03,
   "consumes": {
+    "power": 2,
     "liquid": {
       "liquid": "water",
       "amount": 0.15
