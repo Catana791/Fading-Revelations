@@ -1,0 +1,23 @@
+{
+  "type": "GenericCrafter",
+  "name": "Mechanical Sieve",
+  "description": "Slowly filters gold out of water.",
+  "health": 160,
+  "size": 2,
+  "hasLiquids": true,
+  "hasItems": true,
+  "hasPower": false,
+  "consumes: {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.1
+    }
+  },
+  "craftTime": 120,
+  "outputItem": {
+    "item": "gold",
+    "amount": 1
+  },
+  "category": "production",
+  "research": "duo"
+}
