@@ -15,7 +15,8 @@
         "sizeFrom": 0,
         "sizeTo": 12,
         "colorFrom": "3b85d3",
-        "colorTo": "2c5682"
+        "colorTo": "2c5682",
+        "interp": "pow2Out"
       }
     ]
   },
