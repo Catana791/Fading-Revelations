@@ -11,16 +11,6 @@
     "type": "MultiEffect",
     "effects": [
       {
-        "type": "ParticleEffect",
-        "particles": 8,
-        "length": 12,
-        "colorFrom": "f2ff9c",
-        "colorTo": "dab85c",
-        "sizeFrom": 6,
-        "sizeTo": 2,
-        "interp": "circleIn"
-      },
-      {
         "type": "WaveEffect",
         "sizeFrom": 0,
         "sizeTo": 12,
@@ -29,7 +19,7 @@
       }
     ]
   },
-  "updateEffectChance": 0.15,
+  "updateEffectChance": 0.05,
   "consumes": {
     "liquid": {
       "liquid": "water",
