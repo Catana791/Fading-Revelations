@@ -41,7 +41,7 @@
       "pierce": true,
     },
     "ammo-level-2": {
-      "type": "PointBulletType",#
+      "type": "PointBulletType",
       "trailEffect": {
         "type": "ParticleEffect",
         "particles": 16,
