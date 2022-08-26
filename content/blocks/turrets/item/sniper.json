@@ -29,7 +29,9 @@
         "colorFrom": "b8705c",
         "colorTo": "eac2a9",
         "sizeFrom": 10,
-        "sizeTo": 10
+        "sizeTo": 10,
+        "hitEffect": "bigHit",
+        "despawnEffect": "bigHit"
       },
       "speed": 12,
       "damage": 300,
