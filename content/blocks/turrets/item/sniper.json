@@ -16,6 +16,8 @@
   "ammoTypes": {
     "ammo-level-1": {
       "type": "BasicBulletType",
+      "trailEffect": "instTrail",
+      "trailColor": "cb863e",
       "speed": 12,
       "damage": 300,
       "splashDamage": 300,
