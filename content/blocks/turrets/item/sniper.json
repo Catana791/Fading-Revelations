@@ -15,7 +15,7 @@
   "range": 500,
   "ammoTypes": {
     "ammo-level-1": {
-      "type": "BasicBulletType",
+      "type": "PointBulletType",
       "trailEffect": "instTrail",
       "trailColor": "cb863e",
       "speed": 12,
