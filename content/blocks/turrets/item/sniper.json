@@ -18,7 +18,7 @@
     "ammo-level-1": {
       "type": "PointBulletType",
       "trailEffect": "instTrail",
-      "trailColor": "cb863e",
+      "trailColor": "ffffff",
       "trailSpacing": 20,
       "speed": 12,
       "damage": 300,
