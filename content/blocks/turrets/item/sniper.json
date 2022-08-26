@@ -12,7 +12,7 @@
   "recoil": 6,
   "recoilTime": 300,
   "ammoUseEffect": "casing3",
-  "shootSound": "bigshot",
+  "shootSound": "shootBig",
   "maxAmmo": 50,
   "rotateSpeed": 8,
   "range": 500,
