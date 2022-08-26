@@ -41,6 +41,8 @@
       "width": 6,
       "height": 10,
       "pierce": true,
+      "pierceBuilding": true,
+      "buildingDamageMultiplier": 0.2
     },
     "ammo-level-2": {
       "type": "PointBulletType",
@@ -67,7 +69,7 @@
       "height": 12,
       "pierce": true,
       "pierceBuilding": true,
-      "buildingDamageMultiplier": 0.5
+      "buildingDamageMultiplier": 0.2
     },
     "ammo-level-3": {
       "type": "PointBulletType",
@@ -93,6 +95,8 @@
       "width": 8,
       "height": 12,
       "pierce": true,
+      "pierceBuilding": true,
+      "buildingDamageMultiplier": 0.2
     },
     "homing-ammo": {
       "type": "PointBulletType",
@@ -118,6 +122,8 @@
       "width": 8,
       "height": 12,
       "pierce": true,
+      "pierceBuilding": true,
+      "buildingDamageMultiplier": 0.2
       "homingPower": 0.9
     },
     "nano-ammo": {
@@ -142,6 +148,8 @@
       "width": 8,
       "height": 12,
       "pierce": true,
+      "pierceBuilding": true,
+      "buildingDamageMultiplier": 0.2
       "status": "melting",
       "hitEffect": "none",
         "despawnEffect": "none"
@@ -168,6 +176,8 @@
       "splashDamageRadius": 24,
       "splashDamage": 600,
       "pierce": true,
+      "pierceBuilding": true,
+      "buildingDamageMultiplier": 0.2
       "ammoMultiplier": 2,
       "width": 10,
       "height": 14,
@@ -195,6 +205,8 @@
       "splashDamageRadius": 24,
       "splashDamage": 800,
       "pierce": true,
+    "pierceBuilding": true,
+      "buildingDamageMultiplier": 0.2
       "ammoMultiplier": 2,
       "width": 10,
       "height": 14,
