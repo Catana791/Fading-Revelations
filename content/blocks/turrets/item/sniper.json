@@ -19,9 +19,18 @@
   "ammoTypes": {
     "ammo-level-1": {
       "type": "PointBulletType",
-      "trailEffect": "instTrail",
-      "trailColor": "ffffff",
-      "trailSpacing": 20,
+      "trailEffect": {
+        "type": "ParticleEffect",
+        "particles": 16,
+        "rotWithParent": true,
+        "followRotation": true,
+        "line": true,
+        "length": 10,
+        "colorFrom": "cb863e",
+        "colorTo": "e0913f",
+        "sizeFrom": 10,
+        "sizeTo": 10
+      },
       "speed": 12,
       "damage": 300,
       "splashDamage": 300,
