@@ -3,7 +3,7 @@
   "description": "An arc but with more range and attack speed.",
   "size": 1,
   "range": 130,
-  "reload": 10,
+  "reload": 12,
   "shootSound": "spark",
   "shootCone": 30,
   "shootType": {
@@ -36,6 +36,6 @@
   ],
   "category": "turret",
   "type": "PowerTurret",
-  "health": 520,
+  "health": 420,
   "research": "air-arc"
 }
