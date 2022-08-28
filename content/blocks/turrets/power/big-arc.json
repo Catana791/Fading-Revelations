@@ -3,10 +3,9 @@
   "description": "An arc but with more range and attack speed.",
   "size": 1,
   "range": 130,
-  "reloadTime": 10,
+  "reload": 10,
   "shootSound": "spark",
   "shootCone": 30,
-  "shots": 1,
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 18,
