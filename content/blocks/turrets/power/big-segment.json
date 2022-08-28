@@ -5,7 +5,7 @@
   "size": 3,
   "health": 410,
   "range": 236,
-  "reload": 2,
+  "reload": 5,
   "hasPower": true,
   "shootLength": 14,
   "bulletDamage": 35,
