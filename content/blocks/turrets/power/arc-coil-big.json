@@ -9,9 +9,8 @@
   "shoot": {
     "type": "ShootAlternate",
     "shots": 14,
-    "spread": 33,
+    "spread": 80,
     "shotDelay": 0
-    "barrels": 14
   },
   "shootType": {
     "type": "LightningBulletType",
