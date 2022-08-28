@@ -15,7 +15,7 @@
   "cooldown": 0.07,
   "acceptCoolant": false,
   "shoot": {
-    "type": "ShootAlternate",
+    "type": "ShootMulti",
     "shots": 7,
     "spread": 12
   },
