@@ -16,7 +16,7 @@
   "acceptCoolant": false,
   "shoot": {
     "type": "ShootBarrel",
-    "barrels": 7,
+    "shots": 7,
     "barrelOffset": 3
   },
   "coolantMultiplier": 0,
