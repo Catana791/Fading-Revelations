@@ -44,6 +44,6 @@
   "research": "living-steel-infuser",
   "outputLiquid": {
     "liquid": "living-steel-liquid",
-    "amount": 10
+    "amount": 0.6
   }
 }
