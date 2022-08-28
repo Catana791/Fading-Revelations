@@ -4,7 +4,7 @@
     "description": "The final turret of the Lancer family. Has a low fire rate but extremely high damage that even surpasses the legendary Meltdown.",
     "size": 5,
     "health": 2850,
-    "reloadTime": 200,
+    "reload": 200,
     "heatColor": "ff795e"
     "range": 240,
     "shootCone": 0.08,
