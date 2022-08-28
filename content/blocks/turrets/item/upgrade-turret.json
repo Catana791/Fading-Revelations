@@ -4,7 +4,7 @@
   "description": "A turret that can shoot with different types of ammo.",
   "health": 900,
   "maxAmmo": 600,
-  "reloadTime": 25,
+  "reloadTime": 72,
   "range": 200,
   "ammoPerShot": 1,
   "size": 2,
