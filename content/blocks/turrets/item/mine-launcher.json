@@ -6,6 +6,7 @@
   "reload": 300,
   "range": 200,
   "size": 3,
+  "shootEffect": "none",
   "shoot": {
     "type": "ShootAlternate",
     "shots": 3,
