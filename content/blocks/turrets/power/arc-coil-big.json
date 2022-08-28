@@ -3,11 +3,15 @@
   "description": "A medium-sized power turret that creates an electric field in a circle around it at close range.",
   "size": 2,
   "range": 55,
-  "reloadTime": 1,
+  "reload": 1,
   "shootSound": "none",
   "shootCone": 360,
-  "shots": 14,
-  "spread": 33,
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 14,
+    "spread": 33,
+    "shotDelay": 0
+  },
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 10,
