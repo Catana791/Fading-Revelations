@@ -11,12 +11,18 @@
   "targetAir": true,
   "targetGround": true,
   "rotatespeed": 8,
-  "shots": 3,
+  "shoot": {
+    "shots": 3,
+    "spread": 0,
+    "barrels": 1,
+    "shotDelay": 0
+  },
   "targetHealing": true,
   "recoilAmount": 2,
   "restitution": 0.8,
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
+  "inaccuracy": 6,
   "ammoTypes": {
     "ammo-level-1": {
       "type": "BasicBulletType",
