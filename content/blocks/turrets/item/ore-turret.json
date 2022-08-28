@@ -7,7 +7,7 @@
   "category": "turret",
   "research": "sear",
   "range": 176,
-  "reloadTime": 60,
+  "reload": 60,
   "rotateSpeed": 4,
   "targetAir": true,
   "targetGround": true,
