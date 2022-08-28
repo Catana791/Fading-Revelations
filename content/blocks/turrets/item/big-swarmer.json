@@ -15,9 +15,9 @@
   "cooldown": 0.07,
   "acceptCoolant": false,
   "shoot": {
-    "type": "ShootMulti",
-    "shots": 7,
-    "spread": 12
+    "type": "ShootBarrel",
+    "barrels": 7,
+    "barrelOffset": 3
   },
   "coolantMultiplier": 0,
   "maxAmmo": 75,
