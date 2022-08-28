@@ -7,7 +7,7 @@
   "health": 1200,
   "size": 3,
   "inaccuracy": 0,
-  "reloadTime": 400,
+  "reload": 400,
   "recoilAmount": 6,
   "recoil": 6,
   "recoilTime": 300,
