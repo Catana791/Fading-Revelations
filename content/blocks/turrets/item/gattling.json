@@ -6,7 +6,7 @@
   "hasLiquids": true,
   "liquidCapacity": 20,
   "maxAmmo": 600,
-  "reload": 1,
+  "reload": 2,
   "range": 320,
   "ammoPerShot": 1,
   "size": 4,
@@ -25,7 +25,7 @@
       "speed": 12,
       "lifetime": 25,
       "height": 10,
-      "inaccuracy": 14,
+      "inaccuracy": 0.9,
       "width": 5,
       "ammoMultiplier": 10
     },
