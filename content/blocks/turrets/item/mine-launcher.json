@@ -3,7 +3,7 @@
   "name": "Landmine Launcher",
   "description": "A medium-sized turret that launches out landmines that stay on the ground for up to 12 seconds.",
   "health": 800,
-  "reloadTime": 300,
+  "reload": 300,
   "range": 200,
   "size": 3,
   "shots": 3,
