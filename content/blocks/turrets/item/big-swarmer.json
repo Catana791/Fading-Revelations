@@ -3,7 +3,7 @@
   "name": "Swarmer NEO",
   "description": "A better version of the swarmer. More damage and attack speed.",
   "health": 1800,
-  "reload": 5,
+  "reload": 25,
   "heatColor": "ff2020",
   "shootCone": 20,
   "shootShake": 0.3,
