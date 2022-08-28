@@ -17,7 +17,7 @@
   "shoot": {
     "type": "ShootAlternate",
     "shots": 7,
-    "ShootSpread": 3
+    "spread": 12
   },
   "coolantMultiplier": 0,
   "maxAmmo": 75,
