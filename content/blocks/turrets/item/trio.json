@@ -3,7 +3,7 @@
   "name": "Trio",
   "description": "The better version of the duo. Shoots out at enemies with three instead of two barrels.",
   "health": 500,
-  "reload": 12,
+  "reload": 36,
   "range": 120,
   "size": 2,
   "shoot": {
