@@ -4,9 +4,14 @@ description: A better version of the Sear. Shoots cones of fire every second tha
 size: 4
 health: 1720
 range: 240
-reloadTime: 5
-shots: 12
-spread: 2
+reload: 5
+shoot: {
+  type: ShootAlternate
+  shots: 12
+  spread: 2
+  barrels: 1
+  shotDelay: 0
+}
 shootSound: flame
 ammoTypes: {
   coal: {
