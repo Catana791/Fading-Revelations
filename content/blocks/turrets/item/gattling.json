@@ -16,7 +16,7 @@
   "recoilAmount": 0.2,
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
-  "inaccuracy": 6,
+  "inaccuracy": 10,
   "ammoTypes": {
     "ammo-level-1": {
       "type": "BasicBulletType",
