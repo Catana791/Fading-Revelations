@@ -23,6 +23,7 @@
   "shootSound": "shoot",
   "ammoTypes": {
     "blast-compound": {
+      "shootEffect": "none",
       "speed": 10,
       "ammoMultiplier": 3,
       "height": 0,
@@ -59,6 +60,7 @@
       }
     },
     "ammo-level-3": {
+      "shootEffect": "none",
       "speed": 10,
       "ammoMultiplier": 3,
       "height": 0,
