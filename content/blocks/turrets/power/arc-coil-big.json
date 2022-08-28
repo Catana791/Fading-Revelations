@@ -9,7 +9,7 @@
   "shoot": {
     "type": "ShootAlternate",
     "shots": 14,
-    "spread": 80,
+    "spread": 33,
     "shotDelay": 0
   },
   "shootType": {
