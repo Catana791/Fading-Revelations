@@ -7,12 +7,16 @@ health: 2150
 range: 240
 powerUse: 32
 rotateSpeed: 6
-reloadTime: 600
+reload: 600
 recoilAmount: 8
 restitution: 0.02
 shootSound: laserbig
-shots: 3
-spread: 10
+shoot: {
+  type: ShootAlternate
+  shots: 3
+  spread: 10
+  shotDelay: 0
+}
 shootType: {
   type: ContinuousLaserBulletType
   damage: 60
