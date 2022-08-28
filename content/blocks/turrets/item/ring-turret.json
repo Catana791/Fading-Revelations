@@ -4,9 +4,13 @@
   "description": "Stands for Super Epic Half Ring Of Bullets Bombard. Fires (like the name says half rings of frag Bullets at enemies that deal low damage but cover a lot of area. Don't place too many or it might become laggy.",
   "targetAir": true,
   "targetGround": true,
-  "shots": 21,
-  "reloadTime": 200,
-  "spread": 3,
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 21,
+    "spread": 3,
+    "shotDelay": 0
+  },
+  "reload": 200,
   "recoilAmount": 0,
   "inaccuracy": 0,
   "size": 4,
