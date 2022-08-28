@@ -16,7 +16,7 @@
   "acceptCoolant": false,
   "shoot": {
     "type": "ShootAlternate",
-    "shots": 7,
+    "ShootSpread": 7,
     "spread": 3
   },
   "coolantMultiplier": 0,
