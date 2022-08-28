@@ -110,7 +110,6 @@
               "status": "melting",
               "statusDuration": 600,
               "damage": 75,
-              "layer": 0,
               "lifetime": 280,
               "fadeTime": 60,
               "colors":["861303", "ff0d0d", "ff4949"],
