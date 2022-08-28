@@ -3,7 +3,7 @@
   "description": "An arc but with more range and attack speed.",
   "size": 1,
   "range": 130,
-  "reload": 12,
+  "reload": 11,
   "shootSound": "spark",
   "shootCone": 30,
   "shootType": {
