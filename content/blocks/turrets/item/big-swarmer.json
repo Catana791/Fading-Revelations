@@ -17,8 +17,9 @@
   "cooldown": 0.07,
   "acceptCoolant": false,
   "shoot": {
+    "type": "ShootAlternate",
     "shots": 7,
-    "shootSpread": 3
+    "shotSpread": 3
   },
   "coolantMultiplier": 0,
   "maxAmmo": 75,
