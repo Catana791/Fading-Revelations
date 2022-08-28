@@ -3,7 +3,7 @@
   "description": "An Arc against air enemies only.",
   "size": 1,
   "range": 130,
-  "reloadTime": 20,
+  "reload": 20,
   "shootSound": "spark",
   "shootCone": 30,
   "shots": 1,
