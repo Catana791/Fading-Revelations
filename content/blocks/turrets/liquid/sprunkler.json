@@ -3,7 +3,7 @@
   "description": "A fast paced water spray turret that is good at putting out fires but deals no damage and has no knockback so it should probably not be used for combat.",
   "size": 3,
   "range": 200,
-  "reloadTime": 1,
+  "reload": 1,
   "shootSound": "pew",
   "shootCone": 360,
     "shootX": 0,
