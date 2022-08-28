@@ -11,6 +11,7 @@
     "shots": 14,
     "spread": 33,
     "shotDelay": 0
+    "barrels": 14
   },
   "shootType": {
     "type": "LightningBulletType",
