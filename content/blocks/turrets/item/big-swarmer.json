@@ -5,8 +5,6 @@
   "health": 1800,
   "reload": 5,
   "heatColor": "ff2020",
-  "alternate": true,
-  "alternate": true,
   "shootCone": 20,
   "shootShake": 0.3,
   "inaccuracy": 1,
@@ -19,7 +17,8 @@
   "shoot": {
     "type": "ShootAlternate",
     "shots": 7,
-    "shotSpread": 3
+    "shotSpread": 6,
+    "alternate": true
   },
   "coolantMultiplier": 0,
   "maxAmmo": 75,
