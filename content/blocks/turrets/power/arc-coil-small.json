@@ -3,7 +3,7 @@
   "description": "A small power turret that creates an electric field in a circle around it at close range.",
   "size": 1,
   "range": 30,
-  "reload": 1,
+  "reload": 2,
   "shootSound": "none",
   "shootCone": 360,
   "shoot": {
