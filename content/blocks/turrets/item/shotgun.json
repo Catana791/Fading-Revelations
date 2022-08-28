@@ -4,9 +4,15 @@
   "description": "A shotgun turret. More damage the closer the enemies are to it's barrel.",
   "health": 800,
   "maxAmmo": 10,
-  "reloadTime": 120,
+  "reload": 120,
   "range": 175,
-  "shots": 25,
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 25,
+    "spread": 0,
+    "barrels": 1,
+    "shotDelay": 0
+  },
   "inaccuracy": 16,
   "velocityInaccuracy": 0.10,
   "size": 3,
