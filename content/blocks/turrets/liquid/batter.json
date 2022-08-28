@@ -3,9 +3,8 @@
   "description": "A turret that shoots giant drops of water that knock back enemies.",
   "size": 3,
   "range": 200,
-  "reloadTime": 60,
+  "reload": 60,
   "shootSound": "artillery",
-  "shootCone": 360,
   "inaccuracy": 1,
   "ammoTypes": {
     "water": {
