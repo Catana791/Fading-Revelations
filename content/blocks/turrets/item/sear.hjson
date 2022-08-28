@@ -4,7 +4,7 @@ description: A better version of the Scorch. Burns enemies with more range and d
 size: 2
 health: 800
 range: 112
-reloadTime: 6
+reload: 6
 recoilAmount: 1
 targetAir: false
 shootSound: flame
