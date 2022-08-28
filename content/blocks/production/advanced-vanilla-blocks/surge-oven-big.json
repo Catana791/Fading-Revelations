@@ -5,9 +5,7 @@
   "size": 4,
   "hasPower": true,
   "hasItems": true,
-  "drawer": {
-     "type": "DrawBlock"
-  },
+  "drawer": "drawSmelter",
   "hasLiquids": false,
   "craftTime": 130,
   "updateEffect": "hitMeltdown",
