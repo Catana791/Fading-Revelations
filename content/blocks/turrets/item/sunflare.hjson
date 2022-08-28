@@ -4,7 +4,7 @@ description: A better version of the Sear. Shoots cones of fire every second tha
 size: 4
 health: 1720
 range: 240
-reload: 5
+reload: 6
 shoot: {
   type: ShootAlternate
   shots: 12
