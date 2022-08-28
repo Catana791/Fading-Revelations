@@ -9,7 +9,6 @@
   "shoot": {
     "shots": 3,
     "spread": 5,
-    "barrels": 3,
     "shotDelay": 15
   },
   "researchCostMultiplier": 0.1,
