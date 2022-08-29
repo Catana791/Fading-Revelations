@@ -4,6 +4,7 @@
 "type": "Drill", 
 "blockedItem": "sand",
   "updateEffectChance": 0.1,
+  "drawMineItem": false,
 "size": 5, 
 "updateEffect": 
     {
