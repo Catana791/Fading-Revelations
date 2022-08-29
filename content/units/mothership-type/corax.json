@@ -22,6 +22,8 @@
   "weapons": [
     {
       "name": "nothing",
+      "unitSort": "strongest",
+      "predictTarget": true,
       "x": 0,
       "y": 20,
       "shootSound": "laserblast",
