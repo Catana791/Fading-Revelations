@@ -62,7 +62,7 @@
       "bullet": {
         "type": "LaserBulletType",
         "length": 580,
-        "damage": 420,
+        "damage": 920,
         "width": 80,
         "lifetime": 100,
         "lightningSpacing": 35,
@@ -81,34 +81,6 @@
         "sideWidth": 0,
         "sideLength": 0,
         "colors": ["6fa629", "92e02f", "ffffff"],
-      }
-    },
-    {
-      "name": "nothing",
-      "x": 30,
-      "y": 35,
-      "reload": 10,
-      "alternate": true,
-      "mirror": true,
-      "top": false,
-      "bullet": {
-        "type": "BasicBulletType",
-        "sprite": "me-corax-bullet",
-        "speed": 2,
-        "lifetime": 180,
-        "damage": 50,
-        "pierce": true,
-        "pierceBuilding": true,
-        "pierceCap": 5,
-        "healPercent": 2,
-        "collidesTeam": true,
-        "width": 16,
-        "height": 16,
-        "spin": 4,
-        "shrinkX": 0,
-        "shrinkY": 0,
-        "frontColor": "6fa629", 
-        "backColor": "92e02f",
       }
     }
   ],
