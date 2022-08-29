@@ -7,23 +7,8 @@ health: 2150
 range: 240
 consumes: {
   power: 28
-  liquids: {
-    liquids: [
-      {
-        liquid: water
-        amount: 0.6
-        optional: true
-        booster: true
-      }
-      { 
-        liquid: cryofluid
-        amount: 0.6
-        optional: true
-        booster: true
-      }
-    ]
-  }
 }
+coolant: 2.5
 rotateSpeed: 6
 reload: 600
 recoilAmount: 8
