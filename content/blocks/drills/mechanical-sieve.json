@@ -17,7 +17,8 @@
       },
       {
         "type": "DrawLiquidRegion",
-        "suffix": "-liquid"
+        "suffix": "-liquid",
+        "drawLiquid": "water"
       }
     ]
   },
