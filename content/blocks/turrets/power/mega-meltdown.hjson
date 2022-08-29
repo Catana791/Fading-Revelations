@@ -5,7 +5,9 @@ size: 5
 liquidCapacity: 200
 health: 2150
 range: 240
-powerUse: 32
+consumes: {
+  "power": 32
+}
 rotateSpeed: 6
 reload: 600
 recoilAmount: 8
