@@ -10,12 +10,14 @@ consumes: {
   liquids: {
     liquids: [
       {
-        water/0.6
+        liquid: water
+        amount: 0.6
         optional: true
         booster: true
       }
       { 
-        cryofluid/0.6
+        liquid: cryofluid
+        amount: 0.6
         optional: true
         booster: true
       }
