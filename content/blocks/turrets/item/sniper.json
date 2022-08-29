@@ -8,6 +8,7 @@
   "size": 3,
   "inaccuracy": 0,
   "reload": 400,
+  "unitSort": "strongest",
   "recoilAmount": 6,
   "recoil": 6,
   "recoilTime": 300,
