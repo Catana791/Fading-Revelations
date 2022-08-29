@@ -6,6 +6,7 @@
   "tier": 2,
   "itemCapacity": 3,
   "drillTime": 540,
+  "draweMineItem": false,
   "consumes": {
     "liquid": {
       "liquid": "water",
