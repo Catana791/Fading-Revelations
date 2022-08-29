@@ -16,7 +16,6 @@
       {
         "type": "DrawPulseShape",
         "square": false,
-        "suffix": "-top"
       }
     ]
   },
