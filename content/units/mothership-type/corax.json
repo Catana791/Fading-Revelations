@@ -13,6 +13,23 @@
   "legLength": 30,
   "legBaseOffset": 0,
   "legMoveSpace": 1.5,
+  "parts": [
+    {
+      "type": "HaloPart",
+      "x": 0,
+      "y": -20,
+      "color": "59b812",
+      "haloRadius": 10,
+      "haloRadiusTo": 15,
+      "haloRotateSpeed": 10,
+      "hollow": true,
+      "miror": false,
+      "moveX": 0,
+      "moveY": 0,
+      "shapes": 4,
+      "tri": true
+    }
+  ],
   "mechSideSway": 2,
   "legForwardScl": 0.6,
   "hovering": true,
