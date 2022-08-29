@@ -14,7 +14,7 @@
         "type": "DrawDefault" 
       },
       {
-        "type": "DrawRegion",
+        "type": "DrawGlowRegion",
         "suffix": "-top"
       }
     ]
