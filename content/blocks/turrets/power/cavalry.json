@@ -14,7 +14,7 @@
     "targetAir": false,
     "shootSound": "cavalry-shoot",
     "consumes": {
-      "power": 26
+      "power": 32
     },
     "hasPower": true,
     "displayAmmoMultiplier": false,
