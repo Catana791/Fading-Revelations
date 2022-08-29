@@ -7,6 +7,21 @@
   "legCount": 8,
   "allowLegStep": true,
   "hovering": true,
+  "parts": [
+    {
+      "type": "HaloPart",
+      "x": 30,
+      "y": -10,
+      "mirror": true,
+      "color": "bf92f9",
+      "colorTo": "665c9f",
+      "radius": 8,
+      "shapes": 4,
+      "sides": 4,
+      "stroke": 1,
+      "haloRotateSpeed": 1.2
+    }
+  ],
   "canDrown": false,
   "legContinuousMove": false,
   "drownTimeMultiplier": 99999999999,
