@@ -12,7 +12,7 @@
     {
       "type": "HaloPart",
       "x": 0,
-      "y": -50,
+      "y": -40,
       "mirror": false,
       "hollow": true,
       "sides": 12,
