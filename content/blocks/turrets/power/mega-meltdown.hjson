@@ -6,7 +6,7 @@ liquidCapacity: 200
 health: 2150
 range: 240
 consumes: {
-  "power": 32
+  power: 32
 }
 rotateSpeed: 6
 reload: 600
