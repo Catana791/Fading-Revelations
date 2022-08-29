@@ -10,8 +10,8 @@
   "parts": [
     {
       "type": "HaloPart",
-      "x": 38,
-      "y": -20,
+      "x": 32,
+      "y": -40,
       "mirror": true,
       "color": "bf92f9",
       "colorTo": "665c9f",
