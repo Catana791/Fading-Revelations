@@ -10,15 +10,15 @@
   "parts": [
     {
       "type": "HaloPart",
-      "x": 30,
-      "y": -10,
+      "x": 38,
+      "y": -20,
       "mirror": true,
       "color": "bf92f9",
       "colorTo": "665c9f",
       "hollow": true,
       "radius": 8,
-      "shapes": 4,
-      "sides": 4,
+      "shapes": 8,
+      "sides": 6,
       "stroke": 1,
       "haloRotateSpeed": 1.2
     }
