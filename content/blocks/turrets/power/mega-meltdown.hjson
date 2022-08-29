@@ -8,7 +8,7 @@ range: 240
 consumes: {
   power: 28
 }
-coolant: 2.5
+consumeLiquidBase: 2.5
 rotateSpeed: 6
 reload: 600
 recoilAmount: 8
