@@ -15,10 +15,10 @@
       "y": -15,
       "mirror": false,
       "hollow": true,
-      "sides": 4,
+      "sides": 12,
       "shapes": 8,
       "radius": 12,
-      "stroke": 3,
+      "stroke": 2,
       "haloRotateSpeed": 1.1,
       "color": "00a2f3",
       "colorTo": "007dbc"
