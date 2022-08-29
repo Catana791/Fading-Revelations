@@ -12,11 +12,7 @@
     "type": "DrawMulti",
     "drawers": [
       {
-        "type": "DrawDefault" 
-      },
-      {
-        "type": "DrawWeave",
-        "weave": "-weave"
+        "type": "draw" 
       }
     ]
   },
