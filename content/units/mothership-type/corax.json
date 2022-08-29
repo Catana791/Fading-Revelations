@@ -24,8 +24,8 @@
       "hollow": true,
       "shapes": 6,
       "sides": 8,
-      "radius": 10,
-      "stroke": 3,
+      "radius": 12,
+      "stroke": 5,
       "haloRotateSpeed": 1.3,
     }
   ],
