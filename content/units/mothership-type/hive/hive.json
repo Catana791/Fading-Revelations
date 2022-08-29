@@ -65,7 +65,7 @@
       "name": "hive-nuke",
             "mirror": false,
             "alternate": false,
-            "x": 0,
+            "x": -5,
             "continuous": true,
             "y": -20,
             "reload": 600,
