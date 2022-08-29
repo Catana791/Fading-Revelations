@@ -8,7 +8,9 @@ range: 220
 size: 3
 shootSound: laser
 heatColor: 5782c2
-powerUse: 7
+consumes: {
+  power: 7
+}
 chargeTime: 30
 firstShotDelay: 30
 chargeBeginEffect: {
