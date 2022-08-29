@@ -11,6 +11,9 @@
     "type": "DrawMulti",
     "drawers": [
       {
+        "type": "DrawDefault" 
+      }
+      {
         "type": "DrawGlowRegion",
         "suffix": "-top",
         "color": "f1a397"
