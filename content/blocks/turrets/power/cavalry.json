@@ -26,8 +26,8 @@
         "effects": [
             {
                 "type": "WaveEffect",
-                "colorFrom": "66B1FFFF",
-                "colorTo": "E4FDFFFF",
+                "colorFrom": "66B1FF",
+                "colorTo": "E4FDFF",
                 "sizeFrom": 10,
                 "sizeTo": 0,
                 "lifetime": 199
@@ -40,9 +40,9 @@
         "spin": 8,
         "pierce": true
         "lifetime": 48,
-        "frontColor": "E4FDFFFF",
-        "backColor": "66B1FFFF",
-        "trailColor": "66B1FFFF",
+        "frontColor": "E4FDFF",
+        "backColor": "66B1FF",
+        "trailColor": "66B1FF",
         "damage": 1880,
         "homingPower": 0.10,
         "despawnHit": false,
@@ -69,31 +69,19 @@
             "effects": [
                 {
                     "type": "WaveEffect",
-                    "colorFrom": "E4FDFFFF",
-                    "colorTo": "66B1FFFF",
-                    "rotation": 3,
+                    "colorFrom": "E4FDFF",
+                    "colorTo": "66B1FF",
                     "sizeFrom": 25,
                     "sizeTo": 0
                 },
                 {
                     "type": "WaveEffect",
-                    "colorFrom": "66B1FFFF",
-                    "colorTo": "E4FDFFFF",
-                    "rotation": 3,
+                    "colorFrom": "66B1FF",
+                    "colorTo": "E4FDFF",
                     "sizeFrom": 0,
                     "sizeTo": 12.5
                 }
             ]
-        },
-        "despawnEffect": {
-            "type": "ExplosionEffect",
-            "smokeColor": "66B1FFFF",
-            "smokes": 6,
-            "smokeSize": 50,
-            "sparks": 6,
-            "sparkLen": 40,
-            "sparkColor": "E4FDFFFF",
-            "lifetime": 150
         }
     },
     "requirements": [
