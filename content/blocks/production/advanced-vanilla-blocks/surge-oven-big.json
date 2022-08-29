@@ -7,18 +7,7 @@
   "hasItems": true,
   "hasLiquids": false,
   "craftTime": 130,
-  "drawer": {
-    "type": "DrawMulti",
-    "drawers": [
-      {
-        "type": "DrawBlock"
-      },
-      {
-        "type": "DrawPulseShape",
-        "square": false,
-      }
-    ]
-  },
+  "drawer": "DrawDefault",
   "updateEffect": "hitMeltdown",
   "consumes": {
     "power": 6,
