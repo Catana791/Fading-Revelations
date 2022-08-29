@@ -23,6 +23,19 @@
       "radius": 18,
       "stroke": 2,
       "haloRotateSpeed": 1,
+    },
+    {
+      "type": "HaloPart",
+      "x": 0,
+      "y": -25,
+      "color": "ff3232",
+      "colorTo": "c80000",
+      "mirror": false,
+      "hollow": true,
+      "shapes": 8,
+      "tri": true,
+      "stroke": 3,
+      "haloRotateSpeed": -1
     }
   ],
   "outlines": false,
