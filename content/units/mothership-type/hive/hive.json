@@ -9,6 +9,22 @@
   "createWreck": true,
   "lowAltitude": true,
   "speed": 0.96,
+  "parts": [
+    {
+      "type": "HaloPart",
+      "x": 0,
+      "y": -50,
+      "color": "ff3232",
+      "colorTo": "c80000",
+      "mirror": false,
+      "hollow": true,
+      "shapes": 8,
+      "sides": 10,
+      "radius": 18,
+      "stroke": 2,
+      "haloRotateSpeed": 1,
+    }
+  ],
   "outlines": false,
   "flying": true,
   "research": {
