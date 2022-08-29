@@ -35,6 +35,7 @@
       "shapes": 8,
       "tri": true,
       "stroke": 3,
+      "radius": 15,
       "haloRotateSpeed": -1
     }
   ],
