@@ -36,7 +36,7 @@ explodeEffect: {
 liquidCapacity: 120
 itemDuration: 1650
 powerProduction: 330
-heating: 0.002
+heating: 0.02
 smokeThreshold: 0.58
 explosionRadius: 500
 explosionDamage: 10000
