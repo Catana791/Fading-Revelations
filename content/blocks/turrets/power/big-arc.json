@@ -12,6 +12,9 @@
     "damage": 30
   },
   "rotateSpeed": 100,
+  "consumes": {
+    "power": 4
+  },
   "powerUse": 3.8,
   "targetAir": false,
   "targetGround": true,
