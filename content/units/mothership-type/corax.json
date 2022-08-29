@@ -21,13 +21,15 @@
       "color": "59b812",
       "haloRadius": 20,
       "haloRadiusTo": 25,
-      "haloRotateSpeed": 3,
+      "haloRotateSpeed": 0.5,
       "hollow": true,
       "miror": false,
       "moveX": 0,
       "moveY": 0,
       "shapes": 20,
-      "tri": true
+      "tri": true,
+      "triLength": 25,
+      "triLengthTo": 30
     }
   ],
   "mechSideSway": 2,
