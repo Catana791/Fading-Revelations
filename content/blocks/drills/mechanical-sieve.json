@@ -16,10 +16,8 @@
         "type": "DrawDefault" 
       },
       {
-        "type": "DrawWeave" 
-      },
-      {
-        "type": "DrawWeave" 
+        "type": "DrawLiquidRegion",
+        "suffix": "-liquid"
       }
     ]
   },
