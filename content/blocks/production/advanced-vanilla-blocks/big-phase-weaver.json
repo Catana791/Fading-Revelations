@@ -13,7 +13,7 @@
     "type": "DrawMulti",
     "drawers": [
       {
-        "type": "DrawDefault" 
+        "type": "DrawBlock" 
       },
       {
         "type": "DrawWeave"
