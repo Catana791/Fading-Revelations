@@ -7,22 +7,22 @@
   "legCount": 8,
   "allowLegStep": true,
   "hovering": true,
-  "parts": [
-    {
-      "type": "HaloPart",
-      "x": 35,
-      "y": -35,
-      "mirror": true,
-      "color": "7433c6",
-      "colorTo": "602da0",
-      "hollow": true,
-      "radius": 8,
-      "shapes": 8,
-      "sides": 6,
-      "stroke": 1,
-      "haloRotateSpeed": 1.2
-    }
-  ],
+  //"parts": [
+    //{
+      //"type": "HaloPart",
+      //"x": 35,
+      //"y": -35,
+      //"mirror": true,
+      //"color": "7433c6",
+      //"colorTo": "602da0",
+      //"hollow": true,
+      //"radius": 8,
+      //"shapes": 8,
+      //"sides": 6,
+      //"stroke": 1,
+      //"haloRotateSpeed": 1.2
+    //}
+  //],
   "canDrown": false,
   "legContinuousMove": false,
   "drownTimeMultiplier": 99999999999,
