@@ -21,7 +21,7 @@
       "color": "59b812",
       "haloRadius": 20,
       "haloRadiusTo": 25,
-      "haloRotateSpeed": 0.5,
+      "haloRotateSpeed": 0.1,
       "hollow": true,
       "miror": false,
       "moveX": 0,
@@ -30,6 +30,22 @@
       "tri": true,
       "triLength": 25,
       "triLengthTo": 30
+    },
+    {
+      "type": "HaloPart",
+      "x": 0,
+      "y": -20,
+      "color": "59b812",
+      "haloRadius": 20,
+      "haloRadiusTo": 25,
+      "haloRotateSpeed": 0.1,
+      "hollow": true,
+      "miror": false,
+      "moveX": 0,
+      "moveY": 0,
+      "shapes": 20,
+      "radius": 24,
+      "radiusTo": 29
     }
   ],
   "mechSideSway": 2,
