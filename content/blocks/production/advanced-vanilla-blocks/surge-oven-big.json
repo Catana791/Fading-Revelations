@@ -16,6 +16,10 @@
       {
         "type": "DrawGlowRegion",
         "suffix": "-top"
+      },
+      {
+        "type": "DrawGlowRegion",
+        "suffix": "-top2"
       }
     ]
   },
