@@ -7,6 +7,24 @@
   "hasItems": true,
   "health": 240,
   "hasLiquids": false,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawGlowRegion",
+        "suffix": "-top",
+        "color": "ffef99",
+      },
+      {
+        "type": "DrawGlowRegion",
+        "suffix": "-top2",
+        "color": "ffffff", 
+      }
+    ]
+  },
   "craftTime": 45,
   "consumes": {
     "power": 1.1,
