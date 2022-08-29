@@ -9,7 +9,7 @@
   "craftTime": 130,
   "drawer": {
     "type": "DrawRegion",
-    "region": "top"
+    "suffix": "-top"
   },
   "updateEffect": "hitMeltdown",
   "consumes": {
