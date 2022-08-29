@@ -1,4 +1,5 @@
 {
+  "type": "Planet",
     "name": "cerbero",
     "localizedName": "Cerbero",
     "parent": "sun",
