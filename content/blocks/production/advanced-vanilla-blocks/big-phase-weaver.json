@@ -9,17 +9,7 @@
   "hasLiquids": false,
   "craftTime": 130,
   "iconOverride": ["big-phase-weaver", "-weave"],
-  "drawer": {
-    "type": "DrawMulti",
-    "drawers": [
-      {
-        "type": "DrawBlock" 
-      },
-      {
-        "type": "DrawWeave"
-      }
-    ]
-  },
+  "drawer": "DrawDefault",
   "consumes": {
     "power": 9.9,
     "items": {
