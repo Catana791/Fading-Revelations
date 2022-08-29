@@ -35,9 +35,9 @@
       "shapes": 8,
       "tri": true,
       "stroke": 3,
-      "haloRadius": 18,
-      "triLength": 25,
-      "triLengthTo": 30,
+      "haloRadius": 25,
+      "triLength": 20,
+      "triLengthTo": 20,
       "haloRotateSpeed": -1
     }
   ],
