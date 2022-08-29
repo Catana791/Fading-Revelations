@@ -27,6 +27,6 @@
         "type": "NoiseMesh",
         "color1": "333232",
         "color2": "c64949",
-        "divisions": 20
+        "divisions": 7
     }
 }
