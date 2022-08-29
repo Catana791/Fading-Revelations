@@ -8,20 +8,6 @@ range: 240
 consumes: {
   power: 28
 }
-consumeLiquid: [
-  {
-    liquid: water
-    amount: 0.6
-    optional: true
-    booster: true
-  }
-  {
-    liquid: cryofluid
-    amount: 0.6
-    optional: true
-    booster: true
-  }
-]
 rotateSpeed: 6
 reload: 600
 recoilAmount: 8
