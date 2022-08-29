@@ -9,6 +9,20 @@
   "hasPower": false,
   "itemCapacity": 20,
   "liquidCapactiy": 100,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawWeave" 
+      },
+      {
+        "type": "DrawWeave" 
+      }
+    ]
+  },
   "craftEffect": {
     "type": "MultiEffect",
     "effects": [
