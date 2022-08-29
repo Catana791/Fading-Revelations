@@ -7,10 +7,7 @@
   "hasItems": true,
   "hasLiquids": false,
   "craftTime": 130,
-  "drawer": {
-    "type": "DrawRegion",
-    "suffix": "-top"
-  },
+  "drawer": "DrawPulseShape",
   "updateEffect": "hitMeltdown",
   "consumes": {
     "power": 6,
