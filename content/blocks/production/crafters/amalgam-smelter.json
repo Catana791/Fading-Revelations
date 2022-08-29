@@ -7,6 +7,21 @@
     "amount": 2
   },
   "health": 740,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawGlowRegion",
+        "suffix": "-top",
+        "color": "f1a397"
+      },
+      {
+        "type": "DrawGlowRegion",
+        "suffix": "-top2",
+        "color": "dbaf85"
+      }
+      ]
+  },
   "itemCapacity": 30,
   "size": 3,
   "craftTime": 120,
