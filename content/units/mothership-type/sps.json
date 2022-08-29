@@ -8,6 +8,22 @@
   "flying": true,
   "lowAltitude": true,
   "outlines": false,
+  "parts": [
+    {
+      "type": "HaloPart",
+      "x": 0,
+      "y": -15,
+      "mirror": false,
+      "hollow": true,
+      "sides": 4,
+      "shapes": 8,
+      "radius": 12,
+      "stroke": 3,
+      "haloRotateSpeed": 1.1,
+      "color": "00a2f3",
+      "colorTo": "007dbc"
+    }
+  ],
   "research": {
     "parent": "corax",
     "requirements": [
