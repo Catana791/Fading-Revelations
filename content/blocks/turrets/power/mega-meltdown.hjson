@@ -6,13 +6,13 @@ liquidCapacity: 200
 health: 2150
 range: 240
 consumes: {
-  power: 28,
+  power: 28
   liquids: {
     liquids: [
-    {
-      water/0.6
-      optional: true
-      booster: true
+      {
+        water/0.6
+        optional: true
+        booster: true
       }
       { 
         cryofluid/0.6
