@@ -10,54 +10,6 @@
   "lowAltitude": true,
   "speed": 0.96,
   "outlines": false,
-  "deathExplosionEffect": {
-    "type": "MultiEffect",
-    "effects": [
-      {
-        "type": "WaveEffect",
-        "sizeFrom": 0,
-        "sizeTo": 60,
-        "colorFrom": "ff0000",
-        "colorTo": "861303",
-        "startDelay": 125,
-        "lifetime": 180
-      },
-      {
-        "type": "ParticleEffect",
-        "length": 120,
-        "particles": 64,
-        "sizeFrom": 22,
-        "sizeTo": 18,
-        "lifetime": 600,
-        "startDelay": 140,
-        "colorFrom": "1d1d1d",
-        "colorTo": "464646"
-      },
-      {
-        "type": "ParticleEffect",
-        "length": 120,
-        "particles": 64,
-        "sizeFrom": 18,
-        "sizeTo": 22,
-        "lifetime": 600,
-        "startDelay": 140,
-        "colorFrom": "464646",
-        "colorTo": "1d1d1d"
-      },
-      {
-        "type": "ExplosionEffect",
-        "smokeColor": "282828",
-        "smokeRad": 30,
-        "smokes": 42,
-        "smokeSize": 30,
-        "sparks": 32,
-        "sparkLen": 30,
-        "sparkRad": 30,
-        "sparkColor": "edca6c"
-        "lifetime": 120
-      }
-    ]
-  },
   "flying": true,
   "research": {
      "parent": "test",
