@@ -24,7 +24,7 @@
     "atmosphereColor": "a67fe2",
     "minZoom": 0.1,
     "mesh": {
-        "type": "NoiseMesh",
+        "type": "HexMesh",
         "color1": "333232",
         "color2": "c64949",
         "divisions": 7
