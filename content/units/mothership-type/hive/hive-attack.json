@@ -3,6 +3,7 @@
   "name": "HIVE Heavy Assault Unit (HHAU)",
   "description": "Spawned by the HIVE mothership and equipped with special sensors that allow it to always keep the perfect distance to the enemy, this drone attacks your enemies in the most optimal ways",
   "drag": 0.15,
+  "outlines": false,
   "speed": 2,
   "research": {
     "parent": "hive",
