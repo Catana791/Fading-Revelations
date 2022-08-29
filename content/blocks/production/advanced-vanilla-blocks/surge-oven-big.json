@@ -16,10 +16,12 @@
       {
         "type": "DrawGlowRegion",
         "suffix": "-top"
+        "color": "ffed7c"
       },
       {
         "type": "DrawGlowRegion",
-        "suffix": "-top2"
+        "suffix": "-top2",
+        "color": "fee650"
       }
     ]
   },
