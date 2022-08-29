@@ -8,7 +8,17 @@
   "itemCapacity": 60,
   "hasLiquids": false,
   "craftTime": 130,
-  "drawer": "DrawBlock",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawWeave" 
+      }
+    ]
+  },
   "consumes": {
     "power": 9.9,
     "items": {
