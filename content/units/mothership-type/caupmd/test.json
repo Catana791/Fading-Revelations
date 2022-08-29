@@ -15,6 +15,7 @@
       "mirror": true,
       "color": "bf92f9",
       "colorTo": "665c9f",
+      "hollow": true,
       "radius": 8,
       "shapes": 4,
       "sides": 4,
