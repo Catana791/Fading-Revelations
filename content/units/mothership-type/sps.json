@@ -8,22 +8,22 @@
   "flying": true,
   "lowAltitude": true,
   "outlines": false,
-  "parts": [
-    {
-      "type": "HaloPart",
-      "x": 0,
-      "y": -32,
-      "mirror": false,
-      "hollow": true,
-      "sides": 12,
-      "shapes": 8,
-      "radius": 12,
-      "stroke": 2,
-      "haloRotateSpeed": 1.1,
-      "color": "00a2f3",
-      "colorTo": "007dbc"
-    }
-  ],
+  //"parts": [
+    //{
+      //"type": "HaloPart",
+      //"x": 0,
+      //"y": -32,
+      //"mirror": false,
+      //"hollow": true,
+      //"sides": 12,
+      //"shapes": 8,
+      //"radius": 12,
+      //"stroke": 2,
+      //"haloRotateSpeed": 1.1,
+      //"color": "00a2f3",
+      //"colorTo": "007dbc"
+    //}
+  //],
   "research": {
     "parent": "corax",
     "requirements": [
