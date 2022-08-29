@@ -52,7 +52,6 @@
       "amount": 25
     }
   ],
-  "drawer": "drawWeave",
   "category": "crafting",
   "research": "uraniumrod-crafter",
   "outputItem": {
