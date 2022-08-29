@@ -13,8 +13,9 @@
     "rotateSpeed": 10,
     "targetAir": false,
     "shootSound": "cavalry-shoot",
-    "liquidBoostIntensity": 0,
-    "powerUse": 26,
+    "consumes": {
+      "power": 26
+    },
     "hasPower": true,
     "displayAmmoMultiplier": false,
     "recoil": 3,
