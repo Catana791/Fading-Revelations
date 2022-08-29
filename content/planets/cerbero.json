@@ -3,9 +3,7 @@
     "localizedName": "Cerbero",
     "parent": "sun",
     "accessible": false,
-    //ONLY MESS WITH THE GENERATOR IF YOU REALLY KNOW WHAT YOU'RE DOING, OTHERWISE DELETE THIS OBJECT
     "generator": {
-        //AsteroidGenerator
         "min": 20,
         "max": 30,
         "stoneChance": 0,
