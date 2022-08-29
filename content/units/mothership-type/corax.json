@@ -19,14 +19,14 @@
       "x": 0,
       "y": -20,
       "color": "59b812",
-      "haloRadius": 10,
-      "haloRadiusTo": 15,
-      "haloRotateSpeed": 10,
+      "haloRadius": 20,
+      "haloRadiusTo": 25,
+      "haloRotateSpeed": 3,
       "hollow": true,
       "miror": false,
       "moveX": 0,
       "moveY": 0,
-      "shapes": 4,
+      "shapes": 20,
       "tri": true
     }
   ],
