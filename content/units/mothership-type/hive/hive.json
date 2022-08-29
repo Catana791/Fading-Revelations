@@ -9,6 +9,7 @@
   "createWreck": true,
   "lowAltitude": true,
   "speed": 0.96,
+  "outlines": false,
   "deathExplosionEffect": {
     "type": "MultiEffect",
     "effects": [
