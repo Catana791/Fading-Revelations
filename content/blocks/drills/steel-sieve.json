@@ -6,6 +6,7 @@
   "size": 4,
   "hasLiquids": true,
   "hasItems": true,
+  "liquidCapacity": 360,
   "hasPower": true,
   "drawer": {
     "type": "DrawMulti",
