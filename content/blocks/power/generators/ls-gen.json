@@ -14,7 +14,7 @@
     "interp": "circleOut"
   },
   "category": "power",
-  "research": "mod-gate-power"
+  "research": "pyratite-generator"
   "health": 240,
   "requirements": [
     {
