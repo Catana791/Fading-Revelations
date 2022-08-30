@@ -1,0 +1,17 @@
+{
+  "type": "PowerNode",
+  "name": "Omnidirectional Beam Node",
+  "description": "A power node that can have connections in all directions.",
+  "size": 1,
+  "health": 90,
+  "laserRange": 80,
+  "maxNodes": 4,
+  "requirements": [
+    {
+      "item": "beryllium",
+      "amount": 10
+    }
+  ],
+  "category": "power",
+  "research": "beam-node"
+}
