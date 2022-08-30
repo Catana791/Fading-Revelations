@@ -16,6 +16,6 @@
   "research": "beam-node",
   "laserColor1": "92dd7e",
   "laserColor2": "ffffff",
-  "laserScale": 2,
+  "laserScale": 0.8,
   "researchCostMultiplier": 0.2
 }
