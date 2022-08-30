@@ -13,5 +13,6 @@
     }
   ],
   "category": "power",
-  "research": "beam-node"
+  "research": "beam-node",
+  "researchCostMultiplier": 0.2
 }
