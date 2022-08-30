@@ -5,6 +5,7 @@
   "health": 160,
   "size": 2,
   "hasLiquids": true,
+  "liquidCapacity": 180
   "hasItems": true,
   "hasPower": false,
   "itemCapacity": 20,
