@@ -14,8 +14,8 @@
   ],
   "category": "power",
   "research": "beam-node",
-  "laserColor1": "ffffff",
-  "laserColor2": "92dd7e",
+  "laserColor1": "92dd7e",
+  "laserColor2": "ffffff",
   "laserScale": 0.6,
   "researchCostMultiplier": 0.2
 }
