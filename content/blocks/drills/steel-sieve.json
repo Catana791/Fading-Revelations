@@ -7,6 +7,19 @@
   "hasLiquids": true,
   "hasItems": true,
   "hasPower": true,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawLiquidRegion",
+        "suffix": "-liquid",
+        "drawLiquid": "water"
+      }
+    ]
+  },
   "itemCapacity": 40,
   "liquidCapactiy": 220,
   "craftEffect": {
