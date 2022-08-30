@@ -3,6 +3,7 @@
   "description": "A cheap drill for everything.",
   "type": "Drill",
   "size": 2,
+  "liquidCapacity": 300,
   "tier": 5,
   "drillTime": 400,
   "consumes": {
