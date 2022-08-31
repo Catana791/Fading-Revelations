@@ -1,0 +1,19 @@
+{
+  "localizedName": "Force Barrier",
+  "description": "Creates a small but long shield that can be used to shield wide sections efficiently",
+  "type": "DirectionalForceProjector",
+  "cooldownBrokenBase": 420,
+  "cooldownLiquid": 300,
+  "cooldownNormal": 360,
+  "length": 80,
+  "padSize": 5,
+  "shieldHealth": 2800,
+  "width": 24,
+  "health": 600,
+  "size": 3,
+  "research": "duo",
+  "category": "effect",
+  "requirements": [
+    "copper"/1   
+  ]
+}
