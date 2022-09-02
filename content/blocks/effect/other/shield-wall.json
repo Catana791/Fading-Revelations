@@ -2,9 +2,9 @@
   "localizedName": "Force Wall",
   "description": "Creates a small but long shield that can be used to shield wide sections efficiently",
   "type": "DirectionalForceProjector",
-  "cooldownNormal": 1.9,
-  "cooldown": 1.9,
-  "cooldownBrokenBase": 1.9,
+  "cooldownNormal": 1.8,
+  "cooldown": 1.8,
+  "cooldownBrokenBase": 1.8,
   "length": 80,
   "padSize": 10,
   "consumes": {
