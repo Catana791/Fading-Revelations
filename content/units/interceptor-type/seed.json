@@ -33,6 +33,7 @@
   "mineHardnessScaling": true,
   "flying": true,
   "defaultCommand": "assistCommand",
+  "controller": "RepairAI",
   "weapons": [
     {
       "name": "nothing",
