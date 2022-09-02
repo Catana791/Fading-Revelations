@@ -6,17 +6,7 @@
   "cooldown": 1.7,
   "cooldownBrokenBase": 1.7,
   "length": 80,
-  "cooldownLiquid": 1.9,
   "padSize": 10,
-  "consumes": {
-    "power": 6
-    "liquid": {
-      "liquid": "water",
-      "amount": 0.4,
-      "optional": true,
-      "booster": true
-    }
-  },
   "shieldHealth": 2800,
   "width": 100,
   "health": 600,
