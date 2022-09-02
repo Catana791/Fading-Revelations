@@ -5,7 +5,6 @@
   "cooldownNormal": 60,
   "cooldown": 60,
   "cooldownBrokenBase": 60,
-  "cooldownLiquid": 30,
   "length": 80,
   "padSize": 10,
   "consumes": {
