@@ -53,7 +53,8 @@
   "health": 1580,
   "mineHardnessScaling": true,
   "flying": true,
-  "controller": "RepairAi",
+  "defaultCommand": "repairCommand",
+  "controller": "RepairAI",
   "weapons": [
     {
       "name": "nothing",
