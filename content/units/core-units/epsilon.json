@@ -41,7 +41,9 @@
         "mixColorTo": "ffd37f",
         "splashDamageRadius": 5,
         "homingRange": 170,
-        "homingPower": 0.18
+        "homingPower": 0.18,
+        "healPercent": 2,
+        "collidesTeam": true,
         "hitEffect": {
             "type": "MultiEffect",
             "effects": [
