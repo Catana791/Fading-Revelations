@@ -19,24 +19,24 @@
   "legLengthScl": 0.93,
   "rippleScale": 6,
   "legSpeed": 0.31,
-  "legSplashDamage": 120,
-  "legSplashRange": 72,
-  "parts": [
-    {
-      "type": "HaloPart",
-      "x": 0,
-      "y": -24,
-      "color": "84f491",
-      "colorTo": "62ae7f",
-      "mirror": false,
-      "hollow": true,
-      "shapes": 6,
-      "sides": 8,
-      "radius": 12,
-      "stroke": 2,
-      "haloRotateSpeed": 1.3,
-    }
-  ],
+  "legSplashDamage": 75,
+  "legSplashRange": 48,
+  //"parts": [
+    //{
+      //"type": "HaloPart",
+      //"x": 0,
+      //"y": -24,
+      //"color": "84f491",
+      //"colorTo": "62ae7f",
+      //"mirror": false,
+      //"hollow": true,
+      //"shapes": 6,
+      //"sides": 8,
+      //"radius": 12,
+      //"stroke": 2,
+      //"haloRotateSpeed": 1.3,
+    //}
+  //],
   "shadowElevation": 0.2,
   "speed": 0.45,
   "drawShields": false,
@@ -59,7 +59,7 @@
       "shootStatus": "unmoving",
       "shootStatusDuration": 180,
       "shoot": {   
-        "firstShotDelay": 100,
+        "firstShotDelay": 90,
       },
       "parentizeEffects": true,
       "bullet": {
