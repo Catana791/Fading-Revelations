@@ -1,11 +1,12 @@
 {
   "type": "Fracker",
   "localizedName": "Oil Bore",
-  "description": "A better oil extractor that runs more efficiently",
+  "description": "A better oil extractor that runs more efficiently and doesn't have tile restrictions.",
   "health": 590,
   "result": "oil",
   "pumpAmount": 0.225,
   "drawer": "DrawDefault",
+  "craftTime": 45,
   "size": 4,
   "requirements": [
     {"item": "copper", "amount": 220},
