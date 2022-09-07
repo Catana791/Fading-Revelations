@@ -4,7 +4,7 @@ production: 27
 liquids: 1
 turrets: 24
 effects: 24
-drills: 12
+drills: 13
 power: 8
 walls: 18
 items: 12
