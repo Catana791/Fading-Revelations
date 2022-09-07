@@ -4,10 +4,10 @@
   "description": "A better oil extractor that runs more efficiently and doesn't have tile restrictions.",
   "health": 590,
   "result": "oil",
-  "pumpAmount": 0.225,
+  "pumpAmount": 0.23,
   "drawer": "DrawDefault",
-  "craftTime": 45,
-  "itemUseTime": 45,
+  "craftTime": 60,
+  "itemUseTime": 60,
   "size": 4,
   "requirements": [
     {"item": "copper", "amount": 220},
