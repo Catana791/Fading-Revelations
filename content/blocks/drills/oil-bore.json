@@ -4,7 +4,7 @@
   "description": "A better oil extractor that runs more efficiently and doesn't have tile restrictions.",
   "health": 590,
   "result": "oil",
-  "pumpAmount": 0.23,
+  "pumpAmount": 0.35,
   "drawer": "DrawDefault",
   "craftTime": 60,
   "itemUseTime": 60,
