@@ -5,6 +5,7 @@
   "health": 590,
   "result": "oil",
   "pumpAmount": 0.225,
+  "drawer": "DrawDefault",
   "size": 4,
   "requirements": [
     {"item": "copper", "amount": 220},
