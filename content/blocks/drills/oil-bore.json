@@ -17,7 +17,8 @@
   "hasItems": true,
   "itemCapacity": 15,
   "liquidCapacity": 50,
-  "consumes: {
+  "attribute": "oil",
+  "consumes": {
     "power": 6,
     "items": {
       "items": [
