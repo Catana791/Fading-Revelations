@@ -3,6 +3,8 @@
   "localizedName": "Oil Bore",
   "description": "A better oil extractor that runs more efficiently",
   "health": 590,
+  "result": "oil",
+  "pumpAmount": 0.225,
   "size": 4,
   "requirements": [
     {"item": "copper", "amount": 220},
