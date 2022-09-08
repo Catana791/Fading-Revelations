@@ -35,7 +35,7 @@
         "layers": 2,
         "amount": 12,
         "rotateSpeed": 0.5,
-        "layerSpeed". -0.9
+        "layerSpeed": -0.9
       },
       {
         "type": "DrawMultiWeave",
