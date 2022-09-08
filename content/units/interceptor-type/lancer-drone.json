@@ -17,7 +17,6 @@
   "armor": 1,
   "commandLimit": 6,
   "engineOffset": 5.5,
-  "range": 26,
   "weapons": [
     {
       "name": "chrome-blaster",
