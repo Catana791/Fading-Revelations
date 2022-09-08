@@ -1,0 +1,70 @@
+{
+  "type": "HeatCrafter",
+  //todo: other name, this one sucks
+  "name": "Phase Manufacturer",
+  "description": "A better phase synthesizer that works more efficiently",
+  "category": "crafting",
+  "requirements": [
+    {"item": "carbide", "amount": 120},
+    {"item": "silicon", "amount": 160},
+    {"item": "thorium", "amount": 120},
+    {"item": "tungsten", "amount": 280}
+  ],
+  "size": 4,
+  "itemCapacity": 50,
+  "heatRequirement": 9,
+  "craftTime": 90,
+  "liquidCapacity": 50,
+  "ambientSound": "techloop",
+  "ambientSoundVolume": 0.05,
+  "outputItem": {
+    "item": "phase-fabric",
+    "amount": 2
+  },
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-top"
+      },
+      {
+        "type": "DrawSpikes",
+        "color": "ffd59e",
+        "stroke". 1.5,
+        "layers": 2,
+        "amount": 12,
+        "rotateSpeed": 0.5,
+        "layerSpeed". -0.9
+      },
+      {
+        "type": "DrawMultiWeave",
+        "glowColor": "ffd59e"
+      },
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawHeatInput" 
+      },
+      {
+        "type": "DrawHeatRegion" ,
+        "suffix": "-vents",
+        "color": "ffd59e"
+      }
+    ]
+  },
+  "consumes": {
+    "power": 9,
+    "items": {
+      "items": [
+        {"item": "thorium", "amount": 2},
+        {"item": "sand", "amount": 6}
+      ]
+    },
+    "liquid": {
+      "liquid": "ozone",
+      "amount": 2
+    }
+  }
+}
