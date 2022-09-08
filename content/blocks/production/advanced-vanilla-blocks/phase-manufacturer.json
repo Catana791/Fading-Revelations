@@ -47,10 +47,6 @@
         "type": "DrawHeatRegion",
         "suffix": "-vents",
         "color": "ffd59e"
-      },
-      {
-        "type": "DrawRegion",
-        "suffix": "-bottom"
       }
     ]
   },
