@@ -1,0 +1,53 @@
+{
+  "type": "GenericCrafter",
+  "name": "Silicon Arc Forge",
+  "description": "A better version of the silicon arc furnace that creates silicon more efficiently.",
+  "craftEffect": "none",
+  "requirements": [
+    {"item": "beryllium", "amount": 140},
+    {"item": "graphite", "amount": 150}
+  ],
+  "research": "silicon-arc-furnace",
+  "outputItem": {
+    "item": "silicon", 
+    "amount": 6
+  },
+  "craftTime": 60,
+  "size": 4,
+  "hasPower": true,
+  "hasLiquids": false,
+  "envDisabled": "none",
+  "itemCapacity": 40,
+  "envEnabled": ["space", "underwater"],
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawArcSmelt" 
+      }
+    ]
+  },
+  "fogRadius": 5,
+  "researchCost": [
+    {"item": "beryllium", "amount": 260},
+    {"item": "graphite", "amount": 90}
+  ],
+  "ambientSound": "smelter",
+  "ambientSoundVolume": 0.14,
+  "consumes": {
+    "power": 7,
+    "items": {
+      "items": [
+        {"item": "graphite", "amount": 1},
+        {"item": "sand", "amount": 4}
+      ]
+    }
+  }
+}
