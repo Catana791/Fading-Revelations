@@ -28,10 +28,6 @@
         "type": "DrawDefault" 
       },
       {
-        "type": "DrawRegion",
-        "suffix": "-bottom"
-      },
-      {
         "type": "DrawSpikes",
         "color": "ffd59e",
         "stroke": 1.5,
@@ -51,6 +47,10 @@
         "type": "DrawHeatRegion",
         "suffix": "-vents",
         "color": "ffd59e"
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
       }
     ]
   },
