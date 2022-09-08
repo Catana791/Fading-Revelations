@@ -8,6 +8,7 @@
     {"item": "graphite", "amount": 150}
   ],
   "research": "silicon-arc-furnace",
+  "category": "crafting",
   "outputItem": {
     "item": "silicon", 
     "amount": 6
