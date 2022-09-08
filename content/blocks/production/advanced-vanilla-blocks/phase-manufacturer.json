@@ -25,9 +25,6 @@
     "type": "DrawMulti",
     "drawers": [
       {
-        "type": "DrawDefault" 
-      },
-      {
         "type": "DrawSpikes",
         "color": "ffd59e",
         "stroke": 1.5,
@@ -35,6 +32,9 @@
         "amount": 12,
         "rotateSpeed": 0.5,
         "layerSpeed": -0.9
+      },
+      {
+        "type": "DrawDefault" 
       },
       {
         "type": "DrawMultiWeave",
