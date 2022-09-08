@@ -25,8 +25,11 @@
     "type": "DrawMulti",
     "drawers": [
       {
+        "type": "DrawDefault" 
+      },
+      {
         "type": "DrawRegion",
-        "suffix": "-top"
+        "suffix": "-bottom"
       },
       {
         "type": "DrawSpikes",
@@ -42,13 +45,10 @@
         "glowColor": "ffd59e"
       },
       {
-        "type": "DrawDefault" 
-      },
-      {
         "type": "DrawHeatInput" 
       },
       {
-        "type": "DrawHeatRegion" ,
+        "type": "DrawHeatRegion",
         "suffix": "-vents",
         "color": "ffd59e"
       }
