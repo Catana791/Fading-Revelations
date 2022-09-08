@@ -16,9 +16,7 @@
   "size": 4,
   "hasPower": true,
   "hasLiquids": false,
-  "envDisabled": "none",
   "itemCapacity": 40,
-  "envEnabled": ["space", "underwater"],
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
