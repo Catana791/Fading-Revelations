@@ -31,7 +31,7 @@
       {
         "type": "DrawSpikes",
         "color": "ffd59e",
-        "stroke". 1.5,
+        "stroke": 1.5,
         "layers": 2,
         "amount": 12,
         "rotateSpeed": 0.5,
