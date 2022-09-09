@@ -10,7 +10,7 @@
     {"item": "tungsten", "amount": 110},
     {"item": "oxide", "amount": 100}
   ],
-  "size": 3,
+  "size": 4,
   "itemCapacity": 30,
   "heatRequirement": 11,
   "craftTime": 120,
