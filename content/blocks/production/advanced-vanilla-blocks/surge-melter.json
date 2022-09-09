@@ -1,0 +1,73 @@
+{
+  "type": "HeatCrafter",
+  "name": "Surge Melter",
+  "description": "A better version of the surge crucible that creates surge alloy more efficiently.",
+  "category": "crafting",
+  "research": "surge-crucible",
+  "requirements": [
+    {"item": "silicon", "amount": 160},
+    {"item": "graphite", "amount": 160},
+    {"item": "tungsten", "amount": 110},
+    {"item": "oxide", "amount": 100}
+  ],
+  "size": 3,
+  "itemCapacity": 30,
+  "heatRequirement": 11,
+  "craftTime": 120,
+  "liquidCapacity": 600,
+  "ambientSound": "smelter",
+  "ambientSoundVolume": 1,
+  "outputItem": {
+    "item": "surge-alloy",
+    "amount": 1
+  },
+  "craftEffect": "surgeCruciSmoke",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawCircles",
+        "color": "ffc073",
+        "strokeMax": 2.5,
+        "radius": 10,
+        "amount": 3,
+      },
+      {
+        "type": "DrawLiquidRegion",
+        "drawLiquid": "slag",
+        "suffix": "-liquid"
+      },
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawHeatInput" 
+      },
+      {
+        "type": "DrawHeatRegion",
+        "color": "ff6060ff"
+      },
+      {
+        "type": "DrawHeatRegion",
+        "suffix": "-vents",
+        "color": "ffc073"
+      }
+    ]
+  },
+  "consumes": {
+    "power": 2.5,
+    "items": {
+      "items": [
+        {"item": "silicon", "amount": 3}  
+      ]
+    },
+    "liquid": {
+      "liquid": "slag",
+      "amount": 0.667
+    }
+  }
+}
