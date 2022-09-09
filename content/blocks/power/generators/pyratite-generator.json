@@ -5,7 +5,7 @@
   "size": 2,
   "hasPower": true,
   "hasItems": true,
-  "itemDuration": 135,
+  "itemDuration": 60,
   "powerProduction": 12,
   "consumes": {
     "items": {
@@ -21,19 +21,23 @@
   "requirements": [
     {
       "item": "copper",
-      "amount": 70
+      "amount": 200
     },
     {
       "item": "lead",
-      "amount": 100
+      "amount": 150
     },
     {
       "item": "silicon",
-      "amount": 60
+      "amount": 90
     },
     {
       "item": "titanium",
-      "amount": 60
+      "amount": 75
+    },
+    {
+      "item": "plastanium",
+      "amount": 50
     }
   ],
   "category": "power",
