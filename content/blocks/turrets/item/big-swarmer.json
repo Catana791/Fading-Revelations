@@ -6,6 +6,7 @@
   "reload": 37,
   "heatColor": "ff2020",
   "shootCone": 20,
+  "outputsLiquids": true,
   "shootShake": 0.3,
   "inaccuracy": 1,
   "recoilAmount": 2.6,
