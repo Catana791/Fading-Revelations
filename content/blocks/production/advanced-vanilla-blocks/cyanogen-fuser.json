@@ -4,6 +4,7 @@
   "description": "Joins Arkycite and Graphite to make larger amounts of Cyanogen than a normal Cyanogen Snythesizer.",
   "size": 4,
   "category": "crafting",
+  "research": "cyanogen-synthesizer",
   "requirements": [
     {"item": "carbide", "amount": 90},
     {"item": "silicon", "amount": 140},
