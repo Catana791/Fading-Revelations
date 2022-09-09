@@ -41,14 +41,10 @@ smokeThreshold: 0.58
 explosionRadius: 500
 explosionDamage: 10000
 flashThreshold: 0.4
-coolantPower: 1 
+coolantPower: 0.5
+fuelItem: uraniumrod
 consumes: {
  liquid: living-steel-liquid/0.08
-  items: {
-   items: [
-    uraniumrod/9
-    ]
-  }
 }
 requirements: [
   copper/1000
