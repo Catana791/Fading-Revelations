@@ -1,0 +1,65 @@
+{
+  "localizedName": "Cyanogen Fuser",
+  "type": "HeatCrafter",
+  "description": "Joins Arkycite and Graphite to make larger amounts of Cyanogen than a normal Cyanogen Snythesizer.",
+  "size": 4,
+  "category": "crafting",
+  "requirements": [
+    {"item": "carbide", "amount": 90},
+    {"item": "silicon", "amount": 140},
+    {"item": "beryllium", "amount": 160}
+  ],
+  "heatRequirement": 6,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "cyanogen",
+        "suffix": "-liquid"
+      },
+      {
+        "type": "DrawParticles",
+        "color": "89e8b6",
+        "alpha": 0.5,
+        "particleSize": 3,
+        "particles": 10,
+        "particleRand": 9,
+        "particleLife": 200,
+        "reverse": true,
+        "particleSizeInterp": "one"
+      },
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawHeatInput" 
+      },
+      {
+        "type": "DrawHeatRegion",
+        "suffix": "heat-top"
+      }
+    ]
+  },
+  "ambientSound": "extractLoop",
+  "ambientSoundVolume": 0.1,
+  "liquidCapacity": 100,
+  "craftTime": 60,
+  "outputLiquid": {"liquid": "cyanogen", "amount": 0.075},
+  "consumes": {
+    "power": 2.5,
+    "items": {
+      "items": [
+        {"item": "graphite", "amount": 1}  
+      ]
+    },
+    "liquid": {
+      "liquid": "arkycite",
+      "amount": 0.5
+    }
+  }
+}
