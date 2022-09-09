@@ -22,7 +22,7 @@ consumes: {
  liquid: living-steel-liquid/0.08
  items: {
   items: [
-    {item: uraniumrod, amount: 1}
+    {item: uraniumrod, amount: 9}
   ]
  }
 }
