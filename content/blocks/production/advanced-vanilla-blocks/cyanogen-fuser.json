@@ -21,7 +21,6 @@
       {
         "type": "DrawLiquidTile",
         "drawLiquid": "cyanogen",
-        "suffix": "-liquid"
       },
       {
         "type": "DrawParticles",
@@ -36,9 +35,6 @@
       },
       {
         "type": "DrawDefault" 
-      },
-      {
-        "type": "DrawHeatInput" 
       },
       {
         "type": "DrawHeatRegion",
