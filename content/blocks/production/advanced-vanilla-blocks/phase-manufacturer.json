@@ -15,6 +15,7 @@
   "heatRequirement": 9,
   "craftTime": 90,
   "liquidCapacity": 50,
+  "research": "phase-synthesizer",
   "ambientSound": "techloop",
   "ambientSoundVolume": 0.05,
   "outputItem": {
