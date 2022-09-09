@@ -6,7 +6,7 @@ hasPower: true
 hasLiquids: true
 hasItems: true
 explosionShake: 10
-explodeSound: nrexp
+explodeSound: me-nrexp
 itemCapacity: 20
 liquidCapacity: 120
 itemDuration: 1650
