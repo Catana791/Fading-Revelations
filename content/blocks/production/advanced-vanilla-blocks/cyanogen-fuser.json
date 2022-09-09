@@ -38,7 +38,7 @@
       },
       {
         "type": "DrawHeatRegion",
-        "suffix": "heat-top"
+        "suffix": "-heat-top"
       }
     ]
   },
