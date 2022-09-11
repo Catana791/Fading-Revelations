@@ -1,0 +1,67 @@
+{
+  "type": "GenericCrafter",
+  "localizedName": "Esterification Chamber",
+  "description": "A better Electrolyzer that works more efficiently.",
+  "size": 4,
+  "requirements": [
+    {"item": "silicon", "amount": 90},
+    {"item": "graphite", "amount": 70},
+    {"item": "beryllium", "amount": 165},
+    {"item": "tungsten", "amount": 110}
+  ],
+  "category": "crafting,
+  "research": "electrolyzer",
+  "researchCostMultiplier": 1.2,
+  "craftTime": 6,
+  "rotate": true,
+  "invertFlip": true,
+  "liquidCapacity": 75,
+  "consumes": {
+    "power": 1.6,
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.1667
+    }
+  },
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "water,
+        "alpha": 2
+      },
+      {
+        "type": "DrawBubbles",
+        "color": "7693e3",
+        "sides": 10,
+        "recurrence": 3,
+        "spread": 6,
+        "radius": 1.5,
+        "amount": 20
+      },
+      {
+        "type": "DrawRegion"
+      },
+      {
+        "type": "DrawLiquidOutputs" 
+      },
+      {
+        "type": "DrawGlowRegion",
+        "alpha": 0.7,
+        "color": "c4bdf3",
+        "glowIntensity": 0.3,
+        "glowScale": 6
+      }
+    ]
+  },
+  "ambientSound": "electricHum",
+  "ambientSoundVolume": 0.1,
+  "regionRotated1": 3,
+  "outputLiquids": [{"liquid": "ozone", "amount": 0.07}, {"liquid": "hydrogen", "amount": 0.1}],
+  "liquidOutputDirections": [1, 3]
+}
