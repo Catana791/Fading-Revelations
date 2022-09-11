@@ -61,7 +61,7 @@
   },
   "ambientSound": "electricHum",
   "ambientSoundVolume": 0.1,
-  "regionRotated1": 4,
+  "regionRotated1": 3,
   "outputLiquids": [{"liquid": "ozone", "amount": 0.07}, {"liquid": "hydrogen", "amount": 0.1}],
   "liquidOutputDirections": [1, 3]
 }
