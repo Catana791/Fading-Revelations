@@ -9,7 +9,7 @@
     {"item": "beryllium", "amount": 165},
     {"item": "tungsten", "amount": 110}
   ],
-  "category": "crafting,
+  "category": "crafting",
   "research": "electrolyzer",
   "researchCostMultiplier": 1.2,
   "craftTime": 6,
