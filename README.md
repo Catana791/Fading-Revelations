@@ -44,6 +44,10 @@ extends **[Mindustry]** in fun ways while keeping it balanced. <br>
 
 A huge content extension mod!
 
+-   `140+`  Blocks
+
+-   Custom Schematics
+
 -   A unit upgrading system to buff their stats
 
 -   A trading system using gold as currency
@@ -59,7 +63,6 @@ A huge content extension mod!
 
 -   `7`  Ammo Types
 
--   `140+`  Blocks
 
 <br>
 <br>
