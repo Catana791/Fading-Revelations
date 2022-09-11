@@ -1,0 +1,49 @@
+{
+  "type": "HeatCrafter",
+  "localizedName": "Carbide Basin",
+  "description": "A better Carbide Crucible that works more efficiently.",
+  "size": 4,
+  "category": "crafting",
+  "research": "carbide-crucible",
+  "requirements": [
+    "tungsten/160",
+    "thorium/190",
+    "oxide/90"
+  ],
+  "craftEffect": "none",
+  "outputItem": {"carbide/1"}
+  "craftTime": 90,
+  "itemCapacity": 30,
+  "hasPower": true,
+  "hasItems": true,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawCrucibleFlame"
+      },
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawHeatInput 
+      }
+    ]
+  },
+  "ambientSound": "smelter",
+  "ambientSoundVolume": 0.11,
+  "heatRequirement": 12,
+  "consumes": {
+    "power": 2.6,
+    "items": {
+      "items": [
+        "tungsten/2",
+        "graphite/3"
+      ]
+    }
+  }
+}
