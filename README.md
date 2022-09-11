@@ -59,7 +59,7 @@ A huge content extension mod!
 
 -   `7`  Ammo Types
 
--   `120+`  Blocks
+-   `140+`  Blocks
 
 <br>
 <br>
