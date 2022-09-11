@@ -37,6 +37,9 @@
         "type": "DrawDefault" 
       },
       {
+        "type": "DrawHeatInput" 
+      },
+      {
         "type": "DrawHeatRegion",
         "suffix": "-heat-top"
       }
