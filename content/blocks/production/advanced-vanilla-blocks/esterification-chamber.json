@@ -45,7 +45,7 @@
         "amount": 20
       },
       {
-        "type": "DrawRegion"
+        "type": "DrawDefault"
       },
       {
         "type": "DrawLiquidOutputs" 
