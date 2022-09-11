@@ -11,7 +11,7 @@
     "oxide/90"
   ],
   "craftEffect": "none",
-  "outputItem": {"carbide/1"},
+  "outputItem": "carbide/1",
   "craftTime": 90,
   "itemCapacity": 30,
   "hasPower": true,
