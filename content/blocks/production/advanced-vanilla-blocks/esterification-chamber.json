@@ -12,7 +12,7 @@
   "category": "crafting",
   "research": "electrolyzer",
   "researchCostMultiplier": 1.2,
-  "craftTime": 6,
+  "craftTime": 5,
   "rotate": true,
   "invertFlip": true,
   "liquidCapacity": 75,
