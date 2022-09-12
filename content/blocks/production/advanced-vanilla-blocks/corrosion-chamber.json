@@ -32,7 +32,8 @@
         "suffix": "-bottom"
       },
       {
-        "type": "DrawLiquidRegion" 
+        "type": "DrawLiquidRegion",
+        "drawLiquid": "ozone"
       },
       {
         "type": "DrawDefault" 
