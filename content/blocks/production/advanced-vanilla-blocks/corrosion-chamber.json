@@ -1,0 +1,51 @@
+{
+  "type": "HeatProducer",
+  "localizedName": "Corrosion Chamber",
+  "description": "A better Oxidation Chamber that creates Oxide more efficiently and outputs more heat.",
+  "category": "crafting",
+  "size": 4,
+  "research": "oxidation-chamber",
+  "requirements": [
+    "tungsten/180",
+    "graphite/120",
+    "silicon/180",
+    "beryllium/200"
+  ],
+  "outputItem": "oxide/2",
+  "researchCostMultiplier": 1.1,
+  "consumes": {
+    "power": 0.8,
+    "liquid": {
+      "ozone/0.0333"
+    },
+    "items": {
+      "items": [
+        "beryllium/1
+      ]
+    }
+  },
+  "craftTime": 120,
+  "regionRotated1": 2,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidRegion" 
+      },
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawHeatOutput"
+      }
+    ]
+  },
+  "ambientSound": "extractLoop",
+  "ambientSoundVolume": 0.1,
+  "liquidCapacity": 40,
+  "heatOutput": 7
+}
