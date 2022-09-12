@@ -16,5 +16,6 @@
   "category": "defense",
   "research": {
    "parent": "surge-alloy-wall-2"
-  }
+  },
+  "envDisabled": 16
 }
