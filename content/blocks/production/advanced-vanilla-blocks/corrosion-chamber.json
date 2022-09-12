@@ -15,9 +15,7 @@
   "researchCostMultiplier": 1.1,
   "consumes": {
     "power": 0.8,
-    "liquid": {
-      "ozone/0.0333"
-    },
+    "liquid": "ozone/0.0333",
     "items": {
       "items": [
         "beryllium/1"
