@@ -1,0 +1,39 @@
+{
+  "type": "ThermalGenerator",
+  "localizedName": "Turbine Concentrator",
+  "description": "Similar to a Turbine Condenser but creates larger amounts of power and more water.",
+  "size": 3,
+  "attribute": "steam",
+  "displayEfficiencyScale": 1,
+  "minEfficiency": 0.0001,
+  "powerProduction": 4.4,
+  "displayEfficiency": false,
+  "generateEffect": "turbinegenerate",
+  "effectChance": 0.05,
+  "category": "power",
+  "research": "turbine-condenser",
+  "requirements": [
+    "beryllium/90",
+    "graphite/75"
+  ],
+  "ambientSound": "hum",
+  "ambientSoundVolume": 0.08,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawBlurSpin",
+        "suffix": "-rotator",
+        "rotateSpeed": 0.7,
+        "blurThresh": 0.01
+      }
+    ]
+  },
+  "hasLiquids": true,
+  "outputLiquid": "water/0.15",
+  "fogRadius": 3,
+  "researchCost": 
+}
