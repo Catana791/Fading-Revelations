@@ -1,0 +1,13 @@
+{
+  "type": "Wall",
+  "localizedName": "Huge Tungsten Wall",
+  "description": "A huge wall made from Tungsten.",
+  "size": 3,
+  "health": 6480,
+  "category": "defense",
+  "research": "tungsten-wall-large",
+  "armor": 14,
+  "requirements": [
+    "tungsten/54"  
+  ]
+}
