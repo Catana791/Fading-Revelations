@@ -49,6 +49,7 @@
       "item": "steel-alloy",
       "amount": 300
     }
-    ]
-  }
+   ]
+  },
+  "envDisabled": 16
 }
