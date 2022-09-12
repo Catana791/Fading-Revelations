@@ -1,0 +1,13 @@
+{
+  "type": "Wall",
+  "localizedName": "Gigantic Beryllium Wall",
+  "description": "A gigantic wall made from Beryllium.",
+  "size": 4,
+  "health": 8320,
+  "category": "defense",
+  "research": "beryllium-wall-huge",
+  "armor": 2,
+  "requirements": [
+    "beryllium/96"  
+  ]
+}
