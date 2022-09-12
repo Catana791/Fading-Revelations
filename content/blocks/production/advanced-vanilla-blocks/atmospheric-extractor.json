@@ -1,0 +1,53 @@
+{
+  "type": "HeatCrafter",
+  "localizedName": "Atmospheric Extractor",
+  "description": "Extracts and concentrates Nitrogen out of the atmosphere. Works more efficiently than an Atmospheric Concentrator.",
+  "size": 4,
+  "hasLiquids": true,
+  "category": "crafting",
+  "research": "atmospheric-concentrator",
+  "requirements": [
+    "oxide/100",
+    "beryllium/260",
+    "silicon/200"
+  ],
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "nitrogen",
+        "alpha": 4.1
+      },
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawHeatInput"
+      },
+      {
+        "type": "DrawParticles",
+        "color": "d4f0ff",
+        "alpha": 0.6,
+        "particleSize": 4,
+        "particles": 10,
+        "particleRad": 12,
+        "particleLife": 140
+      }
+    ]
+  },
+  "researchCostMultiplier": 1.1,
+  "liquidCapacity": 50,
+  "consumes": {
+    "power": 2.6
+  },
+  "ambientSound": "extractLoop",
+  "ambientSoundVolume": 0.09,
+  "heatRequirement": 8,
+  "outputLiquid": "nitrogen/0.0778",
+  "craftTime": 60,
+}
