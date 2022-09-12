@@ -27,7 +27,7 @@
       {
         "type": "DrawBlurSpin",
         "suffix": "-rotator",
-        "rotateSpeed": 0.7,
+        "rotateSpeed": 5.8,
         "blurThresh": 0.01
       }
     ]
