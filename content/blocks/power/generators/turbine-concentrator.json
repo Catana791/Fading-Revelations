@@ -6,7 +6,7 @@
   "attribute": "steam",
   "displayEfficiencyScale": 1,
   "minEfficiency": 0.0001,
-  "powerProduction": 0.45,
+  "powerProduction": 0.48,
   "displayEfficiency": false,
   "generateEffect": "turbinegenerate",
   "effectChance": 0.05,
