@@ -16,5 +16,6 @@
   "category": "defense",
   "research": {
     "parent": "thorium-wall-3"
-  }
+  },
+  "envDisabled": 16
 }
