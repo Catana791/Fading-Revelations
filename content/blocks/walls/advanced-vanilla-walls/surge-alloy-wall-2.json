@@ -16,5 +16,6 @@
   "category": "defense",
   "research": {
    "parent": "phase-fabric-wall-3"
-  }
+  },
+  "envDisabled": 16
 }
