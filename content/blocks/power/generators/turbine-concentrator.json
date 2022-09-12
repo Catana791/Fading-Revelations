@@ -5,7 +5,7 @@
   "size": 3,
   "attribute": "steam",
   "displayEfficiencyScale": 1,
-  "minEfficiency": 0.0001,
+  "minEfficiency": 0.00001,
   "powerProduction": 4.4,
   "displayEfficiency": false,
   "generateEffect": "turbinegenerate",
