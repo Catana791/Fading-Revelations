@@ -13,5 +13,6 @@
   "category": "defense",
   "research": {
    "parent": "plastanium-wall-3"
-  }
+  },
+  "envDisabled": 16
 }
