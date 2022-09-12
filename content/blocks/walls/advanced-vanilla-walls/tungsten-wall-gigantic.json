@@ -1,0 +1,13 @@
+{
+  "type": "Wall",
+  "localizedName": "Gigantic Tungsten Wall",
+  "description": "A gigantic wall made from Beryllium.",
+  "size": 4,
+  "health": 11520,
+  "category": "defense",
+  "research": "tungsten-wall-huge",
+  "armor": 14,
+  "requirements": [
+    "tungsten/96"  
+  ]
+}
