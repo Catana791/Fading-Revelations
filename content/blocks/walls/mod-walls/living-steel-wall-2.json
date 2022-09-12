@@ -23,6 +23,7 @@
        "item": "living-steel-hard",
         "amount": 200
       }
-      ]
-  }
+    ]
+  },
+  "envDisabled": 16
 }
