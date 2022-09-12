@@ -48,6 +48,6 @@
   "ambientSound": "extractLoop",
   "ambientSoundVolume": 0.09,
   "heatRequirement": 8,
-  "outputLiquid": "nitrogen/0.0778",
+  "outputLiquid": "nitrogen/0.1",
   "craftTime": 60,
 }
