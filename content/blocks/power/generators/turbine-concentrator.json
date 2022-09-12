@@ -33,7 +33,7 @@
     ]
   },
   "hasLiquids": true,
-  "outputLiquid": "water/0.15",
+  "outputLiquid": "water/0.015",
   "fogRadius": 3,
   "researchCost": [
     "beryllium/180",
