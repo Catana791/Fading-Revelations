@@ -1,11 +1,11 @@
 distribution: 7
 unit_blocks: 6
-production: 33
+production: 35
 liquids: 1
 turrets: 24
 effects: 24
 drills: 13
-power: 8
-walls: 18
+power: 9
+walls: 22
 items: 12
 units: 20
