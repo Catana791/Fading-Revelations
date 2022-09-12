@@ -35,5 +35,8 @@
   "hasLiquids": true,
   "outputLiquid": "water/0.15",
   "fogRadius": 3,
-  "researchCost": 
+  "researchCost": [
+    "beryllium/180",
+    "graphite/150"
+  ]
 }
