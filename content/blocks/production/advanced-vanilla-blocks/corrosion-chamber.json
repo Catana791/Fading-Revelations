@@ -4,6 +4,8 @@
   "description": "A better Oxidation Chamber that creates Oxide more efficiently and outputs more heat.",
   "category": "crafting",
   "size": 4,
+  "hasLiquids": true,
+  "rotateDraw": false,
   "research": "oxidation-chamber",
   "requirements": [
     "tungsten/180",
