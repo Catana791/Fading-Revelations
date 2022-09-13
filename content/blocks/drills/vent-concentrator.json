@@ -44,7 +44,7 @@
   "ambientSoundVolume": 0.08,
   "hasLiquids": true,
   "boostScale": 0.111,
-  "outputLiquid": "water/1",
+  "outputLiquid": "water/0.7",
   "consumes": {
     "power": 0.7 
   },
