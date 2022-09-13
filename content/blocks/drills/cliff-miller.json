@@ -1,0 +1,25 @@
+{
+  "type": "WallCrafter",
+  "localizedName": "Cliff Miller",
+  "description": "A faster Cliff Grinder.",
+  "size": 3,
+  "category": "production",
+  "research": "cliff-grinder",
+  "requirements": [
+    "graphite/75",
+    "beryllium/60"
+  ],
+  "drillTime": 60,
+  "attribute": "sand",
+  "output": "sand",
+  "fogRadius": 3,
+  "researchCost": [
+    "beryllium/260",
+    "graphite/160"
+  ],
+  "consumes": {
+    "power": 0.4,
+  },
+  "ambientSound": "drill",
+  "ambientSoundVolume": 0.08
+}
