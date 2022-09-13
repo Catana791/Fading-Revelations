@@ -12,7 +12,7 @@
   "range": 2,
   "drillTime": 640,
   "fogRadius": 2,
-  "researchCost": "beryllium/10",
+  "researchCost": ["beryllium/10"],
   "consumes": {
     "power": 0.0375,
     "liquid": {
