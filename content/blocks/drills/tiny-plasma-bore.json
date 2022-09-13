@@ -9,7 +9,7 @@
     "beryllium/10"  
   ],
   "tier": 3,
-  "range": 2,
+  "range": 3,
   "drillTime": 320,
   "fogRadius": 2,
   "researchCost": ["beryllium/10"],
