@@ -9,7 +9,7 @@
     "graphite/75",
     "beryllium/60"
   ],
-  "drillTime": 50,
+  "drillTime": 70,
   "attribute": "sand",
   "output": "sand",
   "fogRadius": 3,
