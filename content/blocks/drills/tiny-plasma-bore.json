@@ -1,0 +1,25 @@
+{
+  "type": "BeamDrill",
+  "localizedName": "Tiny Plasma Bore",
+  "description": "A small version of the Plasma Bore.",
+  "size": 1,
+  "category": "production",
+  "research": "plasma-bore",
+  "requirements": [
+    "beryllium/10"  
+  ],
+  "tier": 3,
+  "range": 2,
+  "drillTime": 640,
+  "fogRadius": 2,
+  "researchCost": "beryllium/10",
+  "consumes": {
+    "power": 0.0375,
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.0014,
+      "optional": true,
+      "booster": true
+    }
+  }
+} 
