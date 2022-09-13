@@ -49,7 +49,7 @@
         for more information!
         '''
 
-    subtitle: Erekir Update in progress!
+    subtitle: "Erekir Update in progress!"
     minGameVersion : 136
     version : Beta 1.20
 }
