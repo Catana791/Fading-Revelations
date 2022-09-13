@@ -33,10 +33,6 @@
       },
       {
         "type": "DrawDefault" 
-      },
-      {
-        "type": "DrawLiquidTile",
-        "drawLiquid": "water"
       }
     ]
   },
