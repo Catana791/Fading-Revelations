@@ -21,10 +21,7 @@
         "type": "DrawRegion",
         "suffix": "-bottom"
       },
-      {
-        "type": "DrawLiquidTile",
-        "drawLiquid": "water"
-      },
+      
       {
         "type": "DrawBlurSpin",
         "suffix": "-rotator",
@@ -36,6 +33,10 @@
       },
       {
         "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "water"
       }
     ]
   },
