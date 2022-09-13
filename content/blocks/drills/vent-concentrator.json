@@ -1,0 +1,52 @@
+{
+  "type": "AttributeCrafter",
+  "localizedName": "Vent Concentrator",
+  "description": "A better Vent Condensator that creates more water.",
+  "size": 3,
+  "attribute": "steam",
+  "minEfficiency": 0.00001,
+  "baseEfficiency": 0,
+  "displayEfficiency": false,
+  "category": "production",
+  "research": "vent-condenser",
+  "requirements": [
+    "graphite/45",
+    "beryllium/80"
+  ],
+  "craftEffect": "turbinegenerate",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawBlurSpin",
+        "suffix": "-rotator",
+        "rotateSpeed": 8
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-mid"
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "water"
+      },
+      {
+        "type": "DrawDefault" 
+      }
+    ]
+  },
+  "craftTime": 120,
+  "ambientSound": "hum",
+  "ambientSoundVolume": 0.08,
+  "hasLiquids": true,
+  "boostScale": 0.111,
+  "outputLiquid": "water/1",
+  "consumes": {
+    "power": 0.7 
+  },
+  "liquidCapacity": 80
+}
