@@ -23,9 +23,16 @@
         "drawLiquid": "slag"
       },
       {
+        "type": "DrawCircles",
+        "color": "ffc073",
+        "strokeMax": 2.5,
+        "radius": 10,
+        "amount": 3,
+      },
+      {
         "type": "DrawBlurSpin",
         "suffix": "-rotator",
-        "rotateSpeed": 3
+        "rotateSpeed": 1
       },
       {
         "type": "DrawDefault" 
