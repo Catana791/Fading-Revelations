@@ -5,6 +5,7 @@
   "size": 3,
   "health": 785,
   "consumeEffect": "surgeCruciSmoke",
+  "effectChance": 1,
   "explodeOnFull": false,
   "itemDuration": 60,
   "consumes": {
