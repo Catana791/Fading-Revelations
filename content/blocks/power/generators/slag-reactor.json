@@ -8,7 +8,7 @@
   "explodeOnFull": false,
   "itemDuration": 60,
   "consumes": {
-    "liquid": "slag/0.333"
+    "liquid": "slag/0.33333"
   },
   "drawer": {
     "type": "DrawMulti",
@@ -42,6 +42,7 @@
   "research": "vent-condenser",
   "powerProduction": 7,
   "hasLiquids": true,
+  "liquidCapacity": 100,
   "requirements": [
     "graphite/50",
     "silicon/40",
