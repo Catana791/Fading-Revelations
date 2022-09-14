@@ -25,7 +25,7 @@
       {
         "type": "DrawCircles",
         "color": "ffc073",
-        "strokeMax": 2.5,
+        "strokeMax": 1,
         "radius": 10,
         "amount": 3,
       },
