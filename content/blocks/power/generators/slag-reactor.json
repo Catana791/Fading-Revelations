@@ -1,0 +1,45 @@
+{
+  "type": "ConsumeGenerator",
+  "localizedName": "Slag Reactor",
+  "description": "A reactor that uses the heat of Slag to make power.",
+  "size": 3,
+  "health": 785,
+  "consumeEffect": "none",
+  "effectChance": 0,
+  "explodeOnFull": false,
+  "itemDuration": 60,
+  "consumes": {
+    "liquid": "slag/0.333"
+  },
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom" 
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "slag"
+      },
+      {
+        "type": "DrawBlurSpin",
+        "suffix": "-rotator",
+        "rotateSpeed": 3
+      },
+      {
+        "type": "DrawDefault" 
+      }
+    ]
+  },
+  "category": "power",
+  "research": "vent-condenser",
+  "powerProduction": 7,
+  "hasLiquids": true,
+  "requirements": [
+    "graphite/50",
+    "silicon/40",
+    "beryllium/60",
+    "tungsten/20"
+  ]
+}
