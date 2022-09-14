@@ -4,8 +4,7 @@
   "description": "A reactor that uses the heat of Slag to make power.",
   "size": 3,
   "health": 785,
-  "consumeEffect": "none",
-  "effectChance": 0,
+  "consumeEffect": "surgeCruciSmoke",
   "explodeOnFull": false,
   "itemDuration": 60,
   "consumes": {
