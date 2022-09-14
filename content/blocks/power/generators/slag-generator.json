@@ -1,7 +1,7 @@
 {
   "type": "ConsumeGenerator",
-  "localizedName": "Slag Reactor",
-  "description": "A reactor that uses the heat of Slag to make power.",
+  "localizedName": "Slag Generator",
+  "description": "A generator that uses the heat of Slag to make power.",
   "size": 3,
   "health": 785,
   "consumeEffect": "surgeCruciSmoke",
