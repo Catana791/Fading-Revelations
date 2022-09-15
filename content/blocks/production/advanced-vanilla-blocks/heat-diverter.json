@@ -20,7 +20,7 @@
       },
       {
         "type": "DrawHeatInput",
-        "suffix": "-bottom"
+        "suffix": "-heat"
       }
     ]
   },
