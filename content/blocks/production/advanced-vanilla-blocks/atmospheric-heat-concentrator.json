@@ -1,0 +1,54 @@
+{
+  "type": "HeatProducer",
+  "localizedName": "Atmospheric Heat Concentrator",
+  "description": "A heat producer that extracts heat from erekirs hot atmosphere.",
+  "size": 2,
+  "rotateDraw": false,
+  "researchCost": 4,
+  "category": "crafting",
+  "requirements": [
+    "beryllium/70",
+    "tungsten/50",
+    "oxide/40"
+  ],
+  "heatOutput": 5,
+  "regionRotated1": 1,
+  "ambientSound": "extractLoop",
+  "ambientSoundVolume": 0.09,
+  "consumes": {
+    "power": 2
+  },
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawSpikes",
+        "color": "ffd59e",
+        "stroke": 1.5,
+        "layers": 2,
+        "amount": 12,
+        "rotateSpeed": 0.5,
+        "layerSpeed": -0.9
+      },
+      {
+        "type": "DrawParticles",
+        "color": "ffd59e",
+        "alpha": 0.6,
+        "particleSize": 4,
+        "particles": 16,
+        "particleRad": 12,
+        "particleLife": 140
+      },
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawHeatOutput" 
+      }
+    ]
+  }
+}
