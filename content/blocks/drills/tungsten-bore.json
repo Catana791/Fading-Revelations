@@ -10,7 +10,7 @@
     "tungsten/20"
   ],
   "tier": 3,
-  "range": 6,
+  "range": 8,
   "drillTime": 160,
   "fogRadius": 3,
   "researchCost": ["beryllium/10"],
