@@ -1,0 +1,26 @@
+{
+  "type": "BeamDrill",
+  "localizedName": "Tungsten Bore",
+  "description": "A Plasma Bore made from Tungsten. Has more range than a normal Plasma Bore.",
+  "size": 2,
+  "category": "production",
+  "research": "plasma-bore",
+  "requirements": [
+    "beryllium/60",
+    "tungsten/20"
+  ],
+  "tier": 3,
+  "range": 6,
+  "drillTime": 160,
+  "fogRadius": 3,
+  "researchCost": ["beryllium/10"],
+  "consumes": {
+    "power": 0.2,
+    "liquid": {
+      "liquid": "hydrogen",
+      "amount": 0.005,
+      "optional": true,
+      "booster": true
+    }
+  }
+} 
