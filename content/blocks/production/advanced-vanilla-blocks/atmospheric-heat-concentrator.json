@@ -6,6 +6,7 @@
   "rotateDraw": false,
   "researchCost": 4,
   "category": "crafting",
+  "research": "electric-heater",
   "requirements": [
     "beryllium/70",
     "tungsten/50",
