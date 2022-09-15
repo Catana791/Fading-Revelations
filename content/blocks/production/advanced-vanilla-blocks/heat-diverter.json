@@ -1,0 +1,28 @@
+{
+  "type": "HeatConductor",
+  "localizedName": "Heat Diverter",
+  "description": "A small block that is used to redirect heat to other blocks.",
+  "requirements": [
+    "tungsten/5"  
+  ],
+  "category": "crafting",
+  "research": "reinforced-liquid-tank",
+  "researchCostMultiplier": 10,
+  "size": 1,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawHeatOutput"
+      },
+      {
+        "type": "DrawHeatInput",
+        "suffix": "-bottom"
+      }
+    ]
+  },
+  "regionRotated1": 1
+}
