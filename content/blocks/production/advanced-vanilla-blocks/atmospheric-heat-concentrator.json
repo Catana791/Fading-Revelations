@@ -4,7 +4,7 @@
   "description": "A heat producer that extracts heat from erekirs hot atmosphere.",
   "size": 2,
   "rotateDraw": false,
-  "researchCost": 4,
+  "researchCostMultiplier": 4,
   "category": "crafting",
   "research": "electric-heater",
   "requirements": [
