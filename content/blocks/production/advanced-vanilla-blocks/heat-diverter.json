@@ -6,7 +6,7 @@
     "tungsten/5"  
   ],
   "category": "crafting",
-  "research": "reinforced-liquid-tank",
+  "research": "electric-heater",
   "researchCostMultiplier": 10,
   "size": 1,
   "drawer": {
