@@ -59,7 +59,7 @@
     "living-steel-liquid": {
       "type": "ContinuousFlameBulletType",
       "ammoMultiplier": 1,
-      "damage": 1,
+      "damage": 10,
       "length": 320,
       "knockback": 2,
       "pierce": true,
