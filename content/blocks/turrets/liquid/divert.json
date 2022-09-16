@@ -52,7 +52,6 @@
       "heatColor": "f03b0e"
     }
   ],
-  "outlineColor": "darkOutline",
   "liquidConsumed": 0.2,
   "targetInterval": 3,
   "range": 320,
