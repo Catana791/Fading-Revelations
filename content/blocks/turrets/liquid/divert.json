@@ -49,7 +49,7 @@
     }
   ],
   "outlineColor": "darkOutline",
-  "liquidConsumed": 0.1667,
+  "liquidConsumed": 0.2,
   "targetInterval": 3,
   "range": 320,
   "loopSound": "torch",
@@ -57,11 +57,13 @@
   "loopSoundVolume": 1.2,
   "ammoTypes": {
     "living-steel-liquid": {
+      "type": "ContinuousFlameBulletType",
+      "ammoMultiplier": 1,
       "damage": 100,
       "length": 320,
       "knockback": 2,
       "pierce": true,
-      "pierceCap": 6,
+      "pierceCap": 8,
       "buildingDamageMultiplier": 0.4,
       "status": "sapped"
     }
