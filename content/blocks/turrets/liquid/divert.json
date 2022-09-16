@@ -4,6 +4,7 @@
   "description": "A turret that shoots a flame of liquid living steel.",
   "size": 3,
   "category": "turret",
+  "research": "batter",
   "heatColor": "fa2859",
   "drawer": {
     "type": "DrawTurret",
