@@ -4,7 +4,11 @@
   "description": "A turret that shoots a flame of liquid living steel.",
   "size": 3,
   "category": "turret",
-  "heatColor": "fa2859"
+  "heatColor": "fa2859",
+  "drawer": {
+    "type": "DrawTurret",
+    "prefix": "-reinforced"
+  },
   "requirements": [
     "copper/250",
     "lead/300",
