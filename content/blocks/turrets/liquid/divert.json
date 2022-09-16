@@ -64,11 +64,10 @@
       "ammoMultiplier": 1,
       "damage": 10,
       "length": 320,
-      "knockback": 2,
+      "knockback": 1,
       "pierce": true,
       "pierceCap": 8,
       "buildingDamageMultiplier": 0.4,
-      "status": "sapped"
     }
   }
 }
