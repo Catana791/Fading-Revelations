@@ -7,7 +7,7 @@
   "heatColor": "fa2859",
   "drawer": {
     "type": "DrawTurret",
-    "prefix": "-reinforced"
+    "prefix": "reinforced-"
   },
   "requirements": [
     "copper/250",
