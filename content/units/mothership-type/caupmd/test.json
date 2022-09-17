@@ -7,6 +7,7 @@
   "legCount": 8,
   "allowLegStep": true,
   "hovering": true,
+  "outlines": false,
   //"parts": [
     //{
       //"type": "HaloPart",
