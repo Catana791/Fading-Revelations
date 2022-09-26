@@ -5,8 +5,8 @@
   "category": "defense",
   "research": "shielded-wall",
   "requirements": [
-    "phase-fabric/38",
-    "surge-alloy/18",
+    "phase-fabric/24",
+    "surge-alloy/10",
     "beryllium/18",
     "carbide/12"
   ],
