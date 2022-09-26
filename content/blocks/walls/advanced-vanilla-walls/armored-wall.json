@@ -1,0 +1,25 @@
+{
+  "type": "ShieldWall",
+  "localizedName": "Armored Wall",
+  "description": "A better Shielded Wall that has more health and a stronger shield. Uses Carbide.",
+  "category": "defense",
+  "research": "shielded-wall",
+  "requirements": [
+    "phase-fabric/38",
+    "surge-alloy/18",
+    "beryllium/18",
+    "carbide/12"
+  ],
+  "health": 5820,
+  "consumes": {
+    "power": "0.06"
+  },
+  "chanceDeflect": 9,
+  "armor": 18,
+  "size": 2,
+  "outputsPower": false,
+  "hasPower": true,
+  "consumesPower": true,
+  "conductivePower": true,
+  "shieldHealth": 1200,
+}
