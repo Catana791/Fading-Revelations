@@ -12,7 +12,7 @@
   ],
   "health": 5820,
   "consumes": {
-    "power": "0.06"
+    "power": 0.06
   },
   "chanceDeflect": 9,
   "armor": 18,
