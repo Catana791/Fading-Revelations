@@ -1,0 +1,84 @@
+{
+  "type": "ConsumeGenerator",
+  "localizedName": "Overload Reactor",
+  "description": "Uses Steel Amalgam to make a lot of power. Requires large amounts of starting power. Outputs slag. If the slag isn't removed, the reactor explodes.",
+  "hasItems": true,
+  "hasLiquids": true,
+  "hasPower": true,
+  "category": "power",
+  "size": 10,
+  "research": "steel-reactor",
+  "requirements": [
+      "copper/2500",
+    "lead/2200",
+    "graphite/1800",
+    "metaglass/1600",
+    "silicon/1500",
+    "thorium/1100",
+    "steel-alloy/400"
+  ],
+  "liquidCapacity": 400,
+  "itemCapacity": 50,
+  "health": 1500,
+  "outputLiquid": "slag/0.1",
+  "explodeOnFull": true,
+  "explosionDamage": 25000,
+  "powerProduction": 350,
+  "consumes": {
+    "power": 70,
+    "items": {
+      "items": [
+        "steel-alloy/2"  
+      ]
+    }
+  },
+  "itemDuration": 420,
+  "warmupSpeed": 0.6,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom",
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "slag"
+      },
+      {
+        "type": "DrawCircles",
+        "color": "ffc073",
+        "strokeMax": 1,
+        "radius": 30,
+        "amount": 5,
+      },
+      {
+        "type": "DrawSpikes",
+        "color": "ffd59e",
+        "stroke": 2,
+        "layers": 2,
+        "amount": 12,
+        "rotateSpeed": 0.5,
+        "layerSpeed": -0.9,
+        "length": 10
+      },
+      {
+        "type": "DrawParticles",
+        "color": "ffc073",
+        "alpha": 0.6,
+        "particleSize": 4,
+        "particles": 10,
+        "particleRad": 12,
+        "particleLife": 140 
+      }
+      {
+        "type": "DrawBlurSpin",
+        "suffix": "-rotator",
+        "rotateSpeed": 12
+      },
+      {
+        "type": "DrawDefault"
+      }
+    ]
+  }
+}
