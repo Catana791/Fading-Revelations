@@ -14,8 +14,7 @@
           "item": "pyratite",
           "amount": 1
         }
-      ],
-      "optional": true
+      ]
     }
   },
   "requirements": [
