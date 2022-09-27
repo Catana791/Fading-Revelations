@@ -34,13 +34,13 @@
     "type": "DrawMulti",
     "drawers": [
       {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "slag"
+      },
+      {
         "type": "DrawRegion",
         "suffix": "-bottom",
       },
-      {
-        "type": "DrawLiquidTile",
-        "drawLiquid": "slag"
-      }
       {
         "type": "DrawCircles",
         "color": "ffc073",
