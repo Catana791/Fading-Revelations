@@ -16,8 +16,6 @@
     "thorium/1100",
     "steel-alloy/400"
   ],
-  "liquidCapacity": 400,
-  "itemCapacity": 50,
   "health": 1500,
   "outputLiquid": "slag/0.1",
   "explodeOnFull": true,
