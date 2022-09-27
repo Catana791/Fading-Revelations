@@ -2,7 +2,7 @@
   "type": "ConsumeGenerator",
   "name": "Pyratite Generator",
   "description": "Uses the high flammability of pyratite to make a decent amount of power.",
-  "size": 2,
+  "size": 10,
   "hasPower": true,
   "hasItems": true,
   "itemDuration": 360,
