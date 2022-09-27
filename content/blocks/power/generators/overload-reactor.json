@@ -17,6 +17,8 @@
   "liquidCapacity": 400,
   "itemCapacity": 50,
   "health": 1500,
+  "outputLiquid": "slag/0.1",
+  "explodeOnFull": true,
   "powerProduction": 410,
   "consumes": {
     "power": 70,
@@ -27,5 +29,47 @@
     }
   },
   "itemDuration": 420,
-  
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom",
+      }
+      {
+        "type": "DrawCircles",
+        "color": "ffc073",
+        "strokeMax": 1,
+        "radius": 30,
+        "amount": 5,
+      },
+      {
+        "type": "DrawSpikes",
+        "color": "ffd59e",
+        "stroke": 2,
+        "layers": 2,
+        "amount": 12,
+        "rotateSpeed": 0.5,
+        "layerSpeed": -0.9,
+        "length": 10
+      },
+      {
+        "type": "DrawParticles",
+        "color": "ffc073",
+        "alpha": 0.6,
+        "particleSize": 4,
+        "particles": 10,
+        "particleRad": 12,
+        "particleLife": 140 
+      }
+      {
+        "type": "DrawBlurSpin",
+        "suffix": "-rotator",
+        "rotateSpeed": 12
+      },
+      {
+        "type": "DrawDefault"
+      }
+    ]
+  }
 }
