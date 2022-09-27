@@ -17,8 +17,6 @@
   "liquidCapacity": 400,
   "itemCapacity": 50,
   "health": 1500,
-  "outputLiquid": "slag/0.1",
-  "explodeOnFull": true,
   "explosionDamage": 25000,
   "powerProduction": 410,
   "consumes": {
