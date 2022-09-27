@@ -33,7 +33,6 @@
     }
   },
   "itemDuration": 420,
-  "warmupSpeed": 0.6,
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
