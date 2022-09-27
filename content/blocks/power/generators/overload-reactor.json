@@ -1,5 +1,5 @@
 {
-  "type": "NuclearReactor",
+  "type": "ConsumeGenerator",
   "localizedName": "Overload Reactor",
   "description": "Uses Steel Amalgam to make a lot of power. Requires large amounts of starting power. Outputs slag. If the slag isn't removed, the reactor explodes.",
   "category": "power",
