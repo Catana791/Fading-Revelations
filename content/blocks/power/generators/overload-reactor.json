@@ -19,7 +19,7 @@
   "health": 1500,
   "outputLiquid": "slag/0.1",
   "explodeOnFull": true,
-  "powerProduction": 410,
+  "powerProduction": 340,
   "consumes": {
     "items": {
       "items": [
@@ -38,7 +38,7 @@
       {
         "type": "DrawCircles",
         "color": "ffc073",
-        "strokeMax": 1,
+        "strokeMax": 6,
         "radius": 30,
         "amount": 5,
       },
@@ -50,21 +50,21 @@
         "amount": 12,
         "rotateSpeed": 0.5,
         "layerSpeed": -0.9,
-        "length": 10
+        "length": 50
       },
       {
         "type": "DrawParticles",
         "color": "ffc073",
         "alpha": 0.6,
         "particleSize": 4,
-        "particles": 10,
-        "particleRad": 12,
+        "particles": 32,
+        "particleRad": 40,
         "particleLife": 140 
       }
       {
         "type": "DrawBlurSpin",
         "suffix": "-rotator",
-        "rotateSpeed": 12
+        "rotateSpeed": 26
       },
       {
         "type": "DrawDefault"
