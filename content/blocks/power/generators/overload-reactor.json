@@ -22,7 +22,7 @@
   "liquidCapacity": 60,
   "itemCapacity": 50,
   "explodeOnFull": true,
-  "powerProduction": 340,
+  "powerProduction": 400,
   "consumes": {
     "items": {
       "items": [
