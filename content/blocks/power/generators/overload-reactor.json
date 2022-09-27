@@ -6,10 +6,7 @@
   "size": 10,
   "hasPower": true,
   "hasItems": true,
-  "idleSound": "torch",
-  "idleSoundVolume": 0.2,
   "loopSound": "torch",
-  "loopSoundVolume": 0.5,
   "research": "steel-reactor",
   "requirements": [
       "copper/2500",
