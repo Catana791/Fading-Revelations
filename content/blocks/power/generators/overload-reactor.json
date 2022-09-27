@@ -8,6 +8,7 @@
   "itemDuration": 360,
   "powerProduction": 410,
   "consumes": {
+    "power": 70,
     "items": {
       "items": [
         {
