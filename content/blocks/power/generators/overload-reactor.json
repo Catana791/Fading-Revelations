@@ -23,7 +23,7 @@
   "outputLiquid": "slag/0.1",
   "explodeOnFull": true,
   "explosionDamage": 25000,
-  "powerProduction": 350,
+  "powerProduction": 410,
   "consumes": {
     "power": 70,
     "items": {
