@@ -32,14 +32,14 @@
   "itemDuration": 420,
   "drawer": {
     "type": "DrawMulti",
-    "drawers": [
-      {
-        "type": "DrawLiquidTile",
-        "drawLiquid": "slag"
-      },
+    "drawers": [   
       {
         "type": "DrawRegion",
         "suffix": "-bottom",
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "slag"
       },
       {
         "type": "DrawCircles",
