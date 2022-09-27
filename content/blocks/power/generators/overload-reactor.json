@@ -17,7 +17,6 @@
   "liquidCapacity": 400,
   "itemCapacity": 50,
   "health": 1500,
-  "fuelItem": "steel-alloy",
   "powerProduction": 410,
   "consumes": {
     "power": 70,
