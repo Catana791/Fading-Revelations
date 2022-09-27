@@ -18,6 +18,8 @@
   ],
   "health": 1500,
   "outputLiquid": "slag/0.1",
+  "liquidCapacity": 60,
+  "itemCapacity": 50,
   "explodeOnFull": true,
   "powerProduction": 340,
   "consumes": {
@@ -34,6 +36,10 @@
       {
         "type": "DrawRegion",
         "suffix": "-bottom",
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "slag"
       }
       {
         "type": "DrawCircles",
@@ -45,9 +51,9 @@
       {
         "type": "DrawSpikes",
         "color": "ffd59e",
-        "stroke": 1,
+        "stroke": 2,
         "layers": 2,
-        "amount": 10,
+        "amount": 12,
         "rotateSpeed": 0.1,
         "layerSpeed": -0.9,
         "length": 30
