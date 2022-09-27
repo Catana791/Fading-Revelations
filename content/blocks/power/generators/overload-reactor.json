@@ -45,20 +45,20 @@
       {
         "type": "DrawSpikes",
         "color": "ffd59e",
-        "stroke": 2,
+        "stroke": 1,
         "layers": 2,
-        "amount": 12,
-        "rotateSpeed": 0.5,
+        "amount": 10,
+        "rotateSpeed": 0.1,
         "layerSpeed": -0.9,
-        "length": 50
+        "length": 30
       },
       {
         "type": "DrawParticles",
         "color": "ffc073",
         "alpha": 0.6,
-        "particleSize": 4,
+        "particleSize": 6,
         "particles": 32,
-        "particleRad": 40,
+        "particleRad": 75,
         "particleLife": 140 
       }
       {
