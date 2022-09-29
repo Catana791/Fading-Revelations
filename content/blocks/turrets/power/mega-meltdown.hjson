@@ -3,6 +3,8 @@ description: A better version of the meltdown. Deals a tonne of damage.
 type: PowerTurret
 size: 5
 liquidCapacity: 200
+category: turret
+research: uhlan
 health: 2150
 range: 240
 consumes: {
