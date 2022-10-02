@@ -1,5 +1,5 @@
 {
-  "type": "ErekirUnitType",
+  "type": "flying",
   "localizedName": "Polio",
   "description": "A small unit specialized in supporting your defense.",
   "defaultController": "BuilderAI",
