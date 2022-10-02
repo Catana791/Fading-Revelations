@@ -6,6 +6,7 @@
   "mineWalls": true,
   "outlines": false,
   "mineFloor": true,
+  "envDisabled": 0,
   "mineHardnessScaling": false,
   "flying": true,
   "mineSpeed": 6,
