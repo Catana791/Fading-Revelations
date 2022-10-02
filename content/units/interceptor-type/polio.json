@@ -2,9 +2,6 @@
   "type": "flying",
   "localizedName": "Polio",
   "description": "A small unit specialized in supporting your defense.",
-  "defaultController": "BuilderAI",
-  "isEnemy": false,
-  "targetPriority": -2,
   "lowAltitude": true,
   "mineWalls": true,
   "outlines": false,
@@ -30,7 +27,7 @@
   "weapons": [
     {
       "type": "RepairBeamWeapon",
-      "name": "electric-laser",
+      "name": "nothing",
       "mirror": "false",
       "x": 0,
       "y": 0,
