@@ -8,6 +8,7 @@
   "targetPriority": -2,
   "lowAltitude": true,
   "mineWalls": true,
+  "outlines": false,
   "mineFloor": true,
   "mineHardnessScaling": false,
   "flying": true,
