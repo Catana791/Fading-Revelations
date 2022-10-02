@@ -3,7 +3,6 @@
   "localizedName": "Polio",
   "description": "A small unit specialized in supporting your defense.",
   "defaultController": "BuilderAI",
-  "envDisabled": 0,
   "isEnemy": false,
   "targetPriority": -2,
   "lowAltitude": true,
