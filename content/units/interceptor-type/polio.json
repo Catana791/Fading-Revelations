@@ -1,0 +1,51 @@
+{
+  "type": "ErekirUnitType",
+  "localizedName": "Polio",
+  "description": "A small unit specialized in supporting your defense.",
+  "defaultController": "BuilderAI",
+  "envDisabled": 0,
+  "isEnemy": false,
+  "targetPriority": -2,
+  "lowAltitude": true,
+  "mineWalls": true,
+  "mineFloor": true,
+  "mineHardnessScaling": false,
+  "flying": true,
+  "mineSpeed": 6,
+  "mineTier": 3,
+  "buildSpeed": 1.5,
+  "drag": 0.08,
+  "speed": 6,
+  "rotateSpeed": 7,
+  "accel": 0.1,
+  "itemCapacity": 75,
+  "health": 200,
+  "armor": 1,
+  "hitSize": 13,
+  "payloadCapacity": 256,
+  "pickupUnits": false,
+  "vulnerableWithPayloads": true,
+  "fogRadius": 1,
+  "weapons": [
+    {
+      "type": "RepairBeamWeapon",
+      "name": "electric-laser",
+      "mirror": "false",
+      "x": 0,
+      "y": 0,
+      "beamWidth": 0.8,
+      "mirror": false,
+      "repairSpeed": 2,
+      "laserColor": "accent",
+      "healColor": "accent",
+      "controllable": true,
+      "autoTarget": true,
+      "targetBuildings": true,
+      "targetUnits": false,
+      "rotate": false,
+      "bullet": {
+        "maxRange": 90
+      }
+    }
+  ]
+}
