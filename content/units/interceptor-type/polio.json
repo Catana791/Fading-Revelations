@@ -27,15 +27,12 @@
   "weapons": [
     {
       "type": "RepairBeamWeapon",
-      "name": "nothing",
-      "mirror": "false",
       "x": 0,
       "y": 0,
       "reload": 20,
       "beamWidth": 0.8,
       "mirror": false,
       "repairSpeed": 2,
-      "rotate": false,
       "bullet": {
         "maxRange": 90
       }
