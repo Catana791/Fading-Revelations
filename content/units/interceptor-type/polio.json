@@ -20,10 +20,6 @@
   "health": 200,
   "armor": 1,
   "hitSize": 13,
-  "payloadCapacity": 256,
-  "pickupUnits": false,
-  "vulnerableWithPayloads": true,
-  "fogRadius": 1,
   "weapons": [
     {
       "type": "RepairBeamWeapon",
@@ -33,6 +29,8 @@
       "beamWidth": 0.8,
       "mirror": false,
       "repairSpeed": 2,
+      "aimDst": 0,
+      "controllable": true,
       "bullet": {
         "maxRange": 90
       }
