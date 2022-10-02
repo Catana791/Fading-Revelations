@@ -33,15 +33,10 @@
       "mirror": "false",
       "x": 0,
       "y": 0,
+      "reload": 20,
       "beamWidth": 0.8,
       "mirror": false,
       "repairSpeed": 2,
-      "laserColor": "accent",
-      "healColor": "accent",
-      "controllable": true,
-      "autoTarget": true,
-      "targetBuildings": true,
-      "targetUnits": false,
       "rotate": false,
       "bullet": {
         "maxRange": 90
