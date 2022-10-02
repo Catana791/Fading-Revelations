@@ -2,7 +2,7 @@
   "type": "flying",
   "localizedName": "Polio",
   "description": "A small unit specialized in supporting your defense.",
-  "lowAltitude": true,
+  "lowAltitude": false,
   "mineWalls": true,
   "outlines": false,
   "mineFloor": true,
@@ -30,6 +30,7 @@
       "mirror": false,
       "repairSpeed": 2,
       "aimDst": 0,
+      "shootCone": 15,
       "controllable": true,
       "bullet": {
         "maxRange": 90
