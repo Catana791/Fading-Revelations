@@ -15,8 +15,8 @@
       "beamWidth": 0.8,
       "mirror": false,
       "rotate": false,
-      "shootCone": 15,,
-      "repairSpeed": 3,,
+      "shootCone": 15,
+      "repairSpeed": 3,
       "x": 0,
       "y": 0,
       "bullet": {
