@@ -18,6 +18,8 @@
       "rotate": false,
       "shootCone": 15,
       "repairSpeed": 3,
+      "targetBuildings": true,
+      "targetUnits": true,
       "x": 0,
       "y": 0,
       "bullet": {
