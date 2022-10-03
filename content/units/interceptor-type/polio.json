@@ -6,7 +6,7 @@
   "hitSize": 12,
   "speed": 5,
   "buildSpeed": 5,
-  "defaultController": "BuilderAI",
+  "defaultController": "RepairAI",
   "drag": 0.08,
   "accel": 0.12,
   "weapons": [
