@@ -6,24 +6,12 @@
   "size": 3,
   "consumes": {
     "power": 2.5,
-    "liquid": "hydrogen/0.05"
-  },
-  "plans": [
-    {
-      "unit": "cyano",
-      "requirements": [
-        {
-          "item": "tungsten",
-          "amount": 40
-        },
-        {
-          "item": "silicon",
-          "amount": 60
-        }
-      ],
-      "time": 3000
+    "liquid": "hydrogen/0.05",
+    "items": {
+      "tungsten/40",
+      "silicon/60",
     }
-  ],
+  },
   "requirements": [
     {
       "item": "beryllium",
