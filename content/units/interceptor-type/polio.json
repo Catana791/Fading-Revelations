@@ -19,7 +19,7 @@
       "mirror": false,
       "rotate": false,
       "shootCone": 15,
-      "repairSpeed": 1.1,,
+      "repairSpeed": 1.1,
       "fractionRepairSpeed": 0.0125,
       "targetBuildings": true,
       "targetUnits": true,
