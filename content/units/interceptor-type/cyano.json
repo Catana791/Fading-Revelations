@@ -7,6 +7,7 @@
   "speed": 4.5,
   "buildSpeed": 2.2,
   "mineSpeed": 3,
+  "flying": true,
   "mineTier": 3,
   "drag": 0.08,
   "accel": 0.12,
