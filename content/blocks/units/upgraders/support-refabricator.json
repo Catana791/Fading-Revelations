@@ -5,16 +5,13 @@
   "envDisabled": 0,
   "size": 3,
   "consumes": {
-    "power": 2.5
+    "power": 2.5,
+    "liquid": "hydrogen/0.05"
   },
   "plans": [
     {
       "unit": "cyano",
       "requirements": [
-        "liquid": {
-          "liquid": "hydrogen",
-          "amount": 0.05
-        },
         {
           "item": "tungsten",
           "amount": 40
