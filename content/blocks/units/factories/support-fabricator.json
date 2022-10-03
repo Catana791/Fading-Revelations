@@ -1,0 +1,38 @@
+{
+  "type": "unitFactory",
+  "name": "Support Fabricator",
+  "description": "Creates fast and cheap support units.",
+  "envDisabled": 0,
+  "size": 3,
+  "consumes": {
+    "power": 2
+  },
+  "plans": [
+    {
+      "unit": "polio",
+      "requirements": [
+        {
+          "item": "beryllium",
+          "amount": 60
+        },
+        {
+          "item": "silicon",
+          "amount": 60
+        }
+      ],
+      "time": 2400
+    }
+  ],
+  "requirements": [
+    {
+      "item": "beryllium",
+      "amount": 200
+    },
+    {
+      "item": "silicon",
+      "amount": 250
+    }
+  ],
+  "category": "units",
+  "research": "core-bastion"
+}
