@@ -13,9 +13,9 @@
       "silicon/60",
     }
   },
-  "upgrades": {
+  "upgrades": [
     ["polio", "cyano"] 
-  }
+  ],
   "requirements": [
     {
       "item": "beryllium",
