@@ -69,6 +69,29 @@
         "maxRange": 120,
         "damage": 60
       }
+    },
+    {
+      "x": "0,
+      "y": 40,
+      "mirror": false,
+      "reload": 90,
+      "top": true,
+      "bullet": {
+        "type": "FlakBulletType",
+        "height": 40,
+        "width": 8,
+        "damage": 30,
+        "speed": 4,
+        "lifetime": 160,
+        "pierce": true,
+        "pierceCap": 6,
+        "pierceBuilding": false,
+        "buildingDamageMultiplier": 0.5,
+        "status": "sapped",
+        "makeFire": false,
+        "explodeRange": 64,
+        "explodeDelay": 30
+      }
     }
   ],
   "abilities": [
