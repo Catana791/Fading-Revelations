@@ -1,0 +1,59 @@
+{
+  "type": "unitFactory",
+  "name": "Support Assembler",
+  "description": "Creates large support units.",
+  "envDisabled": 0,
+  "size": 5,
+  "consumes": {
+    "power": 3
+  },
+  "plans": [
+    {
+      "unit": "melano",
+      "requirements": [
+      "liquid": "cyanogen/0.1"
+        {
+          "item": "beryllium",
+          "amount": 220
+        },
+        {
+          "item": "silicon",
+          "amount": 180
+        },
+        {
+          "item": "tungsten",
+          "amount": 90
+        },
+        {
+          "item": "oxide",
+          "amount": 80
+        }
+      ],
+      "time": 3600
+    }
+  ],
+  "requirements": [
+    {
+      "item": "thorium",
+      "amount": 400
+    },
+    {
+      "item": "silicon",
+      "amount": 800
+    },
+    {
+      "item": "tungsten",
+      "amount": 500
+    },
+    {
+      "item": "oxide",
+      "amount": 200
+    },
+    {
+      "item": "carbide",
+      "amount": 100
+    }
+  ],
+  "category": "units",
+  "research": "support-refabricator"
+}
