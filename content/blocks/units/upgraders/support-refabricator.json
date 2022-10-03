@@ -11,7 +11,10 @@
     {
       "unit": "cyano",
       "requirements": [
-      "liquid": "hydrogen/0.05",
+        "liquid": {
+          "liquid": "hydrogen",
+          "amount": 0.05
+        },
         {
           "item": "tungsten",
           "amount": 40
