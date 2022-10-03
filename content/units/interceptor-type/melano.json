@@ -1,10 +1,13 @@
 {
-  "type": "flying",
+  "type": "payload",
   "localizedName": "Melano",
-  "description": "A large unit specialized in healing and building. Equipped with multiple healing lasers and a healing field. Can mine ores. This tier also has some but limited defensive capabilities.",
+  "description": "A large unit specialized in healing and building. Equipped with multiple healing lasers and a healing field. Can mine ores. This tier also has some but limited defensive capabilities. Can carry payload.",
   "health": 1100,
   "hitSize": 26,
   "speed": 4,
+  "payloadCapacity": 256,
+  "vulnerableWithPayload": false,
+  "pickupUnits": true,
   "buildSpeed": 3.2,
   "mineSpeed": 6,
   "mineTier": 5,
@@ -60,39 +63,11 @@
       "mirror": false,
       "x": 0,
       "y": 15,
+      "rotates": true,
+      "autoTarget": true,
       "bullet": {
         "maxRange": 120,
         "damage": 60
-      },
-      "beamEffect": {
-        "type": "MultiEffect",
-        "effects": [
-          {
-            "type": "WaveEffect",
-            "sizeFrom": 0,
-            "sizeTo": 22,
-            "colorFrom": "accent",
-            "colorTo": "accent"
-          },
-          {
-            "type": "WaveEffect",
-            "sizeFrom": 22,
-            "sizeTo": 0,
-            "colorFrom": "accent",
-            "colorTo": "accent"
-          },
-          {
-            "type": "ParticleEffect",
-            "particles": 16,
-            "length": 40,
-            "sizeFrom": 8,
-            "sizeTo": 0,
-            "colorFrom": "accent",
-            "colorTo": "accent",
-            "lifetime": 60,
-            "interp": "circleOut"
-          }
-        ]
       }
     }
   ],
@@ -112,7 +87,7 @@
     },
     {
       "type": "ForceFieldAbility",
-      "radius": 160,
+      "radius": 120,
       "max": 900,
       "cooldown": 600,
       "regen": 0.6
