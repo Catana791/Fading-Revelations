@@ -1,0 +1,55 @@
+{
+  "type": "flying",
+  "localizedName": "Cyano",
+  "description": "A medium sized unit specialized in healing and building. Equipped with multiple healing lasers and a healing field. Can mine ores.",
+  "health": 660,
+  "hitSize": 20,
+  "speed": 4.5,
+  "buildSpeed": 2.2,
+  "mineSpeed": 3,
+  "mineTier": 3,
+  "drag": 0.08,
+  "accel": 0.12,
+  "mineWalls": true,
+  "mineFloor": true,
+  "mineHardnessScaling": true,
+  "envDisabled": 0,
+  "lowAltitude": true,
+  "itemCapacity": 60,
+  "weapons": [
+    {
+      "type": "RepairBeamWeapon",
+      "reload": 20,
+      "beamWidth": 1.1,
+      "mirror": true,
+      "rotate": false,
+      "shootCone": 15,
+      "repairSpeed": 1,
+      "fractionRepairSpeed": 0.07,
+      "targetBuildings": true,
+      "targetUnits": true,
+      "widthSinMag": 0.09,
+      "x": -6,
+      "y": -6,
+      "bullet": {
+        "maxRange": 120
+      }
+    }
+  ],
+  "abilities": [
+    {
+      "type": "RepairFieldAbility",
+      "range": 80,
+      "amount": 20,
+      "reload": 60,
+      "activeEffect": {
+        "type": "WaveEffect",
+        "colorFrom": "84f491",
+        "colorTo": "62ae7f",
+        "sizeFrom": 0,
+        "sizeTo": 48
+      }
+    }
+  ],
+  "research": "polio"
+}
