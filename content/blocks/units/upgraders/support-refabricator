@@ -9,7 +9,7 @@
   },
   "plans": [
     {
-      "unit": "polio",
+      "unit": "cyano",
       "requirements": [
       "liquid": "hydrogen/0.05",
         {
