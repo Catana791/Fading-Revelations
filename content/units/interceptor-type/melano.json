@@ -87,7 +87,7 @@
             "length": 40,
             "sizeFrom": 8,
             "sizeTo": 0,
-            "colorFrom": "sap",
+            "colorFrom": "accent",
             "colorTo": "accent",
             "lifetime": 60,
             "interp": "circleOut"
