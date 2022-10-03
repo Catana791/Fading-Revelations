@@ -1,0 +1,122 @@
+{
+  "type": "flying",
+  "localizedName": "Melano",
+  "description": "A large unit specialized in healing and building. Equipped with multiple healing lasers and a healing field. Can mine ores. This tier also has some but limited defensive capabilities.",
+  "health": 1100,
+  "hitSize": 26,
+  "speed": 4,
+  "buildSpeed": 3.2,
+  "mineSpeed": 6,
+  "mineTier": 5,
+  "drag": 0.12,
+  "accel": 0.1,
+  "mineWalls": true,
+  "mineFloor": true,
+  "mineHardnessScaling": false,
+  "envDisabled": 0,
+  "lowAltitude": true,
+  "itemCapacity": 100,
+  "weapons": [
+    {
+      "type": "RepairBeamWeapon",
+      "reload": 20,
+      "beamWidth": 2,
+      "mirror": true,
+      "rotate": false,
+      "shootCone": 15,
+      "repairSpeed": 0.8,
+      "fractionRepairSpeed": 0.07,
+      "targetBuildings": true,
+      "targetUnits": true,
+      "widthSinMag": 0.09,
+      "x": -10,
+      "y": -15,
+      "bullet": {
+        "maxRange": 180
+      }
+    },
+    {
+      "type": "RepairBeamWeapon",
+      "reload": 20,
+      "beamWidth": 2,
+      "mirror": true,
+      "rotate": false,
+      "shootCone": 15,
+      "repairSpeed": 0.8,
+      "fractionRepairSpeed": 0.07,
+      "targetBuildings": true,
+      "targetUnits": true,
+      "widthSinMag": 0.09,
+      "x": -20,
+      "y": -25,
+      "bullet": {
+        "maxRange": 180
+      }
+    },
+    {
+      "type": "PointDefenseWeapon",
+      "range": 120,
+      "reload": 60,
+      "mirror": false,
+      "x": 0,
+      "y": 15,
+      "bullet": {
+        "maxRange": 120,
+        "damage": 60
+      },
+      "beamEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 0,
+            "sizeTo": 22,
+            "colorFrom": "accent",
+            "colorTo": "accent"
+          },
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 22,
+            "sizeTo": 0,
+            "colorFrom": "accent",
+            "colorTo": "accent"
+          },
+          {
+            "type": "ParticleEffect",
+            "particles": 16,
+            "length": 40,
+            "sizeFrom": 8,
+            "sizeTo": 0,
+            "colorFrom": "sap",
+            "colorTo": "accent",
+            "lifetime": 60,
+            "interp": "circleOut"
+          }
+        ]
+      }
+    }
+  ],
+  "abilities": [
+    {
+      "type": "RepairFieldAbility",
+      "range": 128,
+      "amount": 30,
+      "reload": 60,
+      "activeEffect": {
+        "type": "WaveEffect",
+        "colorFrom": "84f491",
+        "colorTo": "62ae7f",
+        "sizeFrom": 0,
+        "sizeTo": 100
+      }
+    },
+    {
+      "type": "ForceFieldAbility",
+      "radius": 160,
+      "max": 900,
+      "cooldown": 600,
+      "regen": 0.6
+    }
+  ],
+  "research": "cyano"
+}
