@@ -1,36 +1,22 @@
 {
-  "type": "unitFactory",
+  "type": "Reconstructor",
   "name": "Support Assembler",
   "description": "Creates large support units.",
   "envDisabled": 0,
   "size": 5,
+  "constructTime": 3600
   "consumes": {
     "power": 3,
-    "liquid": "cyanogen/0.1"
-  },
-  "plans": [
-    {
-      "unit": "melano",
-      "requirements": [
-        {
-          "item": "beryllium",
-          "amount": 220
-        },
-        {
-          "item": "silicon",
-          "amount": 180
-        },
-        {
-          "item": "tungsten",
-          "amount": 90
-        },
-        {
-          "item": "oxide",
-          "amount": 80
-        }
-      ],
-      "time": 3600
+    "liquid": "cyanogen/0.1",
+    "items": {
+      "beryllium/220",
+      "silicon/180",
+      "tungsten/90",
+      "oxide/80"
     }
+  },
+  "upgrades": [
+    ["cyano", "melano"]
   ],
   "requirements": [
     {
