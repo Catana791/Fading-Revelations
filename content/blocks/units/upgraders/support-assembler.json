@@ -9,10 +9,12 @@
     "power": 3,
     "liquid": "cyanogen/0.1",
     "items": {
-      "beryllium/220",
-      "silicon/180",
-      "tungsten/90",
-      "oxide/80"
+      "items": [
+        "beryllium/220",
+        "silicon/180",
+        "tungsten/90",
+        "oxide/80"
+      ]
     }
   },
   "upgrades": [
