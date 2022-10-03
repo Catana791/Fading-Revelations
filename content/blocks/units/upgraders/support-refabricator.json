@@ -9,8 +9,10 @@
     "power": 2.5,
     "liquid": "hydrogen/0.05",
     "items": {
-      "tungsten/40",
-      "silicon/60",
+      "items": [
+        "tungsten/40",
+        "silicon/60"
+      ]
     }
   },
   "upgrades": [
