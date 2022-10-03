@@ -77,7 +77,8 @@
       "reload": 90,
       "top": true,
       "bullet": {
-        "type": "FlakBulletType",
+        "type": "BasicBulletType",
+        "spin": 1,
         "height": 40,
         "width": 8,
         "damage": 30,
