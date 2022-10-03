@@ -18,8 +18,6 @@
       "rotate": false,
       "shootCone": 15,
       "repairSpeed": 3,
-      "controllable": true,
-      "autoTarget": true,
       "x": 0,
       "y": 0,
       "bullet": {
