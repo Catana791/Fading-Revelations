@@ -8,6 +8,7 @@
   "buildSpeed": 5,
   "drag": 0.08,
   "accel": 0.12,
+  "defaultController": "RepairAI",
   "weapons": [
     {
       "type": "RepairBeamWeapon",
