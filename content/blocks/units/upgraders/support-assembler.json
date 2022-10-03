@@ -5,16 +5,13 @@
   "envDisabled": 0,
   "size": 5,
   "consumes": {
-    "power": 3
+    "power": 3,
+    "liquid": "cyanogen/0.1"
   },
   "plans": [
     {
       "unit": "melano",
       "requirements": [
-        "liquid": {
-          "liquid": "cyanogen",
-          "amount": 0.1
-        },
         {
           "item": "beryllium",
           "amount": 220
