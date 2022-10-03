@@ -11,7 +11,10 @@
     {
       "unit": "melano",
       "requirements": [
-      "liquid": "cyanogen/0.1"
+        "liquid": {
+          "liquid": "cyanogen",
+          "amount": 0.1
+        },
         {
           "item": "beryllium",
           "amount": 220
