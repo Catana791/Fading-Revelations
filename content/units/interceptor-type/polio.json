@@ -1,0 +1,28 @@
+{
+  "type": "flying",
+  "localizedName": "Polio",
+  "description": "A small unit specialized in healing and building. Equipped with a healing laser.",
+  "health": 300,
+  "hitSize": 12,
+  "speed": 5,
+  "buildSpeed": 5,
+  "drag": 0.08,
+  "accel": 0.12,
+  "weapons": [
+    {
+      "type": "RepairBeamWeapon",
+      "reload": 20,
+      "beamWidth": 0.8,
+      "mirror": false,
+      "rotate": false,
+      "shootCone": 15,,
+      "repairSpeed": 3,,
+      "x": 0,
+      "y": 0,
+      "bullet": {
+        "maxRange": 90
+      }
+    }
+  ],
+  "research": "duct"
+}
