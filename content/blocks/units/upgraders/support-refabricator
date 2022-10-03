@@ -1,0 +1,47 @@
+{
+  "type": "unitFactory",
+  "name": "Support Refabricator",
+  "description": "Creates medium sized support units.",
+  "envDisabled": 0,
+  "size": 3,
+  "consumes": {
+    "power": 2.5
+  },
+  "plans": [
+    {
+      "unit": "polio",
+      "requirements": [
+      "liquid": "hydrogen/0.05",
+        {
+          "item": "tungsten",
+          "amount": 40
+        },
+        {
+          "item": "silicon",
+          "amount": 60
+        }
+      ],
+      "time": 3000
+    }
+  ],
+  "requirements": [
+    {
+      "item": "beryllium",
+      "amount": 200
+    },
+    {
+      "item": "silicon",
+      "amount": 150
+    },
+    {
+      "item": "tungsten",
+      "amount": 100
+    },
+    {
+      "item": "oxide",
+      "amount": 40
+    }
+  ],
+  "category": "units",
+  "research": "support-fabricator"
+}
