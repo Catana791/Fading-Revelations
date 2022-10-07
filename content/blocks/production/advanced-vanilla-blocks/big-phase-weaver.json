@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "name": "Phase-Fabric Forge",
+  "name": "Fabric Forge",
   "description": "A better phase fabric forge that is more cost-efficient.",
   "size": 3,
   "hasPower": true,
