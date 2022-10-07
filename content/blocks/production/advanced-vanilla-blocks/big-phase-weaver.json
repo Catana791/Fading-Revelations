@@ -40,7 +40,7 @@
         "color": "ffef99",
         "alpha": 0.9,
         "glowIntensity": 0.6,
-        "glowScale": 2
+        "glowScale": 0.2
       },
       {
         "type": "DrawMultiWeave",
