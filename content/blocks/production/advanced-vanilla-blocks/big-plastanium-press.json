@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "name": "Plastanium-Forge",
+  "name": "Plastanium Forge",
   "description": "A better plastanium forge that is more cost-efficient.",
   "size": 3,
   "hasPower": true,
