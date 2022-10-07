@@ -12,10 +12,6 @@
     "type": "DrawMulti",
     "drawers": [
       {
-        "type": "DrawRegion",
-        "suffix": "-bottom",
-      },
-      {
         "type": "DrawSpikes",
         "color": "ffd59e",
         "stroke": 1.5,
