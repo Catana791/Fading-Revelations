@@ -35,6 +35,12 @@
         "type": "DrawDefault" 
       },
       {
+        "type": "DrawGlowRegion",
+        "suffix": "-glow",
+        "color": "ffef99",
+        "alpha": 0.4
+      },
+      {
         "type": "DrawMultiWeave",
         "glowColor": "ffd59e"
       }
