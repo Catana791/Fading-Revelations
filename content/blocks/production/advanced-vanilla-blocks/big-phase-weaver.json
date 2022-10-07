@@ -38,7 +38,7 @@
         "type": "DrawGlowRegion",
         "suffix": "-glow",
         "color": "ffef99",
-        "alpha": 0.6
+        "alpha": 0.8
       },
       {
         "type": "DrawMultiWeave",
