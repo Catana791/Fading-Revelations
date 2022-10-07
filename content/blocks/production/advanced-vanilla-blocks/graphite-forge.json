@@ -9,7 +9,7 @@
     "silicon/45",
     "titanium/140"
   ],
-  "craftEffect": "pulverizeMedium",
+  "craftEffect": "blastExplosion",
   "outputItem": "graphite/4",
   "craftTime": 30,
   "itemCapacity": 40,
