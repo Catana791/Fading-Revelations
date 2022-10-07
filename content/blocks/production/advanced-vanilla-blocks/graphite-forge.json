@@ -11,7 +11,7 @@
   ],
   "craftEffect": "blastExplosion",
   "outputItem": "graphite/4",
-  "craftTime": 30,
+  "craftTime": 45,
   "itemCapacity": 40,
   "size": 4,
   "hasItems": true,
