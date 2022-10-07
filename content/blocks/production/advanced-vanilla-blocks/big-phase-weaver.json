@@ -16,9 +16,16 @@
         "suffix": "-bottom",
       },
       {
+        "type": "DrawCircles",
+        "color": "ffc073",
+        "strokeMax": 1.2,
+        "radius": 10,
+        "amount": 3,
+      },
+      {
         "type": "DrawSpikes",
         "color": "ffd59e",
-        "stroke": 1.5,
+        "stroke": 1,
         "layers": 2,
         "amount": 8,
         "rotateSpeed": 0.5,
