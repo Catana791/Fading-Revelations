@@ -16,7 +16,7 @@
         "suffix": "-bottom",
       },
       {
-        "type": "DrawSpikes" ,
+        "type": "DrawSpikes",
         "color": "ffd59e",
         "stroke": 1.5,
         "layers": 2,
