@@ -35,7 +35,8 @@
         "type": "DrawDefault" 
       },
       {
-        "type": "DrawWeave",
+        "type": "DrawMultiWeave",
+        "glowColor": "ffd59e"
       }
     ]
   },
