@@ -8,6 +8,22 @@
   "hasLiquids": true,
   "craftTime": 60,
   "liquidCapacity": 84,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawPistons",
+        "sinMag": 1
+      },
+      {
+        "type": "DrawDefault" 
+      }
+    ]
+  },
   "consumes": {
     "power": 3.75,
     "items": {
