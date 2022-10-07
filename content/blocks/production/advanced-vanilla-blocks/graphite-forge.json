@@ -10,8 +10,8 @@
     "titanium/140"
   ],
   "craftEffect": "blastExplosion",
-  "outputItem": "graphite/3",
-  "craftTime": 30,
+  "outputItem": "graphite/4",
+  "craftTime": 35,
   "itemCapacity": 40,
   "size": 4,
   "hasItems": true,
