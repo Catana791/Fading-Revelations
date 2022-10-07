@@ -8,13 +8,30 @@
   "hasLiquids": true,
   "hasItems": true,
   "liquidCapacity": 60,
-  "craftTime": 1,
-  "spinnerSpeed": -5,
+  "craftTime": 10,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawLiquidRegion",
+        "drawLiquid": "slag",
+        "suffix": "-liquid"
+      },
+      {
+        "type": "DrawBlurSpin",
+        "suffix": "-spinner",
+        "rotateSpeed": -5.2
+      }
+    ]
+  }
   "consumes": {
     "power": 5.4,
     "liquid": {
       "liquid": "slag",
-      "amount": 0.12
+      "amount": 0.1
     },
     "items": {
       "items": [
