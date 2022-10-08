@@ -3,9 +3,19 @@
   "name": "Inverted Pulverizer",
   "description": "Pulverizes sand to scrap. Don't ask how but you will be wondering how useful that is!",
   "liquidCapacity": 50,
-  "outputItem": {
-    "item": "scrap",
-    "amount": 1
+  "outputItem": "scrap/1",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawBlurSpin",
+        "suffix": "-spinner",
+        "rotateSpeed": -1.5
+      }
+    ]
   },
   "size": 1,
   "hasPower": true,
