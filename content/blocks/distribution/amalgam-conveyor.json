@@ -1,0 +1,31 @@
+{
+  "type": "StackConveyor",
+  "localizedName": "Amalgam Conveyor",
+  "description": "A conveyor made from Steel Amalgam that works similarly to a plastanium conveyor but transports items in bigger stacks and faster.",
+  "category": "distribution",
+  "requirements": [
+    "graphite/1",
+    "silicon/1",
+    "steel-alloy/1"
+  ],
+  "health": 110,
+  "speed": 0.9,
+  "itemCapacity": 20,
+  "unloadEffect": {
+    "type": "WaveEffect",
+    "sizeFrom": 0,
+    "sizeTo": 5,
+    "colorFrom": "a3506e",
+    "colorTo": "ba6a83"
+  },
+  "outputRouter": true,
+  "loadEffect": {
+    "type": "WaveEffect",
+    "sizeFrom": 5,
+    "sizeTo": 0,
+    "colorFrom": "ba6a83",
+    "colorTo": "a3506e"
+  },
+  "glowColor": "dbaf85",
+  "research": "surge-alloy-conveyor"
+}
