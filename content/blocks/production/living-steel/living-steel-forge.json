@@ -1,0 +1,52 @@
+{
+  "type": "GenericCrafter",
+  "name": "Living Steel Forge",
+  "description": "Crafts larger amounts of living steel by using the same amount of resources as the Living Steel Infuser.",
+  "size": 3,
+  "health": 285,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 40,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 1.4,
+    "items": {
+      "items": [
+        "titanium/2",
+        "spore-pod/1"
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 460
+    },
+    {
+      "item": "lead",
+      "amount": 320
+    },
+    {
+      "item": "titanium",
+      "amount": 145
+    }
+  ],
+  "category": "crafting",
+  "research": "living-steel-infusion-chamber",
+  "outputItem": "living-steel/3",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawCrucibleFlame",
+        "flameColor": "9e78dc",
+        "midColor": "8c0291"
+      }
+    ]
+  }
+}
