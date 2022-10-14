@@ -34,7 +34,7 @@
     }
   ],
   "category": "crafting",
-  "research": "living-steel-infusion-chamber",
+  "research": "living-steel-forge",
   "outputLiquid": "living-steel-liquid/0.3",
   "drawer": {
     "type": "DrawMulti",
