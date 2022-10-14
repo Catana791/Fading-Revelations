@@ -34,7 +34,7 @@
     }
   ],
   "category": "crafting",
-  "research": "living-steel-infuser",
+  "research": "living-steel-hardening-chamber",
   "outputItem": "living-steel/3",
   "drawer": {
     "type": "DrawMulti",
