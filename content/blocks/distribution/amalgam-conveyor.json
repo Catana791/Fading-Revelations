@@ -9,7 +9,7 @@
     "steel-alloy/1"
   ],
   "health": 110,
-  "speed": 0.9,
+  "speed": 0.09,
   "itemCapacity": 20,
   "unloadEffect": {
     "type": "WaveEffect",
