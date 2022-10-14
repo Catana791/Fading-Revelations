@@ -8,5 +8,6 @@
     "lead/8",
     "copper/8"
   ],
-  "research": "titanium-router"
+  "research": "titanium-router",
+  "itemCapacity": 20
 }
