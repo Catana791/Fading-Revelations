@@ -35,7 +35,7 @@
   ],
   "category": "crafting",
   "research": "living-steel-liquifying-forge",
-  "outputItem": "living-steel/3",
+  "outputItem": "living-steel-hard/3",
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
