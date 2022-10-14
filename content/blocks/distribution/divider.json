@@ -4,9 +4,9 @@
   "desccription": "A bigger Sorter. Does this work?",
   "size": 2,
   "category": "distribution",
-  "requirements": {
+  "requirements": [
     "lead/8",
     "copper/8"
-  },
+  ],
   "research": "titanium-router"
 }
