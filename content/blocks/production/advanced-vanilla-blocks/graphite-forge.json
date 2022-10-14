@@ -1,6 +1,7 @@
 {
   "type": "GenericCrafter",
   "localizedName": "Graphite Forge",
+  "description": "A better graphite press that makes Graphite way faster and more efficiently.",
   "category": "crafting",
   "research": "enhanced-blast-mixer",
   "requirements": [
