@@ -1,0 +1,52 @@
+{
+  "type": "GenericCrafter",
+  "name": "Living Steel Hardening Forge",
+  "description": "Crafts larger amounts of hardened living steel by using the same amount of resources as the Living Steel Hardener.",
+  "size": 3,
+  "health": 285,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "craftTime": 40,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "smeltsmoke",
+  "consumes": {
+    "power": 1.4,
+    "items": {
+      "items": [
+        "living-steel/1",
+        "thorium/2"
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 460
+    },
+    {
+      "item": "lead",
+      "amount": 320
+    },
+    {
+      "item": "titanium",
+      "amount": 145
+    }
+  ],
+  "category": "crafting",
+  "research": "living-steel-infusion-chamber",
+  "outputItem": "living-steel/3",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawCrucibleFlame",
+        "flameColor": "8471dc",
+        "midColor": "6d5ac6"
+      }
+    ]
+  }
+}
