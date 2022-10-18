@@ -10,7 +10,7 @@
     {"item": "silicon", "amount": 140},
     {"item": "beryllium", "amount": 160}
   ],
-  "heatRequirement": 6,
+  "heatRequirement": 7,
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
