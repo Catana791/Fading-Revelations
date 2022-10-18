@@ -12,7 +12,7 @@
   ],
   "size": 4,
   "itemCapacity": 50,
-  "heatRequirement": 9,
+  "heatRequirement": 10,
   "craftTime": 90,
   "liquidCapacity": 50,
   "research": "phase-synthesizer",
