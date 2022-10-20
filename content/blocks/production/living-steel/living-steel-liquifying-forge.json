@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
-  "name": "Living Steel Hardening Forge",
-  "description": "Crafts larger amounts of hardened living steel by using the same amount of resources as the Living Steel Hardener.",
+  "name": "Living Steel Liquifying Forge",
+  "description": "Crafts larger amounts of liquid living steel by using the same amount of resources as the Living Steel Liquifyier.",
   "size": 3,
   "health": 285,
   "hasPower": true,
