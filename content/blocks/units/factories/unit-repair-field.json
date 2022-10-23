@@ -1,0 +1,22 @@
+{
+  "type": "RepairTower",
+  "localizedName": "Regenerator",
+  "description": "A tower that continuously heals all allied units in it's range. Requires Cryofluid.",
+  
+  "category": "units",
+  "requirements": {
+    "graphite/110",
+    "silicon/110",
+    "titanium/100"
+  },
+  
+  "size": 2,
+  
+  "range": 100,
+  "healAmount": 1.5,
+  
+  "consumes": {
+    "power": 7,
+    "liquid": "cryofluid/0.18"
+  }
+}
