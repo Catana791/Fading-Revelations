@@ -4,11 +4,11 @@
   "description": "A tower that continuously heals all allied units in it's range. Requires Cryofluid.",
   
   "category": "units",
-  "requirements": {
+  "requirements": [
     "graphite/110",
     "silicon/110",
     "titanium/100"
-  },
+  ],
   
   "size": 2,
   
