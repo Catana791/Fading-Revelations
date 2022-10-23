@@ -1,0 +1,58 @@
+{
+  "type": "AttributeCrafter",
+  "localizedName": "Cultivation Chamber",
+  "description": "A better Cultivator that works faster.",
+  "category": "production",
+  "requirements": [
+    "copper/70",
+    "lead/60",
+    "silicon/30",
+    "titanium/15"
+  ],
+  "outputItem": "spore-pod/1",
+  "craftTime": 60,
+  "size": 3,
+  
+  "hasLiquids": true,
+  "hasPower": true,
+  "hasItems": true,
+  
+  "craftEffect": "none",
+  
+  "attribute": "spores",
+  "maxBoost": 2,
+  
+  "envRequired": 8,
+  
+  "legacyReadWarmup": true,
+  
+  "consumes": {
+    "power": 1.5,
+    "liquid": "water/0.3"
+  },
+  
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "water"
+      },
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawCultivator"
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-top"
+      }
+    ]
+  },
+  "research": "silicon-forge"
+}
