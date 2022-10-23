@@ -1,0 +1,13 @@
+{
+  "type": "AutoDoor",
+  "localizedName": "Armored Door",
+  "description": "A door that opens automatically for allied units. Cannot be manually opened or closed.",
+  "category": "defense",
+  "requirements": [
+    "titanium/24",
+    "silicon/32"
+  ],
+  "health": 1860
+  "size": 2,
+  "research": "mod-gate-walls"
+}
