@@ -44,7 +44,7 @@ extends **[Mindustry]** in fun ways while keeping it balanced. <br>
 
 A huge content extension mod!
 
--   `140+`  Blocks
+-   `160+`  Blocks
 
 -   Custom Schematics
 
