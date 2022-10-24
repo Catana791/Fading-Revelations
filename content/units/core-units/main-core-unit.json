@@ -335,6 +335,14 @@
       "targetGround": true,
       "x": 0,
       "y": -2
+    },
+    {
+      "type": "ForceFieldAbility",
+      "alpha": 0.1,
+      "cooldown": 720,
+      "max": 2000,
+      "radius": 160,
+      "regen": 1
     }
   ]
 }
