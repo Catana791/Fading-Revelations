@@ -1,0 +1,125 @@
+{
+  "type": "flying",
+  "hidden": true,
+  "flying": true,
+  
+  "hittable": false,
+  "hitSize": 1,
+  "killable": false,
+  "targetable": false,
+  
+  "immunities": [
+    "burning", 
+    "freezing", 
+    "unmoving", 
+    "melting", 
+    "wet", 
+    "sapped", 
+    "tarred", 
+    "overdrive", 
+    "overclock", 
+    "boss", 
+    "shocked", 
+    "blasted", 
+    "me-radiated", 
+    "me-shockslowed, 
+    "me-hastened", 
+    "me-super-hastened"
+  ],
+  
+  "healFlash": false,
+  "canBoost": false,
+  "canAttack": true,
+  "canDrowm": false,
+  "canHeal": false,
+  
+  "speed": 0,
+  "accel": 0,
+  "drag": 0,
+  "rotate": false,
+  "rotateSpeed": 0,
+  
+  "buildRange": 999999999999,
+  "buildSpeed": 3.5,
+  "drawBuildBeam": true,
+  "drawCell": false,
+  "drawItems": false,
+  "itemCapacity": 0,
+  "drawShields": false,
+  "drawMinimap": false,
+  "engineSize": 0
+  
+  "coreUnitDock": true,
+  
+  "createWreck": false,
+  "createScorch": false,
+  
+  "lightColor": "ffffff",
+  "lightRadius": 0,
+  
+  "lowAltitude": true,
+  
+  "mineFloor": true,
+  "mineWalls": true,
+  "mineRange": 999999999999,
+  "mineHardnessScaling": true,
+  "mineSpeed": 20,
+  "mineTier": 10,
+  
+  "physics": false,
+  "playerControllable": true,
+  "useUnitCap": false,
+  
+  "weapons": [
+    {
+      "name": "main-core-hail",
+      "x": 20,
+      "y": 20,
+      "mirror": true,
+      "reload": 60,
+      "alternate": true,
+      "shootSound": "bang",
+      "rotate": true,
+      "inaccuracy": 1,
+      "bullet": {
+        "type": "ArtilleryBulletType",
+        "splashDamage": 33,
+        "splashDamageRadius": 20,
+        "speed": 3,
+        "lifetime": 80,
+        "knockback": 0.8,
+        "hitEffect": "blastExplosion",
+        "width": 13,
+        "height": 13,
+        "collidesTiles": false,
+        "frontColor": "f8ad42",
+        "backColor": "f68021",
+      }
+    },
+    {
+      "name": "main-core-hail",
+      "x": -20,
+      "y": -20,
+      "mirror": true,
+      "reload": 60,
+      "alternate": true,
+      "shootSound": "bang",
+      "rotate": true,
+      "inaccuracy": 1,
+      "bullet": {
+        "type": "ArtilleryBulletType",
+        "splashDamage": 33,
+        "splashDamageRadius": 20,
+        "speed": 3,
+        "lifetime": 80,
+        "knockback": 0.8,
+        "hitEffect": "blastExplosion",
+        "width": 13,
+        "height": 13,
+        "collidesTiles": false,
+        "frontColor": "f8ad42",
+        "backColor": "f68021",
+      }
+    }
+  ]
+}
