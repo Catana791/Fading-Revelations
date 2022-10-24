@@ -305,7 +305,6 @@
       "type": "EnergyFieldAbility",
       "damage": 20,
       "color": "dcc6c6",
-      "blinkSize": 0,
       "damageEffect": {
         "type": "ParticleEffect",
         "particles": 6,
@@ -328,7 +327,7 @@
       "maxTargets": 8,
       "range": 120,
       "reload": 20,
-      "sectors": 10,
+      "sectors": 4,
       "shootSound": "zap",
       "status": "electrified",
       "statusDuration": 60,
