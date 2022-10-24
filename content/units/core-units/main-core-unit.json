@@ -78,7 +78,7 @@
       "inaccuracy": 1,
       "bullet": {
         "type": "ArtilleryBulletType",
-        "splashDamage": 33,
+        "splashDamage": 10,
         "splashDamageRadius": 20,
         "speed": 3,
         "lifetime": 80,
@@ -103,7 +103,7 @@
       "inaccuracy": 1,
       "bullet": {
         "type": "ArtilleryBulletType",
-        "splashDamage": 33,
+        "splashDamage": 10,
         "splashDamageRadius": 20,
         "speed": 3,
         "lifetime": 80,
@@ -128,7 +128,7 @@
       "inaccuracy": 1,
       "bullet": {
         "type": "ArtilleryBulletType",
-        "splashDamage": 33,
+        "splashDamage": 10,
         "splashDamageRadius": 20,
         "speed": 3,
         "lifetime": 80,
@@ -153,7 +153,7 @@
       "inaccuracy": 1,
       "bullet": {
         "type": "ArtilleryBulletType",
-        "splashDamage": 33,
+        "splashDamage": 10,
         "splashDamageRadius": 20,
         "speed": 3,
         "lifetime": 80,
@@ -209,8 +209,8 @@
       },
       "bullet": {
         "type": "ShrapnelBulletType",
-        "length": 100,
-        "damage": 30,
+        "length": 10,
+        "damage": 20,
         "shootEffect": "thoriumShoot",
         "smokeEffect": "thoriumShoot",
         "toColor": "f9a3c7"
