@@ -36,6 +36,7 @@
   "buildRange": 999999999999,
   "buildSpeed": 3.5,
   "drawBuildBeam": true,
+  "buildBeamOffset": -2,
   "drawCell": false,
   "drawItems": false,
   "itemCapacity": 0,
