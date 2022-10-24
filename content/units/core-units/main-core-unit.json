@@ -305,24 +305,8 @@
       "type": "EnergyFieldAbility",
       "damage": 20,
       "color": "dcc6c6",
-      "damageEffect": {
-        "type": "ParticleEffect",
-        "particles": 6,
-        "length": 20,
-        "sizeFrom": 3,
-        "sizeTo": 1,
-        "interp": "circleOut"
-      },
       "healPercent": 4,
       "hitBuildings": false,
-      "hitEffect": {
-        "type": "ParticleEffect",
-        "particles": 6,
-        "length": 20,
-        "sizeFrom": 3,
-        "sizeTo": 1,
-        "interp": "circleOut"
-      },
       "hitUnits": true,
       "maxTargets": 8,
       "range": 120,
