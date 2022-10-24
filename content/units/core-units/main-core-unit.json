@@ -312,7 +312,7 @@
         "length": 20,
         "sizeFrom": 3,
         "sizeTo": 1,
-        "interp": "CircleOut"
+        "interp": "circleOut"
       },
       "healPercent": 4,
       "hitBuildings": false,
@@ -322,7 +322,7 @@
         "length": 20,
         "sizeFrom": 3,
         "sizeTo": 1,
-        "interp": "CircleOut"
+        "interp": "circleOut"
       },
       "hitUnits": true,
       "maxTargets": 8,
