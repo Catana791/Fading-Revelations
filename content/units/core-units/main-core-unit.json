@@ -203,6 +203,7 @@
       "rotate": false,
       "baseRotation": 0,
       "alwaysShooting": true,
+      "shootCone": 20,
       "mirror": false,
       "shoot": {
         "type": "ShootSpread",
@@ -226,6 +227,55 @@
       "rotate": false,
       "baseRotation": -90,
       "mirror": false,
+      "shootCone": 20,
+      "alwaysShooting": true,
+      "shoot": {
+        "type": "ShootSpread",
+        "shots": 3,
+        "spread": 20
+      },
+      "bullet": {
+        "type": "ShrapnelBulletType",
+        "length": 10,
+        "damage": 20,
+        "shootEffect": "thoriumShoot",
+        "smokeEffect": "thoriumShoot",
+        "toColor": "f9a3c7"
+      }
+    },
+    {
+      "x": -27,
+      "y": -1,
+      "reload": 35,
+      "shootSound": "shotgun",
+      "rotate": false,
+      "baseRotation": 90,
+      "mirror": false,
+      "shootCone": 20,
+      "alwaysShooting": true,
+      "shoot": {
+        "type": "ShootSpread",
+        "shots": 3,
+        "spread": 20
+      },
+      "bullet": {
+        "type": "ShrapnelBulletType",
+        "length": 10,
+        "damage": 20,
+        "shootEffect": "thoriumShoot",
+        "smokeEffect": "thoriumShoot",
+        "toColor": "f9a3c7"
+      }
+    },
+    {
+      "x": 0,
+      "y": -29,
+      "reload": 35,
+      "shootSound": "shotgun",
+      "rotate": false,
+      "baseRotation": -180,
+      "mirror": false,
+      "shootCone": 20,
       "alwaysShooting": true,
       "shoot": {
         "type": "ShootSpread",
