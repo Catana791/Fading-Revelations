@@ -20,11 +20,7 @@
     "overclock", 
     "boss", 
     "shocked", 
-    "blasted", 
-    "me-radiated", 
-    "me-shockslowed, 
-    "me-hastened", 
-    "me-super-hastened"
+    "blasted"
   ],
   
   "healFlash": false,
