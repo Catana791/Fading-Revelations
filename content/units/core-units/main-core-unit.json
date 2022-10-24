@@ -197,7 +197,7 @@
     },
     {
       "x": 0,
-      "y": 27,
+      "y": 29,
       "reload": 35,
       "shootSound": "shotgun",
       "rotate": false,
@@ -220,8 +220,8 @@
       }
     },
     {
-      "x": 27,
-      "y": -1,
+      "x": 29,
+      "y": -2,
       "reload": 35,
       "shootSound": "shotgun",
       "rotate": false,
@@ -244,8 +244,8 @@
       }
     },
     {
-      "x": -27,
-      "y": -1,
+      "x": -29,
+      "y": -2,
       "reload": 35,
       "shootSound": "shotgun",
       "rotate": false,
