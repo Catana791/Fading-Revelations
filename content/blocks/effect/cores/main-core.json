@@ -1,0 +1,48 @@
+{
+  "type": "CoreBlock",
+  "name": "Main Core",
+  "description": "Core of the base. Unbelievably well armored and stores vast amounts of resources. Isn't defended by a unit but can instead build, mine and defend itself.",
+  "details": "An intelligent core that commands all other cores and that has fought a fierce battle in the past...",
+  "size": 8,
+  "researchCostMultiplier": 0.4,
+  "health": 11200,
+  "itemCapacity": 22000,
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 18000
+    },
+    {
+      "item": "lead",
+      "amount": 18000
+    },
+    {
+      "item": "silicon",
+      "amount": 11000
+    },
+    {
+      "item": "titanium",
+      "amount": 13000
+    },
+    {
+      "item": "thorium",
+      "amount": 15000
+    },
+    {
+      "item": "plastanium",
+      "amount": 3600
+    },
+    {
+      "item": "phase-fabric",
+      "amount": 5200
+    },
+    {
+      "item": "surge-alloy",
+      "amount": 2300
+    }
+  ],
+  "category": "effect",
+  "research": "core-level-5",
+  "unitType": "main-core-unit",
+  "unitCapModifier": 56
+}
