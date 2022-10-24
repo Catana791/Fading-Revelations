@@ -48,7 +48,7 @@
     }
   ],
   "category": "crafting",
-  "research": "silicon-forge",
+  "research": "cultivation-chamber",
   "outputItem": {
     "item": "pyratite",
     "amount": 2
