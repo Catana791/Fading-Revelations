@@ -202,6 +202,7 @@
       "shootSound": "shotgun",
       "rotate": false,
       "baseRotation": 0,
+      "alwaysShooting": true,
       "shoot": {
         "type": "ShootSpread",
         "shots": 3,
