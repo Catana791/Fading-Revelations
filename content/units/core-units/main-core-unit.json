@@ -203,7 +203,6 @@
       "rotate": false,
       "baseRotation": 0,
       "alwaysShooting": true,
-      "shootCone": 180,
       "mirror": false,
       "shoot": {
         "type": "ShootSpread",
@@ -225,8 +224,7 @@
       "reload": 35,
       "shootSound": "shotgun",
       "rotate": false,
-      "baseRotation": 90,
-      "shootCone": 180,
+      "baseRotation": -90,
       "mirror": false,
       "alwaysShooting": true,
       "shoot": {
