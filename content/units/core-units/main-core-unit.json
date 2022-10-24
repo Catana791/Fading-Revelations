@@ -64,6 +64,7 @@
   "physics": false,
   "playerControllable": true,
   "useUnitCap": false,
+  "bounded": true,
   
   "weapons": [
     {
@@ -202,7 +203,6 @@
       "shootSound": "shotgun",
       "rotate": false,
       "baseRotation": 0,
-      "alwaysShooting": true,
       "shootCone": 20,
       "mirror": false,
       "shoot": {
@@ -228,7 +228,6 @@
       "baseRotation": -90,
       "mirror": false,
       "shootCone": 20,
-      "alwaysShooting": true,
       "shoot": {
         "type": "ShootSpread",
         "shots": 3,
@@ -252,7 +251,6 @@
       "baseRotation": 90,
       "mirror": false,
       "shootCone": 20,
-      "alwaysShooting": true,
       "shoot": {
         "type": "ShootSpread",
         "shots": 3,
@@ -276,7 +274,6 @@
       "baseRotation": -180,
       "mirror": false,
       "shootCone": 20,
-      "alwaysShooting": true,
       "shoot": {
         "type": "ShootSpread",
         "shots": 3,
