@@ -30,8 +30,6 @@
   "canHeal": false,
   
   "speed": 0,
-  "accel": 0,
-  "drag": 0,
   "rotate": false,
   "rotateSpeed": 0,
   
