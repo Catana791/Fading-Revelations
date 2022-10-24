@@ -341,7 +341,7 @@
       "alpha": 0.1,
       "cooldown": 720,
       "max": 2000,
-      "radius": 160,
+      "radius": 100,
       "regen": 1
     }
   ]
