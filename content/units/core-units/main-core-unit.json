@@ -300,6 +300,42 @@
       "spawnX": 0,
       "spawnY": -2,
       "spawnTime": 600
+    },
+    {
+      "type": "EnergyFieldAbility",
+      "damage": 20,
+      "color": "dcc6c6",
+      "blinkSize": 0,
+      "damageEffect": {
+        "type": "ParticleEffect",
+        "particles": 6,
+        "length": 20,
+        "sizeFrom": 3,
+        "sizeTo": 1,
+        "interp": "CircleOut"
+      },
+      "healPercent": 4,
+      "hitBuildings": false,
+      "hitEffect": {
+        "type": "ParticleEffect",
+        "particles": 6,
+        "length": 20,
+        "sizeFrom": 3,
+        "sizeTo": 1,
+        "interp": "CircleOut"
+      },
+      "hitUnits": true,
+      "maxTargets": 8,
+      "range": 120,
+      "reload": 20,
+      "sectors": 10,
+      "shootSound": "zap",
+      "status": "electrified",
+      "statusDuration": 60,
+      "targetAir": true,
+      "targetGround": true,
+      "x": 0,
+      "y": -2
     }
   ]
 }
