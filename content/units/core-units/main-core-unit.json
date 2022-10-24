@@ -194,6 +194,27 @@
           "colorTo": "818181"
         }
       }
+    },
+    {
+      "x": 0,
+      "y": 27,
+      "reload": 35,
+      "shootSound": "shotgun",
+      "rotate": false,
+      "baseRotation": 0,
+      "shoot": {
+        "type": "ShootSpread",
+        "shots": 3,
+        "spread": 20
+      },
+      "bullet": {
+        "type": "ShrapnelBulletType",
+        "length": 100,
+        "damage": 30,
+        "shootEffect": "thoriumShoot",
+        "smokeEffect": "thoriumShoot",
+        "toColor": "f9a3c7"
+      }
     }
   ],
 
