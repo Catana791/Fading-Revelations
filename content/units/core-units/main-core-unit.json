@@ -202,7 +202,7 @@
       "type": "UnitSpawnAbility",
       "unit": "mono",
       "spawnX": 0,
-      "spawnY": -1,
+      "spawnY": -2,
       "spawnTime": 600
     }
   ]
