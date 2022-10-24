@@ -119,7 +119,7 @@
     {
       "name": "main-core-hail",
       "x": 23,
-      "y": -20,
+      "y": -28,
       "mirror": false,
       "reload": 60,
       "alternate": true,
@@ -144,7 +144,7 @@
     {
       "name": "main-core-hail",
       "x": -23,
-      "y": -20,
+      "y": -28,
       "mirror": false,
       "reload": 60,
       "alternate": true,
