@@ -90,31 +90,6 @@
         "frontColor": "f8ad42",
         "backColor": "f68021",
       }
-    },
-    {
-      "name": "main-core-hail",
-      "x": -20,
-      "y": -20,
-      "mirror": true,
-      "reload": 60,
-      "alternate": true,
-      "shootSound": "bang",
-      "rotate": true,
-      "inaccuracy": 1,
-      "bullet": {
-        "type": "ArtilleryBulletType",
-        "splashDamage": 33,
-        "splashDamageRadius": 20,
-        "speed": 3,
-        "lifetime": 80,
-        "knockback": 0.8,
-        "hitEffect": "blastExplosion",
-        "width": 13,
-        "height": 13,
-        "collidesTiles": false,
-        "frontColor": "f8ad42",
-        "backColor": "f68021",
-      }
     }
   ]
 }
