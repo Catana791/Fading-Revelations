@@ -1,0 +1,33 @@
+{
+    "name": "cerbero",
+    "localizedName": "Cerbero",
+    "parent": "sun",
+    "accessible": false,
+    //ONLY MESS WITH THE GENERATOR IF YOU REALLY KNOW WHAT YOU'RE DOING, OTHERWISE DELETE THIS OBJECT
+    "generator": {
+        //AsteroidGenerator
+        "min": 20,
+        "max": 30,
+        "stoneChance": 0,
+        "carbonChance": 0.5,
+        "berylChance": 1,
+        "iceChance": 0,
+        "ferricChance": 0,
+        "thoriumScl": 0.8,
+        "copperScale": 1,
+        "leadScale": 1,
+        "graphiteScale": 1,
+        "berylliumScale": 1,
+        "radMin": 85,
+        "radMax": 100
+    },
+    "hasAtmosphere": true,
+    "atmosphereColor": "a67fe2",
+    "minZoom": 0.1,
+    "mesh": {
+        "type": "NoiseMesh",
+        "color1": "333232",
+        "color2": "c64949",
+        "divisions": 20
+    }
+}
