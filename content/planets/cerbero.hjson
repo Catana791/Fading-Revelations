@@ -1,0 +1,73 @@
+localizedName: New Jason
+#the mesh of the planet
+mesh: {
+  type: NoiseMesh
+  planet: jason-v2
+  seed: 69
+  divisions: 4
+  color1: 29302b
+  color2: 39403b
+  radius: 0.2
+  octaves: 3
+  persistence: 0.8
+  scale: 1
+  mag: 1.5
+}
+#the mesh used for clouds. commented out since this planet has no clouds
+#cloudMesh: {}
+#you can't declare a type for this, but you can at least modify the existing one's fields
+generator: {
+  min: 1
+  max: 1
+  radMin: 120
+  radMax: 120
+  seed: 69420
+  berylChance: 1
+}
+#basically, spacing between a parent (this) and satellites
+orbitSpacing: 12
+#radius of this planet's sphere
+radius: 1
+#minimum camera zoom
+minZoom: 0.5
+#whether to draw the orbit
+drawOrbit: false
+#basically, atmosphere offset
+atmosphereRadIn: 0
+atmosphereRadOut: 0.3
+#whether this can be landed on
+accessible: true
+#day-night cycle
+updateLighting: false
+#a seed of the generator. if -1, planet id is picked instead
+sectorSeed: -1
+#whether this blooms
+bloom: false
+#this is self-explanatory
+visible: true
+#the color of the atmosphere
+atmosphereColor: aaaaaaaa
+#the color of the planet's icon displayed in top-left
+iconColor: 29302b
+#whether this has atmosphere
+hasAtmosphere: false
+#whether simulate waves when off-planet
+allowWaveSimulation: true
+#whether sectors are cleared when lost
+clearSectorOnLose: true
+#whether waves are re-created when a sector is lost
+allowWaves: true
+#icon's name displayed in top-left
+icon: "commandRally"
+#default core block for launching
+defaultCore: core-nucleus
+#the parent of the planet
+parent: serpulo
+#the parent of the whole solar system the planet is in
+solarSystem: sun
+#possible planets that could be landed into from this planet. probably useless since interplanetary accelerator is still not working
+launchCandidates: []
+#items not available in this planet
+hiddenItems: [
+  graphite, plastanium, phase-fabric
+]
