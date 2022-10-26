@@ -1,0 +1,11 @@
+{
+  "type": "OverlayFloor",
+  "localizedName": "Thorny Bush",
+  "description": "A woody and thorny bush that damages and slows down enemies.",
+  "allowCorePlacement": true,
+  "canShadow": true,
+  "damageTaken": 0.1,
+  "isLiquid": false,
+  "needsSurface": true,
+  "speedMultiplier": 0.75,
+}
