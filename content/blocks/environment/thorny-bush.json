@@ -8,4 +8,5 @@
   "isLiquid": false,
   "needsSurface": true,
   "speedMultiplier": 0.75,
+  "variants": 0
 }
