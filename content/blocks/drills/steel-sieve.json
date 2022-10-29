@@ -12,12 +12,19 @@
     "type": "DrawMulti",
     "drawers": [
       {
-        "type": "DrawDefault" 
+        "type": "DrawRegion",
+        "suffix": "-bottom"
       },
       {
-        "type": "DrawLiquidRegion",
-        "suffix": "-liquid",
+        "type": "DrawLiquidTile",
         "drawLiquid": "water"
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-grid"
+      },
+      {
+        "type": "DrawDefault"
       }
     ]
   },
