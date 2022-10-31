@@ -60,7 +60,7 @@
     }
   ],
   "category": "crafting",
-  "research": "mod-gate-crafters",
+  "research": "dissolver",
   "outputItem": {
     "item": "metaglass",
     "amount": 4
