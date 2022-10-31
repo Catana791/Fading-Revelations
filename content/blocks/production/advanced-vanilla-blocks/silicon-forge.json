@@ -35,6 +35,10 @@
     {
       "item": "graphite",
       "amount": 25
+    },
+    {
+      "item": "silicon",
+      "amount": 15
     }
   ],
   "category": "crafting",
