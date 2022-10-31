@@ -18,7 +18,7 @@
       ]
     }
   },
-  "outputLiquid": "slag/2",
+  "outputLiquid": "slag/0.25",
   "size": 2,
   "itemCapacity": 20,
   "liquidCapacity": 25,
