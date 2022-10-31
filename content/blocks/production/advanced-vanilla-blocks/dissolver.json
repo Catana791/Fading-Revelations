@@ -1,0 +1,25 @@
+{
+  "type": "GenericCrafter",
+  "localizedName": "Dissolver",
+  "description": "A larger and more powerful Melter.",
+  "category": "crafting",
+  "research": "mod-gate-crafters",
+  "requirements"": [
+    "copper/60",
+    "lead/70",
+    "graphite/50"
+  ],
+  "craftTime": 10,
+  "consumes": {
+    "power": 1.2,
+    "items": {
+      "items": [
+        "scrap/1"  
+      ]
+    }
+  },
+  "outputLiquid": "slag/2",
+  "size": 2,
+  "itemCapacity": 20,
+  "liquidCapacity": 25
+}
