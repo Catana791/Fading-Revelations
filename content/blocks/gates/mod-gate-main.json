@@ -6,6 +6,10 @@
     "health": 0,
     "buildVisibility": "hidden",
     "alwaysUnlocked": true,
-    "research": "core-shard",
+    "research": {
+      "root": true,
+      "name": "Fading Revelations",
+      "requiresUnlock": false
+    }
     "size": 1
 }
