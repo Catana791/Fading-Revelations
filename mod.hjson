@@ -50,6 +50,6 @@
         '''
 
     subtitle: "(v2.0) Erekir Update Part 1 is now out!"
-    minGameVersion : 140
+    minGameVersion : 136
     version : "2.0 - The Erekir Update(1)"
 }
