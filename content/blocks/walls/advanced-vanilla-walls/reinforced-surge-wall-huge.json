@@ -1,0 +1,14 @@
+{
+  "type": "Wall",
+  "localizedName": "Huge Reinforced Surge Wall",
+  "description": "A huge wall made out of Surge Alloy and Tungsten. Is armored.",
+  "category": "defense",
+  "requirements": [
+    "surge-alloy/54",
+    "tungsten/18"
+  ],
+  "health": 9000,
+  "armor": 20,
+  "research": "reinforced-surge-wall-large",
+  "size": 3
+}
