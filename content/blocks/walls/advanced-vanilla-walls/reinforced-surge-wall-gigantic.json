@@ -9,6 +9,14 @@
   ],
   "health": 16000,
   "armor": 20,
-  "research": "reinforced-surge-wall-huge",
-  "size": 4
+  "research": {
+    "reinforced-surge-wall-huge",
+    "requirements": [
+      "surge-alloy/160",
+      "tungsten/800"
+    ]
+  },
+  "size": 4,
+  "lightningChance": 0.05,
+  "lightningDamage": 30
 }
