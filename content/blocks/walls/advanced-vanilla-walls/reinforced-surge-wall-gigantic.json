@@ -10,7 +10,7 @@
   "health": 16000,
   "armor": 20,
   "research": {
-    "reinforced-surge-wall-huge",
+    "parent": "reinforced-surge-wall-huge",
     "requirements": [
       "surge-alloy/160",
       "tungsten/800"
