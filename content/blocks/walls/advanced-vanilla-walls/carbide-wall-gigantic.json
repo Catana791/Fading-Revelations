@@ -1,0 +1,14 @@
+{
+  "type": "Wall",
+  "localizedName": "Gigantic Carbide Wall",
+  "description": "A gigantic wall made out of Carbide. Is armored.",
+  "category": "defense",
+  "requirements": [
+    "thorium/96",
+    "carbide/96"
+  ],
+  "health": 17280,
+  "armor": 16,
+  "research": "carbide-wall-large",
+  "size": 4
+}
