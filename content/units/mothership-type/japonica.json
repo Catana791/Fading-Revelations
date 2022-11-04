@@ -207,22 +207,22 @@
         "speedMultiplier": 0.8
       },
       "statusDuration": 60,
-      "y": 0,
-      "x": 40
+      "y": 40,
+      "x": 0
     },
     {
       "type": "UnitSpawnAbility",
       "unit": "zenith",
       "spawnTime": 1200,
-      "spawnX": -90,
-      "spawnY": 0,
+      "spawnX": 0,
+      "spawnY": -90,
       "spawnEffect": {
         "type": "WaveEffect",
         "colorFrom": "ffa665",
         "colorTo": "d06b53",
-        "sides": 4,
+        "sides": 8,
         "strokeFrom": 0,
-        "strokeTo": 10,
+        "strokeTo": 7,
         "lifetime": 120
       }
     }
