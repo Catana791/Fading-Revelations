@@ -222,11 +222,11 @@
         "type": "WaveEffect",
         "colorFrom": "ffa665",
         "colorTo": "d06b53",
-        "sides": 22,
+        "sides": 6,
         "sizeFrom": 0,
-        "sizeTo": 26
+        "sizeTo": 26,
         "strokeFrom": 0,
-        "strokeTo": 7,
+        "strokeTo": 5,
         "lifetime": 120
       }
     }
