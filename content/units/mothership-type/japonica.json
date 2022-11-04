@@ -222,7 +222,9 @@
         "type": "WaveEffect",
         "colorFrom": "ffa665",
         "colorTo": "d06b53",
-        "sides": 8,
+        "sides": 22,
+        "sizeFrom": 0,
+        "sizeTo": 26
         "strokeFrom": 0,
         "strokeTo": 7,
         "lifetime": 120
