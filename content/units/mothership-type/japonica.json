@@ -124,7 +124,9 @@
       "rotateSpeed": 2,
       "moveWhileCharging": true,
       "shootY": 12,
-      "shootSound": "laser",
+      "shootSound": "none",
+      "loopSound": "laserbeam",
+      "loopSoundVolume": 0.6,
       "accurateDelay": true,
       "shoot": {
         "firstShotDelay": 60 
@@ -163,7 +165,9 @@
       "moveWhileCharging": true,
       "shootY": 12,
       "accurateDelay": true,
-      "shootSound": "laser"
+      "shootSound": "none",
+      "loopSound": "laserbeam",
+      "loopSoundVolume": 0.6,
       "shoot": {
         "firstShotDelay": 60 
       },
