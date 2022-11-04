@@ -54,7 +54,7 @@
         "mirror": false,
         "targetAir": true,
         "targetGround": false,
-        "reload": 30,
+        "reload": 20,
         "shootY": 8
         "shootSound": "artillery",
         "ejectEffect": "casing2",
@@ -82,11 +82,11 @@
     {
         "name": "japonica-air",
         "x": 0,
-        "y": 12,
+        "y": 10,
         "mirror": false,
         "targetAir": true,
         "targetGround": false,
-        "reload": 30,
+        "reload": 20,
         "shootSound": "artillery",
         "ejectEffect": "casing2",
         "rotate": true,
