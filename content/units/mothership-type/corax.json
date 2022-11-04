@@ -90,11 +90,11 @@
   "research": {
     "parent": "mod-gate-units",
     "requirements": [
-      {"item": "silicon", "amount": 8000},
-      {"item": "titanium", "amount": 6000},
-      {"item": "living-steel", "amount": 5000},
-      {"item": "thorium", "amount": 5000},
-      {"item": "surge-alloy", "amount": 2000}
+      {"item": "silicon", "amount": 7200},
+      {"item": "titanium", "amount": 5400},
+      {"item": "thorium", "amount": 4500},
+      {"item": "plastanium", "amount": 4000},
+      {"item": "surge-alloy", "amount": 3600}
     ]
   }
   "hitSize": 52,
