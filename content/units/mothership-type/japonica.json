@@ -199,6 +199,7 @@
       "sectors": 8,
       "shootSound": "spark",
       "status": {
+        "name": "me-japonica-weakened",
         "localizedName": "Japonica Weakened",
         "buildSpeedMultiplier": 0.8,
         "damageMultiplier": 0.8,
