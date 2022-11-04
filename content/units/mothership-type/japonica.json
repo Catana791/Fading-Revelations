@@ -199,7 +199,7 @@
       "hitBuildings": false,
       "hitUnits": true,
       "maxTargets": 12,
-      "range": 80,
+      "range": 180,
       "reload": 1,
       "rotateSpeed": 0.2,
       "sectors": 8,
