@@ -234,5 +234,16 @@
         "lifetime": 120
       }
     }
-  ]
+  ],
+  "hitSize": 93,
+  "research": {
+    "parent": "corax",
+    "requirements": [
+      "silicon/6800",
+      "titanium/5000",
+      "thorium/4000",
+      "phase-fabric/3600",
+      "surge-alloy/2800"
+    ]
+  }
 }
