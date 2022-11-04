@@ -1,0 +1,110 @@
+{
+  "type": "naval",
+  "naval": true,
+  "localizedName": "Japonica",
+  "description": "A huge naval unit that is equipped with multiple weapons and abilities.",
+  
+  "health": 20000,
+  "armor": 16,
+  
+  "drag": 0.2,
+  "speed": 0.56,
+  "rotateSpeed": 1.2,
+  "faceTarget": false,
+  "accel": 0.18,
+  
+  "trailLength": 110,
+  "waveTrailX": 26,
+  "waveTrailY": -35,
+  "trailScl": 3.7,
+  
+  "weapons": [
+    {
+      "name": "japonica-main",
+      "x": 0,
+      "y": -20,
+      "reload": 120,
+      "cooldownTime": 90,
+      "mirror": false,
+      "rotateSpeed": 1.2,
+      "rotate": true,
+      "shootY": 23,
+      "shake": 8,
+      "recoil": 15,
+      "shadow": 50,
+      "shootSound": "railgun",
+      "ejectEffect": "none",
+      "bullet": {
+        "type": "RailBulletType",
+        "shootEffect": "railShoot",
+        "length": 750,
+        "pointEffectSpace": 60,
+        "pierceEffect": "railHit",
+        "pointEffect": "railTrail",
+        "hitEffect": "massiveExplosion",
+        "smokeEffect": "shootBig2",
+        "damage": 1600,
+        "pierceDamageFactor": 0.75
+      }
+      },
+      {
+        "name": "japonica-air",
+        "x": 0,
+        "y": 40,
+        "mirror": true,
+        "targetAir": true,
+        "targetGround": false,
+        "reload": 30,
+        "shootSound": "artillery",
+        "ejectEffect": "casing2",
+        "bullet": {
+          "type": "BasicBulletType",
+          "speed": 2,
+          "damage": 12,
+          "length": 9,
+          "width": 4,
+          "pierce": true,
+          "fragBullets": 2,
+          "lifetime": 180,
+          "fragBullet": {
+            "type": "BasicBulletType",
+            "damage": 3,
+            "width": 2,
+            "height": 4,
+            "speed": 1,
+            "lifetime": 45
+          }
+        }
+      },
+    {
+      "name": "japonica-lancer",
+      "x": -40,
+      "y": 0,
+      "mirror": true,
+      "targetAir": false,
+      "targetGround": true,
+      "reload": 120,
+      "continuous": true,
+      "shoot": {
+        "firstShotDelay": 60 
+      },
+      "bullet": {
+        "type": "LaserBulletType",
+        "length": 400,
+        "damage": 100,
+        "pierceBuilding": true,
+        "lifetime": 60,
+        "width": 4,
+        "fadeTime": 90,
+        "chargeEffect": "lancerLaserCharge
+        "buildingDamageMultiplier": 0.5,
+        "fragBullets": 6,
+        "fragBullet": {
+          "type": "LightningBulletType",
+          "lightningLength": 9,
+          "lightningDamage": 12,
+        }
+      }
+    }
+  ]
+}
