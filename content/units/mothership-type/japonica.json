@@ -50,7 +50,7 @@
       {
         "name": "japonica-air",
         "x": 0,
-        "y": 80,
+        "y": 75,
         "mirror": false,
         "targetAir": true,
         "targetGround": false,
@@ -82,7 +82,7 @@
     {
         "name": "japonica-air",
         "x": 0,
-        "y": -80,
+        "y": 0,
         "mirror": false,
         "targetAir": true,
         "targetGround": false,
@@ -113,7 +113,7 @@
       },
     {
       "name": "japonica-lancer",
-      "x": -41,
+      "x": -42,
       "y": -20,
       "mirror": true,
       "targetAir": false,
@@ -124,6 +124,7 @@
       "rotateSpeed": 2,
       "moveWhileCharging": true,
       "shootY": 12,
+      "shootSound": "laser",
       "accurateDelay": true,
       "shoot": {
         "firstShotDelay": 60 
@@ -134,8 +135,9 @@
         "damage": 100,
         "pierceBuilding": true,
         "colors": ["d06b53", "ffa665", "ffffff"],
-        "lifetime": 60,
+        "lifetime": 120,
         "width": 8,
+        "shootEffect": "lancerLaserShoot",
         "fadeTime": 90,
         "chargeEffect": "lancerLaserCharge",
         "buildingDamageMultiplier": 0.5,
@@ -149,8 +151,8 @@
     },
     {
       "name": "japonica-lancer",
-      "x": 41,
-      "y": 50,
+      "x": 42,
+      "y": 48,
       "mirror": true,
       "targetAir": false,
       "targetGround": true,
@@ -161,6 +163,7 @@
       "moveWhileCharging": true,
       "shootY": 12,
       "accurateDelay": true,
+      "shootSound": "laser"
       "shoot": {
         "firstShotDelay": 60 
       },
@@ -169,11 +172,12 @@
         "length": 400,
         "damage": 100,
         "pierceBuilding": true,
-        "lifetime": 60,
+        "lifetime": 120,
         "width": 8,
         "fadeTime": 90,
         "colors": ["d06b53", "ffa665", "ffffff"],
         "chargeEffect": "lancerLaserCharge",
+        "shootEffect": "lancerLaserShoot",
         "buildingDamageMultiplier": 0.5,
         "fragBullets": 6,
         "fragBullet": {
@@ -224,9 +228,9 @@
         "colorTo": "d06b53",
         "sides": 6,
         "sizeFrom": 0,
-        "sizeTo": 26,
+        "sizeTo": 35,
         "strokeFrom": 0,
-        "strokeTo": 5,
+        "strokeTo": 3,
         "lifetime": 120
       }
     }
