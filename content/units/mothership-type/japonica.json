@@ -96,7 +96,7 @@
         "lifetime": 60,
         "width": 4,
         "fadeTime": 90,
-        "chargeEffect": "lancerLaserCharge
+        "chargeEffect": "lancerLaserCharge",
         "buildingDamageMultiplier": 0.5,
         "fragBullets": 6,
         "fragBullet": {
