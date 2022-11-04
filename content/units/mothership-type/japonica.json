@@ -23,8 +23,8 @@
       "name": "japonica-main",
       "x": 0,
       "y": -40,
-      "reload": 120,
-      "cooldownTime": 90,
+      "reload": 180,
+      "cooldownTime": 120,
       "mirror": false,
       "rotateSpeed": 1.2,
       "rotate": true,
@@ -43,7 +43,7 @@
         "pointEffect": "railTrail",
         "hitEffect": "massiveExplosion",
         "smokeEffect": "shootBig2",
-        "damage": 1200,
+        "damage": 800,
         "pierceDamageFactor": 0.75
       }
       },
@@ -132,7 +132,7 @@
       "bullet": {
         "type": "LaserBulletType",
         "length": 400,
-        "damage": 50,
+        "damage": 30,
         "pierceBuilding": true,
         "colors": ["d06b53", "ffa665", "ffffff"],
         "lifetime": 120,
@@ -170,7 +170,7 @@
       "bullet": {
         "type": "LaserBulletType",
         "length": 400,
-        "damage": 50,
+        "damage": 30,
         "pierceBuilding": true,
         "lifetime": 120,
         "width": 8,
