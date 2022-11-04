@@ -5,7 +5,7 @@
   "description": "A huge naval unit that is equipped with multiple weapons and abilities.",
   
   "health": 20000,
-  "armor": 16,
+  "armor": 10,
   
   "drag": 0.2,
   "speed": 0.56,
@@ -43,7 +43,7 @@
         "pointEffect": "railTrail",
         "hitEffect": "massiveExplosion",
         "smokeEffect": "shootBig2",
-        "damage": 1600,
+        "damage": 1200,
         "pierceDamageFactor": 0.75
       }
       },
@@ -132,7 +132,7 @@
       "bullet": {
         "type": "LaserBulletType",
         "length": 400,
-        "damage": 100,
+        "damage": 50,
         "pierceBuilding": true,
         "colors": ["d06b53", "ffa665", "ffffff"],
         "lifetime": 120,
@@ -145,7 +145,7 @@
         "fragBullet": {
           "type": "LightningBulletType",
           "lightningLength": 9,
-          "lightningDamage": 12,
+          "lightningDamage": 10,
         }
       }
     },
@@ -170,7 +170,7 @@
       "bullet": {
         "type": "LaserBulletType",
         "length": 400,
-        "damage": 100,
+        "damage": 50,
         "pierceBuilding": true,
         "lifetime": 120,
         "width": 8,
@@ -183,7 +183,7 @@
         "fragBullet": {
           "type": "LightningBulletType",
           "lightningLength": 9,
-          "lightningDamage": 12,
+          "lightningDamage": 10,
         }
       }
     }
@@ -203,7 +203,7 @@
       "range": 180,
       "reload": 10,
       "rotateSpeed": 0.2,
-      "sectors": 8,
+      "sectors": 3,
       "shootSound": "spark",
       "status": {
         "name": "me-japonica-weakened",
