@@ -50,7 +50,7 @@
       {
         "name": "japonica-air",
         "x": 0,
-        "y": 75,
+        "y": 72,
         "mirror": false,
         "targetAir": true,
         "targetGround": false,
@@ -82,7 +82,7 @@
     {
         "name": "japonica-air",
         "x": 0,
-        "y": 0,
+        "y": 12,
         "mirror": false,
         "targetAir": true,
         "targetGround": false,
