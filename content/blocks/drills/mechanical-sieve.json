@@ -21,13 +21,10 @@
         "type": "DrawLiquidTile",
         "drawLiquid": "water"
       },
-{
-  "type": "DrawMultiWeave" 
-}
-      //{
-        //"type": "DrawRegion",
-       // "suffix": "-grid"
-      //},
+      {
+        "type": "DrawRegion",
+        "suffix": "-grid"
+      },
       {
         "type": "DrawDefault"
       }
