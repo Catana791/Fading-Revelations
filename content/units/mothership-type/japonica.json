@@ -195,7 +195,7 @@
       "healPercent": 0,
       "hitBuildings": false,
       "hitUnits": true,
-      "healPercent": 0,
+      "healPercent": 2,
       "maxTargets": 12,
       "range": 180,
       "reload": 10,
