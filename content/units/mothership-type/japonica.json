@@ -35,7 +35,7 @@
       "shootWarmupSpeed": 0.03,
       "targetAir": true,
       "bullet": {
-        "type": "MissileBulletType",
+        "type": "BasicBulletType",
         "sprite": "me-big-rocket",
         "homingPower": 0.001,
         "homingRange": 800,
