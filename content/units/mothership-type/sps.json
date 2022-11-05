@@ -6,6 +6,7 @@
   "rotateWeapon": true,
   "speed": 0.96,
   "flying": true,
+  "immunities": ["melting", "burning", "sapped", "freezing", "wet"],
   "lowAltitude": true,
   "speed": 0.96,
   "outlines": false,
