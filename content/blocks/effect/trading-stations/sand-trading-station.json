@@ -37,6 +37,6 @@
   "research": "mod-gate-effect",
   "outputItem": {
     "item": "sand",
-    "amount": 8
+    "amount": 16
   }
 }
