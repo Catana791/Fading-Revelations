@@ -40,7 +40,7 @@
         "homingPower": 0.001,
         "homingRange": 800,
         "speed": 4,
-        "lifetime": 200,
+        "lifetime": 600,
         "shootEffect": "shootBig",
         "smokeEffect": "shootSmokeMissile",
         "shrinkX": 0,
