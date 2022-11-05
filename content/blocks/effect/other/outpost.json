@@ -5,7 +5,9 @@
   "size": 3,
   "buildLimit": 1,
   "solid": true,
-  "buildLimit": 1,
+  "consumes": {
+    "power": 25 
+  }
   "update": true,
   "itemCapacity": 5,
   "hasItems": true,
@@ -18,6 +20,10 @@
       "item": "lead",
       "amount": 2500
     },
+{
+  "item": "silicon",
+  "amount": 2200
+}
     {
       "item": "titanium",
       "amount": 2000
@@ -29,6 +35,10 @@
     {
         "item": "gold",
         "amount": 600
+    },
+    {
+      "item": "steel-alloy",
+      "amount": 500
     }
   ],
   "category": "effect",
