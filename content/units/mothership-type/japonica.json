@@ -48,7 +48,9 @@
         "height": 32,
         "width": 16,
         "hitEffect": "massiveExplosion",
-        "damage": 1100 
+        "damage": 1100,
+        "frontColor": "b0bac0",
+        "backColor": "6e7080"
       }
     },
       {
