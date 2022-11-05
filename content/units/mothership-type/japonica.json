@@ -68,7 +68,7 @@
           "width": 4,
           "lifetime": 90,
           "fadeTime": 30,
-          "damage": 75
+          "damage": 65
         }
       },
     {
@@ -90,7 +90,7 @@
           "width": 4,
           "lifetime": 90,
           "fadeTime": 30,
-          "damage": 75
+          "damage": 65
         }
       },
     {
