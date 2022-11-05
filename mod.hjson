@@ -49,7 +49,7 @@
         for more information!
         '''
 
-    subtitle: "(v2.0) Erekir Update Part 1 is now out!"
+    subtitle: "Don't forget to reinstall every so often!"
     minGameVersion : 136
-    version : "2.0 - The Erekir Update(1)"
+    version : "2.1"
 }
