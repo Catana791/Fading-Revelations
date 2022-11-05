@@ -9,7 +9,6 @@
   
   "drag": 0.2,
   "speed": 0.56,
-   "immunities": ["burning", "melting", "freezing", "unmoving", "wet", "electrified", "sapped", "spore-slowed", "tarred", "shocked", "blasted", "japonica-weakened", "radiated", "shockslowed"],
   "speed": 0.96,
   "rotateSpeed": 1.2,
   "faceTarget": false,
