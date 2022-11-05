@@ -8,7 +8,8 @@
   "allowLegStep": true,
   "hovering": true,
   "outlines": false,
-  "immunities": ["burning", "melting", "freezing", "unmoving", "wet", "electrified", "sapped", "spore-slowed", "tarred", "shocked", "blasted", "me-japonica-weakened", "me-radiated", "me-shockslowed"],
+   "immunities": ["burning", "melting", "freezing", "unmoving", "wet", "electrified", "sapped", "spore-slowed", "tarred", "shocked", "blasted", "japonica-weakened", "radiated", "shockslowed"],
+  "speed": 0.96,
   //"parts": [
     //{
       //"type": "HaloPart",
