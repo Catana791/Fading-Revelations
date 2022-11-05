@@ -18,6 +18,7 @@
   "stepShake": 4,
   "legLengthScl": 0.93,
   "rippleScale": 6,
+  "immunities": ["burning", "melting", "freezing", "unmoving", "wet", "electrified", "sapped", "spore-slowed", "tarred", "shocked", "blasted", "me-japonica-weakened", "me-radiated", "me-shockslowed"],
   "legSpeed": 0.31,
   "legSplashDamage": 75,
   "legSplashRange": 48,
