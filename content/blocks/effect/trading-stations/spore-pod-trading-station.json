@@ -5,10 +5,11 @@
   "size": 2,
   "itemCapacity": 64,
   "hasItems": true,
-  "craftTime": 30,
+  "craftTime": 120,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
+    "power": 2,
     "items": {
       "items": [
         {
@@ -36,6 +37,6 @@
   "research": "lead-trading-station",
   "outputItem": {
     "item": "spore-pod",
-    "amount": 8
+    "amount": 2
   }
 }
