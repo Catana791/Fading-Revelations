@@ -5,10 +5,11 @@
   "size": 2,
   "hasItems": true,
   "itemCapacity": 64,
-  "craftTime": 30,
+  "craftTime": 120,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
+    "power": 2,
     "items": {
       "items": [
         {
@@ -36,6 +37,6 @@
   "research": "graphite-trading-station",
   "outputItem": {
     "item": "metaglass",
-    "amount": 8
+    "amount": 2
   }
 }
