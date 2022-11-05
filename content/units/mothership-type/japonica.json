@@ -13,7 +13,7 @@
   "faceTarget": false,
   "accel": 0.18,
   
-  "trailLength": 110,
+  "trailLength": 320,
   "waveTrailX": 26,
   "waveTrailY": -35,
   "trailScl": 3.7,
@@ -29,9 +29,11 @@
       "x": 0,
       "range": 800,
       "shootCone": 1,
+      "shootSound": "missileLaunch",
       "rotateSpeed": 0.9,
       "minWarmup": 0.94,
       "shootWarmupSpeed": 0.03,
+      "shootSound": 
       "targetAir": true,
       "bullet": {
         "type": "MissileBulletType",
@@ -44,6 +46,8 @@
         "smokeEffect": "shootSmokeMissile",
         "shrinkX": 0,
         "shrinkY": 0,
+        "height": 32,
+        "width": 16,
         "hitEffect": "massiveExplosion",
         "damage": 1100 
       }
