@@ -8,6 +8,7 @@
   "aimDst": 600,
   "createWreck": true,
   "lowAltitude": true,
+  "immunities": ["burning", "melting", "freezing", "unmoving", "wet", "electrified", "sapped", "spore-slowed", "tarred", "shocked", "blasted", "me-japonica-weakened", "me-radiated", "me-shockslowed"],
   "speed": 0.96,
   "parts": [
     {
