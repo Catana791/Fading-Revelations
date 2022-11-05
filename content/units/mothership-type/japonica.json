@@ -33,7 +33,6 @@
       "rotateSpeed": 0.9,
       "minWarmup": 0.94,
       "shootWarmupSpeed": 0.03,
-      "shootSound": 
       "targetAir": true,
       "bullet": {
         "type": "MissileBulletType",
