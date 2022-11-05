@@ -5,9 +5,6 @@
   "size": 3,
   "buildLimit": 1,
   "solid": true,
-  "consumes": {
-    "power": 25 
-  }
   "update": true,
   "itemCapacity": 5,
   "hasItems": true,
