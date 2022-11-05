@@ -98,6 +98,7 @@
       "mirror": true,
       "reload": 60,
       "rotate": true,
+      "range": 320,
       "rotateSpeed": 3,
       "shootSound": "artillery",
       "shoot": {
@@ -114,11 +115,15 @@
         "lightning": 4,
         "lightningLength": 2,
         "lightningDamage": 4,
-        "width": 12,
-        "height": 8,
-        "speed": 2,
+        "width": 7,
+        "height": 13,
+        "speed": 3,
         "sprite": "shell",
-        "frontColor": "7a7a7a",
+        "lifetime": 320,
+        "status": "burning",
+        "homingPower": 0.001,
+        "homingRange": 320,
+        "frontColor": "f8ae4b",
         "backColor": "e9901a"
       }
     },
@@ -129,6 +134,7 @@
       "mirror": true,
       "reload": 60,
       "rotate": true,
+      "range": 320,
       "rotateSpeed": 3,
       "shootSound": "artillery",
       "shoot": {
@@ -145,11 +151,15 @@
         "lightning": 4,
         "lightningLength": 2,
         "lightningDamage": 4,
-        "width": 12,
-        "height": 8,
-        "speed": 2,
+        "width": 7,
+        "height": 13,
+        "speed": 3,
+        "homingPower": 0.001,
+        "homingRange": 320,
+        "status": "burning"
+        "lifetime": 320,
         "sprite": "shell",
-        "frontColor": "7a7a7a",
+        "frontColor": "f8ae4b",
         "backColor": "e9901a"
       }
     }
