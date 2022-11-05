@@ -4,11 +4,12 @@
   "description": "Exchange Station that exchanges gold for silicon.",
   "size": 2,
   "hasItems": true,
-  "craftTime": 30,
+  "craftTime": 120,
   "itemCapacity": 64,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
+    "power": 2,
     "items": {
       "items": [
         {
@@ -36,6 +37,6 @@
   "research": "metaglass-trading-station",
   "outputItem": {
     "item": "silicon",
-    "amount": 8
+    "amount": 2
   }
 }
