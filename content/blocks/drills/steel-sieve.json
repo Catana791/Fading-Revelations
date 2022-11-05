@@ -50,7 +50,7 @@
       "amount": 0.6
     }
   },
-  "craftTime": 30,
+  "craftTime": 240,
   "outputItem": {
     "item": "gold",
     "amount": 1
