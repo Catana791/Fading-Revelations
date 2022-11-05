@@ -4,11 +4,12 @@
   "description": "Exchange Station that exchanges gold for plastanium.",
   "size": 2,
   "hasItems": true,
-  "craftTime": 30,
+  "craftTime": 120,
   "itemCapacity": 64,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
+    "power": 6,
     "items": {
       "items": [
         {
@@ -36,6 +37,6 @@
   "research": "bc-trading-station",
   "outputItem": {
     "item": "plastanium",
-    "amount": 4
+    "amount": 1
   }
 }
