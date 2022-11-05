@@ -5,10 +5,11 @@
   "size": 2,
   "itemCapacity": 64,
   "hasItems": true,
-  "craftTime": 30,
+  "craftTime": 120,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
+    "power": 1,
     "items": {
       "items": [
         {
@@ -36,6 +37,6 @@
   "research": "mod-gate-effect",
   "outputItem": {
     "item": "sand",
-    "amount": 32
+    "amount": 8
   }
 }
