@@ -127,7 +127,7 @@
         "sprite": "shell",
         "lifetime": 260,
         "status": "burning",
-        "homingPower": 0.005,
+        "homingPower": 0.05,
         "homingRange": 320,
         "frontColor": "f8ae4b",
         "backColor": "e9901a"
@@ -164,7 +164,7 @@
         "collidesAir": true,
         "collidesGround": false,
         "speed": 3,
-        "homingPower": 0.005,
+        "homingPower": 0.05,
         "homingRange": 320,
         "status": "burning",
         "statusDuration": 180,
