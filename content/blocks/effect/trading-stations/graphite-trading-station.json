@@ -4,11 +4,12 @@
   "description": "Exchange Station that exchanges gold for graphite.",
   "size": 2,
   "hasItems": true,
-  "craftTime": 30,
+  "craftTime": 120,
   "itemCapacity": 64,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
+    "power": 4,
     "items": {
       "items": [
         {
@@ -36,6 +37,6 @@
   "research": "coal-trading-station",
   "outputItem": {
     "item": "graphite",
-    "amount": 8
+    "amount": 2
   }
 }
