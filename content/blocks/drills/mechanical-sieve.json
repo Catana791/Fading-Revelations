@@ -22,7 +22,7 @@
         "drawLiquid": "water"
       },
 {
-  "type": "DrawWeave" 
+  "type": "DrawMultiWeave" 
 }
       //{
         //"type": "DrawRegion",
