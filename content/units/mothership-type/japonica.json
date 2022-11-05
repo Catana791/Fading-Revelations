@@ -52,7 +52,7 @@
         "mirror": false,
         "targetAir": true,
         "targetGround": true,
-        "reload": 180,
+        "reload": 220,
         "shootY": 8
         "shootSound": "laserblast",
         "rotate": true,
@@ -62,7 +62,7 @@
           "type": "ContinuousLaserBulletType",
           "length": 400,
           "width": 4,
-          "lifetime": 60,
+          "lifetime": 90,
           "fadeTime": 30,
           "damage": 75,
           "damageInterval": 30
@@ -75,7 +75,7 @@
         "mirror": false,
         "targetAir": true,
         "targetGround": true,
-        "reload": 180,
+        "reload": 220,
         "shootSound": "laserblast",
         "rotate": true,
         "shootY": 8,
@@ -85,7 +85,7 @@
           "type": "ContinuousLaserBulletType",
           "length": 450,
           "width": 4,
-          "lifetime": 60,
+          "lifetime": 90,
           "fadeTime": 30,
           "damage": 75,
           "damageInterval": 30
