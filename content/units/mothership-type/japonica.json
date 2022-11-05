@@ -41,7 +41,7 @@
         "damage": 0,
         "shootEffect": "shootBig",
         "smokeEffect": "shootSmokeMissile",
-        "spawnUnit": "big-missile"
+        "spawnUnit": "scathe-missile"
       }
     },
       {
