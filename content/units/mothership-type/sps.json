@@ -7,6 +7,7 @@
   "speed": 0.96,
   "flying": true,
   "lowAltitude": true,
+  "immunities": ["burning", "melting", "freezing", "unmoving", "wet", "electrified", "sapped", "spore-slowed", "tarred", "shocked", "blasted", "me-japonica-weakened", "me-radiated", "me-shockslowed"],
   "outlines": false,
   //"parts": [
     //{
