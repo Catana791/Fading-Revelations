@@ -1,3 +1,6 @@
 {
-  "template": "MissileUnitType" 
+  "template": "MissileUnitType",
+  "simulatedHealth": 1000000,
+  "health": 1000000,
+  "lifetime": 300
 }
