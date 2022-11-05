@@ -28,6 +28,7 @@
       "targetAir": true,
       "shake": 6,
       "shootY": 23,
+      "mirror": false,
       "reload": 440,
       "range": 800,
       "shootCone": 1,
