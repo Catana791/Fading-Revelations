@@ -7,6 +7,8 @@
   "health": 20000,
   "armor": 10,
   
+  "immunities": ["melting", "burning", "sapped", "freezing", "wet"],
+  
   "drag": 0.2,
   "speed": 0.56,
   "speed": 0.96,
