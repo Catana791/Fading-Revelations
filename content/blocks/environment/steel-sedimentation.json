@@ -1,0 +1,11 @@
+{
+  "type": "OreBlock",
+  "localizedName": "Steel Sedimentation",
+  "description": "A sedimentation of living steel. Can be mined but beware as it damages units walking over it and slows them.",
+  "damageTaken": 1,
+  "speedMultiplier": 0.8,
+  "itemDrop": "living-steel",
+  "hasColor": true,
+  "mapColor": "8c0291",
+  "allowCorePlacement": false
+}
