@@ -83,7 +83,7 @@ allowWaves: true
 icon: "commandRally"
 
 #default core block for launching
-defaultCore: core-level-4
+defaultCore: me-core-level-4
 
 #the parent of the planet
 parent: sun
