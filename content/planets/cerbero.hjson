@@ -22,8 +22,8 @@ mesh: {
 
 #you can't declare a type for this, but you can at least modify the existing one's fields
 generator: {
-  min: 1
-  max: 1
+  min: 4
+  max: 4
   radMin: 480
   radMax: 480
   seed: 69420
@@ -34,7 +34,7 @@ generator: {
 orbitSpacing: 12
 
 #radius of this planet's sphere
-radius: 5
+radius: 1
 
 #minimum camera zoom
 minZoom: 0.5
