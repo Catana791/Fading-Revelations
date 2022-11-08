@@ -50,6 +50,6 @@
         '''
 
     subtitle: "Don't forget to reinstall every so often!"
-    minGameVersion : 136
+    minGameVersion : 140
     version : "2.1"
 }
