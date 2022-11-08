@@ -27,7 +27,7 @@ generator: {
   radMin: 480
   radMax: 480
   seed: 69420
-  berylChance: 1
+  berylChance: 0
 }
 
 #basically, spacing between a parent (this) and satellites
