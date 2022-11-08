@@ -22,8 +22,8 @@ mesh: {
 
 #you can't declare a type for this, but you can at least modify the existing one's fields
 generator: {
-  min: 4
-  max: 4
+  min: 10
+  max: 10
   radMin: 480
   radMax: 480
   seed: 69420
