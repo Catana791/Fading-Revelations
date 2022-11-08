@@ -1,0 +1,10 @@
+{
+  "type": "SectorPreset",
+  "addStartingItems": true,
+  "allowLaunchLoadout": false,
+  "allowLaunchSchematics": false,
+  "captureWave": 30,
+  "difficulty": 10,
+  "planet": "cerbero",
+  "sector": 
+}
