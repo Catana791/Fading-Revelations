@@ -34,13 +34,13 @@ generator: {
 orbitSpacing: 12
 
 #radius of this planet's sphere
-radius: 1
+radius: 1.2
 
 #minimum camera zoom
-minZoom: 0.9
+minZoom: 1.8
 
 #whether to draw the orbit
-drawOrbit: false
+drawOrbit: true
 
 #basically, atmosphere offset
 atmosphereRadIn: 0
@@ -50,7 +50,7 @@ atmosphereRadOut: 0.3
 accessible: true
 
 #day-night cycle
-updateLighting: false
+updateLighting: true
 
 #a seed of the generator. if -1, planet id is picked instead
 sectorSeed: -1
@@ -68,7 +68,7 @@ atmosphereColor: aaaaaaaa
 iconColor: 29302b
 
 #whether this has atmosphere
-hasAtmosphere: false
+hasAtmosphere: true
 
 #whether simulate waves when off-planet
 allowWaveSimulation: true
@@ -83,10 +83,10 @@ allowWaves: true
 icon: "commandRally"
 
 #default core block for launching
-defaultCore: core-nucleus
+defaultCore: core-level-4
 
 #the parent of the planet
-parent: serpulo
+parent: sun
 
 #the parent of the whole solar system the planet is in
 solarSystem: sun
