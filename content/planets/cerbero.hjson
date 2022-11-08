@@ -10,7 +10,7 @@ mesh: {
   divisions: 4
   color1: 29302b
   color2: 39403b
-  radius: 0.2
+  radius: 2
   octaves: 3
   persistence: 0.8
   scale: 1
@@ -22,8 +22,8 @@ mesh: {
 
 #you can't declare a type for this, but you can at least modify the existing one's fields
 generator: {
-  min: 10
-  max: 10
+  min: 100
+  max: 100
   radMin: 480
   radMax: 480
   seed: 69420
