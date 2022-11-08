@@ -53,7 +53,7 @@ accessible: true
 updateLighting: true
 
 #a seed of the generator. if -1, planet id is picked instead
-sectorSeed: -1
+sectorSeed: 0
 
 #whether this blooms
 bloom: false
