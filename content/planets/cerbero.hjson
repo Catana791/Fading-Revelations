@@ -10,7 +10,7 @@ mesh: {
   divisions: 4
   color1: 29302b
   color2: 39403b
-  radius: 2
+  radius: 1.2
   octaves: 3
   persistence: 0.8
   scale: 1
