@@ -3,5 +3,6 @@
   "difficulty": 10,
   "planet": "cerbero",
   "captureWave": 20,
-  "alwaysUnlocked": true
+  "alwaysUnlocked": true,
+  "sector": 1
 }
