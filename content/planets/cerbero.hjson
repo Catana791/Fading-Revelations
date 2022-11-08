@@ -1,5 +1,7 @@
 localizedName: Cerbero
 
+alwaysUnlocked: true
+
 #the mesh of the planet
 mesh: {
   type: NoiseMesh
