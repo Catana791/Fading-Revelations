@@ -34,7 +34,7 @@ generator: {
 orbitSpacing: 12
 
 #radius of this planet's sphere
-radius: 1.2
+radius: 1.5
 
 #minimum camera zoom
 minZoom: 1.8
