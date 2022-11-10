@@ -1,0 +1,10 @@
+{
+    "type": "Wall",
+    "name": "Gate: Liquid",
+    "description": "The gate to all of the liquid related blocks included in the Fading Revelations Mod.",
+    "health": 0,
+    "buildVisibility": "hidden",
+    "alwaysUnlocked": true,
+    "research": "mod-gate-blocks",
+    "size": 1
+}
