@@ -1,0 +1,16 @@
+{
+  "type": "LiquidRouter",
+  "localizedName": "Steel Tank",
+  "description": "A liquid tank made from living steel that has more capacity than a regular liquid tank but the same size.",
+  "category": "liquid",
+  "research": "mod-gate-distribution",
+  "size": 3,
+  "solid": true,
+  "health": 750,
+  "liquidCapacity": 2100,
+  "requirements": [
+    "metaglass/40",
+    "titanium/30",
+    "living-steel/20"
+  ]
+}
