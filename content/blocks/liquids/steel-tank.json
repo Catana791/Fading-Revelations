@@ -3,7 +3,7 @@
   "localizedName": "Steel Tank",
   "description": "A liquid tank made from living steel that has more capacity than a regular liquid tank but the same size.",
   "category": "liquid",
-  "research": "mod-gate-distribution",
+  "research": "liquid-canister",
   "size": 3,
   "solid": true,
   "health": 750,
