@@ -11,7 +11,7 @@
   },
   "pumpAmount": 0.25,
   "category": "liquid",
-  "research": "mod-gate-distribution",
+  "research": "mod-gate-liquids",
   "requirements": [
     "copper/90",
     "metaglass/100",
