@@ -18,5 +18,26 @@
     "silicon/35",
     "living-steel/60",
     "thorium/45"
-  ]
+  ],
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "water"
+      },
+      {
+        "type": "DrawBlurSpin",
+        "suffix": "-rotator",
+        "rotateSpeed": 1.2
+      },
+      {
+        "type": "DrawDefault"
+      }
+    ]
+  }
 }
