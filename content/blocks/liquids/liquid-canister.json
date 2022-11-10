@@ -1,6 +1,6 @@
 {
   "type": "LiquidRouter",
-  "localizedName": "Liquid Canistar",
+  "localizedName": "Liquid Canister",
   "description": "A small liquid tank.",
   "category": "liquid",
   "research": "mod-gate-distribution",
