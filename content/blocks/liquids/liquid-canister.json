@@ -3,7 +3,7 @@
   "localizedName": "Liquid Canister",
   "description": "A small liquid tank.",
   "category": "liquid",
-  "research": "mod-gate-distribution",
+  "research": "mod-gate-liquids",
   "size": 1,
   "solid": true,
   "health": 40,
