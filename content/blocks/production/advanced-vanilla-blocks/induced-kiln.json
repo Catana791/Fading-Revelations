@@ -11,17 +11,18 @@
     "type": "DrawMulti",
     "drawers": [
       {
-        "type": "DrawDefault" 
+        "type": "DrawRegion",
+        "suffix": "-bottom"
       },
       {
-        "type": "DrawGlowRegion",
-        "suffix": "-top",
-        "color": "ffef99",
+        "type": "DrawCrucibleFlame"
       },
       {
-        "type": "DrawGlowRegion",
-        "suffix": "-top2",
-        "color": "ffffff", 
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-top"
       }
     ]
   },
