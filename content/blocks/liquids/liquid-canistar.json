@@ -1,0 +1,15 @@
+{
+  "type": "LiquidRouter",
+  "localizedName": "Liquid Canistar",
+  "description": "A small liquid tank.",
+  "category": "liquid",
+  "research": "mod-gate-distribution",
+  "size": 1,
+  "solid": true,
+  "health": 40,
+  "liquidCapacity": 200,
+  "requirements": [
+    "metaglass/4",
+    "titanium/3"
+  ]
+}
