@@ -39,5 +39,6 @@
         "type": "DrawDefault"
       }
     ]
-  }
+  },
+  "squareSprite": false
 }
