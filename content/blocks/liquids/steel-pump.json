@@ -1,0 +1,22 @@
+{
+  "type": "Pump",
+  "localizedName": "Steel Pump",
+  "description": "A pump made using living steel that uses power to pump great amounts of liquid.",
+  "hasPower": true,
+  "hasLiquids": true,
+  "liquidCapacity": 40,
+  "size": 3,
+  "consumes": {
+    "power": 1.6 
+  },
+  "pumpAmount": 0.25,
+  "category": "liquid",
+  "research": "mod-gate-distribution",
+  "requirements": [
+    "copper/90",
+    "metaglass/100",
+    "silicon/35",
+    "living-steel/60",
+    "thorium/45"
+  ]
+}
