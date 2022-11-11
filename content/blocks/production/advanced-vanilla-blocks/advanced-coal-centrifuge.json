@@ -28,7 +28,14 @@
   "hasPower": true,
   "hasLiquids": true,
   "hasItems": true,
-  "updateEffect": "smeltsmoke",
+  "craftEffect": {
+    "type": "WaveEffect",
+    "sizeFrom": 22,
+    "sizeTo": 0,
+    "colorFrom": "5a5a5a",
+    "colorTo": "343434",
+    "interp": "pow2Out"
+  }
   "consumes": {
     "power": 1,
     "liquid": {
