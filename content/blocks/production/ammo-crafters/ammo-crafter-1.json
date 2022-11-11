@@ -8,7 +8,6 @@
   "hasLiquids": false,
   "craftTime": 50,
   "craftEffect": "smeltsmoke",
-  "updateEffect": "pulverizeRed",
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
