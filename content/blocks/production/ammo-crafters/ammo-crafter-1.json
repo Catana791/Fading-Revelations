@@ -16,10 +16,11 @@
         "type": "DrawDefault" 
       },
       {
-        "type": "DrawGlowRegion" 
+        "type": "DrawGlowRegion",
+        "color": "ffef99"
       }
     ]
-  }
+  },
   "consumes": {
     "items": {
       "items": [
