@@ -7,6 +7,21 @@
     "item": "coal",
     "amount": 2
   },
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawPistons" 
+      },
+      {
+        "type": "DrawDefault" 
+      }
+    ]
+  },
   "health": 440,
   "craftTime": 30,
   "size": 2,
