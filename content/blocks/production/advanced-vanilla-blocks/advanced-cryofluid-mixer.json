@@ -8,6 +8,27 @@
   },
   "health": 340,
   "itemCapacity": 30,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "cryofluid" 
+      },
+      {
+        "type": "DrawBlurSpin",
+        "rotateSpeed": 0.4,
+        "suffix": "-rotator"
+      },
+      {
+        "type": "DrawDefault",
+      }
+    ]
+  },
   "fluidCapacity": 50,
   "size": 2,
   "craftTime": 60,
