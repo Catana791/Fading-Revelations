@@ -9,6 +9,17 @@
   "craftTime": 50,
   "craftEffect": "smeltsmoke",
   "updateEffect": "pulverizeRed",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawGlowRegion" 
+      }
+    ]
+  }
   "consumes": {
     "items": {
       "items": [
