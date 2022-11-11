@@ -26,8 +26,7 @@
         "layers": 4,
         "layerSpeed": 1.2,
         "rotateSpeed": 0.6,
-        "stroke": 4,
-        "length": 1
+        "length": 0.6
       }
       {
         "type": "DrawDefault",
