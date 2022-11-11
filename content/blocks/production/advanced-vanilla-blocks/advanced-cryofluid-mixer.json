@@ -20,16 +20,11 @@
         "drawLiquid": "cryofluid" 
       },
       {
-        "type": "DrawBlurSpin",
-        "rotateSpeed": 0.4,
-        "suffix": "-rotator"
-      },
-      {
         "type": "DrawDefault",
       }
     ]
   },
-  "fluidCapacity": 50,
+  "liquidCapacity": 70,
   "size": 2,
   "craftTime": 60,
   "health": 240,
