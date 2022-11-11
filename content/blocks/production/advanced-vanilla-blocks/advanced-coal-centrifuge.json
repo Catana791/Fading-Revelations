@@ -1,11 +1,10 @@
 {
   "type": "GenericCrafter",
   "name": "Coal Condenser",
-  "description": "Presses Oil to coal.",
-  "details": "A lot more effective than the original.",
+  "description": "Presses Oil to coal. Is a lot more efficient than the original.",
   "outputItem": {
     "item": "coal",
-    "amount": 2
+    "amount": 6
   },
   "drawer": {
     "type": "DrawMulti",
@@ -23,7 +22,7 @@
     ]
   },
   "health": 440,
-  "craftTime": 30,
+  "craftTime": 90,
   "size": 2,
   "hasPower": true,
   "hasLiquids": true,
