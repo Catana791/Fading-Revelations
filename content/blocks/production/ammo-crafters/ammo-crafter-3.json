@@ -7,8 +7,19 @@
   "hasItems": true,
   "hasLiquids": false,
   "craftTime": 50,
-  "craftEffect": "smeltsmoke",
-  "updateEffect": "pulverizeRed",
+  "craftEffect": "pulverizeRed",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawGlowRegion",
+        "color": "ffef99"
+      }
+    ]
+  },
   "consumes": {
     "power": 0.2,
     "items": {
