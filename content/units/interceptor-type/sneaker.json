@@ -1,7 +1,6 @@
 {
   "type": "legs",
   "localizedName": "Sneaker",
-  "aiController": "SuicideAI",
   "speed": 1,
   "hitSize": 4,
   "health": 100,
