@@ -18,14 +18,99 @@
     {
       "unit": "japonica",
       "requirements": [
-        "items": {
-          "items": [
-            "silicon/3400",
-            "titanium/2500",
-            "thorium/2000",
-            "phase-fabric/1800",
-            "surge-alloy/1400"
-          ]
+          "silicon/3400",
+          "titanium/2500",
+          "thorium/2000",
+          "phase-fabric/1800",
+          "surge-alloy/1400"
+      ],
+      "time": 36000
+    },
+    {
+      "unit": "corax",
+      "requirements": [
+        {"item": "silicon", "amount": 3200},
+        {"item": "titanium", "amount": 2300},
+        {"item": "thorium", "amount": 1800},
+        {"item": "plastanium", "amount": 1600},
+        {"item": "surge-alloy", "amount": 1200}
+      ],
+      "time": 36000
+    },
+    {
+      "unit": "hive",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 4500
+        },
+        {
+          "item": "titanium",
+          "amount": 4150
+        },
+        {
+          "item": "living-steel",
+          "amount": 2700
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 1800
+        },
+        {
+          "item": "gold",
+          "amount": 1620
+        }
+      ],
+      "time": 36000
+    },
+    {
+      "unit": "sps",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 3600
+        },
+        {
+          "item": "titanium",
+          "amount": 2700
+        },
+        {
+          "item": "living-steel",
+          "amount": 2250
+        },
+        {
+          "item": "thorium",
+          "amount": 2250
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 1800
+        }
+      ],
+      "time": 36000
+    },
+    {
+      "unit": "test",
+      "requirements": [
+        {
+          "item": "silicon",
+          "amount": 4050
+        },
+        {
+          "item": "titanium",
+          "amount": 3600
+        },
+        {
+          "item": "living-steel",
+          "amount": 2700
+        },
+        {
+          "item": "phase-fabric",
+          "amount": 2250
+        },
+        {
+          "item": "surge-alloy",
+          "amount": 1800
         }
       ],
       "time": 36000
