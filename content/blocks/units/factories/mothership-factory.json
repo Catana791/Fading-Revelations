@@ -19,13 +19,13 @@
       "unit": "japonica",
       "requirements": [
         "items": {
-        "items": [
-        "silicon/3400",
-        "titanium/2500",
-        "thorium/2000",
-        "phase-fabric/1800",
-        "surge-alloy/1400"
-        ]
+          "items": [
+            "silicon/3400",
+            "titanium/2500",
+            "thorium/2000",
+            "phase-fabric/1800",
+            "surge-alloy/1400"
+          ]
         }
       ],
       "time": 36000
