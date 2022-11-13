@@ -1,0 +1,37 @@
+{
+  "type": "legs",
+  "localizedName": "Sneaker",
+  "aiController": "SuicideAI",
+  "speed": 1,
+  "hitSize": 4,
+  "health": 100,
+  "mechSideSway": 0.125,
+  "range": 40,
+  "weapons": [
+    {
+      "x": 0,
+      "shootY": 0,
+      "shootOnDeath": true,
+      "reload": 24,
+      "shootCone": 180,
+      "ejectEffect": "none",
+      "shootSound": "explosion",
+      "mirror": false,
+      "bullet": {
+        "type": "BasicBulletType",
+        "collidesTiles": false,
+        "collides": false,
+        "hitSound": "explosion",
+        "rangeOvveride": 30,
+        "hitEffect": "pulverize",
+        "speed": 0,
+        "splashDamage": 60,
+        "splashDamageRadius": 40,
+        "instantDisappear": true,
+        "killShooter": true,
+        "hittable": false,
+        "collidesAir": true
+      }
+    }
+  ]
+}
