@@ -1,12 +1,9 @@
 {
-  "type": "UnitAssembler",
+  "type": "UnitFactory",
   "name": "[red]Mothership Factory",
   "description": "Creates slow and extremely powerful superclass units from the mod.",
   "size": 14,
   "liquidCapacity": 600,
-  "areaSize": 22,
-  "dronesCreated": 8,
-  "droneConstructTime": 360,
   "consumes": {
     "power": 43.33333333333333,
     "liquid": {
