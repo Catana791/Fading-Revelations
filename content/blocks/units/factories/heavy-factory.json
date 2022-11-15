@@ -1,6 +1,6 @@
 {
   "type": "unitFactory",
-  "name": "Heavy Factory",
+  "name": "[blue]Heavy Factory",
   "description": "Creates units from the [blue]heavy class..",
   "size": 5,
   "liquidCapacity": 300,
