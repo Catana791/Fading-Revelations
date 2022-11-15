@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
-  "name": "Scatter, V2",
-  "description": "A better version of the scatter.",
+  "name": "Shatter",
+  "description": "A better version of the Scatter.",
   "targetAir": true,
   "targetGround": false,
   "health": 1200,
