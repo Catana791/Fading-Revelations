@@ -1,7 +1,7 @@
 {
   "type": "Reconstructor",
-  "name": "Support Assembler",
-  "description": "Creates large support units.",
+  "name": "[green]Support Assembler",
+  "description": "Creates large support units of the [green]interceptor class.",
   "envDisabled": 0,
   "size": 5,
   "constructTime": 3600
