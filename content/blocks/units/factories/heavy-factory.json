@@ -1,7 +1,7 @@
 {
   "type": "unitFactory",
-  "name": "Heavy factory",
-  "description": "Creates slow and durable units from the mod.",
+  "name": "Heavy Factory",
+  "description": "Creates units from the [blue]heavy class..",
   "size": 5,
   "liquidCapacity": 300,
   "consumes": {
