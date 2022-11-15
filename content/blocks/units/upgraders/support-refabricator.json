@@ -1,7 +1,7 @@
 {
   "type": "Reconstructor",
-  "name": "Support Refabricator",
-  "description": "Creates medium sized support units.",
+  "name": "[green]Support Refabricator",
+  "description": "Creates medium sized support units by upgrading tier one support [green]interceptor units.",
   "envDisabled": 0,
   "constructTime": 2400,
   "size": 3,
