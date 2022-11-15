@@ -1,5 +1,5 @@
-name: Mega Meltdown
-description: A better version of the meltdown. Deals a tonne of damage.
+name: Armageddon
+description: A better version of the Meltdown. Deals a tonne of damage.
 type: PowerTurret
 size: 5
 liquidCapacity: 200
