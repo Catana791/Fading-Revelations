@@ -15,8 +15,10 @@
     "cone": 360,
     "lifetime": 50
   },
-  "shots": 100,
-  "spread": 5,  
+  "shoot": {
+    "shots": 100,
+    "spread": 5
+  },
   "ammoTypes": {
     "water": {
       "type": "LiquidBulletType",
