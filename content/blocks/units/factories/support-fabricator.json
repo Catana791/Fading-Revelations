@@ -1,7 +1,7 @@
 {
   "type": "unitFactory",
   "name": "[green]Support Fabricator",
-  "description": "Creates fast and cheap [green]support units.",
+  "description": "Creates fast and cheap units from the [green]interceptor class.",
   "envDisabled": 0,
   "size": 3,
   "consumes": {
