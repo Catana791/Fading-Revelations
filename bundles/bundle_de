@@ -229,5 +229,324 @@ block.me-mod-gate-walls.name = Tor: Mauern
 block.me-mod-gate-walls.description = Beinhaltet alle Mauern aus der Fading Revelations Mod.
 
 
+#liquid blocks
+
+block.me-liquid-canister.name = Flüssigkeitenkanister
+block.me-liquid-canister.description = Ein kleiner Flüssigkeitstank.
+
+block.me-plastanium-conduit.name = Plastaniumkanal
+block.me-plastanium-conduit.description = Ein Kanal aus Plastanium. Transportiert Flüssigkeiten schneller als ein Gepanzerter Kanal.
+
+block.me-steel-pump.name = Stahlpumpe
+block.me-steel-pump.description = Eine Pumpe aus Lebendstahl, welche Flüssigkeiten schneller fördert. 
+
+block.me-steel-tank.name = Stahltank
+block.me-steel-tank.description = Ein Flüssigkeitstank, welcher mit Lebendstahl gebaut wird. Ist gut gepanzert und kann größere Mengen an Flüssigkeiten lagern als ein normaler Flüssigkeitstank, obwohl beide gleich groß sind.
 
 
+#power blocks
+
+#generators
+
+block.me-advanced-solar-panel.name = Fortgeschrittenes Solarpanel
+block.me-advanced-solar-panel.description = Ein besseres Solarpanel, welches mehr Strom herstellt.
+
+block.me-ls-gen.name = Lebendstahl Thermalgenerator
+block.me-ls-gen.description = Ein Thermalgenerator, welcher mithilfe der Aktivität des Lebendstahls mehr Strom herstellen kann als ein normaler Thermalgenerator.
+
+block.me-pyratite-generator.name = Pyratitgenerator
+block.me-pyratite-generator.description = Ein Generator, welcher die hohe Entzündlichkeit von Pyratit nutzt, um größere Mengen an Strom herzustellen.
+
+block.me-slag-generator.name = Schlackengenerator
+block.me-slag-generator.description = Ein Generator, welcher Schlacke nutzt um durch Hitze Energie herzustellen.
+
+block.me-slag-reactor.name = Schlackenreaktor
+block.me-slag-reactor.description = Ein Reaktor, welcher die Hitze von Schlacke nutzt, um Energie herzustellen.
+
+block.me-steel-reactor.name = Stahlreaktor
+block.me-steel-reactor.description = Ein Reaktor, welcher die besonderen Eigenschaften von Stahl Amalgam nutzt, um große Mengen Strom zu erzeugen.
+
+block.me-turbine-concentrator.name = Turbinenkonzentrator
+block.me-turbine-concentrator.description = Ein besserer Turbinenkondensator, welcher mehr Strom herstellt.
+
+block.me-uranium-reactor.name = Uranreaktor
+block.me-uranium-reactor.description = Nutzt radioaktive Uranstäbe, um große Mengen an Strom zu erzeugen.
+
+#other power blocks
+
+block.me-advanced-surge-tower.name = Fortgeschrittener Schwall-Turm
+block.me-advanced-surge-tower.description = Ein besserer Schwallturm mit mehr Reichweite.
+
+block.me-odr-beam-node.name = Omnidirektionaler Strahlknoten
+block.me-odr-beam-node.description = Ein Strahlknoten, der Verbindungen in alle Richtungen haben kann, auch schräg.
+
+block.me-power-reserve.name = Energiereserve
+block.me-power-reserve.description = Eine RIESIGE Batterie, die enorme Mengen an Strom speichern kann.
+
+
+#production
+
+#advanced vanilla
+
+block.me-advanced-coal-centrifuge.name = Kohlenkondensator
+block.me-advanced-coal-centrifuge.description = Eine bessere Kohlenzentrifuge, welche Öl effizienter zu Kohle verarbeitet.
+
+block.me-advanced-cryofluid-mixer.name = Fortgeschrittener Kryomixer
+block.me-advanced-cryofluid-mixer.name = Eine bessere Version des Kryomixers, welche schneller und effizienter ist.
+
+block.me-advanced-separator.name = Fortgeschrittener Trenner
+block.me-advanced-separator.description = Eine bessere Version des großen Trenners, welche extrem schnell arbeitet.
+
+block.me-advanced-water-extractor.name = Fortgeschrittener Wasserextraktor
+block.me-advanced-water-extractor.description = Ein schnellerer und größerer Wasserextraktor
+
+block.me-atmospheric-extractor.name = Atmosphärischer Extraktor
+block.me-atmospheric-extractor.description = Extrahiert und konzentriert Stickstoff aus der Atmosphäre. Funktioniert mit größerer Effizienz als ein Atmosphärischer Konzentrator.
+
+block.me-atmospheric-heat-concentrator.name = Atmosphärischer Hitzekonzentrator
+block.me-atmospheric-heat-concentrator.description = Ein Block, der Hitze aus der Atmosphäre sammelt und konzentriert.
+
+block.me-big-phase-weaver.name = Phasenschmiede
+block.me-big-phase-weaver.description = Ein besserer Phasenweber.
+
+block.me-big-plastanium-press.name = Plastaniumschmiede
+block.me-big-plastanium-press.description = Ein besserer Plastanium-Verdichter.
+
+block.me-carbide-basin.name = Karbidbecken
+block.me-carbide-basin.description = Ein besserer Karbidtiegel.
+
+block.me-corrosion-chamber.name = Korrosionskammer
+block.me-corrosion-chamber.description = Eine bessere Oxidationskammer, welche Oxid effizienter herstellt und mehr Hitze ausgibt.
+
+block.me-cyanogen-fuser.name = Cyanogen-Fixiergerät
+block.me-cyanogen-fuser.description = Ein besseres Cyanogen-Synthesegerät, welches efizienter und schneller produziert.
+
+block.me-dissolver.name = Zersetzer
+block.me-dissolver.description = Ein besserer Schmelzer, der Schrott schneller zu Schlacke verarbeitet.
+
+block.me-enhanced-blast-mixer.name = Mischungsschmiede
+block.me-enhanced-blast-mixer.description = Ein besserer Sprengmixer.
+
+block.me-enhanced-pyratite-mixer.name = Pyratitschmiede
+block.me-enhanced-pyratite-mixer.description = Ein besserer Pyratitmixer.
+
+block.me-esterification-chamber.name = Veresterungskammer
+block.me-esterification-chamber.description = Eine bessere Korrosionskammer, die effizienter produziert.
+
+block.me-graphite-forge.name = Graphitschmiede
+block.me-graphite-forge.description = Eine Schmiede, die Graphit um einiges schneller herstellt als eine Graphitpresse oder eine Multipresse.
+
+block.me-greenhouse.name = Gewächshaus
+block.me-greenouse.description = Stellt Sporenpods schneller her als ein Kultivator.
+
+block.me-heat-diverter.name = Hitzeleitung
+block.me-heat-diverter.description = Eine kleinere Version des Hitzeumleiters, die Platz spart.
+
+block.me-induced-kiln.name = Induzierter Brennofen
+block.me-induced-kiln.description = Ein Brennofen, welcher Metaglas schneller herstellt.
+
+block.me-inverted-pulverizer.name = Invertierted Pulverisierer
+block.me-inverted-pulverizer.description = Ein Pulverisierer, der Schrott aus Sand herstellt. Ein Wunder!
+
+block.me-phase-manufacturer.name = Phasenmanufakteur
+block.me-phase-manufacturer.description = Ein Phasensynthesegerät, welches schneller produziert.
+
+block.me-silicon-arc-forge.name = Silizium-Lichtbogenschmiede
+block.me-silicon-arc-forge.description = Ein besserer Silizium-Lichtbogenofen
+
+block.me-silicon-forge.name = Siliziumschmiede
+block.me-silicon-forge.description = Stellt sehr schnell Silizium her.
+
+block.me-spore-crusher.name = Sporenhäcksler
+block.me-spore-crusher.description = Eine bessere Sporenpresse.
+
+block.me-surge-melter.name = Legierungs-Schmelze
+block.me-surge-melter.description = Ein besserer Spannungstiegel.
+
+block.me-surge-oven-big.name = Legierungsschmiede
+block.me-surge-oven-big.description = Stellt Spannungslegierung sehr effizient her.
+
+#ammo crafters
+
+block.me-ammo-crafter-1.name = Level 1 Munitionscrafter
+block.me-ammo-crafter-1.description = Stellt einfache Kupfermunition her.
+
+block.me-ammo-crafter-2.name = Level 2 Munitionscrafter
+block.me-ammo-crafter-2.description = Stellt durchschlagende Titanmunition her.
+
+block.me-ammo-crafter-3.name = Level 3 Munitionscrafter
+block.me-ammo-crafter-3.description = Stellt explosive Munition aus Explosiver Mischung her.
+
+block.me-heal-ammo-crafter.name = Heilmunitionscrafter
+block.me-heal-ammo-crafter.description = Stellt heilende Munition her.
+
+block.me-homing-ammo-crafter.name = Zielsuch-Munitionscrafter
+block.me-homing-ammo-crafter.description = Stellt zielsuchende Munition her.
+
+block.me-nano-ammo-crafter.name = Nanomunitionscrafter
+block.me-nano-ammo-crafter.description = Stellt Nanomunition her.
+
+block.me-nuke-crafter.name = Atombomben-Fabrik
+block.me-nuke-crafter.description = Stellt hochexplosive und hoch-radioaktive Nuklearbomben her.
+
+#living steel
+
+block.me-living-steel-forge.name = Lebendstahlschmiede
+block.me-living-steel-forge.description = Stellt Lebendstahl effizienter her als eine Lebendstahl-Infusionskammer
+
+block.me-living-steel-hardener.name = Lebendstahl-Härtungskammer
+block.me-living-steel-hardener.description = Härtet Lebendstahl zu gehärtetem Lebendstahl.
+
+block.me-living-steel-hardening-forge.name = Lebenstahl-Härtungsschmiede
+block.me-living-steel-hardening-forge.description = Härtet Lebendstahl effizienter als eine Lebendstahl-Härtungskammer.
+
+block.me-living-steel-infuser.name = Lebendstahl-Infusionskammer
+block.me-living-steel-infuser.description = Infusiert Titan mit intelligenten Sporen, um Lebendstahl herzustellen.
+
+block.me-living-steel-liquifier.name = Lebendstahl-Verflüssigungskammer
+block.me-living-steel-liquifier.description = Verflüssigt Lebendstahl indem diesem Öl zugesetzt wird.
+
+block.me-living-steel-liquifying-forge.name = Lebendstahl-Verflüssigungsschmiede
+block.me-living-steel-liquifying-forge.description = Verflüssigt Lebendstahl effizeienter als eine Lebendstahl-Verflüssigungskammer.
+
+
+#turrets
+
+#item turrets
+
+block.me-big-swarmer.name = Assail
+block.me-big-swarmer.description = Eine bessere Version des Schwärmers mit höherem Schaden und Schussgeschwindigkeit.
+
+block.me-corrupted-cyclone.name = Hurricane
+block.me-corrupted-cyclone.description = Eine bessere Version des Zyklons.
+
+block.me-gattling.name = Gattling
+block.me-gattling.description = Ein Turm, der SEHR schnell feuert. 
+
+block.me-mine-launcher.name = Minenwerfer
+block.me-mine-launcher.description = Shießt Landminen, welche für längere Zeit auf dem Boden liegen bleiben und bei Kontakt eplodieren.
+
+block.me-missile-silo.name = Raketensilo
+block.me-missile-silo.description = Braucht eine LANGE Zeit zur Vorbereitung. Shießt mit tödlichen Nuklearraketen.
+
+block.me-ore-turret.name = Itemslinger
+block.me-ore-turret.description = Shießt rohe Stücke Erz/Material auf Gegner.
+
+block.me-ring-turret.name = S.E.H.R.A.K
+block.me-ring-turret.description = Shießt zwei Schüsse, welche sich bei Kontakt oder nach einiger Entfernung in viele kleinere Kugeln aufteilen.
+
+block.me-sear.name = Brutzler
+block.me-sear.description = Eine bessere Version des Flammenwerfers. Hat mehr Reichweite und verursacht mehr Schaden.
+
+block.me-shotgun.name = Schrotflinte
+block.me-shotgun.description = Eine Schrotflinte. Gegner nehmen mehr Schaden, je näher sie an diesem Turm sind.
+
+block.me-sniper.name = Scharfschützenturm
+block.me-sniper.description = Ein Turm mit sehr hoher Reichweite und hohem Schaden aber niedriger Schussrate.
+
+block.me-sunflare.name = Sunneneruption
+block.me-sunflare.description = Der letzte Turm in der Familie des Flammenwerfers. Shießt eine große Menge tödlichen Feuers.
+
+block.me-trio.name = Trio
+block.me-trio.description = Wie ein Duo aber schießt aus 3 anstatt nur 2 Rohren.
+
+block.me-upgrade.turret.name = Von Turmheim
+block.me-upgrade-turret.description = Ein Turm, dessen Schüsse verschiedene Effekte haben, basierend auf der genutzen Munitionsart.
+
+block.me-big-scatter.name = Shatter
+block.me-big-scatter.description = Eine bessere Version des Luftgeschützes.
+
+#liquid turrets
+
+block.me-batter.name = Schläger
+block.me-batter.description = Schießt hochkonzentrierte Flüssigkeitskugeln, um Gegner zurückzuschlagen.
+
+block.me-sprunkler.name = Sprinkler
+block.me-sprunkler.description = Shießt eine große Menge an Wasser. Sollte nicht im Kampf genutzt werden sondern nur, um Feuer zu löschen.
+
+#power turrets
+
+block.me-air-arc.name = Luft Arcus
+block.me-air-arc.description = Ein Arcus, welcher nur Luftgegner anvisieren kann.
+
+block.me-big-arc.name = Arcussturm
+block.me-big-arc.description = Ein Arcus, der erhöhte Feuerkraft durch höheren Schaden und niedrigere Nachladezeit besitzt.
+
+block.me-big-parallax.name = Deracination
+block.me-big-parallax.description = Ein besserer Parallax, welcher Gegner schneller heranzieht und dabei mehr Schaden verursacht.
+
+block.me-big-segment.name = Fragment
+block.me-big-segment.description = Ein besseres Segment, welches mehr Schaden gegen Kugeln verursacht. Kann keine Laser anvisieren.
+
+block.me-cavalry.name = Kavalerie
+block.me-cavalry.description = Ein großer Stromturm, der geladene Energiekugeln auf Gegner feuert.
+
+block.me-status-wave.name = Stasiswelle
+block.me-status-wave.description = Sendet Schockwellen aus, die geringen Schaden verursachen dafür aber Gegner verlangsamen.
+
+block.me-uhlan.name = Uhlan
+block.me-uhlan.description = Eine bessere Version des Lancers.
+
+
+#unit blocks
+
+#factories
+
+block.me-heavy-factory.name = [blue]Schwere Fabrik
+block.me-heavy-factory.description = Stellt Einheiten der [blue]schweren Klasse her.
+
+block.me-interceptor-factory.name = [green]Abfang Fabrik
+block.me-interceptor-factory.description = Stellt Einheiten der [green]abfang Klasse Her.
+
+block.me-mothership-factory.name = [red]Mutterschiff Fabrik
+block.me-mothership-factory.description = Stellt Einheiten der [red]mutterschiff Klasse her.
+
+block.me-support-fabricator.name = [green]Supportfabrikator
+block.me-support-fabricator.description = Stellt Supporteinheiten der [green]abfang Klasse her.
+
+block.me-unit-repair-field.name = Einheiten Reparaturfeld
+block.me-unit-repair-field.description = Heilt durchgehend Einheite in der Reichweite. Benötigt Kryoflüssigkeit.
+
+#upgraders
+
+block.me-heavy-upgrader.name = [blue]Schwerer Verbesserer
+block.me-heavy-upgrader.description = Verbessert Einheiten der [blue]schweren Klasse.
+
+block.me-interceptor-reconstructor.name = [green]Abfang Rekonstruktor
+block.me-interceptor-reconstructor.description = Verbessert, auf die dritte Stufe, Einheiten der [green]abfang Klasse.
+
+block.me-interceptor-upgrader.name = [green]Abfangverbesserer
+block.me-interceptor-upgrader.description = Verbessert Einheiten der [green]abfang Klasse.
+
+block.me-support-assembler.name = [green]Support-Assemblierer
+block.me-support-assembler.description = Verbessert, auf die dritte Stufe, Supporteinheiten der [green]abfang Klasse.
+
+block.me-support-refabricator.name = [green]Support-Refabrikator
+block.me-support-refabricator.description = Verbessert Supporteinheiten der [green]abfang Klasse.
+
+
+#walls
+
+block.me-armored-door.name = Automatische Tür
+block.me-armored.door.description = Öffnet automatisch, wenn freundliche Einheiten in der Nähe sind. Kann nicht manuell geöffnet oder geschlossen werden.
+
+block.me-armored-wall.name = Panzermauer
+block.me-armored-wall.description = Eine bessere Geschirmte Wand.
+
+block.me-beryllium-wall-gigantic.name = Gigantische Berylliummauer
+block.me-beryllium-wall-gigantic.description = Eine gigantische Mauer aus Beryllium.
+
+block.me-beryllium-wall-huge.name = Riesige Berylliummauer
+block.me-beryllium-wall-huge.description = Eine riesige Mauer aus Beryllium.
+
+block.me-carbide-wall-gigantic.name = Gigantische Karbidmauer
+block.me-carbide-wall-gigantic.description = Eine gigantische Mauer aus Karbid.
+
+block.me-carbide-wall-huge.name = Riesige Karbidmauer
+block.me-carbide-wall-huge.description = Eine riesige Mauer aus Karbid.
+
+block.me-copper-wall-2.name = Riesige Kupfermauer
+block.me-copper-wall-2.description = Eine riesige Mauer aus Kupfer.
+
+block.me-copper-wall-3.name = Gigantische Kupfermauer
+block.me-copper-wall-3.description = Eine gigantische Mauer aus Kupfer.
