@@ -1,7 +1,7 @@
 {
     "type": "Reconstructor",
-    "name": "Heavy Upgrader",
-    "description": "Upgrades heavy units from the Fading Revelations mod.",
+    "name": "[blue]Heavy Upgrader",
+    "description": "Upgrades units from the [blue]heavy class.",
     "health": 2000,
     "size": 7,
   "liquidCapacity": 400,
