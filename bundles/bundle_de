@@ -550,3 +550,191 @@ block.me-copper-wall-2.description = Eine riesige Mauer aus Kupfer.
 
 block.me-copper-wall-3.name = Gigantische Kupfermauer
 block.me-copper-wall-3.description = Eine gigantische Mauer aus Kupfer.
+
+block.me-door-gigantic.name = Gigantische Tür
+block.me-door-gigantic.description = Eine gigantische Tür.
+
+block.me-door-huge.name = Riesige Tür
+block.me-door-huge.description = Eine riesige Tür.
+
+block.me-phase-fabric-wall-2.name = Riesige Phasenmauer
+block.me-phase-fabric-wall-2.description = Eine riesige Mauer aus Phasengewebe.
+
+block.me-phase-fabric-wall-3.name = Gigantische Phasenmauer
+block.me-phase-fabric-wall-3.description = Eine gigantische Mauer aus Phasengewebe.
+
+block.me-plastanium-wall-2.name = Riesige Plastaniummauer
+block.me-plastanium-wall-2.description = Eine riesige Mauer aus Plastanium.
+
+block.me-reinforced-surge-wall-gigantic.name = Gigantische Verstärkte Legierungsmauer
+block.me-reinforced-surge-wall-gigantic.description = Eine gigantische verstärkte Mauer aus Spannungslegierung.
+
+block.me-reinforced-surge-wall-huge.name = Riesige Verstärkte Legierungsmauer
+block.me-reinforced-surge-wall-huge.description = Eine riesige verstärkte Mauer aus Spannungslegierung.
+
+block.me-surge-alloy-wall-2.name = Riesige Legierungsmauer
+block.me-surge-alloy-wall-2.description = Eine riesige Mauer aus Spannungslegierung.
+
+block.me-surge-alloy-wall-3.name = Gigantische Legierungsmauer
+block.me-surge-alloy-wall-3.description = Eine gigantische Mauer aus Spannungslegierung.
+
+block.me-thorium-wall-2.name = Riesige Thoriummauer
+block.me-thorium-wall-2.description = Eine riesige Mauer aus Thorium.
+
+block.me-thorium-wall-3.name = Gigantische Thoriummauer
+block.me-thorium-wall-3.description = Eine gigantische Mauer aus Thorium.
+
+block.me-titanium-wall-2.name = Riesige Titanmauer
+block.me-titanium-wall-2.description = Eine riesige Mauer aus Titan.
+
+block.me-titanium-wall-3.name = Gigantische Titanmauer
+block.me-titanium-wall-3.description = Eine gigantische Mauer aus Titan.
+
+block.me-tungsten-wall-gigantic.name = Gigantische Wolframmauer
+block.me-tungsten-wall-gigantic.description = Eine gigantische Mauer aus Wolfram.
+
+block.me-tungsten-wall-huge.name = Riesige Wolframmauer
+block.me-tungsten-wall-huge.description = Eine riesige Mauer aus Wolfram.
+
+#mod walls
+
+block.me-living-steel-wall-2.name = Große Lebendstahlmauer
+block.me-living-steel-wall-2.description = Eine große Mauer aus Lebendstahl, die sich selbst sehr langsam heilen kann.
+
+block.me-living-steel-wall.name = Lebendstahlmauer
+block.me-living-steel-wall.description = Eine Mauer aus Lebendstahl, die sich selber langsam regenerieren kann.
+
+block.me-steel-alloy-wall-large.name = Große Amalgammauer
+block.me-steel-alloy-wall-large.description = Ein große Mauer aus Stahl Amalgam, die Blitze auf Gegner schießen kann.
+
+block.me-steel-alloy-wall-small.name = Amalgammauer
+block.me-steel-alloy-wall-small.description = Eine Mauer aus Stahl Amalgam, die Blitze auf Gegner schießen kann.
+
+
+
+#items
+
+#ammo
+
+item.me-ammo-level-1.name = Kupfermunition
+item.me-ammo-level-1.description = Einfache Munition aus Kupfer ohne spezielle Effekte.
+
+item.me-ammo-level-2.name = Titanmunition
+item.me-ammo-level-2.description = Munition aus Titan, die meist einen durchschlagenden Effekt hat.
+
+item.me-ammo-level-3.name = Explosive Munition
+item.me-ammo-level-3.description = Munition aus Explosiver Mischung, welche meist einen explosiven Effekt hat.
+
+item.me-heal-ammo.name = Heilmunition
+item.me-heal-ammo.description = Munition aus Sporenpods, welche meist einen heilenden Effekt hat.
+
+item.me-homing-ammo.name = Zielsuchende Munition
+item.me-homing-ammo.description = Munition aus Thorium, welche meist einen zielsuchenden Effekt hat.
+
+item.me-nano-ammo.name = Nanomunition
+item.me-nano-ammo.description = Munition aus Lebendstahl, welche meist einen Effekt hat, der Einheiten langsam verbrennt.
+
+item.me-nuke.name = Atombombe
+item.me-nuke.description = Eine Nuklearrakete, welche mit entsprechenden Silos abgefeuert werden kann.
+
+#living steel
+
+item.me-living-steel.name = Lebendstahl
+item.me-living-steel.description = Titan, welches mit intelligenten Sporen infusiert wurde, ein lebendiges Stück Metall.
+
+item.me-living-steel-hard.name = Gehärteter Lebendstahl
+item.me-living-steel-hard.description = Lebendstahl, welcher mithilfe von Thorium gehärtet wurde.
+
+#other
+
+item.me-gold.name = Gold
+item.me-gold.description = Ein glänzendes Stück Metall! Kann gegen andere resourcen eingetauscht werden.
+
+item.me-steel-alloy.name = Stahl Amalgam
+item.me-steel-alloy.description = Ein Verbundmaterial, welches aus Kupfer, Lebendstahl und Spannungslegierung hergestellt wird.
+
+item.me-uraniumrod.name = Uranstab
+item.me-uraniumrod.description = Ein radioaktiver Brennstab.
+
+
+
+#liquids
+
+liquid.me-living-steel-liquid.name = Flüssiger Lebendstahl
+liquid.me-living-steel-liquid.description = Durch Öl verflüssigter Lebendstahl.
+
+
+
+#units
+
+#core units
+
+unit.me-delta.name = Delta
+unit.me-delta.description = Beschützt den Atom Kern vor Feinden. Baut Strukturen schnell.
+
+unit.me-epsilon.name = Epsilon
+unit.me-epsilon.description = Beschützt den Element Kern vor Feinden. Baut Strukturen schnell.
+
+#heavy type
+
+unit.me-king.name = KING
+unit.me-king.description = Ausgestattet mit mehreren zielsuchenden Raketenwerfern und einer Heilkanone. Langsam aber gut gepanzert.
+
+unit.me-king-t2.name = KING, T2
+unit.me-king-t2.description = Die verbesserte Version der KING Einheit. Hat die gleiche Ausstattung aber in stärker.
+
+unit.me-tentacle.name = Tentakel
+unit.me-tentacle.description = Heißt Tentakel wegen der Panzerung an der Hinterseite. Ausgestattet mit einem hochleistungsfähigem Plasmagewehr.
+
+unit.me-carrier-flagship.name = Flugzeugträger Flaggschiff
+unit.me-carrier-flagship.description = Ausgestattet mit nur einer schwachen Waffe aber erzeugt Einheiten, die umso kampfstärker sind.
+
+#interceptor type
+
+unit.me-close-range.name = Alopex
+unit.me-close-range.description = Eine extrem schnelle Einheit mit hohem Schaden aber dafür mit sehr niedrigen Lebenspunkten.
+
+unit.me-cyano.name = Cyano
+unit.me-cyano.description = Eine mittelgroße Einheit, die darauf spezialisiert ist zu Bauen und zu Heilen.
+
+unit.me-kestrel.name = Kestrel
+unit.me-kestrel.description = Eine schnelle aber fragile Einheit mit starken offensiven Waffen.
+
+unit.me-lancer-drone.name = Areus
+unit.me-lancer-drone.description = Eine kleine Drohne, die mit 2 kleinen Lancern ausgestattet ist.
+
+unit.me-melano.name = Melano
+unit.me-melano.description = Eine große Einheit, die darauf spezialisiert ist zu Bauen und zu Heilen.
+
+unit.me-plant.name = Setzling
+unit.me-plant.description = Eine große Supporteinheit, die darauf spezialisiert ist zu Bauen und zu Heilen.
+
+unit.me-polio.name = Polio
+unit.me-polio.description = Eine kleine Einheit, die darauf spezialisiert ist zu Bauen und zu Heilen.
+
+unit.me-sapling.name = Sprößling
+unit.me-sapling.description = Eine mittelgroße Supporteinheit, die darauf spezialisiert ist zu Bauen und zu Heilen.
+
+unit.me-seed.name = Samen
+unit.me-seed.description = Eine kleine Supporteinheit, die darauf spezialisiert ist zu Bauen und zu Heilen.
+
+#mothership type
+
+unit.me-sps.name = Orbitale Angriffsplattform STRAHL
+unit.me-sps.description = Eine große Einheit ausgestattet mit mehreren Lasern, die Gegner einfrieren.
+
+unit.me-japonica.name = Japonica
+unit.me-japonica.description = Eine große Navaleinheit, die mit vielen verschiedenen Offensivwaffen ausgestattet ist und Eineiten erschaffen kann.
+
+unit.me-corax.name = Corax
+unit.me-corax.description = Eine Einheit ähnlich der Corvus Einheit aber mit verbesserten Waffensystemen.
+
+unit.me-hive.name = HIVE
+unit.me-hive.description = Eine riesige Einheit ausgestattet mit mehreren Lasern, die Gegner verbrennen.
+
+unit.me-test.name = Lycosid
+unit.me-test.description = Eine Einheit, welche sehr gut gepanzert ist und mit Elementarwaffen sowie einer großen Energiewaffe kämpft. Erschafft elementare Einheiten.
+
+
+
+#end of bundles DE
