@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
-  "name": "Swarmer NEO",
-  "description": "A better version of the swarmer. More damage and attack speed.",
+  "name": "Assail",
+  "description": "A better version of the Swarmer. More damage and attack speed.",
   "health": 1800,
   "reload": 37,
   "heatColor": "ff2020",
