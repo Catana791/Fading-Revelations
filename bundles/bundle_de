@@ -1,0 +1,233 @@
+#bundle DE
+
+
+
+#blocks
+
+
+#distribution
+
+block.me-amalgam-conveyor.name = Amalgamförderband
+block.me-amalgam-conveyor.description = Ein Förderband aus Stahl Amalgam, welches wie ein Plastaniumförderband funktioniert aber größere Mengen an Gegenständen schneller transportiert.
+
+block.me-mass-accelerator.name = Massenakzelerierer
+block.me-mass-accelerator.description = Ein besserer Massenbeschleuniger, welcher mehr Gegenstände verschießt und mehr Reichweite besitzt.
+
+block.me-surge-alloy-conveyor.name = Legierungsförderband
+block.me-surge-alloy-conveyor.description = Ein extrem schnelles Förderband aus Spannungslegierung.
+
+block.me-tiny-md.name = Winziger Massenbeschleuniger
+block.me-tiny-md.description = Ein kleiner Massenbeschleuniger, der über kurze Reichweiten funktioniert.
+
+block.me-titanium-bridge-conveyor.name = Titan Gegenstandsbrücke
+block.me-titanium-bridge-conveyor.description = Eine Gegenstandsbrücke aus Titan. Hat mehr Reichweite und transportiert Gegenstände schneller.
+
+block.me-titanium-distributor.name = Großer Titanverteiler
+block.me-titanium-distributor.description = Ein Großer Verteiler aus Titan, welcher schneller arbeitet.
+
+block.me-titanium-junction.name = Titankreuzung
+block.me-titanium-junction.descripiton = Eine Gegenstandskreuzung aus Titan, welche schneller arbeitet.
+
+block.me-titanium-router.name = Titanverteiler
+block.me-titanium-router.description = Ein Verteiler aus Titan, welcher schneller arbeitet.
+
+
+#drills/production
+
+block.me-cliff-grinder.name = Klippenschleifer
+block.me-cliff-grinder.description = Ein schnellerer Klippenbohrer.
+
+block.me-cliff-miller.name = Klippenmahler
+block.me-cliff-miller.description = Eine bessere Version des Klippenschleifers.
+
+block.me-compact-laser-drill.name = Kompakter Laserbohrer
+block.me-compact-laser-drill.description = Eine kleinere Version des Laserbohrers, welche günstiger ist.
+
+block.me-ground-crusher.name = Bodenbrecher
+block.me-ground-crusher.description = Bricht den Boden unter hohen Geschwindigkeiten und stellt somit daraus Sand mithilfe von Strom her.
+
+block.me-ground-grinder.name = Bodenschleifer
+block.me-ground-grinder.description = Schleift den Boden unter mittleren Geschwindigkeiten und stellt somit Sand mithilfe von Strom her.
+
+block.me-ground-miller.name = Bodenfräse
+block.me-ground-miller.description = Fräst den Boden unter langsamen Geschwindigkeiten und stellt somit Sand mithilfe von Strom her.
+
+block.me-hyper-drill.name = Hyperbohrer
+block.me-hyper-drill.description = Ein extrem schneller Bohrer, welcher mit Lebendstahl gebaut wurde. 
+
+block.me-mechanical-sieve.name = Mechanisches Sieb
+block.me-mechanical-sieve.description = Ein Sieb, welches langsam Gold aus Wasser filtert.
+
+block.me-pneumatic-sieve.name = Pneumatisches Sieb
+block.me-pneumatic-sieve.description = Ein pneumatishes Sieb, welches Gold aus Wasser filtert.
+
+block.me-titanium-sieve.name = Titansieb
+block.me-titanium-sieve.description = Ein Sieb aus Titan, welches Gold aus Wasser filtert.
+
+block.me-steel-sieve.name = Stahlsieb
+block.me-steel-sieve.description = Ein Sieb gebaut mit Lebendstahl, welches in der Lage ist, größere Mengen Gold aus Wasser zu filtern.
+
+block.me-oil-bore.name = Ölbohrer
+block.me-oil-bore.description = Ein besserer Ölextraktor, welcher effizienter arbeitet.
+
+block.me-tiny-mechanical-drill.name = Winziger Mechanischer Bohrer
+block.me-tiny-mechanical-drill.description = Eine kleinere Version des mechanischen Bohrers.
+
+block.me-tiny-pneumatic-drill.name = Winziger Pneumatischer Bohrer
+block.me-tiny-pneumatic-drill.description = Eine kleinere Version des mechanischen Bohrers.
+
+block.me-tiny-plasma-bore.name = Winziger Plasmabohrer
+block.me-tiny-plasma-bore.description = Eine kleinere Version des Plasmabohrers.
+
+block.me-titanium-drill.name = Titanbohrer
+block.me-titanium-drill.description = Ein Bohrer, welcher mit Titan gebaut wird. Kann alle Erze abbauen aber langsam.
+
+block.me-tungsten-bore.name = Wolframbohrer
+block.me-tungsten-bore.description = Ein Plasmabohrer aus Wolfram, welcher mehr Reichweite besitzt.
+
+block.me-vent-concentrator.name = Schlotkonzentrator
+block.me-vent-concentrator.description = Ein besserer Schlotkondensator welcher mehr Wasser herstellt.
+
+
+#effect
+
+#cores
+
+block.me-core-level-4.name = Kern: Atom
+block.me-core-level-4.description = Kern der Basis. Sehr gut gepanzert und kann eine gute Menge an Resourcen lagern.
+
+block.me-core-level-5.name = Kern: Element
+block.me-core-level-5.description = Kern der Basis. Extrem gut gepanzert und kann riesige Mengen an Resourcen lagern.
+
+block.me-main-core.name = Hauptkern
+block.me-main-core.description = Kern der Basis. Absurd gut gepanzert und kann enorme Mengen an Resourcen lagern. Kann sich selber verteidigen, bauen und abbauen.
+
+#gold exchangers
+
+block.me-gold-exchanger-copper.name = Kupfer Tauschstation
+block.me-gold-exchanger-copper.description = Eine Tauschstation, welche Kupfer nimmt und gegen Gold eintauscht.
+
+block.me-gold-exchanger-titanium.name = Titan Tauschstation
+block.me-gold-exchanger-titanium.description = Eine Tauschstation, welche Titan nimmt und gegen Gold eintauscht.
+
+block.me-gold-exchanger-thorium.name = Thorium Tauschstation
+block.me-gold-exchanger-thorium.description = Eine Tauschstation, welche Thorium nimmt und gegen Gold eintauscht.
+
+#other
+
+block.me-big-launch-pad.name = Fortgeschrittenes Launchpad
+block.me-big-launch-pad.description = Ein besseres Launchpad, welches schneller Resourcen sendet.
+
+block.me-dark-mender.name = Dunkler Reparateur
+block.me-drak-mender.description = Ein Reparaturdom, welcher Lebendstahl verwendet, um Blöcke sehr schnell zu heilen.
+
+block.me-enhanced-mend-projector.name = Reparaturdom
+block.me-enhanced-mend-projector.description = Ein besserer Reparaturprojektor.
+
+block.me-fast-unloader.name = Fortgeschrittener Entlader
+block.me-fast-unloader.description = Eine bessere Version des Entladers, welche schneller Arbeitet.
+
+block.me-force-dome.name = Kraftdom
+block.me-force-dome.description = Ein besserer Kraftfeld-Projektor, welcher einen stärkeren Schild mit mehr Reichweite aufbaut.
+
+block.me-mini-od.name = Winziger Beschleuniger
+block.me-mini-od.description = Eine kleiner Version des Beschleunigungs-Projektors.
+
+block.me-outpost.name = Außenposten
+block.me-outpost.description = Ein Block, welcher Resourcen von überall auf der Karte direkt in den Hauptkern senden kann.
+
+#trading stations
+
+block.me-bc-trading-station.name = Mischungs-Tauschstation
+block.me-bc-trading-station.description = Eine Tauschstation, die Gold gegen Explosive Mischung tauscht.
+
+block.me-coal-trading-station.name = Kohlen-Tauschstation
+block.me-coal-trading-station.description = Eine Tauschstation, die Gold gegen Kohle tauscht.
+
+block.me-graphite-trading-station.name = Graphit-Tauschstation
+block.me-graphite-trading-station.description = Eine Tauschstation, die Gold gegen Graphit tauscht.
+
+block.me-lead-trading-station.name = Blei-Tauschstation
+block.me-lead-trading-station.description = Eine Tauschstation, die Gold gegen Blei tauscht.
+
+block.me-metaglass-trading-station.name = Glas-Tauschstation
+block.me-metaglass-trading-station.description = Eine Tauschstation, welche Gold gegen Metaglas tauscht.
+
+block.me-phase-trading-station.name = Gewebe-Tauschstation
+block.me-phase-trading-station.description = Eine Tauschstation, welche Gold gegen Phasengewebe eintauscht.
+
+block.me-plastanium-trading-station.name = Plastanium-Tauschstation
+block.me-plastanium-trading-station.description = Eine Tauschstation, welche Gold gegen Plastanium eintauscht.
+
+block.me-pyratite-trading-station.name = Pyratit-Tauschstation
+block.me-pyratite-trading-station.description = Eine Tauschstation, welche Gold gegen Pyratit tauscht.
+
+block.me-sand-trading-station.name = Sand-Tauschstation
+block.me-sand-trading-station.description = Eine Tauschstation, welche Gold gegen Sand eintauscht.
+
+block.me-silicon-trading-station.name = Silizium-Tauschstation
+block.me-silicon-trading-station.description = Eine Tauschstation, welche Gold gegen Silizium tauscht.
+
+block.me-spore-pod-trading-station.name = Sporenpod-Tauschstation
+block.me-spore-pod-trading-station.description = Eine Tauschstation, die Gold gegen Sporenpods tauscht.
+
+block.me-surge-trading-station.name = Legierungs-Tauschstation
+block.me-surge-trading-station.description = Eine Tauschstation, welche Gold gegen Spannungslegierung tauscht.
+
+
+#environment
+
+block.me-steel-sedimentation.name = Stahlablagerung
+block.me-steel-sedimentation.description = Eine Ablagerung von Lebendstahl.
+
+
+#gates
+
+block.me-mod-gate-ammo.name = Tor: Munition
+block.me-mod-gate-ammo.description = Beinhaltet alle Munitionsgegenstände aus der Fading Revelations Mod.
+
+block.me-mod-gate-blocks.name = Tor: Blöcke
+block.me-mod-gate-blocks.description = Beinhaltet alle Blöcke aus der Fading Revelations Mod.
+
+block.me-mod-gate-cores.name = Tor: Kerne
+block.me-mod-gate-cores.name = Beinhaltet alle Kernblöcke aus der Fading Revelations Mod.
+
+block.me-mod-gate-crafters.name = Tor: Produktion
+block.me-mod-gate-crafters.name = Beinhaltet alle Produktionsblöcke aus der Fading Revelations Mod.
+
+block.me-mod-gate-distribution.name = Tor: Verteilung
+block.me-mod-gate-distribution.description = Beinhaltet alle Blöcke zur Verteilung aus der Fading Revelations Mod.
+
+block.me-mod-gate-drills.name = Tor: Bohrer
+block.me-mod-gate-drills.description = Beinhaltet alle Bohrer und Ähnliche Blöcke aus der Fading Revelations Mod.
+
+block.me-mod-gate-effect.name = Tor: Effekt
+block.me-mod-gate-effect.description = Beinhaltet alle Effektblöcke aus der Fading Revelations Mod.
+
+block.me-mod-gate-factories.name = Tor: Fabriken
+block.me-mod-gate-factories.description = Beinhaltet alle Einheitenfabriken aus der Fading Revelations Mod.
+
+block.me-mod-gate-items.name = Tor: Gegenstände
+block.me-mod-gate-items.description = Beinhaltet alle Gegenstände aus der Fading Revelations Mod.
+
+block.me-mod-gate-liquids.name = Tor: Flüssigkeiten
+block.me-mod-gate-liquids.description = Beinhaltet alle Blöcke aus der Fading Revelations Mod, die etwas mit Flüssigkeiten zu tun haben.
+
+block.me-mod-gate-power.name = Tor: Energie
+block.me-mod-gate-power.description = Beinhaltet alle Stromblöcke aus der Fading Revelations Mod.
+
+block.me-mod-gate-resources.name = Tor: Resourcen
+block.me-mod-gate-resources.description = Beihaltet alle Resourcen aus der Fading Revelations Mod.
+
+block.me-mod-gate-turrets.name = Tor: Türme
+block.me-mod-gate-turrets.description = Beinhaltet alle Türme aus der Fading Revelations Mod.
+
+block.me-mod-gate-units.name = Tor: Einheiten
+block.me-mod-gate-units.description = Beinhaltet alle Einheiten aus der Fading Revelations Mod.
+
+block.me-mod-gate-walls.name = Tor: Mauern
+block.me-mod-gate-walls.description = Beinhaltet alle Mauern aus der Fading Revelations Mod.
+
+
+
+
