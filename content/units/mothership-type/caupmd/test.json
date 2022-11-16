@@ -1,6 +1,6 @@
 {
   "name": "Lycosid",
-  "type": "legs",
+  "type": "[green]legs",
   "description": "A slow but very strong spider-like unit equipped with higly deadly weapons!",
   "details": "The Lycosid was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
   "speed": 0.66,
