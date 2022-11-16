@@ -1,6 +1,6 @@
 {
   "type": "flying",
-  "name": "Delta",
+  "name": "[orange]Delta",
   "description": "Defends the Atom core from enemies. Builds structures quickly.",
   "drag": 0.15,
   "speed": 4,
