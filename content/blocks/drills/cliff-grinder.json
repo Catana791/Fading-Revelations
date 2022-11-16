@@ -1,6 +1,6 @@
 {
   "type": "WallCrafter",
-  "localizedName": "Cliff Grinder",
+  "name": "Cliff Grinder",
   "description": "A faster Cliff Crusher.",
   "size": 2,
   "category": "production",
