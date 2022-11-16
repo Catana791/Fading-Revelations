@@ -1,6 +1,6 @@
 {
   "type": "HeatCrafter",
-  "localizedName": "Carbide Basin",
+  "name": "Carbide Basin",
   "description": "A better Carbide Crucible that works more efficiently.",
   "size": 4,
   "category": "crafting",
