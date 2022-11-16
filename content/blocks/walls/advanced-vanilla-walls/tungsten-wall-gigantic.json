@@ -1,6 +1,6 @@
 {
   "type": "Wall",
-  "localizedName": "Gigantic Tungsten Wall",
+  "name": "Gigantic Tungsten Wall",
   "description": "A gigantic wall made from Beryllium.",
   "size": 4,
   "health": 11520,
