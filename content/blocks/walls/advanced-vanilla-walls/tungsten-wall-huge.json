@@ -1,6 +1,6 @@
 {
   "type": "Wall",
-  "localizedName": "Huge Tungsten Wall",
+  "name": "Huge Tungsten Wall",
   "description": "A huge wall made from Tungsten.",
   "size": 3,
   "health": 6480,
