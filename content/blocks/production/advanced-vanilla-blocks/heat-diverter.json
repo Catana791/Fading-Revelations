@@ -1,6 +1,6 @@
 {
   "type": "HeatConductor",
-  "localizedName": "Heat Diverter",
+  "name": "Heat Diverter",
   "description": "A small block that is used to redirect heat to other blocks.",
   "requirements": [
     "tungsten/5"  
