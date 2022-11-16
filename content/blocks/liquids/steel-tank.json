@@ -1,6 +1,6 @@
 {
   "type": "LiquidRouter",
-  "localizedName": "Steel Tank",
+  "name": "Steel Tank",
   "description": "A liquid tank made from living steel that has more capacity than a regular liquid tank but the same size.",
   "category": "liquid",
   "research": "liquid-canister",
