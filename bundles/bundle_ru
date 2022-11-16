@@ -26,3 +26,37 @@ block.me-amalgam-conveyor.description = Конвейер который сдел
 block.me-depository.name = Депозиторий
 block.me-depository.description = Более вместительное хранилище используется чтобы хранить большое количество предметов. Можно поставить вплотную к ядру что бы увеличить его вместимость.
 
+#drills
+
+block.me-cliff-grinder.name = Измельчитель скал
+block.me-cliff-grinder.description = Более быстрый дробитель скал
+
+block.me-cliff-miller.name = 
+block.me-cliff-miller.description = Более быстрый измельчитель скал
+
+block.me-compact-laser-drill.name = Компактный лазерный бур
+block.me-compact-laser-drill.description = Уменьшенная версия лазерного бура
+
+block.me-ground-crusher.name = Дробилка для грунта
+block.me-ground-crusher.description = Дробит грунт на высокой скорости и создает песок пока использует электроэнергию.
+
+block.me-ground-grinder.name = Измельчитель для грунта
+block.me-ground-grinder.description = Медленно измельчает грунт и создает песок пока использует минимальное кол-во электроэнергии.
+
+block.me-ground-miller.name =
+block.me-ground-miller.description = Дробит землю на средней скорости и создает песок пока использует электроэнергию.
+
+block.me-hyper-drill.name = Гипердрель
+block.me-hyper-drill.description = Улучшенная воздушная буровая установка которой требуется криоген для работы. Не может копать песок так как может сломаться.
+
+block.me-mechanical-sieve.name = Механическое сито
+block.me-mechanical-sieve.description = Медленно фильтрует воду для получения золота.
+
+block.me-oil-bore.name = Нефтяной экстрактор
+block.me-oil-bore.description = Улучшенная нефтяная вышка которая работает эффективней и не имеет каких либо ограничений.
+
+
+
+
+
+
