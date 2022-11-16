@@ -1,6 +1,6 @@
 {
   "type": "flying",
-  "localizedName": "Cyano",
+  "localizedName": "[green]Cyano",
   "description": "A medium sized unit specialized in healing and building. Equipped with multiple healing lasers and a healing field. Can mine ores.",
   "health": 660,
   "hitSize": 20,
