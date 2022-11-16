@@ -1,6 +1,6 @@
 {
   "type": "AttributeCrafter",
-  "localizedName": "Vent Concentrator",
+  "name": "Vent Concentrator",
   "description": "A better Vent Condensator that creates more water.",
   "size": 3,
   "attribute": "steam",
