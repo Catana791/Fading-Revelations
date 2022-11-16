@@ -1,6 +1,6 @@
 {
   "type": "Wall",
-  "localizedName": "Gigantic Carbide Wall",
+  "name": "Gigantic Carbide Wall",
   "description": "A gigantic wall made out of Carbide. Is armored.",
   "category": "defense",
   "requirements": [
