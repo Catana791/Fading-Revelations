@@ -1,6 +1,6 @@
 {
   "type": "HeatCrafter",
-  "localizedName": "Atmospheric Extractor",
+  "name": "Atmospheric Extractor",
   "description": "Extracts and concentrates Nitrogen out of the atmosphere. Works more efficiently than an Atmospheric Concentrator.",
   "size": 4,
   "hasLiquids": true,
