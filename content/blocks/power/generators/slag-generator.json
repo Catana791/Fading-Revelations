@@ -1,6 +1,6 @@
 {
   "type": "ConsumeGenerator",
-  "localizedName": "Slag Generator",
+  "name": "Slag Generator",
   "description": "A generator that uses the heat of Slag to make power.",
   "size": 3,
   "health": 785,
