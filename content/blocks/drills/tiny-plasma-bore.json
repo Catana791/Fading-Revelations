@@ -1,6 +1,6 @@
 {
   "type": "BeamDrill",
-  "localizedName": "Tiny Plasma Bore",
+  "name": "Tiny Plasma Bore",
   "description": "A small version of the Plasma Bore.",
   "size": 1,
   "category": "production",
