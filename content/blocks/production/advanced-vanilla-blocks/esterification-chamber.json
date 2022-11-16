@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "localizedName": "Esterification Chamber",
+  "name": "Esterification Chamber",
   "description": "A better Electrolyzer that works more efficiently.",
   "size": 4,
   "requirements": [
