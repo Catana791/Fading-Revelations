@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "localizedName": "Dissolver",
+  "name": "Dissolver",
   "description": "A larger and more powerful Melter.",
   "category": "crafting",
   "research": "mod-gate-crafters",
