@@ -55,6 +55,15 @@ block.me-mechanical-sieve.description = Медленно фильтрует во
 block.me-oil-bore.name = Нефтяной экстрактор
 block.me-oil-bore.description = Улучшенная нефтяная вышка которая работает эффективней и не имеет каких либо ограничений.
 
+block.me-pneumatic-sieve.name = Пневматическое сито
+block.me-pneumatic-sieve.description = Фильтрует воду быстрее чем механическое сито.
+
+block.me-titanium-sieve.name = Титановое сито
+block.me-titanium-sieve.description = Фильтрует воду быстрее чем пневматическое сито.
+
+block.me-steel-sieve.name = Стальное сито
+block.me-steel-sieve.description = Фильтрует большое количество воды с еще большей скоростью, чем его предшественник, и каждый раз отфильтровывает больше золота.
+
 
 
 
