@@ -1,6 +1,6 @@
 {
   "type": "HeatProducer",
-  "localizedName": "Corrosion Chamber",
+  "name": "Corrosion Chamber",
   "description": "A better Oxidation Chamber that creates Oxide more efficiently and outputs more heat.",
   "category": "crafting",
   "size": 4,
