@@ -1,6 +1,6 @@
 {
   "type": "BeamDrill",
-  "localizedName": "Tungsten Bore",
+  "name": "Tungsten Bore",
   "description": "A Plasma Bore made from Tungsten. Has more range than a normal Plasma Bore.",
   "size": 2,
   "category": "production",
