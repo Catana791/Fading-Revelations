@@ -1,1 +1,28 @@
+#blocks
+
+#distribution
+
+block.me-surge-alloy-conveyor.name = Кинетический конвейер
+block.me-surge-alloy-conveyor.description = Очень быстрый конвейер.
+
+block.me-titanium-router.name = Титановый маршрутизатор
+block.me-titanium-router.description = Более быстрый маршрутизатор который сделан из титана.
+
+block.me-titanium-junction.name = Титановый перекрёсток
+block.me-titanium-junction.description = Более быстрый перекрёсток который сделан из титана.
+
+block.me-titanium-bridge-conveyor.name = Титановый мостовой конвейер 
+block.me-titanium-bridge-conveyor.description = Более быстрый мостовой конвейер с большим радиусом действия. Весьма полезный.
+
+block.me-mini-mass-driver.name = Мини электромагнитная катапульта
+block.me-mini-mass-driver.description = Маленькая катапульта которая стреляет мешьшим кол-вом ресурсов и имеет меньший радиус стрельбы.
+
+block.me-mass-accelerator.name = Массивная электромагнитная катапульта
+block.me-mass-accelerator.description = Массивная катапульта которая может стрелять большим кол-вом ресурсов и имеет больший радиус.
+
+block.me-amalgam-conveyor.name = Амальгамовый конвейер
+block.me-amalgam-conveyor.description = Конвейер который сделан из стального амальгама который работает как пластановый конвейер но перевозит предметы большими пачками и быстрее.
+
+block.me-depository.name = Депозиторий
+block.me-depository.description = Более вместительное хранилище используется чтобы хранить большое количество предметов. Можно поставить вплотную к ядру что бы увеличить его вместимость.
 
