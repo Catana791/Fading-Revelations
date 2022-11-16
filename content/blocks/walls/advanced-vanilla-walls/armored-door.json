@@ -1,6 +1,6 @@
 {
   "type": "AutoDoor",
-  "localizedName": "Armored Door",
+  "name": "Armored Door",
   "description": "A door that opens automatically for allied units. Cannot be manually opened or closed.",
   "category": "defense",
   "requirements": [
