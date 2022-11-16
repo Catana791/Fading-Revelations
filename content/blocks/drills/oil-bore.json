@@ -1,6 +1,6 @@
 {
   "type": "Fracker",
-  "localizedName": "Oil Bore",
+  "name": "Oil Bore",
   "description": "A better oil extractor that runs more efficiently and doesn't have tile restrictions.",
   "health": 590,
   "result": "oil",
