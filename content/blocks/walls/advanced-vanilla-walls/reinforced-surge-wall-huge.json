@@ -1,6 +1,6 @@
 {
   "type": "Wall",
-  "localizedName": "Huge Reinforced Surge Wall",
+  "name": "Huge Reinforced Surge Wall",
   "description": "A huge wall made out of Surge Alloy and Tungsten. Is armored.",
   "category": "defense",
   "requirements": [
