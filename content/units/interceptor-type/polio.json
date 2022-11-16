@@ -1,6 +1,6 @@
 {
   "type": "flying",
-  "localizedName": "Polio",
+  "localizedName": "[green]Polio",
   "description": "A small unit specialized in healing and building. Equipped with a healing laser.",
   "health": 210,
   "hitSize": 12,
