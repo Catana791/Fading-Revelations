@@ -1,6 +1,6 @@
 {
   "type": "StackConveyor",
-  "localizedName": "Amalgam Conveyor",
+  "name": "Amalgam Conveyor",
   "description": "A conveyor made from Steel Amalgam that works similarly to a plastanium conveyor but transports items in bigger stacks and faster.",
   "category": "distribution",
   "requirements": [
