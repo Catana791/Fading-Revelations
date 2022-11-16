@@ -1,5 +1,5 @@
 {
-  "localizedName": "Depository",
+  "name": "Depository",
   "description": "A larger Vault used to store large amounts of items. Can be placed next to a core to expand it's storage capacity.",
   "type": "StorageBlock",
   "size": 4,
