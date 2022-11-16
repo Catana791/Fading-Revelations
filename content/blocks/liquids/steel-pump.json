@@ -1,6 +1,6 @@
 {
   "type": "Pump",
-  "localizedName": "Steel Pump",
+  "name": "Steel Pump",
   "description": "A pump made using living steel that uses power to pump great amounts of liquid.",
   "hasPower": true,
   "hasLiquids": true,
