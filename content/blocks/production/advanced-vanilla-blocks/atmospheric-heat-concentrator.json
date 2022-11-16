@@ -1,6 +1,6 @@
 {
   "type": "HeatProducer",
-  "localizedName": "Atmospheric Heat Concentrator",
+  "name": "Atmospheric Heat Concentrator",
   "description": "A heat producer that extracts heat from erekirs hot atmosphere.",
   "size": 2,
   "rotateDraw": false,
