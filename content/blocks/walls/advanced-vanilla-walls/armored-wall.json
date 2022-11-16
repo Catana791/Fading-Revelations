@@ -1,6 +1,6 @@
 {
   "type": "ShieldWall",
-  "localizedName": "Armored Wall",
+  "name": "Armored Wall",
   "description": "A better Shielded Wall that has more health and a stronger shield. Uses Carbide.",
   "category": "defense",
   "research": "shielded-wall",
