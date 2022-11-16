@@ -1,6 +1,6 @@
 {
   "type": "payload",
-  "localizedName": "Melano",
+  "localizedName": "[green]Melano",
   "description": "A large unit specialized in healing and building. Equipped with multiple healing lasers and a healing field. Can mine ores. This tier also has some but limited defensive capabilities. Can carry payload.",
   "health": 1100,
   "hitSize": 26,
