@@ -1,6 +1,6 @@
 {
   "type": "WallCrafter",
-  "localizedName": "Cliff Miller",
+  "name": "Cliff Miller",
   "description": "A faster Cliff Grinder.",
   "size": 3,
   "category": "production",
