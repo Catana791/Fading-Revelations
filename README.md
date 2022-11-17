@@ -131,10 +131,6 @@ Effect Blocks:
 
 <br>
 
-Trading Blocks:
-
-![Trading_Preview]
-
 <br>
 <br>
 
