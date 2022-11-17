@@ -81,6 +81,8 @@ A huge content extension mod!
 
 <br>
 
+<div align = center>
+
 Turrets:
 
 ![Turret_Preview]
@@ -93,7 +95,7 @@ Production Blocks:
 
 <br>
 
-Distribution Blocks:
+Distribution and Liquid Blocks:
 
 ![Distribution_Preview]
 
