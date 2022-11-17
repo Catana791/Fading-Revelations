@@ -95,3 +95,26 @@ block.me-core-level-4.description = Ядро базы. Хорошо бронир
 block.me-core-level-5.name = Ядро: Элемент
 block.me-core-level-5.description = Ядро базы. Очень хорошо бронирован и хранит огромное количество ресурсов.
 
+block.me-main-core.name = Основное Ядро
+block.me-main-core.description = Ядро базы. Невероятно хорошо бронирован и хранит огромное количество ресурсов. Не защищен каким либо юнитом но может сам строить, копать и защищать себя.
+
+#gold exchangers
+
+block.me-gold-exchanger-copper.name = Станция обмена медью
+block.me-gold-exchanger-copper.description = Обменивает медь на золото
+
+block.me-gold-exchanger-thorium.name = Станция обмена торием
+block.me-gold-exchanger-thorium.description = Обменивает торий на золото
+
+block.me-gold-exchanger-titanium.name = Станция обмена титана
+block.me-gold-exchanger-titanium.description = Обменивает титан на золото
+
+#other
+
+block.me-big-launch-pad.name = Улучшенная пусковая площадка
+block.me-big-launch-pad.description = Используется технология с применением живой стали чтобы запускать предметы быстрее чем обычная пусковая площадка. Может быть ускоренна водой.
+
+
+
+
+
