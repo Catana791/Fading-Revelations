@@ -170,6 +170,62 @@ block.me-spore-pod-trading-station.description = Обменивает Золот
 block.me-surge-trading-station.name = Станция обмена на Кинетический сплав
 block.me-surge-trading-station.description = Обменивает Золото на Кинетический сплав
 
+#environment
+
+block.me-steel-sedimentation.name = Месторождение Живой стали
+block.me-steel-sedimentation.description = Месторождение Живой стали. Может быть добыта но остерегайтесь того что он повреждает проходящих по нему юнитов и замедляет их.
+
+#gates
+
+block.me-mod-gate-ammo.name = Ворота: Патроны
+block.me-mod-gate-ammo.description = 
+
+block.me-mod-gate-blocks.name = Ворота: Блоки
+block.me-mod-gate-blocks.description = 
+
+block.me-mod-gate-cores.name = Ворота: Ядра
+block.me-mod-gate-cores.description = 
+
+block.me-mod-gate-crafters.name = Ворота: 
+block.me-mod-gate-crafters.description = 
+
+block.me-mod-gate-distribution.name = Ворота: Дистрибуция
+block.me-mod-gate-distribution.description = 
+
+block.me-mod-gate-drills.name = Ворота: Буры
+block.me-mod-gate-drills.description = 
+
+block.me-mod-gate-effect.name = Ворота:
+block.me-mod-gate-effect.description = 
+
+block.me-mod-gate-factories.name = Ворота: Заводы
+block.me-mod-gate-factories.description = 
+
+block.me-mod-gate-items.name = Ворота: Предметы
+block.me-mod-gate-items.description = 
+
+block.me-mod-gate-liquids.name = Ворота: Жидкости
+block.me-mod-gate-liquids.description = 
+
+block.me-mod-gate-main.name = Ворота: Fading Revelations
+block.me-mod-gate-main.description = 
+
+block.me-mod-gate-power.name = Ворота: Электричество
+block.me-mod-gate-power.description = 
+
+block.me-mod-gate-resources.name = Ворота:
+block.me-mod-gate-resources.description = 
+
+block.me-mod-gate-turrets.name = Ворота: Турели
+block.me-mod-gate-turrets.description = 
+
+block.me-mod-gate-units.name = Ворота: Юниты
+block.me-mod-gate-units.description = 
+
+block.me-mod-gate-walls.name = Ворота: Стены
+block.me-mod-gate-walls.description = 
+
+
 
 
 
