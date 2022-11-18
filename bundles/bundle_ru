@@ -178,52 +178,52 @@ block.me-steel-sedimentation.description = Месторождение Живой
 #gates
 
 block.me-mod-gate-ammo.name = Ворота: Патроны
-block.me-mod-gate-ammo.description = 
+block.me-mod-gate-ammo.description = Это ворота ко всей аммуниции мода Fading Revelations.
 
 block.me-mod-gate-blocks.name = Ворота: Блоки
-block.me-mod-gate-blocks.description = 
+block.me-mod-gate-blocks.description = Это ворота ко всем блокам мода Fading Revelations.
 
 block.me-mod-gate-cores.name = Ворота: Ядра
-block.me-mod-gate-cores.description = 
+block.me-mod-gate-cores.description = Это ворота ко всем ядрам мода Fading Revelations.
 
-block.me-mod-gate-crafters.name = Ворота: 
-block.me-mod-gate-crafters.description = 
+block.me-mod-gate-crafters.name = Ворота: Крафтеры
+block.me-mod-gate-crafters.description = Это ворота 
 
 block.me-mod-gate-distribution.name = Ворота: Дистрибуция
-block.me-mod-gate-distribution.description = 
+block.me-mod-gate-distribution.description = Это ворота ко всем конвеерам и остальным схожим блокам мода Fading Revelations.
 
 block.me-mod-gate-drills.name = Ворота: Буры
-block.me-mod-gate-drills.description = 
+block.me-mod-gate-drills.description = Это ворота ко всем бурам мода Fading Revelations.
 
-block.me-mod-gate-effect.name = Ворота:
-block.me-mod-gate-effect.description = 
+block.me-mod-gate-effect.name = Ворота: Эффекты
+block.me-mod-gate-effect.description = Это ворота ко всем эффектам мода Fading Revelations.
 
 block.me-mod-gate-factories.name = Ворота: Заводы
-block.me-mod-gate-factories.description = 
+block.me-mod-gate-factories.description = Это ворота ко всем заводам мода Fading Revelations.
 
 block.me-mod-gate-items.name = Ворота: Предметы
-block.me-mod-gate-items.description = 
+block.me-mod-gate-items.description = Это ворота ко всем предметам мода Fading Revelations.
 
 block.me-mod-gate-liquids.name = Ворота: Жидкости
-block.me-mod-gate-liquids.description = 
+block.me-mod-gate-liquids.description = Это ворота ко всем жидкостям мода Fading Revelations.
 
 block.me-mod-gate-main.name = Ворота: Fading Revelations
-block.me-mod-gate-main.description = 
+block.me-mod-gate-main.description = Это ворота ко всему контенту мода Fading Revelations.
 
 block.me-mod-gate-power.name = Ворота: Электричество
-block.me-mod-gate-power.description = 
+block.me-mod-gate-power.description = Это ворота ко всем генераторам мода Fading Revelations.
 
-block.me-mod-gate-resources.name = Ворота:
-block.me-mod-gate-resources.description = 
+block.me-mod-gate-resources.name = Ворота: Ресурсы
+block.me-mod-gate-resources.description = Это ворота ко всем ресусам мода Fading Revelations.
 
 block.me-mod-gate-turrets.name = Ворота: Турели
-block.me-mod-gate-turrets.description = 
+block.me-mod-gate-turrets.description = Это ворота ко всем турелям мода Fading Revelations.
 
 block.me-mod-gate-units.name = Ворота: Юниты
-block.me-mod-gate-units.description = 
+block.me-mod-gate-units.description = Это ворота ко всем юнитам мода Fading Revelations.
 
 block.me-mod-gate-walls.name = Ворота: Стены
-block.me-mod-gate-walls.description = 
+block.me-mod-gate-walls.description = Это ворота ко всем стенам мода Fading Revelations.
 
 
 
