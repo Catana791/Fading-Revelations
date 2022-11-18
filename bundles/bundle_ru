@@ -225,7 +225,19 @@ block.me-mod-gate-units.description = Это ворота ко всем юнит
 block.me-mod-gate-walls.name = Ворота: Стены
 block.me-mod-gate-walls.description = Это ворота ко всем стенам мода Fading Revelations.
 
+#liquid blocks
 
+block.me-liquid-canister.name = Цистерна
+block.me-liquid-canister.description = Маленькая цистерна для хранения жидкости
+
+block.me-plastanium-conduit.name = Изолированный трубопровод
+block.me-plastanium-conduit.description = Более быстрый трупопровод
+
+block.me-steel-pump.name = Стальная помпа
+block.me-steel-pump.description =  Помпа сделана с применением живой стали 
+
+block.me-steel-tank.name = Стальной резреувар
+block.me-steel-tank.description = Резеувар сделанный из живой стали имеет большую емкость чем обычный резеувар но все тех же размеров.
 
 
 
