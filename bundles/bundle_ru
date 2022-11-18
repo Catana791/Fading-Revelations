@@ -100,14 +100,14 @@ block.me-main-core.description = Ядро базы. Невероятно хор�
 
 #gold exchangers
 
-block.me-gold-exchanger-copper.name = Станция обмена медью
-block.me-gold-exchanger-copper.description = Обменивает медь на золото
+block.me-gold-exchanger-copper.name = Станция обмена Меди
+block.me-gold-exchanger-copper.description = Обменивает Медь на Золото
 
-block.me-gold-exchanger-thorium.name = Станция обмена торием
-block.me-gold-exchanger-thorium.description = Обменивает торий на золото
+block.me-gold-exchanger-thorium.name = Станция обмена Тория
+block.me-gold-exchanger-thorium.description = Обменивает Торий на Золото
 
-block.me-gold-exchanger-titanium.name = Станция обмена титана
-block.me-gold-exchanger-titanium.description = Обменивает титан на золото
+block.me-gold-exchanger-titanium.name = Станция обмена Титана
+block.me-gold-exchanger-titanium.description = Обменивает Титан на Золото
 
 #other
 
@@ -133,4 +133,47 @@ block.me-outpost.name = Аванпост
 block.me-outpost.description = Аванпост может быть построен где угодно на карте и он может передать все входящие в него предметы напрямую в ядро.
 
 #trading stations
+
+block.me-bc-trading-station.name = Станция обмена на Взрывчатую смесь
+block.me-bc-trading-station.description = Обменивает Золото на Взрывчатую смесь
+
+block.me-coal-trading-station.name = Станция обмена на Уголь
+block.me-coal-trading-station.description = Обменивает Золото на Уголь
+
+block.me-graphite-trading-station.name = Станция обмена на Графит
+block.me-graphite-trading-station.description = Обменивает Золото на Графит
+
+block.me-lead-trading-station.name = Станция обмена на Свинец
+block.me-lead-trading-station.description = Обменивает Золото на Свинец
+
+block.me-metaglass-trading-station.name = Станция обмена на Метастекло
+block.me-metaglass-trading-station.description = Обменивает Золото на Метастекло
+
+block.me-phase-trading-station.name = Станция обмена на Фазовую ткань
+block.me-phase-trading-station.description = Обменивает Золото на Фазовую ткань
+
+block.me-plastanium-trading-station.name = Станция обмена на Пластан
+block.me-plastanium-trading-station.description = Обменивает Золото на Пластан
+
+block.me-pyratite-trading-station.name = Станция обмена на Пиротит
+block.me-pyratite-trading-station.description = Обменивает Золото на Пиротит
+
+block.me-sand-trading-station.name = Станция обмена на Песок
+block.me-sand-trading-station.description = Обменивает Золото на Песок
+
+block.me-silicon-trading-station.name = Станция обмена на Кремний
+block.me-silicon-trading-station.description = Обменивает Золото на Кремний
+
+block.me-spore-pod-trading-station.name = Станция обмена на Споровые стручки
+block.me-spore-pod-trading-station.description = Обменивает Золото на Споровые стручки
+
+block.me-surge-trading-station.name = Станция обмена на Кинетический сплав
+block.me-surge-trading-station.description = Обменивает Золото на Кинетический сплав
+
+
+
+
+
+
+
 
