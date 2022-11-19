@@ -5,7 +5,7 @@
   "hardness": 5,
   "flammability": 0.5,
   "explosiveness": 2,
-  "radioactivity": 1,
+  "radioactivity": 2,
   "research": {
     "parent": "uraniumrod",
     "requirements": [
