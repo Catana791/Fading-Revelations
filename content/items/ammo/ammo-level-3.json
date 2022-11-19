@@ -4,8 +4,8 @@
   "cost": 2.5,
   "color": "df0505",
   "hardness": 3,
-  "flammability": 1,
-  "explosiveness": 1,
+  "flammability": 0.3,
+  "explosiveness": 0.6,
   "research": {
     "parent": "ammo-level-2",
     "requirements": [
