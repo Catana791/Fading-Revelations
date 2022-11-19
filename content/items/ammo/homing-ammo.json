@@ -4,8 +4,9 @@
   "cost": 2.5,
   "color": "df21fa",
   "hardness": 1,
-  "flammability": 2,
-  "explosiveness": 3,
+  "flammability": 0.2,
+  "explosiveness": 1.2,
+  "radioactivity": 0.3,
   "research": {
     "parent": "heal-ammo",
     "requirements": [
