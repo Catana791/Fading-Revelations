@@ -4,8 +4,9 @@
   "cost": 2.5,
   "color": "6d59c6",
   "hardness": 4,
-  "flammability": 0.5,
+  "flammability": 0.3,
   "explosiveness": 0,
+  "radioactivity": 0.2,
   "research": {
     "parent": "living-steel",
     "requirements": [
