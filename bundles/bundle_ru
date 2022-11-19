@@ -239,6 +239,37 @@ block.me-steel-pump.description =  Помпа сделана с применен
 block.me-steel-tank.name = Стальной резреувар
 block.me-steel-tank.description = Резеувар сделанный из живой стали имеет большую емкость чем обычный резеувар но все тех же размеров.
 
+#power blocks
+
+#generators
+
+block.me-advanced-solar-panel.name = Улучшенная солнечная панель
+block.me-advanced-solar-panel.description = Улучшенная солнечная панель которая занимает столько же места что и предыдущая её версия.
+
+block.me-ls-gen.name = Термальный генератор из живой стали
+block.me-ls-gen.description = Производит тепло благодаря споровой активности в живой стали. Более эффективный чем обычный термальный генератор.
+
+block.me-pyratite-generator.name = Пиротитовый генератор 
+block.me-pyratite-generator.description = Использует высокую воспламеняемость пиротита чтобы вырабатывать хорошее количество энергии.
+
+block.me-slag-generator.name = Шлаковый генератор
+block.me-slag-generator.description = Генератор который использует тепло шлака для выработки электроэнергии.
+
+block.me-slag-reactor.name = Шлаковый реактор
+block.me-slag-reactor.description = Реактор который использует тепло шлака для выработки электроэнергии.
+
+block.me-steel-reactor.name = Амальгамовый генератор
+block.me-steel-reactor.description = Использует высоковоспламеняемый Стальной амальгам чтобы вырабатывать большое количество энергии.
+
+block.me-turbine-concentrator.name = Турбинный концентратор
+block.me-turbine-concentrator.description = Похож на Турбынный конденсатор но производит больше энергии и воды
+
+block.me-uranium-reactor.name = Атомная Электростанция
+block.me-uranium-reactor.description = Реактор который использует урановые стержни чтобы производить огромное количество энергии. Очень сильно взорвется если вовремя не охладить!
+
+
+
+
 
 
 
