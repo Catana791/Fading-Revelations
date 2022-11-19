@@ -4,8 +4,8 @@
   "cost": 2.5,
   "color": "6e0268",
   "hardness": 0.5,
-  "flammability": 0,
-  "explosiveness": 0.3,
+  "flammability": 0.6,
+  "explosiveness": 0.1,
   "research": {
     "parent": "homing-ammo",
     "requirements": [
