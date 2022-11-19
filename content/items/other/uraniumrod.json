@@ -5,7 +5,7 @@
   "color": "22b400",
   "flammability": 0.1,
   "explosiveness": 0.2,
-  "radioactivity": 1,
+  "radioactivity": 2,
   "research": {
     "parent": "mod-gate-resources",
     "requirements": [
