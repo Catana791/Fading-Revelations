@@ -1,0 +1,31 @@
+{
+  "name": "Living Steel Thermal Generator",
+  "description": "Produces heat in hot locations using intelligent spore steel activity. Is more efficient than the normal thermal generator.",
+  "type": "ThermalGenerator",
+  "attribute": "heat",
+  "powerProduction": 0.42,
+  "category": "power",
+  "research": "mod-gate-power"
+  "requirements": [
+    {
+      "item": "copper",
+      "amount": 10
+    },
+    {
+      "item": "lead",
+      "amount": 15
+    },
+    {
+      "item": "metaglass",
+      "amount": 10
+    },
+    {
+      "item": "graphite",
+      "amount": 8
+    },
+    {
+      "item": "silicon",
+      "amount": 8
+    }
+  ]
+}
