@@ -278,6 +278,70 @@ block.me-odr-beam-node.description = Работает как обычный си
 block.me-power-reserve.name = Резервная батарея
 block.me-power-reserve.description = Гигантская батарея, способная накапливать огромное количество энергии.
 
+#production
+
+#advanced vanilla
+
+block.me-advanced-coal-centrifuge.name = Угольный пресс
+block.me-advanced-coal-centrifuge.description = Сжимает нефть в уголь. Намного эффективней чем его оригинал.
+
+block.me-advanced-cryofluid-mixer.name = Улучшенная мешалка криогенной жидкости
+block.me-advanced-cryofluid-mixer.description = Смешивает титан и воду эффективнее чтобы делать больше криогена.
+
+block.me-advanced-separator.name = Улучшенный отделитель
+block.me-advanced-separator.description = Улучшенный отделитель которому нужем металолом и шлак для работы. Выводит гораздо больше предметов.
+
+block.me-advanced-water-extractor.name = Улучшенный гидронасос
+block.me-advanced-water-extractor.description = 
+
+block.me-atmospheric-extractor.name = 
+block.me-atmospheric-extractor.description =
+
+block.me-atmospheric-heat-concentrator.name = 
+block.me-atmospheric-heat-concentrator.description =
+
+block.me-big-phase-weaver.name = 
+block.me-big-phase-weaver.description =
+
+block.me-big-plastanium-press.name = 
+block.me-big-plastanium-press.description =
+
+block.me-carbide-basin.name = 
+block.me-carbide-basin.description =
+
+block.me-corrosion-chamber.name = 
+block.me-corrosion-chamber.description =
+
+block.me-cyanogen-fuser.name = 
+block.me-cyanogen-fuser.description =
+
+block.me-dissolver.name = 
+block.me-dissolver.description =
+
+block.me-enhanced-blast-mixer.name = 
+block.me-enhanced-blast-mixer.description =
+
+block.me-enhanced-pyratite-mixer.name = 
+block.me-enhanced-pyratite-mixer.description =
+
+block.me-esterification-chamber.name = 
+block.me-esterification-chamber.description =
+
+block.me-graphite-forge.name = 
+block.me-graphite-forge.description =
+
+block.me-greenhouse.name = 
+block.me-greenouse.description =
+
+block.me-heat-diverter.name = 
+block.me-heat-diverter.description =
+
+block.me-induced-kiln.name = 
+block.me-induced-kiln.description =
+
+block.me-inverted-pulverizer.name = 
+block.me-inverted-pulverizer.description =
+
 
 
 
