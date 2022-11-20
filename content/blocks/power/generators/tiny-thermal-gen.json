@@ -5,7 +5,22 @@
   "attribute": "heat",
   "powerProduction": 0.42,
   "category": "power",
-  "research": "mod-gate-power"
+  "research": "mod-gate-power",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawCrucibleFlame" 
+      },
+      {
+        "type": "DrawDefault" 
+      }
+    ]
+  },
   "requirements": [
     {
       "item": "copper",
