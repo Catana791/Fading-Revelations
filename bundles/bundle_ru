@@ -292,16 +292,16 @@ block.me-advanced-separator.name = Улучшенный отделитель
 block.me-advanced-separator.description = Улучшенный отделитель которому нужем металолом и шлак для работы. Выводит гораздо больше предметов.
 
 block.me-advanced-water-extractor.name = Улучшенный гидронасос
-block.me-advanced-water-extractor.description = 
+block.me-advanced-water-extractor.description = Улучшенная версия гидронасоса. Требует меньше энергии для работы и выдает больше воды.
 
-block.me-atmospheric-extractor.name = 
-block.me-atmospheric-extractor.description =
+block.me-atmospheric-extractor.name = Атмосферный экстрактор
+block.me-atmospheric-extractor.description = Извлекает и концентрирует водород из атмосферы. Работает эффективнее атмосферного концентратора.
 
-block.me-atmospheric-heat-concentrator.name = 
-block.me-atmospheric-heat-concentrator.description =
+block.me-atmospheric-heat-concentrator.name = Атмосферный концентратор тепла
+block.me-atmospheric-heat-concentrator.description = Производит тепло благодаря горячей атмосфере Эрекира.
 
-block.me-big-phase-weaver.name = 
-block.me-big-phase-weaver.description =
+block.me-big-phase-weaver.name = Кузница фазовой ткани
+block.me-big-phase-weaver.description = Улучшенная ферсия фазового ткача. Более эффективная.
 
 block.me-big-plastanium-press.name = 
 block.me-big-plastanium-press.description =
