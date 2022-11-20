@@ -303,17 +303,17 @@ block.me-atmospheric-heat-concentrator.description = Производит теп
 block.me-big-phase-weaver.name = Кузница фазовой ткани
 block.me-big-phase-weaver.description = Улучшенная ферсия фазового ткача. Более эффективная.
 
-block.me-big-plastanium-press.name = 
-block.me-big-plastanium-press.description =
+block.me-big-plastanium-press.name = Пластановая кузница
+block.me-big-plastanium-press.description = Улучшенный пластановый компрессор. Более эффективная.
 
-block.me-carbide-basin.name = 
-block.me-carbide-basin.description =
+block.me-carbide-basin.name = Карбидовый бассейн
+block.me-carbide-basin.description = Улучшенный карбидовый тигель который более эффективный.
 
-block.me-corrosion-chamber.name = 
-block.me-corrosion-chamber.description =
+block.me-corrosion-chamber.name = Коррозионная камера
+block.me-corrosion-chamber.description = Улучшенная окислительная камера Производит оксид и тепло более эффективно.
 
-block.me-cyanogen-fuser.name = 
-block.me-cyanogen-fuser.description =
+block.me-cyanogen-fuser.name = Термоблок циана
+block.me-cyanogen-fuser.description = Соединяет Аркицит и Графит чтобы создавать большее количество Циана чем в обычном Синтезаторе циана.
 
 block.me-dissolver.name = 
 block.me-dissolver.description =
