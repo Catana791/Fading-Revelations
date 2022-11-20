@@ -1,7 +1,7 @@
 {
   "name": "Cyanogen Fuser",
   "type": "HeatCrafter",
-  "description": "Joins Arkycite and Graphite to make larger amounts of Cyanogen than a normal Cyanogen Snythesizer.",
+  "description": "Joins Arkycite and Graphite to make larger amounts of Cyanogen than a normal Cyanogen Synthesizer.",
   "size": 4,
   "category": "crafting",
   "research": "cyanogen-synthesizer",
