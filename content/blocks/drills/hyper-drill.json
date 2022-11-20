@@ -5,6 +5,7 @@
 "blockedItem": "sand",
   "updateEffectChance": 0.1,
   "drawMineItem": false,
+  "warmupSpeed": 0.025,
 "size": 5, 
 "updateEffect": 
     {
