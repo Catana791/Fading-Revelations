@@ -1,0 +1,6 @@
+{
+  "type": "StaticWall",
+  "size": 2,
+  "name": "Large Living Steel Wall",
+  "attributes": ["spores"]
+}
