@@ -1,0 +1,6 @@
+{
+  "type": "StaticWall",
+  "name": "Large Petrified Steel Wall",
+  "size": 2,
+  "attributes": ["spores"]
+}
