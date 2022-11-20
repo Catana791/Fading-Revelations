@@ -3,7 +3,7 @@
   "description": "Produces heat in hot locations.",
   "type": "ThermalGenerator",
   "attribute": "heat",
-  "powerProduction": 0.42,
+  "powerProduction": 1.6,
   "category": "power",
   "research": "mod-gate-power",
   "drawer": {
