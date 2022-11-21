@@ -339,28 +339,28 @@ block.me-heat-diverter.description = Маленький блок который 
 block.me-induced-kiln.name = Индукционная печь
 block.me-induced-kiln.description = Улучшенная печь которая более эффективна.
 
-block.me-inverted-pulverizer.name = 
-block.me-inverted-pulverizer.description =
+block.me-inverted-pulverizer.name = Инвертированный измельчитель
+block.me-inverted-pulverizer.description = Превращяет песок в металолом. Не спрашивай как тебе нужно волноваться на счет того насколько это полезно.
 
 block.me-phase-manufacturer.name = 
-block.me-phase-manufacturer.description =
+block.me-phase-manufacturer.description = Улучшенный фазовый синтезатор который работает более эффективно.
 
-block.me-silicon-arc-forge.name = 
-block.me-silicon-arc-forge.description =
+block.me-silicon-arc-forge.name = Кремниевая дуговая кузница
+block.me-silicon-arc-forge.description = Улучшенная версия кремнеивой дуговой печи которая производит кремний более эффективно.
 
-block.me-silicon-forge.name = 
-block.me-silicon-forge.description 
+block.me-silicon-forge.name = Кремниевая кузница
+block.me-silicon-forge.description = Улучшенная кремниевая плавильня которая работает эффективнее.
 
-block.me-spore-crusher.name = 
-block.me-spore-crusher.description 
+block.me-spore-crusher.name = Споровый дробитель
+block.me-spore-crusher.description = Производит нефть разрушая споровые стручки.
 
-block.me-surge-melter.name = 
-block.me-surge-melter.description =
+block.me-surge-melter.name = Плавильня кинетического сплава
+block.me-surge-melter.description = Улучшенная версия тигеля кинетического сплава которая работает эффективнее.
 
-block.me-surge-oven-big.name = 
-block.me-surge-oven-big.description =
+block.me-surge-oven-big.name = Кузня кинетического сплава
+block.me-surge-oven-big.description = Улучшенная плавильня которая работает эффективнее.
 
-
+#ammo crafters
 
 
 
