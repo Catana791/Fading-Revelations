@@ -315,32 +315,52 @@ block.me-corrosion-chamber.description = Улучшенная окислител
 block.me-cyanogen-fuser.name = Термоблок циана
 block.me-cyanogen-fuser.description = Соединяет Аркицит и Графит чтобы создавать большее количество Циана чем в обычном Синтезаторе циана.
 
-block.me-dissolver.name = 
-block.me-dissolver.description =
+block.me-dissolver.name = Разлагатель
+block.me-dissolver.description = Увеличенный в размерах и более мощный мусоросжигатель.
 
-block.me-enhanced-blast-mixer.name = 
-block.me-enhanced-blast-mixer.description =
+block.me-enhanced-blast-mixer.name = Усовершенствованная мешалка взрывчатой смеси
+block.me-enhanced-blast-mixer.description = Усовершенствованная мешалка. Сильно нагревается при работе поэтому используется графит для изоляции.
 
-block.me-enhanced-pyratite-mixer.name = 
-block.me-enhanced-pyratite-mixer.description =
+block.me-enhanced-pyratite-mixer.name = Усовершенствованная мешалка пиротита
+block.me-enhanced-pyratite-mixer.description = Усовершенствованная мешалка. Сильно нагревается при работе поэтому используется графит для изоляции.
 
-block.me-esterification-chamber.name = 
-block.me-esterification-chamber.description =
+block.me-esterification-chamber.name = Камера эстерификации
+block.me-esterification-chamber.description = Улучшенный Электролизер который работает более эффективно.
 
-block.me-graphite-forge.name = 
-block.me-graphite-forge.description =
+block.me-graphite-forge.name = Графитовая кузня
+block.me-graphite-forge.description = Улучшенная версия графитового пресса которая работает быстрей и эффективней.
 
-block.me-greenhouse.name = 
-block.me-greenouse.description =
+block.me-greenhouse.name = Теплица
+block.me-greenouse.description = Улучшенный культиватор который создает больше споровых стручков.
 
-block.me-heat-diverter.name = 
-block.me-heat-diverter.description =
+block.me-heat-diverter.name = Уменьшенный тепловой перенаправитель
+block.me-heat-diverter.description = Маленький блок который используется для перенаправления тепла в другие блоки.
 
-block.me-induced-kiln.name = 
-block.me-induced-kiln.description =
+block.me-induced-kiln.name = Индукционная печь
+block.me-induced-kiln.description = Улучшенная печь которая более эффективна.
 
 block.me-inverted-pulverizer.name = 
 block.me-inverted-pulverizer.description =
+
+block.me-phase-manufacturer.name = 
+block.me-phase-manufacturer.description =
+
+block.me-silicon-arc-forge.name = 
+block.me-silicon-arc-forge.description =
+
+block.me-silicon-forge.name = 
+block.me-silicon-forge.description 
+
+block.me-spore-crusher.name = 
+block.me-spore-crusher.description 
+
+block.me-surge-melter.name = 
+block.me-surge-melter.description =
+
+block.me-surge-oven-big.name = 
+block.me-surge-oven-big.description =
+
+
 
 
 
