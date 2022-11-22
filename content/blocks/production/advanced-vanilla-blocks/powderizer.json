@@ -18,7 +18,10 @@
     }
   },
   "craftTime": 20,
-  "outputItem": {"sand/1"},
+  "outputItem": {
+     "item": "sand",
+    "amount": 1
+  },
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
