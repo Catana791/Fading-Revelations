@@ -5,6 +5,7 @@
   "size": 2,
   "category": "crafting",
   "research": "mod-gate-crafters",
+  "craftEffect": "pulverize",
   "requirements": [
      "copper/70",
      "lead/60"
