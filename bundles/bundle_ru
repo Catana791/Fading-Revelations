@@ -362,6 +362,32 @@ block.me-surge-oven-big.description = Улучшенная плавильня к
 
 #ammo crafters
 
+block.me-ammo-crafter-1.name = Изготовитель боеприпасов 1 уровень
+block.me-ammo-crafter-1.description = Изготавливает медные пули из меди и угля.
+
+block.me-ammo-crafter-2.name = Изготовитель боеприпасов 2 уровень
+block.me-ammo-crafter-2.description = Изготавливает титановые пули из титана и угля.
+
+block.me-ammo-crafter-3.name = Изготовитель боеприпасов 3 уровень
+block.me-ammo-crafter-3.description = Изготавливает взрывные пули из взрывчатой смеси и угля.
+
+block.me-heal-ammo-crafter.name = Изготовитель ремонтирующих пуль
+block.me-heal-ammo-crafter.description = Изготавливает лечащие пули используя споровые стручки и уголь. Используется в турелях, эти патроны могут ремонтировать союзные постройки.
+
+block.me-homing-ammo-crafter.name =
+block.me-homing-ammo-crafter.description = 
+
+block.me-nano-ammo-crafter.name = 
+block.me-nano-ammo-crafter.description = 
+
+block.me-nuke-crafter.name = 
+block.me-nuke-crafter.description =
+
+
+
+
+
+
 
 
 
