@@ -1,0 +1,46 @@
+{
+  "type": "GenericCrafter",
+  "name": "Powderizer",
+  "description": "A better and bigger version of the pulverizer.",
+  "size": 2,
+  "category": "crafting",
+  "research": "mod-gate-crafters",
+  "requirements": [
+     "copper/70",
+     "lead/60"
+  ],
+  "consumes": {
+    "power": 0.75,
+    "items": {
+      "items": [
+        "scrap/1"  
+      ]
+    }
+  },
+  "craftTime": 20,
+  "outputItem": "sand/1",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-rotator",
+        "spinSprite": true,
+        "rotateSpeed": 0.8
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-rotator2",
+        "spinSprite": true,
+        "rotateSpeed": -0.8
+      },
+      {
+        "type": "DrawDefault 
+      }
+    ]
+  }
+}
