@@ -6,6 +6,8 @@
   "category": "crafting",
   "research": "mod-gate-crafters",
   "craftEffect": "pulverize",
+  "ambientSound": "grinding",
+  "ambientSoundVolume": 0.4,
   "requirements": [
      "copper/70",
      "lead/60"
