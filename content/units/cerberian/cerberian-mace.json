@@ -11,12 +11,12 @@
     {
       "top": false,
       "name": "cerberian-flamethrower",
-      "shootSound": "flame",
+      "loopSound": "torch",
       "shootY": 2,
-      "reload": 120,
+      "reload": 180,
       "recoil": 1,
       "ejectEffect": "none",
-      "alternate": true,
+      "continuous": true,
       "bullet": {
         "type": "ContinuousFlameBulletType",
         "drawFlare": false,
