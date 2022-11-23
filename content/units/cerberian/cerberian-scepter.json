@@ -1,0 +1,78 @@
+{
+  "type": "mech",
+  "name": "Cerberian Scepter",
+  "description": "A re-manufactured version of the Scepter unit.",
+  "speed": 0.36,
+  "hitSize": 22,
+  "rotateSpeed": 2.1,
+  "health": 9000,
+  "armor": 10,
+  "mechFrontSway": 1,
+  "mechStepParticles": true,
+  "stepShake": 0.15,
+  "singleTarget": true,
+  "drownTimeMultiplier": 4,
+  "weapons": [
+    {
+      "name": "cerberian-scepter-weapon",
+      "top": false,
+      "y": 1,
+      "x": 16,
+      "shootY": 8,
+      "reload": 45,
+      "recoil": 5,
+      "shake": 2,
+      "ejectEffect": "casing3",
+      "shootSound": "bang",
+      "inaccuracy": 3,
+      "shoot": {
+        "shots": 3,
+        "shotDelay": 4
+      },
+      "bullet": {
+        "type": "BasicBulletType",
+        "width": 11,
+        "height": 20,
+        "lifetime": 25,
+        "speed": 7,
+        "damage": 60,
+        "shootEffect": "shootBig",
+        "lightning": 2,
+        "lightningLength": 7,
+        "lightningColor": "6d7dff",
+        "lightningDamage": 22
+      },
+      {
+        "name": "cerberian-mount-weapon",
+        "reload": 13,
+        "x": 8.5,
+        "y": 6,
+        "rotate": true,
+        "ejectEffect": "casing1",
+        "rotate": true,
+        "bullet": {
+           "type": "LightningBulletType",
+          "lightningLength": 38,
+          "lightningDamage": 10,
+          "pierce": false,
+        }
+      },
+      {
+        "name": "cerberian-mount-weapon",
+        "reload": 16,
+        "x": 8.5,
+        "y": -7,
+        "rotate": true,
+        "ejectEffect": "casing1",
+        "bullet": {
+          "type": "BasicBulletType",
+          "speed": 3,
+          "damage": 10,
+          "lifetime": 50",
+          "width": 7,
+          "height": 9
+        }
+      }
+    }
+  ]
+}
