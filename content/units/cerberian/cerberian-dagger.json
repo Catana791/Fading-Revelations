@@ -4,7 +4,7 @@
   "description": "A stronger version of the Dagger unit typically found on Serpulo.",
   "speed": 0.5,
   "hitSize": 8,
-  "legs": 2,
+  "legCount": 2,
   "health": 150,
   "weapons": [
     {
