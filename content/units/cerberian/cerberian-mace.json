@@ -9,7 +9,7 @@
   "immunities": ["burning"],
   "weapons": [
     {
-      "top": false",
+      "top": false,
       "name": "cerberian-flamethrower",
       "shootSound": "flame",
       "shootY": 2,
