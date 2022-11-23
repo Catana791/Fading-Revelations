@@ -8,7 +8,6 @@
   "targetAir": false,
   "health": 900,
   "armor": 9,
-  "outlines": false,
   "mechFrontSway": 0.55,
   "weapons": [
     {
