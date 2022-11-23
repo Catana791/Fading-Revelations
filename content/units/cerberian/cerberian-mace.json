@@ -27,7 +27,7 @@
         "width": 2,
         "largeHit": false,
         "damageInterval": 40,
-        "damage": 17,
+        "damage": 85,
         "lifetime": 240,
         "pierce": true,
         "pierceCap": 2,
@@ -36,7 +36,8 @@
         "pierceBuilding": true,
         "buildingDamageMultiplier": 0.5,
         "speed": 8,
-        "fadeTime": 20
+        "fadeTime": 20,
+        "pierceArmor": false
       }
     }
   ]
