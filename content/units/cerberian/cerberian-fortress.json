@@ -34,8 +34,8 @@
         "collidesTiles": true,
         "splashDamageRadius": 42,
         "splashDamage": 85,
-        "backColor": "f9c27a",
-        "frontColor": "fff8e8"
+        "backColor": "5461c5",
+        "frontColor": "6d7dff"
       }
     } 
   ]
