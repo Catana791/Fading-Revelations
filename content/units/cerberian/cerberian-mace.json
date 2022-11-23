@@ -32,7 +32,7 @@
         "despawnEffect": "none",
         "status": "burning",
         "pierceBuilding": true,
-        "buildingDamageMultiplier": 0.5 3.36
+        "buildingDamageMultiplier": 0.5
       }
     }
   ]
