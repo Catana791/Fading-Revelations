@@ -11,7 +11,7 @@
     {
       "top": false,
       "name": "cerberian-flamethrower",
-      "loopSound": "torch",
+      "shootSound": "torch",
       "shootY": 2,
       "reload": 180,
       "recoil": 1,
