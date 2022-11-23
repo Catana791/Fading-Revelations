@@ -21,7 +21,7 @@
         "type": "ContinuousFlameBulletType",
         "drawFlare": false,
         "colors": ["043F98", "1165C1", "9CDEEB", "B7E8EB", "66BEF9", "309AF1"],
-        "length": 12,
+        "length": 16,
         "width": 4,
         "largeHit": false,
         "damageInterval": 20,
