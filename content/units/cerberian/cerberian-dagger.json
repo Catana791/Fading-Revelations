@@ -1,0 +1,26 @@
+{
+  "type": "legs",
+  "name": "Cerberian Dagger",
+  "description": "A stronger version of the Dagger unit typically found on Serpulo.",
+  "speed": 0.5,
+  "hitSize": 8,
+  "health": 150,
+  "weapons": [
+    {
+      "name": "large-cerberian-weapon",
+      "reload": 9,
+      "x": 4,
+      "y": 2,
+      "top": false,
+      "ejectEffect": "casing1",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 2.5,
+        "damage": 11,
+        "width": 7,
+        "height": 9,
+        "lifetime": 90
+      }
+    }
+  ]
+}
