@@ -1,11 +1,10 @@
 {
-  "type": "legs",
+  "type": "mech",
   "name": "Cerberian Dagger",
   "description": "A stronger version of the Dagger unit typically found on Serpulo.",
   "speed": 0.5,
   "hitSize": 8,
-  "legCount": 1,
-  "lockLegBase": true,
+  "flying": false,
   "health": 150,
   "weapons": [
     {
