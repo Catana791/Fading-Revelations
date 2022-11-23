@@ -18,6 +18,7 @@
       "alternate": false,
       "recoil": 1,
       "ejectEffect": "none",
+      "shootY": 2,
       "continuous": true,
       "bullet": {
         "type": "ContinuousFlameBulletType",
