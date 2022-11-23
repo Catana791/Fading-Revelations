@@ -35,7 +35,6 @@
         "despawnEffect": "none",
         "status": "burning",
         "pierceBuilding": true,
-        "buildingDamageMultiplier": 0.5,
         "speed": 8,
         "fadeTime": 20,
         "pierceArmor": false
