@@ -19,7 +19,9 @@
         "damage": 11,
         "width": 7,
         "height": 9,
-        "lifetime": 90
+        "lifetime": 90,
+        "frontColor": "5461c5",
+        "backColor": "6d7dff"
       }
     }
   ]
