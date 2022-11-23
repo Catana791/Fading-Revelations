@@ -5,6 +5,7 @@
   "speed": 0.5,
   "hitSize": 8,
   "legCount": 1,
+  "lockLegBase": true,
   "health": 150,
   "weapons": [
     {
