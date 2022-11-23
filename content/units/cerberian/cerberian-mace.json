@@ -1,0 +1,39 @@
+{
+  "type": "mech",
+  "name": "Cerberian Mace",
+  "description": "A unit similar to a Mace from Serpulo but stronger. Shoots with a different type of Flamethrower.",
+  "speed": 0.5,
+  "hitSize": 10,
+  "health": 550,
+  "armor": 4,
+  "immunities": ["burning"],
+  "weapons": [
+    {
+      "top": false",
+      "name": "cerberian-flamethrower",
+      "shootSound": "flame",
+      "shootY": 2,
+      "reload": 70,
+      "recoil": 1,
+      "ejectEffect": "none",
+      "alternate": true,
+      "bullet": {
+        "type": "ContinuousFlameBulletType",
+        "drawFlare": false,
+        "colors": ["043F98", "1165C1", "9CDEEB", "B7E8EB", "66BEF9", "309AF1"],
+        "length": 12,
+        "width": 4,
+        "largeHit": false,
+        "damageInterval": 20,
+        "damage": 30,
+        "lifetime": 60,
+        "pierce": true,
+        "pierceCap": 2,
+        "despawnEffect": "none",
+        "status": "burning",
+        "pierceBuilding": true,
+        "buildingDamageMultiplier": 0.5 3.36
+      }
+    }
+  ]
+}
