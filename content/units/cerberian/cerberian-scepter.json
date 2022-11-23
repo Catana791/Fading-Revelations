@@ -41,7 +41,8 @@
         "lightningLength": 7,
         "lightningColor": "6d7dff",
         "lightningDamage": 22
-      },
+      }
+    },
       {
         "name": "cerberian-mount-weapon",
         "reload": 13,
