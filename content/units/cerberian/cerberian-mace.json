@@ -13,7 +13,7 @@
       "name": "cerberian-flamethrower",
       "shootSound": "flame",
       "shootY": 2,
-      "reload": 150,
+      "reload": 120,
       "recoil": 1,
       "ejectEffect": "none",
       "alternate": true,
