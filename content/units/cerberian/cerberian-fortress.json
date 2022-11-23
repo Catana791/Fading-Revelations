@@ -1,0 +1,42 @@
+{
+  "name": "Cerberian Fortress",
+  "type": "mech",
+  "description": "An upgraded version of the Fortress that hails from Cerbero.",
+  "speed": 0.43,
+  "hitSize": 13,
+  "rotateSpeed": 3,
+  "targetAir": false,
+  "health": 900,
+  "armor": 9,
+  "mechFrontSway": 0.55,
+  "weapons": [
+    {
+      "name": "cerberian-artillery",
+      "top": false,
+      "y": 1,
+      "x": 9,
+      "reload": 40,
+      "recoil": 3,
+      "shake": 2,
+      "ejectEffect": "casing2",
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "ArtilleryBulletType",
+        "hitEffect": "blastExplosion",
+        "knockback": 0.8,
+        "lifetime": 140,
+        "sprite": "shell",
+        "speed": 2.2,
+        "damage": 28,
+        "width": 14,
+        "height": 14,
+        "collides": true,
+        "collidesTiles": true,
+        "splashDamageRadius": 42,
+        "splashDamage": 85,
+        "backColor": "f9c27a",
+        "frontColor": "fff8e8"
+      }
+    } 
+  ]
+}
