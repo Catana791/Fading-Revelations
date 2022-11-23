@@ -28,7 +28,7 @@
         "width": 2,
         "largeHit": false,
         "damageInterval": 40,
-        "damage": 85,
+        "damage": 90,
         "lifetime": 240,
         "pierce": true,
         "pierceCap": 2,
