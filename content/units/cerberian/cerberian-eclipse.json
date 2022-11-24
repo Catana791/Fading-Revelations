@@ -28,7 +28,7 @@
       "rotate": true,
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 125,
+        "damage": 120,
         "sideAngle": 20,
         "sideWidth": 1.5,
         "sideLength": 80,
@@ -51,7 +51,7 @@
       "bullet": {
         "type": "MissileBulletType",
         "speed": 4,
-        "damage": 18,
+        "damage": 16,
         "splashDamage": 67,
         "splashDamageRadius": 25,
         "collidesGround": true,
@@ -105,7 +105,7 @@
       "bullet": {
         "type": "MissileBulletType",
         "speed": 4,
-        "damage": 18,
+        "damage": 16,
         "splashDamage": 67,
         "splashDamageRadius": 25,
         "collidesGround": true,
