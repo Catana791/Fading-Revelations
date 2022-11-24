@@ -1,0 +1,50 @@
+{
+  "type": "flying",
+  "flying": true,
+  "name": "Cerberian Horizon",
+  "description": "A Horizon-like unit that throws down stronger bombs.",
+  "health": 340,
+  "speed": 1.65,
+  "accel": 0.08,
+  "drag": 0.016,
+  "hitSize": 10,
+  "targetAir": false,
+  "engineOffset": 7.8,
+  "range": 140,
+  "faceTarget": false,
+  "armor": 3,
+  "itemCapacity": 0,
+  "targetFlags": ["factory"],
+  "circleTarget": true,
+  "weapons": [
+    {
+      "minShootVelocity": 0.75,
+      "x": 3,
+      "ShootY": 0,
+      "shootCone": 180,
+      "ejectEffect": "none",
+      "inaccuracy": 15,
+      "ignoreRotation": true,
+      "shootSound": "none",
+      "bullet": {
+        "type": "BombBulletType",
+        "speed": 27,
+        "damage": 25,
+        "width": 10,
+        "height": 14,
+        "hitEffect": "flakExplosion",
+        "shootEffect": "none",
+        "smokeEffect": "none",
+        "status": "blasted",
+        "statusDuration": 60,
+        "fragBullets": 2,
+        "fragBullet": {
+          "type": "BasicBulletType",
+          "speed": 2,
+          "lifetime": 20,
+          "damage": 2
+        }
+      }
+    }
+  ]
+}
