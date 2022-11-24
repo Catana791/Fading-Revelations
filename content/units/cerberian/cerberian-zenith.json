@@ -1,0 +1,56 @@
+{
+  "type": "flying",
+  "flying": true,
+  "name": "Cerberian Zenith",
+  "description": "A unit similar to a Zenith but the missile launchers fire barrages of missiles instead of single ones.",
+  "health": 700,
+  "speed": 1.7,
+  "accel": 0.04,
+  "drag": 0.016,
+  "flying": true,
+  "range": 140,
+  "hitSize": 20,
+  "lowAltitude": true,
+  "forceMultiTarget": true,
+  "armor": 5,
+  "targetFlags": ["launchPad", "storage", "battery"],
+  "engineOffset": 12,
+  "engineSize": 3,
+  "weapons": [
+    {
+      "name": "cerberian-zenith-missiles",
+      "reload": 40,
+      "x": 7,
+      "rotate": true,
+      "shake": 1,
+      "shoot": {
+        "shots": 4,
+        "shotDelay": 7
+      },
+      "velocityRnd": 0.2,
+      "shootSound": "missile",
+      "inaccuracy": 5,
+      "bullet": {
+        "type": "MissileBulletType",
+        "speed": 3,
+        "damage": 8,
+        "width": 8,
+        "height": 8,
+        "shrinkY": 0,
+        "drag": -0.003,
+        "homingRange": 60,
+        "keepVelocity": false,
+        "splashDamageRadius": 28,
+        "splashDamage": 16,
+        "lifetime": 50,
+        "trailColor": "5461c5",
+        "backColor": "5461c5",
+        "frontColor": "6d7dff",
+        "hitEffect": "blastExplosion",
+        "despawnEffect": "blastExplosion",
+        "weaveScale": 6,
+        "weaveMag": 1
+      }
+    }
+  ]
+}
