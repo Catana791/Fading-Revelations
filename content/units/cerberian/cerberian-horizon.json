@@ -28,8 +28,8 @@
       "shootSound": "none",
       "bullet": {
         "type": "BombBulletType",
-        "speed": 27,
-        "damage": 25,
+        "radius": 25,
+        "damage": 27,
         "width": 10,
         "height": 14,
         "hitEffect": "flakExplosion",
