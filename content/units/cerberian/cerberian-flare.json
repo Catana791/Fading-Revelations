@@ -1,5 +1,5 @@
 {
-  "type": "flying";
+  "type": "flying",
   "flying": true,
   "name": "Cerberian Flare",
   "description": "A unit similar to a Flare from Serpulo but with upgraded weaponry.",
