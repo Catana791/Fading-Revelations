@@ -27,12 +27,11 @@
         "shots": 2,
         "shotDelay": 7
       },
-      "shadow": 6,
       "rotate": true,
       "bullet": {
         "type": "MissileBulletType",
         "speed": 2.7,
-        "damage": 10,
+        "damage": 11,
         "width": 8,
         "height": 8,
         "shrinkY": 0,
@@ -61,12 +60,11 @@
         "shots": 2,
         "shotDelay": 7
       },
-      "shadow": 6,
       "rotate": true,
       "bullet": {
         "type": "MissileBulletType",
         "speed": 2.7,
-        "damage": 10,
+        "damage": 11,
         "width": 8,
         "height": 8,
         "shrinkY": 0,
@@ -94,14 +92,15 @@
       "ejectEffect": "none",
       "shootSound": "laser",
       "rotate": true,
-      "shadow": 8,
       "bullet": {
         "type": "LaserBulletType",
         "pierce": false,
-        "damage": 165,
+        "damage": 200,
         "width": 12,
         "lifetime": 25,
-        "colors": ["5461c5", "99a4ff", "ffffff"]
+        "colors": ["5461c5", "99a4ff", "ffffff"],
+        "pierceCap": 1,
+        "pierceBuilding": false
       }
     }
   ]
