@@ -24,6 +24,7 @@
       "shootCone": 180,
       "ejectEffect": "none",
       "inaccuracy": 15,
+      "reload": 12,
       "ignoreRotation": true,
       "shootSound": "none",
       "bullet": {
