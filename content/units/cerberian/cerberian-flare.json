@@ -1,0 +1,35 @@
+{
+  "type": "flying";
+  "flying": true,
+  "name": "Cerberian Flare",
+  "description": "A unit similar to a Flare from Serpulo but with upgraded weaponry.",
+  "speed": 2.7,
+  "accel": 0.08,
+  "drag": 0.04,
+  "health": 70,
+  "engineOffset": 5.75,
+  "targetFlags": ["generator"],
+  "hitSize": 9,
+  "itemCapacity": 10,
+  "weapons": [
+    {
+      "y": 0,
+      "x": 2,
+      "reload": 20,
+      "ejectEffect": "casing1",
+      "shootSound": "pew",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 2.5,
+        "damage": 11,
+        "width": 7,
+        "height": 9,
+        "lifetime": 45,
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "frontColor": "6d7dff",
+        "backColor": "5461c5"
+      }
+    }
+  ]
+}
