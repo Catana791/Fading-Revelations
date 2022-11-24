@@ -208,7 +208,7 @@
     },
     {
       "type": "UnitSpawnAbility",
-      "unit": "zenith",
+      "unit": "risso",
       "spawnTime": 1200,
       "spawnX": 0,
       "spawnY": -70,
