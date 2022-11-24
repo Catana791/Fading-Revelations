@@ -1,0 +1,108 @@
+{
+  "type": "flying",
+  "name": "Cerberian Antumbra",
+  "description": "A unit with technology similar to that of the Serpulo Antumbra but the main cannons shoot a laser instead of regular bullets.",
+  "speed": 0.8,
+  "accel": 0.04,
+  "drag": 0.04,
+  "rotateSpeed": 1.9,
+  "flying": true,
+  "lowAltitude": true,
+  "health": 7200,
+  "armor": 9,
+  "engineOffset": 21,
+  "engineSize": 5.3,
+  "hitSize": 46,
+  "targetFlags": ["generator", "core"],
+  "weapons": [
+    {
+      "name": "cerberian-missile-mount",
+      "y": 8,
+      "x": 17,
+      "reload": 20,
+      "ejectEffect": "casing1",
+      "rotateSpeed": 8,
+      "shootSound": "missile",
+      "shoot": {
+        "shots": 2,
+        "shotDelay": 7
+      },
+      "shadow": 6,
+      "rotate": true,
+      "bullet": {
+        "type": "MissileBulletType",
+        "speed": 2.7,
+        "damage": 10,
+        "width": 8,
+        "height": 8,
+        "shrinkY": 0,
+        "drag": -0.01",
+        "splashDamageRadius": 20,
+        "splashDamage": 19,,
+        "lifetime": 50,
+        "hitEffect": "blastExplosion",
+        "despawnEffect": "blastExplosion",
+        "trailColor": "5461c5",
+        "frontColor": "6d7dff",
+        "backColor": "5461c5",
+        "status": "blasted",
+        "statusDuration": 60
+      }
+    },
+    {
+      "name": "cerberian-missile-mount",
+      "y": -8,
+      "x": 17,
+      "reload": 35,
+      "ejectEffect": "casing1",
+      "rotateSpeed": 8,
+      "shootSound": "missile",
+      "shoot": {
+        "shots": 2,
+        "shotDelay": 7
+      },
+      "shadow": 6,
+      "rotate": true,
+      "bullet": {
+        "type": "MissileBulletType",
+        "speed": 2.7,
+        "damage": 10,
+        "width": 8,
+        "height": 8,
+        "shrinkY": 0,
+        "drag": -0.01",
+        "splashDamageRadius": 20,
+        "splashDamage": 19,,
+        "lifetime": 50,
+        "hitEffect": "blastExplosion",
+        "despawnEffect": "blastExplosion",
+        "trailColor": "5461c5",
+        "frontColor": "6d7dff",
+        "backColor": "5461c5",
+        "status": "blasted",
+        "statusDuration": 60
+      }
+    },
+    {
+      "name": "cerberian-large-bullet-mount",
+      "x": 10,
+      "y": 2,
+      "shootY": 10,
+      "reload": 48,
+      "shake": 1,
+      "rotateSpeed": 2,
+      "ejectEffect": "none",
+      "shootSound": "laser",
+      "rotate": true,
+      "shadow": 8,
+      "bullet": {
+        "type": "LaserBulletType",
+        "pierce": false,
+        "damage": 165,
+        "width": 12,
+        "lifetime": 25,
+        "colors": ["5461c5", "99a4ff", "ffffff"]
+      }
+    }
+  ]
+}
