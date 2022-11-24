@@ -94,8 +94,8 @@
     },
     {
       "name": "cerberian-large-artillery",
-      "x": -13,
-      "y": 20,
+      "y": -13,
+      "x": 20,
       "rotateSpeed": 2,
       "reload": 9,
       "shootSound": "spark",
