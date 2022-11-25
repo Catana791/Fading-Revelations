@@ -1,7 +1,7 @@
 {
   "type": "legs",
   "name": "Cerberian Arkyid",
-  "description": "A unit with an appearance close to that of an Arkyid but instead of the main cannon shooting fragging artillery, this unit's main cannon shoots an emp bullet.",
+  "description": "A unit with an appearance close to that of an Arkyid but instead of the main cannon shooting artillery bullets, it shoots a mixed liquid shell.",
   "drag": 0.1,
   "speed": 0.62,
   "hitSize": 23,
@@ -98,29 +98,37 @@
       "rotate": true,
       "recoil": 3,
       "bullet": {
-        "type": "EmpBulletType",
-        "radius": 30,
-        "hitUnits": true,
-        "damage": 12
-        "scaleLife": true,
-        "unitDamageScl": 1,
-        "healPercent": 0,
-        "timeIncrease": 3,
-        "timeDuration": 1800,
-        "powerDamageScl": 3,
-        "lifetime": 60,
-        "speed": 4,
-        "trailLength": 7,
-        "trailWidth": 2,
-        "trailColor": "03a2a2"
-        "frontColor": "03a2a2",
-        "backColor": "017979",
-        "shrinkY": 0,
-        "trailInterval": 3,
-        "splashDamage": 70,
-        "splashDamageRadius": 30,
-        "hitShake": 5,
-        "trailRotation": true
+        "type": "LiquidBulletType",
+        "speed": 2,
+        "damage": 0,
+        "liquid": "slag",
+        "splashDamage": 30,
+        "splashDamageRadius": 70,
+        "orbSize": 8,
+        "fragBullets": 1,
+        "lifetime": 70,
+        "status": "melting",
+        "fragBullet": {
+          "type": "liquidBulletType",
+          "liquid": "oil",
+          "speed": 1,
+          "orbSize": 6,
+          "damage": 0,
+          "splashDamage": 20,
+          "splashDamageRadius": 70,
+          "status": "tarred",
+          "fragBullets": 3,
+          "lifetime": 55,
+          "fragBullet": {
+            "type": "LiquidBulletType",
+            "liquid": "cryofluid",
+            "speed": 2,
+            "lifetime": 30,
+            "damage": 0,
+            "splashDamage": 20,
+            "splashDamageRadius": 70
+          }
+        }
       }
     }
   ]
