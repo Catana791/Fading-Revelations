@@ -6,7 +6,7 @@
   "legPairOffset": 3,
   "legLength": 160,
   "legExtension": -20,
-  "legBaseOffset": 18,
+  "legBaseOffset": 26,
   "stepShake": 9,
   "legLengthScl": 0.93,
   "rippleScale": 8,
@@ -15,7 +15,24 @@
   "legSplashRange": 72,
   "legCount": 8,
   "speed": 0.4,
-  "health": 26000,
+  "health": 25000,
   "armor": 18,
-  "weapons": [] 
+  "weapons": [
+  
+  ],
+  "abilities": [
+    {
+      "type": "ShieldArcAbility",
+      "angle": 20,
+      "cooldown": 600,
+      "drawArc": true,
+      "max": 2000,
+      "radius": 100,
+      "regen": 0.5,
+      "whenShooting": true,
+      "width": 100,
+      "x": 20,
+      "y": 0
+    }
+  ]
 }
