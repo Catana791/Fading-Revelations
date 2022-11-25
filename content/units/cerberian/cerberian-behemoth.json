@@ -22,26 +22,23 @@
     {
       "name": "cerberian-laser-annihilator",
       "x": 0,
-      "y": -30,
+      "y": -40,
       "reload": 720,
       "shoot": {
-        "firstShotDelay": 360,
-        "type": "ShootSpread",
-        "shots": 2,
-        "spread": 8
+        "firstShotDelay": 360
       },
       "rotate": false,
       "mirror": false,
       "continuous": true,
-      "chargeSound": "me-huge-laser-charge",
+      "chargeSound": "huge-laser-charge",
       "shootSound": "laserbig",
       "bullet": {
         "type": "ContinuousLaserBulletType", 
-        "width": 12,
+        "width": 24,
         "length": 460,
         "damage": 20,
         "damageInterval": 20,
-        "lifetime": 180,
+        "lifetime": 210,
         "fadeTime": 120,
         "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"]
       }
