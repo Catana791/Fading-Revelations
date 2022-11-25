@@ -22,7 +22,7 @@
     {
       "name": "cerberian-laser-annihilator",
       "x": 0,
-      "y": -40,
+      "y": -50,
       "reload": 720,
       "shoot": {
         "firstShotDelay": 400
@@ -38,7 +38,7 @@
         "length": 460,
         "damage": 20,
         "damageInterval": 20,
-        "lifetime": 300,
+        "lifetime": 285,
         "fadeTime": 110,
         "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"]
       }
