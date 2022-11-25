@@ -139,11 +139,13 @@
       "alternate": true,
       "shootSound": "spark"
       "ignoreRotation": true,
+      "chargeSound": "lasercharge2",
       "shoot": {
         "type": "ShootSpread",
         "shots": 12,
         "spread": 2,
-        "shotDelay": 3
+        "shotDelay": 3,
+        "firstShotDelay": 60
       },
       "bullet": {
         "type": "LaserBulletType",
