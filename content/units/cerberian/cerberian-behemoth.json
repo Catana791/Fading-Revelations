@@ -1,0 +1,22 @@
+{
+  "type": "legs",
+  "name": "Cerberian Behemoth",
+  "description": "A huge unit and Cerberos proudest invention.",
+  "legMoveSpace": 0.8,
+  "legPairOffset": 3,
+  "legLength": 200,
+  "legExtension": -20,
+  "legBaseOffset": 8,
+  "stepShake": 9,
+  "legLengthScl": 0.93,
+  "rippleScale": 8,
+  "legSpeed": 0.12,
+  "legSplashDamage": 120,
+  "legSplashRange": 72,
+  "legCount": 6,
+  "speed": 0.31,
+  "drag": 0.01,
+  "health": 26000,
+  "armor": 18,
+  "weapons": [] 
+}
