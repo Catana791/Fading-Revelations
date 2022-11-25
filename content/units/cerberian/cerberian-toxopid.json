@@ -63,7 +63,7 @@
       "recoil": 10,
       "rotateSpeed": 1,
       "rotate": true,
-      "shootSound". "artillery",
+      "shootSound": "artillery",
       "ejectEffect": "casing3",
       "rotationLimit": 80,
       "bullet": {
