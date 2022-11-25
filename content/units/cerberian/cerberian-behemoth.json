@@ -111,19 +111,19 @@
       "shootY": 0,
       "reload": 360,
       "rotate": false,
-      "shootCone": 360,
+      "shootCone": 840,
       "shootSound": "spark",
       "ignoreRotation": true,
       "shoot": {
         "type": "ShootSpread",
-        "shots": 90,
-        "spread": 2,
+        "shots": 180,
+        "spread": 1,
         "shotDelay": 3
       },
       "bullet": {
         "type": "LaserBulletType",
         "length": 320,
-        "width": 20,
+        "width": 25,
         "damage": 20,
         "status": "electrified",
         "statusDuration": 60,
