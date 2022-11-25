@@ -29,7 +29,7 @@
       "y": -1.5,
       "bullet": {
         "type": "SapBulletType",
-        "sapStrength": 0.62,
+        "sapStrength": 0.59,
         "length": 80,
         "damage": 24,
         "shootEffect": "shootSmall",
@@ -49,7 +49,7 @@
       "shootSound": "sap",
       "bullet": {
         "type": "SapBulletType",
-        "sapStrength": 0.92,
+        "sapStrength": 0.86,
         "length": 40,
         "damage": 18,
         "shootEffect": "shootSmall",
