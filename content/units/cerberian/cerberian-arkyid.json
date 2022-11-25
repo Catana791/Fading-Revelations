@@ -108,6 +108,7 @@
         "fragBullets": 4,
         "lifetime": 70,
         "status": "melting",
+        "fragLifeMin": 0.3,
         "fragBullet": {
           "type": "liquidBulletType",
           "liquid": "oil",
@@ -119,6 +120,7 @@
           "status": "tarred",
           "fragBullets": 3,
           "lifetime": 55,
+          "fragLifeMin": 0.3,
           "fragBullet": {
             "type": "LiquidBulletType",
             "liquid": "cryofluid",
