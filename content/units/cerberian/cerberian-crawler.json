@@ -2,7 +2,7 @@
   "type": "mech",
   "name": "Cerberian Crawler",
   "description": "A cerberian version of the Crawler unit.",
-  "aiController": "SuicideAI",
+  "defaultController": "SuicideAI",
   "speed": 1,
   "hitSize": 8,
   "health": 200,
