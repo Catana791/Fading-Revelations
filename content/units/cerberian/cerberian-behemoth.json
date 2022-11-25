@@ -116,8 +116,8 @@
       "ignoreRotation": true,
       "shoot": {
         "type": "ShootSpread",
-        "shots": 180,
-        "spread": 1,
+        "shots": 90,
+        "spread": 2,
         "shotDelay": 3
       },
       "bullet": {
