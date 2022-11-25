@@ -1,0 +1,64 @@
+{
+  "type": "legs",
+  "name": "Cerberian Spiroct",
+  "description": "Like the Spiroct unit but steals more life using enhanced sapping lasers.",
+  "speed": 0.54,
+  "drag": 0.4,
+  "hitSize": 15,
+  "rotateSpeed": 3,
+  "health": 1000,
+  "legCount": 6,
+  "leglength": 13,
+  "legForwardScl": 0.8,
+  "legMoveSpace": 1.4,
+  "legBaseOffset": 2,
+  "hovering": true,
+  "armor": 5,
+  "shadowElevation": 0.3,
+  "groundLayer": 75,
+  "weapons": [
+    {
+      "name": "cerberian-spiroct-weapon",
+      "shootY": 4,
+      "reload": 14,
+      "ejectEffect": "none",
+      "recoil": 2,
+      "rotate": true,
+      "shootSound": "sap",
+      "x": 8.5,
+      "y": -1.5,
+      "bullet": {
+        "type": "SapBulletType",
+        "sapStrength": 0.62,
+        "length": 80,
+        "damage": 24,
+        "shootEffect": "shootSmall",
+        "hitColor": "bf92f9",
+        "despawnEffect": "none",
+        "width": 0.55,
+        "lifetime": 35,
+        "knockback": -1.24
+      }
+    },
+    {
+      "name": "cerberian-mount-green-weapon", 
+      "reload": 18,
+      "rotate": true,
+      "x": 4,
+      "y": 3,
+      "shootSound": "sap",
+      "bullet": {
+        "type": "SapBulletType",
+        "sapStrength": 0.92,
+        "length": 40,
+        "damage": 18,
+        "shootEffect": "shootSmall",
+        "hitColor": "bf92f9",
+        "despawnEffect": "none",
+        "width": 0.4,
+        "lifetime": 25,
+        "knockback": -0.65
+      }
+    }
+  ]
+}
