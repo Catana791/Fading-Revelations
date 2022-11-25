@@ -89,7 +89,7 @@
               "lifetime": 120,
               "sizeFrom": 65,
               "sizeTo": 0,
-              "interp": "pow1Out",
+              "interp": "pow10Out",
               "strokeFrom": 0,
               "strokeTo": 8,
               "colorFrom": "a93e3e",
