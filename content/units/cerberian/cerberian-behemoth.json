@@ -49,10 +49,11 @@
           "effects": [
             {
               "type": "ParticleEffect",
-              "particles": 32,
+              "particles": 50,
+              "lightOpacity": 0,
               "length": 80,
               "baseLength": -80,
-              "lifetime": 80,
+              "lifetime": 160,
               "layer": 106,
               "interp": "exp5",
               "sizeFrom": 18,
@@ -62,20 +63,20 @@
             },
             {
               "type": "ParticleEffect",
-              "particles": 22,
+              "particles": 35,
               "offset": 15,
               "baseLength": 18,
               "sizeFrom": 0,
               "sizeTo": 4,
               "length": 80,
-              "lifetime": 120,
+              "lifetime": 240,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626",
               "cone": 360
             },
             {
               "type": "WaveEffect",
-              "lifetime": 120,
+              "lifetime": 240,
               "sizeFrom": 55,
               "sizeTo": 0,
               "interp": "pow5Out",
@@ -86,7 +87,7 @@
             },
             {
               "type": "WaveEffect",
-              "lifetime": 120,
+              "lifetime": 240,
               "sizeFrom": 65,
               "sizeTo": 0,
               "interp": "pow10Out",
@@ -105,7 +106,7 @@
               "baseLength": -120,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 90,
+              "lifetime": 180,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -119,7 +120,7 @@
               "baseLength": -120,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 100,
+              "lifetime": 200,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -133,7 +134,7 @@
               "baseLength": -200,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 110,
+              "lifetime": 220,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -147,7 +148,7 @@
               "baseLength": -250,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 120,
+              "lifetime": 240,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -161,7 +162,7 @@
               "baseLength": -400,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 130,
+              "lifetime": 260,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -175,7 +176,7 @@
               "baseLength": -350,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 140,
+              "lifetime": 280,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             }
