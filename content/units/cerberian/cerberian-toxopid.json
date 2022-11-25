@@ -37,11 +37,6 @@
       "shootSound": "sap",
       "rotate": true,
       "recoil": 1,
-      "shoot": {
-        "type": "ShootSpread",
-        "shots": 2,
-        "spread": 17
-      },
       "bullet": {
         "type": "SapBulletType",
         "sapStrength": 0.1,
