@@ -31,7 +31,7 @@
       "y": -5,
       "x": 11,
       "shootY": 7,
-      "reload": 30,
+      "reload": 15,
       "rotateSpeed": 2,
       "ejectEffect": "none",
       "shootSound": "sap",
@@ -44,7 +44,7 @@
       },
       "bullet": {
         "type": "SapBulletType",
-        "sapStrength": 0.6,
+        "sapStrength": 0.3,
         "length": 90,
         "damage": 110,
         "width": 0.7,
