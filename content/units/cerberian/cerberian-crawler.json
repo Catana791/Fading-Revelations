@@ -1,0 +1,38 @@
+{
+  "type": "mech",
+  "name": "Cerberian Crawler",
+  "description": "A cerberian version of the Crawler unit.",
+  "aiController": "SuicideAI",
+  "speed": 1,
+  "hitSize": 8,
+  "health": 200,
+  "mechSideSway": 0.25,
+  "range": 40,
+  "weapons": [
+    {
+      "shootOnDeath": true,
+      "reload": 24,
+      "shootCone": 180,
+      "ejectEffect": "none",
+      "shootSound": "explosion",
+      "x": 0,
+      "shootY": 0,
+      "mirror": false,
+      "bullet": {
+        "collides": false,
+        "collidesTiles": false,
+        "hitSound": "explosion",
+        "rangeOverride": 30,
+        "hitEffect": "pulverize",
+        "speed": 0,
+        "splashDamageRadius": 55,
+        "instantDisappear": true,
+        "splashDamage": 105,
+        "killShooter": true,
+        "hittable": false,
+        "collidesAir": true,
+        "damage": 0
+      }
+    }  
+  ]
+}
