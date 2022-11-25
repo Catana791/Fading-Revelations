@@ -26,11 +26,25 @@
       "reload": 720,
       "shoot": {
         "firstShotDelay": 360,
+        "type": "ShootSpread",
+        "shots": 2,
+        "spread": 8
       },
       "rotate": false,
       "mirror": false,
       "continuous": true,
       "chargeSound": "me-huge-laser-charge",
+      "shootSound": "laserbig",
+      "bullet": {
+        "type": "ContinuousLaserBulletType", 
+        "width": 12,
+        "length": 460,
+        "damage": 20,
+        "damageInterval": 20,
+        "lifetime": 180,
+        "fadeTime": 120,
+        "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"]
+      }
     },
     {
       "name": "cerberian-behemoth-weapon",
