@@ -25,7 +25,7 @@
       "y": -50,
       "reload": 720,
       "shoot": {
-        "firstShotDelay": 400
+        "firstShotDelay": 480
       },
       "rotate": false,
       "mirror": false,
@@ -38,7 +38,7 @@
         "length": 460,
         "damage": 20,
         "damageInterval": 20,
-        "lifetime": 285,
+        "lifetime": 280,
         "fadeTime": 110,
         "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"]
       }
