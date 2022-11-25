@@ -40,7 +40,51 @@
         "damageInterval": 20,
         "lifetime": 280,
         "fadeTime": 110,
-        "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"]
+        "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"],
+        "chargeEffect": {
+          "type": "MultiEffect",
+          "lifetime": 400,
+          "followParent": true,
+          "effects": [
+            {
+              "type": "ParticleEffect",
+              "particles": 32,
+              "length": 80,
+              "baseLength": -80,
+              "lifetime": 80,
+              "layer": 106,
+              "interp": "exp5",
+              "sizeFrom": 18,
+              "sizeTO": 13,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 22,
+              "offset": 15,
+              "baseLength": 18,
+              "sizeFrom": 0,
+              "sizeTo": 4,
+              "length": 80,
+              "lifetime": 120,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626",
+              "cone": 360
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 120,
+              "sizeFrom": 55,
+              "sizeTo": 0,
+              "interp": "pow5Out",
+              "strokeFrom": 0,
+              "strokeTo": 8,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626" 
+            }
+          ]
+        }
       }
     },
     {
