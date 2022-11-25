@@ -106,6 +106,7 @@
       }
     },
     {
+      "name": "cerberian-laser-sweeper",
       "x": 21,
       "y": 19,
       "reload": 240,
@@ -127,6 +128,8 @@
         "width": 26,
         "collidesAir": true,
         "collidesGround": true,
+        "hitSound": "spark",
+        "hitEffect": "instHit",
         "colors": ["a93e3e", "6f2626", "ffffff"]
       }
     }
