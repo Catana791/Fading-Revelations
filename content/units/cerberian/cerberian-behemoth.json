@@ -82,6 +82,59 @@
               "strokeTo": 8,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626" 
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 120,
+              "sizeFrom": 65,
+              "sizeTo": 0,
+              "interp": "pow1Out",
+              "strokeFrom": 0,
+              "strokeTo": 8,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 30,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 120,
+              "baseLength": -120,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 90,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 30,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 120,
+              "baseLength": -120,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 100,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 35,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 200,
+              "baseLength": -200,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 110,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626"
             }
           ]
         }
