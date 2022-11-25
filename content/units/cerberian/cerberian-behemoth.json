@@ -106,27 +106,24 @@
       }
     },
     {
-      "x": 0,
-      "y": 0,
-      "shootY": 0,
+      "x": 21,
+      "y": 19,
       "reload": 360,
       "rotate": false,
-      "shootCone": 840,
-      "shootSound": "spark",
+      "shootCone": 180,
+      "alternate": true,
       "ignoreRotation": true,
       "shoot": {
         "type": "ShootSpread",
-        "shots": 90,
-        "spread": 2,
+        "shots": 12,
+        "spread": 1,
         "shotDelay": 3
       },
       "bullet": {
         "type": "LaserBulletType",
-        "length": 320,
-        "width": 25,
-        "damage": 20,
-        "status": "electrified",
-        "statusDuration": 60,
+        "damage": 10,
+        "length": 360,
+        "width": 26,
         "collidesAir": true,
         "collidesGround": true,
         "colors": ["a93e3e", "6f2626", "ffffff"]
