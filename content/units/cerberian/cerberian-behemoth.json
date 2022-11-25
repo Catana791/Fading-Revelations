@@ -108,15 +108,16 @@
     {
       "x": 21,
       "y": 19,
-      "reload": 360,
+      "reload": 240,
       "rotate": false,
       "shootCone": 180,
       "alternate": true,
+      "shootSound": "spark"
       "ignoreRotation": true,
       "shoot": {
         "type": "ShootSpread",
         "shots": 12,
-        "spread": 1,
+        "spread": 2,
         "shotDelay": 3
       },
       "bullet": {
