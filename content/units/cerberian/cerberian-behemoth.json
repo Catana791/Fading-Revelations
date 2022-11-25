@@ -128,7 +128,8 @@
         "status": "electrified",
         "statusDuration": 60,
         "collidesAir": true,
-        "collidesGround": true
+        "collidesGround": true,
+        "colors": ["a93e3e", "6f2626", "ffffff"]
       }
     }
   ],
