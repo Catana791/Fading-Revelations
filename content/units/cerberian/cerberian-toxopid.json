@@ -47,9 +47,10 @@
         "sapStrength": 1.1,
         "length": 90,
         "damage": 110,
-        "width": 25,
+        "width": 6,
         "shootEffect": "shootSmall",
-        "knockback": -1.4
+        "knockback": -1.4,
+        "lifetime": 45
       }
     },
     {
