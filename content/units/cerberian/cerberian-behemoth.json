@@ -107,8 +107,8 @@
     },
     {
       "name": "cerberian-laser-sweeper",
-      "x": 21,
-      "y": 19,
+      "x": 18,
+      "y": 26,
       "reload": 240,
       "rotate": false,
       "shootCone": 180,
