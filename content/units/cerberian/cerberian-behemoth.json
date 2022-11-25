@@ -25,7 +25,7 @@
       "y": -40,
       "reload": 720,
       "shoot": {
-        "firstShotDelay": 440
+        "firstShotDelay": 420
       },
       "rotate": false,
       "mirror": false,
