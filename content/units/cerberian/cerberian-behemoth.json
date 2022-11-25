@@ -50,7 +50,7 @@
       "recoil": 6,
       "reload": 180,
       "alternate": true,
-      "shootSound": "shootBig",
+      "shootSound": "largeCannon",
       "mirror": true,
       "rotate": false,
       "top": false,
