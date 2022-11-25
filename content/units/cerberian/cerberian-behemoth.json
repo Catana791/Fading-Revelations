@@ -136,6 +136,48 @@
               "lifetime": 110,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 45,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 250,
+              "baseLength": -250,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 120,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 45,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 300,
+              "baseLength": -400,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 130,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 45,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 350,
+              "baseLength": -350,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 140,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626"
             }
           ]
         }
