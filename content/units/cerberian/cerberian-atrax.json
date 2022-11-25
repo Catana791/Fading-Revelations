@@ -40,7 +40,7 @@
         "liquid": "slag",
         "speed": 1,
         "damage": 3,
-        "lifetime": 20,
+        "lifetime": 40,
         "collidesAir": false
       }
       }
