@@ -1,0 +1,47 @@
+{
+  "type": "legs",
+  "name": "Cerberian Atrax",
+  "description": "A unit type similar to an Atrax but shoots fragging slag bullets.",
+  "speed": 0.6,
+  "drag": 0.4,
+  "hitSize": 13,
+  "rotateSpeed": 3,
+  "targetAir": false,
+  "health": 600,
+  "immunities": ["burning", "melting"],
+  "legCount": 4,
+  "legLength": 9,
+  "legForwardScl": 0.6,
+  "legMoveSpace": 1.4,
+  "hovering": true,
+  "armor": 3,
+  "shadowElevation": 0.2,
+  "groundLayer": 74,
+  "weapons": [
+    "top": false,
+    "shootY": 3,
+    "reload": 9,
+    "name": "cerberian-atrax-weapon",
+    "ejectEffect": "none",
+    "x": 7,
+    "bullet": {
+      "type": "LiquidBulletType",
+      "liquid": "slag",
+      "damage": 14,
+      "drag": 0.009,
+      "speed": 2.5,
+      "shootEffect": "shootSmall",
+      "lifetime": 57,
+      "collidesAir": false,
+      "fragBullets": 2,
+      "fragBullet": {
+        "type": "LiquidBulletType",
+        "liquid": "slag",
+        "speed": 1,
+        "damage": 3,
+        "lifetime": 20,
+        "collidesAir": false
+      }
+    }
+  ]
+}
