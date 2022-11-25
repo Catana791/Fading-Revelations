@@ -42,6 +42,7 @@
         "fadeTime": 110,
         "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"],
         "chargeEffect": {
+          //I took this from ExoGenesis. Thank you Aureus for making this! (File: collapse.json)
           "type": "MultiEffect",
           "lifetime": 400,
           "followParent": true,
