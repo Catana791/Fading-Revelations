@@ -36,7 +36,7 @@
         "type": "ContinuousLaserBulletType", 
         "width": 24,
         "length": 460,
-        "damage": 20,
+        "damage": 200,
         "damageInterval": 20,
         "lifetime": 280,
         "fadeTime": 110,
