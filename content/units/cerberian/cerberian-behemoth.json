@@ -38,7 +38,7 @@
         "length": 460,
         "damage": 20,
         "damageInterval": 20,
-        "lifetime": 210,
+        "lifetime": 300,
         "fadeTime": 120,
         "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"]
       }
