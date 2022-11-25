@@ -125,7 +125,9 @@
         "width": 10,
         "damage": 20,
         "status": "electrified",
-        "statusDuration": 60
+        "statusDuration": 60,
+        "collidesAir": true,
+        "collidesGround": true
       }
     }
   ],
