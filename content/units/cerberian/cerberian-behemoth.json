@@ -20,6 +20,19 @@
   "groundLayer": 76,
   "weapons": [
     {
+      "name": "cerberian-laser-annihilator",
+      "x": 0,
+      "y": -30,
+      "reload": 720,
+      "shoot": {
+        "firstShotDelay": 360,
+      },
+      "rotate": false,
+      "mirror": false,
+      "continuous": true,
+      "chargeSound": "me-huge-laser-charge",
+    },
+    {
       "name": "cerberian-behemoth-weapon",
       "x": 34,
       "y": 0,
