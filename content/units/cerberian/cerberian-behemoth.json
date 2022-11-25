@@ -22,7 +22,7 @@
     {
       "name": "cerberian-laser-annihilator",
       "x": 0,
-      "y": -50,
+      "y": -40,
       "reload": 720,
       "shoot": {
         "firstShotDelay": 480
