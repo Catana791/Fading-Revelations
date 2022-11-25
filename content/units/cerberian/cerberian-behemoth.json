@@ -109,20 +109,21 @@
       "x": 0,
       "y": 0,
       "shootY": 0,
-      "reload": 240,
+      "reload": 360,
       "rotate": false,
       "shootCone": 360,
+      "shootSound": "zap",
       "ignoreRotation": true,
       "shoot": {
         "type": "ShootSpread",
-        "shots": 60,
+        "shots": 30,
         "spread": 7,
-        "shotDelay": 6
+        "shotDelay": 10
       },
       "bullet": {
         "type": "LaserBulletType",
-        "length": 200,
-        "width": 10,
+        "length": 320,
+        "width": 20,
         "damage": 20,
         "status": "electrified",
         "statusDuration": 60,
