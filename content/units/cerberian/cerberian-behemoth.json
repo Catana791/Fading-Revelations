@@ -112,13 +112,13 @@
       "reload": 360,
       "rotate": false,
       "shootCone": 360,
-      "shootSound": "zap",
+      "shootSound": "spark",
       "ignoreRotation": true,
       "shoot": {
         "type": "ShootSpread",
-        "shots": 30,
-        "spread": 7,
-        "shotDelay": 10
+        "shots": 90,
+        "spread": 2,
+        "shotDelay": 3
       },
       "bullet": {
         "type": "LaserBulletType",
