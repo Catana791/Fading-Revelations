@@ -44,7 +44,7 @@
         "fadeTime": 110,
         "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"],
         "chargeEffect": {
-          //I took this from ExoGenesis. Thank you Aureus for making this! (File: collapse.json)
+          //This is inspired by ExoGenesis made by Aureus. (Reference file: collapse.json)
           "type": "MultiEffect",
           "lifetime": 600,
           "followParent": true,
@@ -58,8 +58,8 @@
               "lifetime": 200,
               "layer": 106,
               "interp": "exp5",
-              "sizeFrom": 18,
-              "sizeTo": 13,
+              "sizeFrom": 8,
+              "sizeTo": 3,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -189,7 +189,7 @@
     },
     {
       "name": "cerberian-behemoth-weapon",
-      "x": 34,
+      "x": 36,
       "y": 0,
       "recoil": 6,
       "reload": 180,
@@ -206,8 +206,8 @@
         "hitShake": 9,
         "hitEffect": "instHit",
         "backColor": "6f2626",
-        "width": 26,
-        "height": 26,
+        "width": 42,
+        "height": 42,
         "speed": 1.2,
         "lifetime": 240,
         "scaleLife": true,
@@ -229,8 +229,8 @@
           "sprite": "me-lycosid-bullet",
           "frontColor": "a93e3e",
           "backColor": "6f2626",
-          "width": 12,
-          "height": 12,
+          "width": 38,
+          "height": 38,
           "speed": 1,
           "lifetime": 60,
           "damage": 40,
@@ -244,6 +244,8 @@
             "splashDamageRadius": 70,
             "sprite": "me-lml-mine",
             "hitSound": "explosion",
+            "width": 32,
+            "height": 32,
             "hitEffect": {
               "type": "WaveEffect",
               "sizeFrom": 0,
@@ -259,8 +261,10 @@
               "hitShake": 1,
               "type": "MissileBulletType",
               "speed": 1.5,
-              "lifetime": 20,
-              "damage": 26,
+              "lifetime": 40,
+              "height": 20,
+              "width": 14,
+              "damage": 50,
               "homingPower": 0.09,
               "homingRange": 160,
               "homingDelay": 60,
@@ -293,7 +297,7 @@
       },
       "bullet": {
         "type": "LaserBulletType",
-        "damage": 80,
+        "damage": 180,
         "length": 360,
         "width": 26,
         "collidesAir": true,
@@ -305,6 +309,16 @@
     }
   ],
   "abilities": [
-    
+    {
+      "type": "ShieldArcAbility",
+      "region": "tecta-shield",
+      "radius": 36,
+      "angle": 82,
+      "regen": 0.5,
+      "cooldown": 600,
+      "max": 2000,
+      "y": -20,
+      "width": 8
+    }
   ]
 }
