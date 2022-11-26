@@ -317,9 +317,8 @@
       "regen": 0.5,
       "cooldown": 600,
       "max": 2000,
-      "y": 0,
+      "y": -2,
       "width": 8,
-      "drawArc": false
     }
   ]
 }
