@@ -22,7 +22,7 @@
     {
       "name": "cerberian-laser-annihilator",
       "shootStatus": "unmoving",
-      "shootStatusDuratiom": 4000,
+      "shootStatusDuratiom": 6000,
       "x": 0,
       "y": -40,
       "reload": 720,
