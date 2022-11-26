@@ -21,6 +21,8 @@
   "weapons": [
     {
       "name": "cerberian-laser-annihilator",
+      "shootStatus": "unmoving",
+      "shootStatusDuratiom": 820,
       "x": 0,
       "y": -40,
       "reload": 720,
@@ -44,7 +46,7 @@
         "chargeEffect": {
           //I took this from ExoGenesis. Thank you Aureus for making this! (File: collapse.json)
           "type": "MultiEffect",
-          "lifetime": 400,
+          "lifetime": 600,
           "followParent": true,
           "effects": [
             {
