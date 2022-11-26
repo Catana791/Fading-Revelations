@@ -1,7 +1,7 @@
 {
     "type": "Reconstructor",
     "name": "[green]Interceptor Upgrader",
-    "description": "Upgrades interceptor units from the Mindustry Extended mod.",
+    "description": "Upgrades [green]interceptor units.",
     "health": 950,
     "size": 3,
     "constructTime": 600,
