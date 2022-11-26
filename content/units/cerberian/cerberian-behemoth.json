@@ -312,13 +312,13 @@
     {
       "type": "ShieldArcAbility",
       "region": "tecta-shield",
-      "radius": 36,
+      "radius": 60,
       "angle": 82,
       "regen": 0.5,
       "cooldown": 600,
       "max": 2000,
-      "y": -20,
-      "width": 8
+      "y": 0,
+      "width": 18
     }
   ]
 }
