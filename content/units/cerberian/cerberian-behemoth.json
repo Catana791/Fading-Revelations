@@ -10,6 +10,7 @@
   "stepShake": 9,
   "legLengthScl": 0.93,
   "rippleScale": 8,
+  "rotateSpeed": 0.31,
   "legSpeed": 0.21,
   "legSplashDamage": 120,
   "legSplashRange": 72,
