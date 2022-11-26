@@ -44,7 +44,7 @@
         "fadeTime": 110,
         "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"],
         "hitEffect": {
-          "type": "MultiEffect"",
+          "type": "MultiEffect",
           "effects": [
             {
               "type": "WaveEffect",
