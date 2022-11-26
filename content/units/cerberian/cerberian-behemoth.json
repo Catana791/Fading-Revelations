@@ -22,7 +22,7 @@
     {
       "name": "cerberian-laser-annihilator",
       "shootStatus": "unmoving",
-      "shootStatusDuration": 820,
+      "shootStatusDuration": 760,
       "x": 0,
       "y": -40,
       "reload": 720,
@@ -142,7 +142,7 @@
             },
             {
               "type": "ParticleEffect",
-              "particles": 65,
+              "particles": 70,
               "offset": 100,
               "sizeFrom": 1,
               "sizeTo": 6,
@@ -156,7 +156,7 @@
             },
             {
               "type": "ParticleEffect",
-              "particles": 65,
+              "particles": 75,
               "offset": 100,
               "sizeFrom": 1,
               "sizeTo": 6,
@@ -170,7 +170,7 @@
             },
             {
               "type": "ParticleEffect",
-              "particles": 65,
+              "particles": 85,
               "offset": 100,
               "sizeFrom": 1,
               "sizeTo": 6,
