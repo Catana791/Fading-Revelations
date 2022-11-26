@@ -43,6 +43,57 @@
         "lifetime": 280,
         "fadeTime": 110,
         "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"],
+        "hitEffect": {
+          "type": "SeqEffect",
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "sizeFrom": 0,
+              "sizeTo": 28,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626",
+              "interp": "pow5Out",
+              "lifetime": 180,
+              "strokeFrom": 8,
+              "strokeTo": 0,
+              "spin": 2
+            },
+            {
+              "type": "ParticleEffect",
+              "sizeFrom": 8,
+              "sizeTo": 4,
+              "length": -180,
+              "baseLength": 180,
+              "lifetime": 120,
+              "particles": 50,
+              "interp": "exp5",
+              "sizeInterp": "pow5Out"
+            },
+            {
+              "type": "WaveEffect",
+              "sizeFrom": 0,
+              "sizeTo": 38,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626",
+              "interp": "pow5Out",
+              "lifetime": 180,
+              "strokeFrom": 0,
+              "strokeTo": 8,
+              "spin": -2
+            },
+            {
+              "type": "ParticleEffect",
+              "sizeFrom": 6,
+              "sizeTo": 2,
+              "length": -140,
+              "baseLength": 140,
+              "lifetime": 120,
+              "particles": 50,
+              "interp": "pow5Out",
+              "sizeInterp": "exp5"
+            }
+          ]
+        }
         "chargeEffect": {
           //This is inspired by ExoGenesis made by Aureus. (Reference file: collapse.json)
           "type": "MultiEffect",
