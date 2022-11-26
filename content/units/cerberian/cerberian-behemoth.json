@@ -18,38 +18,6 @@
   "speed": 0.4,
   "health": 25000,
   "armor": 18,
-  "parts": [
-    {
-      "type": "HaloPart",
-      "x": 0,
-      "y": -47,
-      "color": "ff3232",
-      "colorTo": "c80000",
-      "mirror": false,
-      "hollow": true,
-      "shapes": 9,
-      "sides": 11,
-      "radius": 18,
-      "stroke": 2,
-      "haloRotateSpeed": 1,
-    },
-    {
-      "type": "HaloPart",
-      "x": 0,
-      "y": -47,
-      "color": "ff3232",
-      "colorTo": "c80000",
-      "mirror": false,
-      "hollow": true,
-      "shapes": 9,
-      "tri": true,
-      "stroke": 3,
-      "haloRadius": 27,
-      "triLength": 15,
-      "triLengthTo": 15,
-      "haloRotateSpeed": -1
-    }
-  ],
   "groundLayer": 75,
   "weapons": [
     {
