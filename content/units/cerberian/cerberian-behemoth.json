@@ -47,18 +47,6 @@
           "type": "MultiEffect",
           "effects": [
             {
-              "type": "WaveEffect",
-              "sizeFrom": 0,
-              "sizeTo": 78,
-              "colorFrom": "a93e3e",
-              "colorTo": "6f2626",
-              "interp": "pow5Out",
-              "lifetime": 180,
-              "strokeFrom": 8,
-              "strokeTo": 0,
-              "spin": 2
-            },
-            {
               "type": "ParticleEffect",
               "sizeFrom": 8,
               "sizeTo": 4,
@@ -72,29 +60,17 @@
               "sizeInterp": "pow5Out"
             },
             {
-              "type": "WaveEffect",
-              "sizeFrom": 0,
-              "sizeTo": 69,
-              "colorFrom": "a93e3e",
-              "colorTo": "6f2626",
-              "interp": "pow5Out",
-              "lifetime": 180,
-              "strokeFrom": 0,
-              "strokeTo": 8,
-              "spin": -2
-            },
-            {
               "type": "ParticleEffect",
-              "sizeFrom": 6,
-              "sizeTo": 2,
-              "length": -40,
-              "baseLength": 40,
+              "sizeFrom": 8,
+              "sizeTo": 4,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626",
+              "length": 80,
+              "baseLength": -80,
               "lifetime": 120,
               "particles": 50,
-              "interp": "pow5Out",
-              "sizeInterp": "exp5"
+              "interp": "exp5",
+              "sizeInterp": "pow5Out"
             }
           ]
         }
