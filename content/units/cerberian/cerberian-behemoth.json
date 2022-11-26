@@ -318,7 +318,8 @@
       "cooldown": 600,
       "max": 2000,
       "y": 0,
-      "width": 18
+      "width": 8,
+      "drawArc": false
     }
   ]
 }
