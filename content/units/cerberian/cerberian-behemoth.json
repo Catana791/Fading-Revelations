@@ -21,8 +21,8 @@
   "weapons": [
     {
        "name": "cerberian-flak-mount",
-      "x": 2,
-      "y": 31,
+      "x": 3,
+      "y": 46,
       "rotate": true,
       "rotateSpeed": 4,
       "reload": 120,
@@ -34,8 +34,11 @@
         "shotDelay": 10
       },
       "bullet": {
-        "type": "SpaceLiquidBulletType",
-        "orbSize": 2,
+        "type": "FlakBulleType",
+        "height": 12,
+        "width": 8,
+        "frontColor": "a93e3e",
+        "backColor": "6f2626",
         "damage": 2,
         "pierce": true,
         "pierceCap": 3,
@@ -43,13 +46,16 @@
         "speed": 4,
         "lifetime": 90,
         "splashDamage": 2,
-        "splashDamageRadius": 12
+        "splashDamageRadius": 12,
+        "collidesAir": true,
+        "collidesGround": false,
+        "collidesTiles": false
       }
     },
     {
        "name": "cerberian-flak-mount",
-      "x": 5,
-      "y": 27,
+      "x": 11,
+      "y": 40,
       "rotate": true,
       "rotateSpeed": 4,
       "reload": 100,
@@ -61,16 +67,22 @@
         "shotDelay": 10
       },
       "bullet": {
-        "type": "SpaceLiquidBulletType",
-        "orbSize": 2,
+        "type": "FlakBulleType",
         "damage": 2,
         "pierce": true,
+        "width": 12,
+        "height": 8,
+        "frontColor": "a93e3e",
+        "backColor": "6f2626",
         "pierceCap": 3,
         "homingPower": 0.09,
         "speed": 4,
         "lifetime": 90,
         "splashDamage": 2,
-        "splashDamageRadius": 12
+        "splashDamageRadius": 12,
+        "collidesAir": true,
+        "collidesGround": false,
+        "collidesTiles": false
       }
     },
     {
