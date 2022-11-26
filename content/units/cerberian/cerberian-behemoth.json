@@ -17,7 +17,7 @@
   "speed": 0.4,
   "health": 25000,
   "armor": 18,
-  "groundLayer": 76,
+  "groundLayer": 75,
   "weapons": [
     {
       "name": "cerberian-laser-annihilator",
@@ -306,19 +306,6 @@
         "hitEffect": "instHit",
         "colors": ["a93e3e", "6f2626", "ffffff"]
       }
-    }
-  ],
-  "abilities": [
-    {
-      "type": "ShieldArcAbility",
-      "region": "tecta-shield",
-      "radius": 60,
-      "angle": 82,
-      "regen": 0.5,
-      "cooldown": 600,
-      "max": 2000,
-      "y": -2,
-      "width": 8,
     }
   ]
 }
