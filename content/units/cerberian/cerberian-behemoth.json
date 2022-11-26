@@ -22,7 +22,7 @@
     {
       "name": "cerberian-laser-annihilator",
       "shootStatus": "unmoving",
-      "shootStatusDuratiom": 1760,
+      "shootStatusDuratiom": 2000,
       "x": 0,
       "y": -40,
       "reload": 720,
@@ -53,13 +53,13 @@
               "type": "ParticleEffect",
               "particles": 50,
               "lightOpacity": 0,
-              "length": 80,
-              "baseLength": -80,
-              "lifetime": 320,
+              "length": 100,
+              "baseLength": -100,
+              "lifetime": 260,
               "layer": 106,
               "interp": "exp5",
               "sizeFrom": 18,
-              "sizeTO": 13,
+              "sizeTo": 13,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -71,14 +71,14 @@
               "sizeFrom": 0,
               "sizeTo": 4,
               "length": 80,
-              "lifetime": 480,
+              "lifetime": 400,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626",
               "cone": 360
             },
             {
               "type": "WaveEffect",
-              "lifetime": 480,
+              "lifetime": 400,
               "sizeFrom": 55,
               "sizeTo": 0,
               "interp": "pow5Out",
@@ -89,7 +89,7 @@
             },
             {
               "type": "WaveEffect",
-              "lifetime": 480,
+              "lifetime": 400,
               "sizeFrom": 65,
               "sizeTo": 0,
               "interp": "pow10Out",
@@ -108,7 +108,7 @@
               "baseLength": -120,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 360,
+              "lifetime": 280,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -122,7 +122,7 @@
               "baseLength": -120,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 400,
+              "lifetime": 320,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -136,7 +136,7 @@
               "baseLength": -200,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 440,
+              "lifetime": 360,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -150,7 +150,7 @@
               "baseLength": -250,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 480,
+              "lifetime": 400,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -164,7 +164,7 @@
               "baseLength": -400,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 520,
+              "lifetime": 460,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             },
@@ -178,7 +178,7 @@
               "baseLength": -350,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 560,
+              "lifetime": 480,
               "colorFrom": "a93e3e",
               "colorTo": "6f2626"
             }
