@@ -11,7 +11,7 @@
   "legLengthScl": 0.93,
   "rippleScale": 8,
   "rotateSpeed": 0.31,
-  "legSpeed": 0.21,
+  "legSpeed": 0.2,
   "legSplashDamage": 120,
   "legSplashRange": 72,
   "legCount": 8,
