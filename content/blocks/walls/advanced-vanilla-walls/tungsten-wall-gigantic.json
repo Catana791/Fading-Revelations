@@ -1,7 +1,7 @@
 {
   "type": "Wall",
   "name": "Gigantic Tungsten Wall",
-  "description": "A gigantic wall made from Beryllium.",
+  "description": "A gigantic wall made from Tungsten.",
   "size": 4,
   "health": 11520,
   "category": "defense",
