@@ -86,7 +86,7 @@
       "shootStatusDuration": 700,
       "x": 0,
       "y": -40,
-      "shake": 9,
+      "shake": 16,
       "range": 380,
       "reload": 720,
       "shoot": {
@@ -102,6 +102,7 @@
         "width": 24,
         "length": 460,
         "damage": 800,
+        "shake": 11,
         "damageInterval": 20,
         "lifetime": 280,
         "fadeTime": 110,
@@ -415,9 +416,9 @@
       "regen": 7,
       "region": "tecta-shield",
       "cooldown": 1200,
-      "width": 7,
+      "width": 9,
       "whenShooting": false,
-      "radius": 80
+      "radius": 60
     }
   ]
 }
