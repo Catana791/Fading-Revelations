@@ -415,7 +415,8 @@
       "region": "tecta-shield",
       "cooldown": 1200,
       "width": 4,
-      "whenShooting": false
+      "whenShooting": false,
+      "radius": 60
     }
   ]
 }
