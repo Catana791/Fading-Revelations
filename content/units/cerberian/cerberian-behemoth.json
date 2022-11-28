@@ -16,8 +16,8 @@
   "legSplashRange": 72,
   "legCount": 8,
   "speed": 0.4,
-  "health": 25000,
-  "armor": 18,
+  "health": 38000,
+  "armor": 26,
   "groundLayer": 75,
   "weapons": [
     {
