@@ -284,7 +284,7 @@
             }
           ]
         }
-        //ExoGenesis particle magic ends here!
+        //ExoGenesis inspired particle magic ends here!
       }
     },
     {
@@ -314,7 +314,7 @@
         "scaleLife": true,
         "damage": 60,
         "spin": 1.6,
-        "shake": 2,
+        "shake": 3,
         "pierce": true,
         "pierceBuilding": true,
         "buildingDamageMultiplier": 0.75,
@@ -328,6 +328,7 @@
           "type": "ArtilleryBulletType",
           "hitEffect": "hitMeltdown",
           "hitSound": "explosion",
+          "shake": 2,
           "sprite": "me-lycosid-bullet",
           "frontColor": "a93e3e",
           "backColor": "6f2626",
@@ -347,6 +348,7 @@
             "sprite": "me-lml-mine",
             "hitSound": "explosion",
             "width": 12,
+            "shake": 1,
             "height": 12,
             "hitEffect": {
               "type": "WaveEffect",
