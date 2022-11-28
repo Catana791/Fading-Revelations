@@ -408,16 +408,16 @@
   "abilities": [
     {
       "type": "ShieldArcAbility",
-      "angle": 81,
+      "angle": 83,
       "x": 0,
-      "y": -3,
+      "y": -5,
       "max": 10000,
       "regen": 7,
       "region": "tecta-shield",
       "cooldown": 1200,
-      "width": 4,
+      "width": 7,
       "whenShooting": false,
-      "radius": 80
+      "radius": 160
     }
   ]
 }
