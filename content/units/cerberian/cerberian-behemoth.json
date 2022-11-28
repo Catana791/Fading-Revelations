@@ -227,6 +227,28 @@
               "colorTo": "6f2626"
             },
             {
+              "type": "WaveEffect",
+              "lifetime": 340,
+              "sizeFrom": 55,
+              "sizeTo": 0,
+              "interp": "pow5Out",
+              "strokeFrom": 0,
+              "strokeTo": 8,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626" 
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 340,
+              "sizeFrom": 65,
+              "sizeTo": 0,
+              "interp": "pow10Out",
+              "strokeFrom": 0,
+              "strokeTo": 8,
+              "colorFrom": "a93e3e",
+              "colorTo": "6f2626"
+            },
+            {
               "type": "ParticleEffect",
               "particles": 70,
               "offset": 100,
@@ -242,7 +264,7 @@
             },
             {
               "type": "ParticleEffect",
-              "particles": 90,
+              "particles": 120,
               "offset": 100,
               "sizeFrom": 1,
               "sizeTo": 6,
@@ -256,7 +278,7 @@
             },
             {
               "type": "ParticleEffect",
-              "particles": 95,
+              "particles": 130,
               "offset": 100,
               "sizeFrom": 1,
               "sizeTo": 6,
@@ -270,7 +292,7 @@
             },
             {
               "type": "ParticleEffect",
-              "particles": 105,
+              "particles": 145,
               "offset": 100,
               "sizeFrom": 1,
               "sizeTo": 6,
