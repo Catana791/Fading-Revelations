@@ -417,7 +417,7 @@
       "cooldown": 1200,
       "width": 7,
       "whenShooting": false,
-      "radius": 160
+      "radius": 80
     }
   ]
 }
