@@ -411,7 +411,28 @@
         "hitEffect": "instHit",
         "colors": ["a93e3e", "6f2626", "ffffff"]
       }
-    }
+    },
+{
+  "x": -40,
+  "y": 0,
+  "reload": 360,
+  "rotate": false,
+  "baseRotation": 90,
+  "ignoreRotation": true,
+  "shootSound": "missileLarge",
+  "bullet": {
+    "type": "BasicBulletType",
+    "speed": 6,
+    "lifetime": 60,
+    "damage": 120,
+    "colidesGround": false,
+    "collidesAir": true,
+    "sprite": "hypersonic-wave-bullet",
+    "frontColor": "a93e3e",
+    "lightOpacity": 0.5,
+    "backColor": "6f2626"
+  }
+}
   ],
   "abilities": [
     {
