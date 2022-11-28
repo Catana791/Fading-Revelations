@@ -86,6 +86,7 @@
       "shootStatusDuration": 700,
       "x": 0,
       "y": -40,
+      "shake": 9,
       "range": 380,
       "reload": 720,
       "shoot": {
@@ -409,14 +410,14 @@
       "type": "ShieldArcAbility",
       "angle": 81,
       "x": 0,
-      "y": -2,
+      "y": -3,
       "max": 10000,
       "regen": 7,
       "region": "tecta-shield",
       "cooldown": 1200,
       "width": 4,
       "whenShooting": false,
-      "radius": 60
+      "radius": 80
     }
   ]
 }
