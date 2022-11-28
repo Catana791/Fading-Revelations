@@ -403,5 +403,18 @@
         "colors": ["a93e3e", "6f2626", "ffffff"]
       }
     }
+  ],
+  "abilities": [
+    {
+      "type": "ShieldArcAbility",
+      "angle": 81,
+      "x": 0,
+      "y": -2,
+      "max": 10000,
+      "regen": 7,
+      "region": "tecta-shield",
+      "cooldown": 1200,
+      "width": 4
+    }
   ]
 }
