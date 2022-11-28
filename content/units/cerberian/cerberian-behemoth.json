@@ -414,7 +414,8 @@
       "regen": 7,
       "region": "tecta-shield",
       "cooldown": 1200,
-      "width": 4
+      "width": 4,
+      "whenShooting": false
     }
   ]
 }
