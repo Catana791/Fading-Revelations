@@ -424,6 +424,8 @@
     "type": "BasicBulletType",
     "speed": 6,
     "lifetime": 60,
+    "width": 40,
+    "height": 16,
     "damage": 120,
     "colidesGround": false,
     "collidesAir": true,
