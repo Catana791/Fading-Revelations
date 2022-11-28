@@ -86,6 +86,7 @@
       "shootStatusDuration": 700,
       "x": 0,
       "y": -40,
+      "range": 380,
       "reload": 720,
       "shoot": {
         "firstShotDelay": 420
@@ -103,6 +104,9 @@
         "damageInterval": 20,
         "lifetime": 280,
         "fadeTime": 110,
+        "hittable": false,
+        "absorbable": false,
+        "laserAbsorb": false,
         "colors": ["a93e3e", "6f2626", "b34343", "932a2a", "ffffff"],
         "hitEffect": {
           "type": "MultiEffect",
