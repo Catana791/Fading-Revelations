@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "name": "Cerberian Eclipse",
-  "description": "Like the Eclipse unit but instead of shooting flak bullets, it shoots emp bullets.",
+  "description": "Like the Eclipse unit but instead of shooting flak bullets, it shoots energy missiles. Also shoots stronger lasers.",
   "speed": 0.54,
   "accel": 0.04,
   "drag": 0.04,
