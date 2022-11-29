@@ -1,7 +1,7 @@
 {
   "type": "legs",
   "name": "Cerberian Behemoth",
-  "description": "A huge unit and Cerberos proudest invention.",
+  "description": "A huge unit and Cerberos proudest invention. Shoots with a ginormous laser, huge fragging bullets, laser sweepers and smaller FLAK turrets.",
   "legMoveSpace": 0.8,
   "legPairOffset": 3,
   "legLength": 160,
