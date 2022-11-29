@@ -1,7 +1,7 @@
 {
   "type": "HeatConductor",
   "name": "Small Heat Router",
-  "description": "A smaller Heat Router that takes up less space!,
+  "description": "A smaller Heat Router that takes up less space!",
   "size": 1,
   "regionRotated1": 1,
   "splitHeat": true,
