@@ -1,7 +1,7 @@
 {
   "type": "legs",
   "name": "Cerberian Arkyid",
-  "description": "A unit with an appearance close to that of an Arkyid but instead of the main cannon shooting artillery bullets, it shoots a mixed liquid shell.",
+  "description": "A unit with an appearance close to that of an Arkyid but instead of the main cannon shooting artillery bullets, it shoots a liquid shell.",
   "drag": 0.1,
   "speed": 0.62,
   "hitSize": 23,
