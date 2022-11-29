@@ -1,0 +1,40 @@
+{
+  "type": "HeatConductor",
+  "name": "Small Heat Router",
+  "description": "A smaller Heat Router that takes up less space!,
+  "size": 1,
+  "regionRotated1": 1,
+  "splitHeat": true,
+  "category": "crafting",
+  "research": "heat-router",
+  "requirements": [
+    "tungsten/3",
+    "graphite/3"
+  ],
+  "researchCostMultiplier": 10,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawHeatOutput",
+        "rotOffset": -1,
+        "drawGlow": false
+      },
+      {
+        "type": "DrawHeatOutput" 
+      },
+      {
+        "type": "DrawHeatOutput",
+        "rotOffset": 1,
+        "drawGlow": false 
+      },
+      {
+        "type": "DrawHeatInput",
+        "suffix": "-heat"
+      }
+    ]
+  }
+}
