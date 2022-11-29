@@ -1,7 +1,7 @@
 {
   "type": "HeatProducer",
-  "name": "Atmospheric Heat Concentrator",
-  "description": "A heat producer that extracts heat from erekirs hot atmosphere.",
+  "name": "Advanced Heating Element",
+  "description": "An improved version of the Electric Heater. Creates more heat.",
   "size": 2,
   "rotateDraw": false,
   "researchCostMultiplier": 4,
