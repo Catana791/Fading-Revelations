@@ -14,7 +14,7 @@
   "range": 190,
   "restitution": 0.07,
   "cooldown": 0.07,
-  "acceptCoolant": false,
+  "coolantUsage": 1,
   "shoot": {
     "type": "ShootAlternate",
     "shots": 7,
