@@ -14,11 +14,11 @@
   "range": 190,
   "restitution": 0.07,
   "cooldown": 0.07,
-  "coolantMultiplier": 0.3,
   "consumes": {
     "coolant": {
       "type": "ConsumeCoolant",
-      "amount": 0.35
+      "amount": 0.35,
+      "coolantMultiplier": 0.3
     }
   },
   "shoot": {
