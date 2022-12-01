@@ -17,8 +17,7 @@
   "consumes": {
     "coolant": {
       "type": "ConsumeCoolant",
-      "amount": 0.35,
-      "multiplier": 0.3
+      "amount": 0.35
     }
   },
   "shoot": {
