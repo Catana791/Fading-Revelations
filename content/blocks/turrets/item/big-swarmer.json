@@ -18,8 +18,7 @@
   "consumes": {
     "coolant": {
       "type": "ConsumeCoolant",
-      "amount": 0.35,
-      "booster": true
+      "amount": 0.35
     }
   },
   "shoot": {
