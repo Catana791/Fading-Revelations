@@ -14,7 +14,7 @@
   "range": 190,
   "restitution": 0.07,
   "cooldown": 0.07,
-  "coolantMultiplier": 6,
+  "coolantMultiplier": 60000,
   "consumes": {
     "coolant": {
       "type": "ConsumeCoolant",
