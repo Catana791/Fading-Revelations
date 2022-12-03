@@ -1,0 +1,139 @@
+{
+  "name": "Interitus",
+  "description": "A big turret made for firing homing rockets at flying enemies. Shoots barrages of missiles that can only hit air targets.",
+  "type": "ItemTurret",
+  "category": "turret",
+  "research": "duo",
+  "requirements": [
+    
+  ],
+  "targetAir": true,
+  "targetGround": false,
+  "consumes": {
+    "power": 5 
+  },
+  "range": 800,
+  "reload": 180,
+  "shoot": {
+    "shots": 3,
+    "shotDelay": 20,
+    "firstShotDelay": 60
+  },
+  "chargeSound": "lasercharge2",
+  "shootSound": "missile-silo-launch",
+  "ammoTypes": {
+    "surge-alloy": {
+      "reloadMultiplier": 1,
+      "rangeChange": 900,
+      "damage": 120,
+      "speed": 7,
+      "type": "MissileBulleType",
+      "sprite": "aa-missile",
+      "frontColor": "fcf387",
+      "backColor": "d99f6b",
+      "trailColor": "d99f6b",
+      "hitColor": "d99f6b",
+      "hitEffect": "instHit",
+      "despawnEffect": "instHit",
+      "lightning": 3,
+      "width": 18,
+      "height": 32,
+      "splashDamage": 32,
+      "splashDamageRadius": 40,
+      "trailChance": 1,
+      "trailWidth": 8,
+      "lifetime": 360,
+      "lightningLength": 6,
+      "lightningDamage": 12,
+      "status": "shocked",
+      "statusDuration": 120,
+      "fragBullets": 3,
+      "fragBullet": {
+        "type": "FlakBulletType",
+        "speed": 6,
+        "lifetime": 60,
+        "width": 3,
+        "height": 6,
+        "frontColor": "fcf387",
+        "backColor": "d99f6b",
+        "damage": 21,
+        "hitEffect": "hitBulletSmall",
+        "despawnEffect": "hitBulletSmall"
+        "pierce": false,
+        "splashDamage": 6,
+        "splashDamageRadius": 8
+      }
+    }
+  },
+  "plastanium": {
+    "surge-alloy": {
+      "reloadMultiplier": 1,
+      "rangeChange": 850,
+      "damage": 90,
+      "speed": 6,
+      "type": "MissileBulleType",
+      "sprite": "aa-missile",
+      "frontColor": "edf3a9",
+      "backColor": "9cb664",
+      "trailColor": "9cb664",
+      "hitColor": "9cb664",
+      "hitEffect": "plasticExplosion",
+      "despawnEffect": "plasticExplosion",
+      "width": 16,
+      "trailChance": 1,
+      "trailWidth": 5,
+      "height": 30,
+      "splashDamage": 32,
+      "splashDamageRadius": 36,
+      "lifetime": 330,
+      "fragBullets": 3,
+      "fragBullet": {
+        "type": "LaserBulletType",
+        "pierce": false,
+        "damage": 22,
+        "length": 42,
+        "lifetime": 32,
+        "hitEffect": "hitLancer",
+        "colors": ["9cb664", "edf3a9", "ffffff"]
+      }
+    }
+  },
+  "phase-fabric": {
+     "reloadMultiplier": 0.8,
+      "rangeChange": 880,
+      "damage": 102,
+      "speed": 7.5,
+      "type": "MissileBulleType",
+      "sprite": "aa-missile",
+      "frontColor": "edf3a9",
+      "backColor": "f19583",
+      "trailColor": "f19583",
+      "hitColor": "f19583",
+      "trailChance": 1,
+      "trailWidth": 7,
+      "hitEffect": "plasticExplosion",
+      "despawnEffect": "plasticExplosion",
+      "width": 16,
+      "height": 30,
+      "splashDamage": 32,
+      "splashDamageRadius": 36,
+      "status": "burning",
+      "statusDuration": 180,
+      "lifetime": 340,
+      "fragBullets": 3,
+      "fragBullet": {
+        "type": "MissileBulletType",
+        "sprite": "aa-missile",
+        "height": 12,
+        "width": 7,
+        "damage": 21,
+        "pierce": true,
+        "pierceCap": 2,
+        "frontColor": "edf3a9",
+        "backColor": "f19583",
+        "splashDamage": 8,
+        "splashDamageRadius": 8
+      }
+    }
+  }
+}
