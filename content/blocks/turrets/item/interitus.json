@@ -21,7 +21,7 @@
     "power": 5 
   },
   "shoot": {
-    "firstShotDelay": 105
+    "firstShotDelay": 101
   },
   "range": 800,
   "chargeSound": "lasercharge",
