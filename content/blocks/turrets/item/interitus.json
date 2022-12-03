@@ -32,7 +32,7 @@
   "ammoTypes": {
     "surge-alloy": {
       "reloadMultiplier": 1,
-      "damage": 680,
+      "damage": 580,
       "speed": 7,
       "type": "MissileBulleType",
       "sprite": "me-aa-missile",
@@ -48,7 +48,7 @@
       "homingPower": 3,
       "width": 18,
       "height": 32,
-      "splashDamage": 120,
+      "splashDamage": 80,
       "splashDamageRadius": 160,
       "trailChance": 1,
       "trailWidth": 26,
@@ -79,7 +79,7 @@
     },
   "plastanium": {
       "reloadMultiplier": 0.8,
-      "damage": 600,
+      "damage": 500,
       "speed": 6,
       "type": "MissileBulleType",
       "sprite": "me-aa-missile",
@@ -96,7 +96,7 @@
       "weaveScale": 4,
       "homingPower": 3,
       "height": 30,
-      "splashDamage": 100,
+      "splashDamage": 60,
       "splashDamageRadius": 120,
       "lifetime": 330,
       "fragBullets": 3,
@@ -116,7 +116,7 @@
   },
   "phase-fabric": {
      "reloadMultiplier": 0.9,
-      "damage": 640,
+      "damage": 540,
       "speed": 7.5,
       "type": "MissileBulleType",
       "sprite": "me-aa-missile",
@@ -130,7 +130,7 @@
       "despawnEffect": "plasticExplosion",
       "width": 16,
       "height": 30,
-      "splashDamage": 115,
+      "splashDamage": 75,
       "weaveMag": 4,
       "weaveScale": 4,
       "homingPower": 3,
