@@ -1,10 +1,7 @@
 {
   "template": "MissileUnitType",
   "speed": 8,
-  "maxRange": 6,
   "lifetime": 240,
-  "rotateSpeed": 1,
-  "trailLength": 20,
   "targetAir": true,
   "targetGround": false,
   "simulatedHealth": 9999999999,
