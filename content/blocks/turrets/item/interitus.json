@@ -25,43 +25,12 @@
   "shoot": {
     "shots": 3,
     "spread": 25,
-    "shotDelay": 12
+    "shotDelay": 25
   },
   "shootSoundVolume": 0.6,
   "shootSound": "missile-silo-launch",
   "ammoTypes": {
     "surge-alloy": {
-      "shootEffect": {
-        "type": "MultiEffect",
-        "effects": [
-          {
-            "name": "shootBig"
-          },
-          {
-            "name": "shootBig2" 
-          },
-          {
-            "name": "shootBigColor" 
-          },
-          {
-            "name": "shootTitan" 
-          }
-        ]
-      },
-      "smokeEffect": {
-        "type": "MultiEffect",
-        "effects": [
-          {
-            "name": "shootBigSmoke" 
-          },
-          {
-            "name": "shootBigSmoke2" 
-          },
-          {
-            "name": "shootSmokeTitan" 
-          }
-        ]
-      },
       "hitSound": "explosion",
       "reloadMultiplier": 1,
       "damage": 620,
@@ -110,37 +79,6 @@
       }
     },
   "plastanium": {
-    "shootEffect": {
-        "type": "MultiEffect",
-        "effects": [
-          {
-            "name": "shootBig"
-          },
-          {
-            "name": "shootBig2" 
-          },
-          {
-            "name": "shootBigColor" 
-          },
-          {
-            "name": "shootTitan" 
-          }
-        ]
-      },
-      "smokeEffect": {
-        "type": "MultiEffect",
-        "effects": [
-          {
-            "name": "shootBigSmoke" 
-          },
-          {
-            "name": "shootBigSmoke2" 
-          },
-          {
-            "name": "shootSmokeTitan" 
-          }
-        ]
-      },
     "hitSound": "explosion",
       "reloadMultiplier": 0.8,
       "damage": 540,
@@ -179,37 +117,6 @@
     }
   },
   "phase-fabric": {
-    "shootEffect": {
-        "type": "MultiEffect",
-        "effects": [
-          {
-            "name": "shootBig"
-          },
-          {
-            "name": "shootBig2" 
-          },
-          {
-            "name": "shootBigColor" 
-          },
-          {
-            "name": "shootTitan" 
-          }
-        ]
-      },
-      "smokeEffect": {
-        "type": "MultiEffect",
-        "effects": [
-          {
-            "name": "shootBigSmoke" 
-          },
-          {
-            "name": "shootBigSmoke2" 
-          },
-          {
-            "name": "shootSmokeTitan" 
-          }
-        ]
-      },
     "hitSound": "explosion",
      "reloadMultiplier": 0.9,
       "damage": 580,
