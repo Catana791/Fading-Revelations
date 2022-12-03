@@ -196,6 +196,7 @@
               "colorFrom": "fcf387",
               "colorTo": "d99f6b"
             }  
+          }
         ]
       }
     },
@@ -365,12 +366,13 @@
               "lifetime": 105,
               "colorFrom": "fcf387",
               "colorTo": "9cb664"
-            }  
+            } 
+          }
         ]
       }
     },
-  "phase-fabric": {
-    "shootEffect": "shootBig",
+    "phase-fabric": {
+      "shootEffect": "shootBig",
       "smokeEffect": "shootSmokeMissile",
       "type": "BasicBulleType",
       "damage": 0,
@@ -535,7 +537,8 @@
               "lifetime": 105,
               "colorFrom": "ffd59e",
               "colorTo": "f19583"
-            }  
+            }
+          }
         ]
       }
     }
