@@ -39,7 +39,7 @@
       "lightning": 3,
       "weaveMag": 4,
       "weaveScale": 4,
-      "homingPower": 1,
+      "homingPower": 3,
       "width": 18,
       "height": 32,
       "splashDamage": 32,
@@ -65,7 +65,10 @@
         "despawnEffect": "hitBulletSmall"
         "pierce": false,
         "splashDamage": 6,
-        "splashDamageRadius": 8
+        "splashDamageRadius": 8,
+        "collidesAir": true,
+        "collidesGround": false,
+        "collides": true
       }
     },
   "plastanium": {
@@ -85,7 +88,7 @@
       "trailWidth": 5,
       "weaveMag": 4,
       "weaveScale": 4,
-      "homingPower": 0.02,
+      "homingPower": 3,
       "height": 30,
       "splashDamage": 32,
       "splashDamageRadius": 36,
@@ -98,8 +101,10 @@
         "length": 42,
         "lifetime": 32,
         "hitEffect": "hitLancer",
-        "colors": ["9cb664", "edf3a9", "ffffff"]
-      
+        "colors": ["9cb664", "edf3a9", "ffffff"],
+      "collidesAir": true,
+        "collidesGround": false,
+        "collides": true
     }
   },
   "phase-fabric": {
@@ -121,7 +126,7 @@
       "splashDamage": 32,
       "weaveMag": 4,
       "weaveScale": 4,
-      "homingPower": 0.02,
+      "homingPower": 3,
       "splashDamageRadius": 36,
       "status": "burning",
       "statusDuration": 180,
@@ -138,7 +143,10 @@
         "frontColor": "edf3a9",
         "backColor": "f19583",
         "splashDamage": 8,
-        "splashDamageRadius": 8
+        "splashDamageRadius": 8,
+        "collidesAir": true,
+        "collidesGround": false,
+        "collides": true
       }
     }
   }
