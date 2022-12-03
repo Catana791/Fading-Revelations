@@ -13,7 +13,7 @@
     "silicon/1000",
     "thorium/700",
     "plastanium/350",
-    "surge-alloy/200"
+    "steel-alloy/200"
   ],
   "targetAir": true,
   "targetGround": false,
