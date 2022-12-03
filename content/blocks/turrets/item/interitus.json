@@ -22,10 +22,6 @@
   },
   "range": 800,
   "reload": 300,
-  "unitSort": "strongest",
-  "shoot": {
-    "firstShotDelay": 60
-  },
   "shootSoundVolume": 0.6,
   "shootSound": "missile-silo-launch",
   "ammoTypes": {
