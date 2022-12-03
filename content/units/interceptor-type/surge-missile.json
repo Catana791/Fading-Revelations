@@ -1,4 +1,5 @@
 {
+  "template": "MissileUnitType",
   "speed": 8,
   "maxRange": 6,
   "lifetime": 240,
