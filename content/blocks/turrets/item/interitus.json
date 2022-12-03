@@ -25,7 +25,7 @@
   },
   "range": 800,
   "chargeSound": "lasercharge",
-  "reload": 300,
+  "reload": 560,
   "shootSoundVolume": 0.6,
   "shootSound": "missile-silo-launch",
   "ammoTypes": {
@@ -47,7 +47,7 @@
               "lightOpacity": 0,
               "length": 20,
               "baseLength": -20,
-              "lifetime": 100,
+              "lifetime": 50,
               "layer": 106,
               "interp": "exp5",
               "sizeFrom": 8,
@@ -63,14 +63,14 @@
               "sizeFrom": 0,
               "sizeTo": 4,
               "length": 80,
-              "lifetime": 160,
+              "lifetime": 80,
               "colorFrom": "fcf387",
               "colorTo": "d99f6b",
               "cone": 360
             },
             {
               "type": "WaveEffect",
-              "lifetime": 160,
+              "lifetime": 80,
               "sizeFrom": 25,
               "sizeTo": 0,
               "interp": "pow5Out",
@@ -81,7 +81,7 @@
             },
             {
               "type": "WaveEffect",
-              "lifetime": 160,
+              "lifetime": 80,
               "sizeFrom": 35,
               "sizeTo": 0,
               "interp": "pow10Out",
@@ -100,7 +100,7 @@
               "baseLength": -40,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 110,
+              "lifetime": 55,
               "colorFrom": "fcf387",
               "colorTo": "d99f6b"
             },
@@ -114,13 +114,13 @@
               "baseLength": -40,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 130,
+              "lifetime": 65,
               "colorFrom": "fcf387",
               "colorTo": "d99f6b"
             },
             {
               "type": "WaveEffect",
-              "lifetime": 160,
+              "lifetime": 80,
               "sizeFrom": 25,
               "sizeTo": 0,
               "interp": "pow5Out",
@@ -131,7 +131,7 @@
             },
             {
               "type": "WaveEffect",
-              "lifetime": 160,
+              "lifetime": 80,
               "sizeFrom": 45,
               "sizeTo": 0,
               "interp": "pow10Out",
@@ -150,7 +150,7 @@
               "baseLength": -40,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 150,
+              "lifetime": 75,
               "colorFrom": "fcf387",
               "colorTo": "d99f6b"
             },
@@ -164,7 +164,7 @@
               "baseLength": -70,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 120,
+              "lifetime": 60,
               "colorFrom": "fcf387",
               "colorTo": "d99f6b"
             },
@@ -178,7 +178,7 @@
               "baseLength": -90,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 200,
+              "lifetime": 100,
               "colorFrom": "fcf387",
               "colorTo": "d99f6b"
             },
@@ -192,7 +192,7 @@
               "baseLength": -100,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 210,
+              "lifetime": 105,
               "colorFrom": "fcf387",
               "colorTo": "d99f6b"
             }  
