@@ -39,7 +39,7 @@
       "lightning": 3,
       "weaveMag": 4,
       "weaveScale": 4,
-      "homingPower": 0.02,
+      "homingPower": 1,
       "width": 18,
       "height": 32,
       "splashDamage": 32,
