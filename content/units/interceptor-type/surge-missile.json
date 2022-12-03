@@ -1,10 +1,7 @@
 {
-  "type": "missile",
+  "template": "MissileUnitType",
   "speed": 8,
-  "controller": "MissileAI",
   "lifetime": 240,
-  "targetAir": true,
-  "targetGround": false,
   "weapons": [
     {
       "shootCone": 360,
