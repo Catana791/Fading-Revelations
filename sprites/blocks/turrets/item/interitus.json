@@ -4,6 +4,8 @@
   "type": "ItemTurret",
   "category": "turret",
   "research": "duo",
+  "size": 5,
+  "health": 2890,
   "requirements": [
     
   ],
