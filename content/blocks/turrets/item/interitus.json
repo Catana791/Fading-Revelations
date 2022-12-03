@@ -17,8 +17,9 @@
   "range": 800,
   "reload": 180,
   "shoot": {
+    "type": "ShootSpread",
     "shots": 3,
-    "spread": 10,
+    "spread": 25,
     "shotDelay": 20
   },
   "shootSoundVolume": 0.6,
