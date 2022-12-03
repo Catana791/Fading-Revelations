@@ -3,7 +3,7 @@
   "template": "MissileUnitType",
   "speed": 8,
   "maxRange": 6,
-  "lifetime": 240,
+  "lifetime": 5,
   "engineColor": "f3e979",
   "trailColor": "f3e979",
   "engineLayer": 110,
