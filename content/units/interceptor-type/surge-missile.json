@@ -1,5 +1,6 @@
 {
   "template": "MissileUnitType",
+  "flying": true,
   "speed": 8,
   "lifetime": 240,
   "weapons": [
