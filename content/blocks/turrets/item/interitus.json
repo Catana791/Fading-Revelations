@@ -22,6 +22,7 @@
     "firstShotDelay": 60
   },
   "chargeSound": "lasercharge2",
+  "shootSoundVolume": 0.6,
   "shootSound": "missile-silo-launch",
   "ammoTypes": {
     "surge-alloy": {
