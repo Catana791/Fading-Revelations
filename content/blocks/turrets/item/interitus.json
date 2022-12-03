@@ -18,10 +18,9 @@
   "reload": 180,
   "shoot": {
     "shots": 3,
-    "shotDelay": 20,
-    "firstShotDelay": 60
+    "spread": 10,
+    "shotDelay": 20
   },
-  "chargeSound": "lasercharge2",
   "shootSoundVolume": 0.6,
   "shootSound": "missile-silo-launch",
   "ammoTypes": {
