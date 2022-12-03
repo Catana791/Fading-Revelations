@@ -36,7 +36,7 @@
             "damage": 0,
             "speed": 0,
             "spawnUnit": "me-surge-missile",
-            "chargeEffect": {
+          "chargeEffect": {
                 "type": "MultiEffect",
                 "followParent": true,
                 "lifetime": 90,
@@ -55,30 +55,30 @@
                         "colorFrom": "fcf387",
                         "colorTo": "d99f6b"
                     },
-                    {
-                        "type": "ParticleEffect",
-                        "particles": 30,
-                        "offset": 15,
-                        "baseLength": 4,
-                        "sizeFrom": 0,
-                        "sizeTo": 4,
-                        "length": 80,
-                        "lifetime": 80,
-                        "colorFrom": "fcf387",
-                        "colorTo": "d99f6b",
-                        "cone": 360
-                    },
-                    {
-                        "type": "WaveEffect",
-                        "lifetime": 80,
-                        "sizeFrom": 25,
-                        "sizeTo": 0,
-                        "interp": "pow5Out",
-                        "strokeFrom": 0,
-                        "strokeTo": 6,
-                        "colorFrom": "fcf387",
-                        "colorTo": "d99f6b"
-                    },
+					{
+						"baseLength": 4,
+						"colorFrom": "fcf387",
+						"colorTo": "d99f6b",
+						"cone": 360,
+						"length": 80,
+						"lifetime": 80,
+						"offset": 15,
+						"particles": 30,
+						"sizeFrom": 0,
+						"sizeTo": 4,
+						"type": "ParticleEffect"
+					},
+					{
+						"colorFrom": "fcf387",
+						"colorTo": "d99f6b",
+						"interp": "pow5Out",
+						"lifetime": 80,
+						"sizeFrom": 25,
+						"sizeTo": 0,
+						"strokeFrom": 0,
+						"strokeTo": 6,
+						"type": "WaveEffect"
+					},
                     {
                         "type": "WaveEffect",
                         "lifetime": 80,
@@ -199,14 +199,14 @@
                   ]
                 }
         },
-    "plastanium": {
-        "shootEffect": "shootBig",
-        "smokeEffect": "shootSmokeMissile",
-        "type": "BasicBulleType",
-        "damage": 0,
-        "speed": 0,
-        "spawnUnit": "me-plast-missile",
-        "chargeEffect": {
+        "plastanium": {
+          "shootEffect": "shootBig",
+          "smokeEffect": "shootSmokeMissile",
+          "type": "BasicBulleType",
+          "damage": 0,
+          "speed": 0,
+          "spawnUnit": "me-plast-missile",
+           "chargeEffect": {
             "type": "MultiEffect",
             "followParent": true,
             "lifetime": 90,
@@ -369,14 +369,14 @@
                 ]
             }
         },
-    "phase-fabric": {
-        "shootEffect": "shootBig",
-        "smokeEffect": "shootSmokeMissile",
-        "type": "BasicBulleType",
-        "damage": 0,
-        "speed": 0,
-        "spawnUnit": "me-phase-missile",
-        "chargeEffect": {
+        "phase-fabric": {
+          "shootEffect": "shootBig",
+          "smokeEffect": "shootSmokeMissile",
+          "type": "BasicBulleType",
+          "damage": 0,
+          "speed": 0,
+          "spawnUnit": "me-phase-missile",
+          "chargeEffect": {
             "type": "MultiEffect",
             "followParent": true,
             "lifetime": 90,
