@@ -1,0 +1,95 @@
+{
+  "name": "Surge Missile",
+  "template": "MissileUnitType",
+  "speed": 8,
+  "maxRange": 6,
+  "lifetime": 240,
+  "engineColor": "f3e979",
+  "trailColor": "f3e979",
+  "engineLayer": "effect",
+  "engineSize": 3.1,
+  "engineOffset": 10,
+  "rotateSpeed": 1,
+  "trailLength": 20,
+  "missileAccelTime": 20,
+  "lowAltitude": true,
+  "loopSound": "missileTrail",
+  "loopSoundVolume": 0.7,
+  "deathSound": "largeExplosion",
+  "targetAir": true,
+  "targetGround": false,
+  "fogRadius": 6,
+  "targetable": false,
+  "hittable": false,
+  "weapons": [
+    {
+      "shootCone": 360,
+      "mirror": false,
+      "reload": 1,
+      "deathExplosionEffect": "massiveExplosion",
+      "shootOnDeath": true,
+      "shake": 10,
+      "bullet": {
+        "type": "ExplosionBulletType",
+        "splashDamage": 640,
+        "splashDamageRadius": 65,
+        "hitColor": "f3e979",
+        "shootEffect": {
+          "type": "MultiEffect",
+          "effects": [
+            {
+              "name": "MassiveExplosion" 
+            },
+            {
+              "name": "scatheExplosion" 
+            },
+            {
+              "name": "scatheLight"
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 10,
+              "strokeFrom": 4,
+              "sizeTo": 130
+            }
+          ]
+        },
+        "collidesAir": true,
+        "collidesGround": false,
+        "buildingDamageMultiplier": 0,
+        "fragLifeMin": 0.1,
+        "fragBullets": 7,
+        "fragBullet": {
+          "type": "FlakBulletType",
+          "speed": 3.4,
+          "damage": 32,
+          "collidesAir": true,
+          "collidesGround": false,
+          "collidesTiles": false,
+          "buildingDamageMultiplier": 0,
+          "drag": 0.02,
+          "hitEffect": "massiveExplosion",
+          "despawnEffect": "scatheSlash",
+          "knockback": 0.8,
+          "lifetime": 23,
+          "height": 18,
+          "width": 9,
+          "splashDamageRadius": 40,
+          "splashDamage": 80,
+          "backColor": "f3e979",
+          "trailColor": "f3e979",
+          "hitColor": "f3e979",
+          "frontColor": "ffffff",
+          "smokeEffect": "shootBigSmoke2",
+          "despawnShake": 7,
+          "lightRadius": 30,
+          "lightColor": "f3e979",
+          "lightOpacity": 0.5,
+          "trailLength": 20,
+          "trailWidth": 3.5,
+          "trailEffect": "none"
+        }
+      }
+    }
+  ]
+}
