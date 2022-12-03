@@ -1,6 +1,7 @@
 {
   "type": "missile",
   "flying": true,
+  "template": "MissileUnitType",
   "speed": 8,
   "lifetime": 240,
   "deathExplosionEffect": "massiveExplosion",
