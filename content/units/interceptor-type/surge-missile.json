@@ -3,12 +3,12 @@
   "flying": true,
   "speed": 8,
   "lifetime": 240,
+  "deathExplosionEffect": "massiveExplosion",
   "weapons": [
     {
       "shootCone": 360,
       "mirror": false,
       "reload": 1,
-      "deathExplosionEffect": "massiveExplosion",
       "shootOnDeath": true,
       "shake": 10,
       "bullet": {
@@ -16,26 +16,6 @@
         "splashDamage": 640,
         "splashDamageRadius": 65,
         "hitColor": "f3e979",
-        "shootEffect": {
-          "type": "MultiEffect",
-          "effects": [
-            {
-              "name": "MassiveExplosion" 
-            },
-            {
-              "name": "scatheExplosion" 
-            },
-            {
-              "name": "scatheLight"
-            },
-            {
-              "type": "WaveEffect",
-              "lifetime": 10,
-              "strokeFrom": 4,
-              "sizeTo": 130
-            }
-          ]
-        },
         "collidesAir": true,
         "collidesGround": false,
         "buildingDamageMultiplier": 0,
