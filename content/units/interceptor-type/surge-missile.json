@@ -5,8 +5,6 @@
   "lifetime": 240,
   "targetAir": true,
   "targetGround": false,
-  "simulatedHealth": 9999999999,
-  "health": 999999999,
   "weapons": [
     {
       "shootCone": 360,
