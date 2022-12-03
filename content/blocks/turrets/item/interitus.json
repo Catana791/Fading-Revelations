@@ -196,7 +196,6 @@
               "colorFrom": "fcf387",
               "colorTo": "d99f6b"
             }  
-          }
         ]
       }
     },
@@ -367,7 +366,7 @@
               "colorFrom": "fcf387",
               "colorTo": "9cb664"
             } 
-          }
+          
         ]
       }
     },
@@ -538,7 +537,7 @@
               "colorFrom": "ffd59e",
               "colorTo": "f19583"
             }
-          }
+          
         ]
       }
     }
