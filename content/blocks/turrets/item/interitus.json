@@ -61,7 +61,8 @@
             "name": "shootSmokeTitan" 
           }
         ]
-      }
+      },
+      "hitSound": "explosion",
       "reloadMultiplier": 1,
       "damage": 580,
       "speed": 7,
@@ -139,7 +140,8 @@
             "name": "shootSmokeTitan" 
           }
         ]
-      }
+      },
+    "hitSound": "explosion",
       "reloadMultiplier": 0.8,
       "damage": 500,
       "speed": 6,
@@ -207,7 +209,8 @@
             "name": "shootSmokeTitan" 
           }
         ]
-      }
+      },
+    "hitSound": "explosion",
      "reloadMultiplier": 0.9,
       "damage": 540,
       "speed": 7.5,
