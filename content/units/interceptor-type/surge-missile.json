@@ -16,7 +16,7 @@
       "shake": 10,
       "bullet": {
         "type": "ExplosionBulletType",
-        "splashDamage": 1800,
+        "splashDamage": 2600,
         "splashDamageRadius": 80,
         "hitColor": "f3e979",
         "collidesAir": true,
@@ -27,7 +27,7 @@
         "fragBullet": {
           "type": "FlakBulletType",
           "speed": 3.4,
-          "damage": 120,
+          "damage": 140,
           "collidesAir": true,
           "collidesGround": false,
           "collidesTiles": false,
