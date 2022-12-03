@@ -72,7 +72,7 @@
       }
     },
   "plastanium": {
-      "reloadMultiplier": 1,
+      "reloadMultiplier": 0.8,
       "damage": 600,
       "speed": 6,
       "type": "MissileBulleType",
@@ -109,7 +109,7 @@
     }
   },
   "phase-fabric": {
-     "reloadMultiplier": 0.8,
+     "reloadMultiplier": 0.9,
       "damage": 640,
       "speed": 7.5,
       "type": "MissileBulleType",
