@@ -1,5 +1,5 @@
 {
-  "template": "MissileUnitType",
+  "type": "missile",
   "flying": true,
   "speed": 8,
   "lifetime": 240,
