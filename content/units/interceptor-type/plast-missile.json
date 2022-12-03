@@ -16,7 +16,7 @@
       "shake": 8,
       "bullet": {
         "type": "ExplosionBulletType",
-        "splashDamage": 2000,
+        "splashDamage": 1800,
         "splashDamageRadius": 60,
         "hitColor": "9cb664",
         "collidesAir": true,
