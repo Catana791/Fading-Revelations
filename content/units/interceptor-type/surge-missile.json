@@ -1,5 +1,6 @@
 {
-  "template": "MissileUnitType",
+  "type": "flying",
+  "flying": true,
   "speed": 8,
   "maxRange": 6,
   "lifetime": 240,
