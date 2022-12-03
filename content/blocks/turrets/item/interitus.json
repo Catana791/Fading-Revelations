@@ -31,6 +31,37 @@
   "shootSound": "missile-silo-launch",
   "ammoTypes": {
     "surge-alloy": {
+      "shootEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "name": "shootBig"
+          },
+          {
+            "name": "shootBig2" 
+          },
+          {
+            "name": "shootBigColor" 
+          },
+          {
+            "name": "shootTitan" 
+          }
+        ]
+      },
+      "smokeEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "name": "shootBigSmoke" 
+          },
+          {
+            "name": "shootBigSmoke2" 
+          },
+          {
+            "name": "shootSmokeTitan" 
+          }
+        ]
+      }
       "reloadMultiplier": 1,
       "damage": 580,
       "speed": 7,
@@ -78,6 +109,37 @@
       }
     },
   "plastanium": {
+    "shootEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "name": "shootBig"
+          },
+          {
+            "name": "shootBig2" 
+          },
+          {
+            "name": "shootBigColor" 
+          },
+          {
+            "name": "shootTitan" 
+          }
+        ]
+      },
+      "smokeEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "name": "shootBigSmoke" 
+          },
+          {
+            "name": "shootBigSmoke2" 
+          },
+          {
+            "name": "shootSmokeTitan" 
+          }
+        ]
+      }
       "reloadMultiplier": 0.8,
       "damage": 500,
       "speed": 6,
@@ -115,6 +177,37 @@
     }
   },
   "phase-fabric": {
+    "shootEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "name": "shootBig"
+          },
+          {
+            "name": "shootBig2" 
+          },
+          {
+            "name": "shootBigColor" 
+          },
+          {
+            "name": "shootTitan" 
+          }
+        ]
+      },
+      "smokeEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "name": "shootBigSmoke" 
+          },
+          {
+            "name": "shootBigSmoke2" 
+          },
+          {
+            "name": "shootSmokeTitan" 
+          }
+        ]
+      }
      "reloadMultiplier": 0.9,
       "damage": 540,
       "speed": 7.5,
