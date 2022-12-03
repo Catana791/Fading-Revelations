@@ -93,7 +93,7 @@
         "lifetime": 32,
         "hitEffect": "hitLancer",
         "colors": ["9cb664", "edf3a9", "ffffff"]
-      }
+      
     }
   },
   "phase-fabric": {
