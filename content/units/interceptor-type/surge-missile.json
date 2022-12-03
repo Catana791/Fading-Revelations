@@ -19,8 +19,8 @@
   "targetAir": true,
   "targetGround": false,
   "fogRadius": 6,
-  "targetable": false,
-  "hittable": false,
+  "simulatedHealth": 9999999999,
+  "health": 999999999,
   "weapons": [
     {
       "shootCone": 360,
