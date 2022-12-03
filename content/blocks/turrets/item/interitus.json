@@ -26,11 +26,10 @@
   "ammoTypes": {
     "surge-alloy": {
       "reloadMultiplier": 1,
-      "rangeChange": 900,
       "damage": 120,
       "speed": 7,
       "type": "MissileBulleType",
-      "sprite": "aa-missile",
+      "sprite": "me-aa-missile",
       "frontColor": "fcf387",
       "backColor": "d99f6b",
       "trailColor": "d99f6b",
@@ -65,16 +64,14 @@
         "splashDamage": 6,
         "splashDamageRadius": 8
       }
-    }
-  },
+    },
   "plastanium": {
     "surge-alloy": {
       "reloadMultiplier": 1,
-      "rangeChange": 850,
       "damage": 90,
       "speed": 6,
       "type": "MissileBulleType",
-      "sprite": "aa-missile",
+      "sprite": "me-aa-missile",
       "frontColor": "edf3a9",
       "backColor": "9cb664",
       "trailColor": "9cb664",
@@ -102,11 +99,10 @@
   },
   "phase-fabric": {
      "reloadMultiplier": 0.8,
-      "rangeChange": 880,
       "damage": 102,
       "speed": 7.5,
       "type": "MissileBulleType",
-      "sprite": "aa-missile",
+      "sprite": "me-aa-missile",
       "frontColor": "edf3a9",
       "backColor": "f19583",
       "trailColor": "f19583",
@@ -125,7 +121,7 @@
       "fragBullets": 3,
       "fragBullet": {
         "type": "MissileBulletType",
-        "sprite": "aa-missile",
+        "sprite": "me-aa-missile",
         "height": 12,
         "width": 7,
         "damage": 21,
@@ -138,3 +134,4 @@
       }
     }
   }
+}
