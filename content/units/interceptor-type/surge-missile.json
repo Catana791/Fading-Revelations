@@ -5,6 +5,8 @@
   "speed": 8,
   "lifetime": 240,
   "deathExplosionEffect": "massiveExplosion",
+  "trailColor": "f3e979",
+  "trailLength": 22,
   "weapons": [
     {
       "shootCone": 360,
@@ -14,8 +16,8 @@
       "shake": 10,
       "bullet": {
         "type": "ExplosionBulletType",
-        "splashDamage": 640,
-        "splashDamageRadius": 65,
+        "splashDamage": 1800,
+        "splashDamageRadius": 80,
         "hitColor": "f3e979",
         "collidesAir": true,
         "collidesGround": false,
@@ -25,7 +27,7 @@
         "fragBullet": {
           "type": "FlakBulletType",
           "speed": 3.4,
-          "damage": 32,
+          "damage": 120,
           "collidesAir": true,
           "collidesGround": false,
           "collidesTiles": false,
