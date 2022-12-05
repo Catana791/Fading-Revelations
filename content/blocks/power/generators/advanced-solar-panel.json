@@ -1,7 +1,7 @@
 {
   "type": "SolarGenerator",
   "name": "Advanced Solar Panel",
-  "description": "A better solar panel for the same space",
+  "description": "A better solar panel that takes up the same amount of space as a regular one.",
   "health": 280,
   "size": 3,
   "hasPower": true,
