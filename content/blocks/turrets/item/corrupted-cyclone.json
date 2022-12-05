@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Hurricane",
-  "description": "An enhanced version of the cyclone.",
+  "description": "An enhanced version of the Cyclone turret.",
   "health": 1905,
   "reload": 9,
   "range": 224,
