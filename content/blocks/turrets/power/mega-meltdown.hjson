@@ -5,7 +5,7 @@ size: 5
 liquidCapacity: 200
 shootDuration: 160
 category: turret
-research: uhlan
+research: big-segment
 health: 2150
 range: 240
 consumes: {
