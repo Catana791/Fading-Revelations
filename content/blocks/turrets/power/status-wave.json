@@ -1,7 +1,7 @@
 {
   "type": "PowerTurret",
   "name": "Stasis Field",
-  "description": "Shoots out shockwaves that deal damage and shock them, slowing them down quite a bit.",
+  "description": "Shoots out shockwaves that deal damage and shock enemies, slowing them down strongly.",
   "range": 640,
   "canOverdrive": false,
   "liquidBoostIntensity": 0,
