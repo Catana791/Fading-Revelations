@@ -16,7 +16,7 @@ consumes: {
   }
 }
 rotateSpeed: 6
-reload: 600
+reload: 300
 recoilAmount: 8
 restitution: 0.02
 shootSound: laserbig
