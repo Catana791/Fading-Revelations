@@ -1,6 +1,6 @@
 type: NuclearReactor
 name: "Nuclear Reactor"
-description: "A reactor that uses uraniumrods to create a lot of power. Explodes violently when not cooled all the time!"
+description: "A reactor that uses uraniumrods to create a lot of power. Explodes violently when it is not cooled extensively!"
 size: 4
 hasPower: true
 hasLiquids: true
