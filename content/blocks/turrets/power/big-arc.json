@@ -1,6 +1,6 @@
 {
   "name": "Arc Storm",
-  "description": "An arc but with more range and attack speed.",
+  "description": "An Arc but with more range and attack speed.",
   "size": 1,
   "range": 130,
   "reload": 13,
