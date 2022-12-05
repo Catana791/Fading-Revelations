@@ -14,7 +14,7 @@
       "items": [
         {
           "item": "coal",
-          "amount": 2
+          "amount": 3
         },
         {
           "item": "sand",
@@ -45,7 +45,7 @@
   "research": "spore-crusher",
   "outputItem": {
     "item": "silicon",
-    "amount": 4
+    "amount": 3
   },
   "health": 320
 }
