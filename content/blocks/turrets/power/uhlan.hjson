@@ -1,5 +1,5 @@
 name: Uhlan
-description: A better version of the lancer. Takes longer to charge but deals more damage and has more range.
+description: A better version of the Lancer. Takes less time to charge, deals more damage and has more range.
 type: PowerTurret
 targetAir: false
 health: 1420
