@@ -1,5 +1,5 @@
 name: Armageddon
-description: A better version of the Meltdown. Deals a tonne of damage.
+description: A better version of the Meltdown. Deals a tonne of damage. Requires liquid to fire.
 type: LaserTurret
 size: 5
 liquidCapacity: 200
@@ -10,6 +10,10 @@ health: 2150
 range: 240
 consumes: {
   power: 28
+  coolant: {
+    type: ConsumeCoolant
+    amount: 0.6
+  }
 }
 rotateSpeed: 6
 reload: 600
