@@ -3,7 +3,7 @@ description: A better version of the Meltdown. Deals a tonne of damage. Requires
 type: LaserTurret
 size: 5
 liquidCapacity: 200
-shootDuration: 160
+shootDuration: 360
 category: turret
 research: big-segment
 health: 2150
