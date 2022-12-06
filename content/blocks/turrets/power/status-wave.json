@@ -5,6 +5,7 @@
   "range": 640,
   "canOverdrive": false,
   "liquidBoostIntensity": 0,
+  "shootY": 0,
   "reload": 60,
   "consumes": {
     "power": 7
@@ -44,5 +45,6 @@
     {"item": "graphite", "amount": 200},
     {"item": "silicon", "amount": 150},
     {"item": "living-steel-hard", "amount": 100}
-  ]
+  ],
+  "shootEffect": "none"
 }
