@@ -1,20 +1,20 @@
 {
   "type": "Unloader" 
   "name": "Advanced Unloader",
-  "description": "An unloader that unloads items way faster than the normal one.",
-"size": 1,
-"dumpTime": 1,
-"itemCapacity": 100,
-"category": "effect",
-"research": "titanium-bridge-conveyor",
-"requirements": [
-{
-"item": "silicon",
-"amount": 50
-},
-{
-"item": "titanium",
-"amount": 45
-}
+  "description": "An unloader that unloads items way faster than the normal one and can also buffer some items.",
+  "size": 1,
+  "itemCapacity": 5,
+  "speed": 1,
+  "category": "effect",
+  "research": "titanium-bridge-conveyor",
+  "requirements": [
+  {
+    "item": "silicon",
+    "amount": 50
+  },
+  {
+    "item": "titanium",
+    "amount": 45
+  }
 ]
 }
