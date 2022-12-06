@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Induced Kiln",
-  "description": "A better kiln that is more cost-efficient.",
+  "description": "A better kiln that is a lot more efficient.",
   "size": 3,
   "hasPower": true,
   "hasItems": true,
@@ -26,7 +26,7 @@
       }
     ]
   },
-  "craftTime": 45,
+  "craftTime": 60,
   "consumes": {
     "power": 1.1,
     "items": {
@@ -64,7 +64,7 @@
   "research": "dissolver",
   "outputItem": {
     "item": "metaglass",
-    "amount": 4
+    "amount": 3
   },
   "health": 320
 }
