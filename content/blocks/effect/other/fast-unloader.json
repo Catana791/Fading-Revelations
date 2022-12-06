@@ -4,7 +4,7 @@
   "description": "An unloader that unloads items way faster than the normal one and can also buffer some items.",
   "size": 1,
   "itemCapacity": 5,
-  "speed": 1,
+  "speed": 0.3,
   "category": "effect",
   "research": "titanium-bridge-conveyor",
   "requirements": [
