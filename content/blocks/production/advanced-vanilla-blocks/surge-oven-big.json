@@ -6,7 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "craftTime": 130,
+  "craftTime": 90
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
@@ -32,19 +32,19 @@
       "items": [
         {
           "item": "copper",
-          "amount": 6
+          "amount": 3
         },
         {
           "item": "lead",
-          "amount": 6
-        },
-        {
-          "item": "silicon",
           "amount": 4
         },
         {
+          "item": "silicon",
+          "amount": 3
+        },
+        {
           "item": "titanium",
-          "amount": 5
+          "amount": 2
         } 
       ]
     }
@@ -71,6 +71,6 @@
   "research": "big-phase-weaver",
   "outputItem": {
     "item": "surge-alloy",
-    "amount": 4
+    "amount": 2
   }
 }
