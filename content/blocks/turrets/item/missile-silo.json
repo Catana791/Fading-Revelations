@@ -142,5 +142,6 @@
     }
   ],
   "category": "turret",
+  "canOverdrive": false,
   "research": "ring-turret"
 }
