@@ -24,5 +24,6 @@
   ],
   "category": "distribution",
   "speed": 0.2,
+  "displaySpeed": 22,
   "research": "mod-gate-distribution"
 }
