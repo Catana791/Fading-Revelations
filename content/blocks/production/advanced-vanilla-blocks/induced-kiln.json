@@ -26,7 +26,7 @@
       }
     ]
   },
-  "craftTime": 90,
+  "craftTime": 60,
   "consumes": {
     "power": 1.1,
     "items": {
