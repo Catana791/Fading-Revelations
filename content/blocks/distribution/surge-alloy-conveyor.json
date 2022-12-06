@@ -23,6 +23,6 @@
     }
   ],
   "category": "distribution",
-  "speed": 2,
+  "speed": 0.1,
   "research": "mod-gate-distribution"
 }
