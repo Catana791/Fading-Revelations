@@ -1,6 +1,6 @@
 {
   "type": "legs",
-  "name": "Cerberian Atrax",
+  "name": "Hexathelid",
   "description": "A unit type similar to an Atrax but shoots fragging slag bullets.",
   "speed": 0.6,
   "drag": 0.4,
