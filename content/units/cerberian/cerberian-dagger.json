@@ -1,6 +1,6 @@
 {
   "type": "mech",
-  "name": "Cerberian Dagger",
+  "name": "Bayonet",
   "description": "A stronger version of the Dagger unit typically found on Serpulo.",
   "speed": 0.5,
   "flying": false,
