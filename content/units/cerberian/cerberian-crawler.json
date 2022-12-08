@@ -1,6 +1,6 @@
 {
   "type": "mech",
-  "name": "Cerberian Crawler",
+  "name": "Straggle",
   "description": "A cerberian version of the Crawler unit.",
   "defaultController": "SuicideAI",
   "speed": 1,
