@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "flying": true,
-  "name": "Cerberian Flare",
+  "name": "Spark",
   "description": "A unit similar to a Flare from Serpulo but with upgraded weaponry.",
   "speed": 2.7,
   "accel": 0.08,
