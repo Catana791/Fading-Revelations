@@ -1,6 +1,6 @@
 {
   "type": "mech",
-  "name": "Cerberian Scepter",
+  "name": "Baton",
   "description": "A re-manufactured version of the Scepter unit.",
   "speed": 0.36,
   "hitSize": 22,
