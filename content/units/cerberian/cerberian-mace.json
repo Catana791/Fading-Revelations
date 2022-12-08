@@ -1,6 +1,6 @@
 {
   "type": "mech",
-  "name": "Cerberian Mace",
+  "name": "Cudgel",
   "description": "A unit similar to a Mace from Serpulo but stronger. Shoots with a different type of Flamethrower.",
   "speed": 0.5,
   "hitSize": 10,
