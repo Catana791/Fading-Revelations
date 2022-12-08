@@ -1,6 +1,6 @@
 {
   "type": "mech",
-  "name": "Cerberian Reign",
+  "name": "Kaiser",
   "description": "A unit inspired by the Reign from Serpulo but with upgraded technology.",
   "speed": 0.35,
   "hitSize": 26,
