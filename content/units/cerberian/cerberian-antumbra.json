@@ -1,6 +1,6 @@
 {
   "type": "flying",
-  "name": "Cerberian Antumbra",
+  "name": "Penumbra",
   "description": "A unit with technology similar to that of the Serpulo Antumbra but the main cannons shoot a laser instead of regular bullets.",
   "speed": 0.8,
   "accel": 0.04,
