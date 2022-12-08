@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "flying": true,
-  "name": "Cerberian Zenith",
+  "name": "Summit",
   "description": "A unit similar to a Zenith but the missile launchers fire barrages of missiles instead of single ones.",
   "health": 700,
   "speed": 1.7,
