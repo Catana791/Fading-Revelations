@@ -2,6 +2,6 @@
   "localizedName": "Abandoned Battlefield",
   "difficulty": 10,
   "planet": "cerbero",
-  "captureWave": 150,
+  "captureWave": 40,
   "sector": 1
 }
