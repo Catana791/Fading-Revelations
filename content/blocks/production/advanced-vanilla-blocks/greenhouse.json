@@ -8,7 +8,7 @@
   "hasLiquids": false,
   "attribute": "spores",
   "maxBoost": 2,
-  "envRequired": 27,
+  "envRequired": 8,
   "craftTime": 60,
   "craftEffect": "smeltsmoke",
   "updateEffect": "pulverize",
