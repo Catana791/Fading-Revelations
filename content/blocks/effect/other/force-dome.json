@@ -7,9 +7,11 @@
     "radius": 150,
     "shieldHealth": 1000,
     "phaseRadiusBoost": 100,
+    "phaseShieldBoost": 700,
     "phaseUseTime": 350,
     "cooldownNormal": 1.2,
-    "cooldownLiquid": 1.1,
+    "cooldownLiquid": 1,
+    "cooldownBrokenBase": 0.3,
     "category": "effect",
     "requirements": [
         {"item": "lead", "amount": 300},
@@ -21,10 +23,11 @@
     "consumes": {
 		"power": 5,
 		"items": {
-			"items": [ {"item": "phase-fabric", "amount": 1} ],
-			"booster": true,
-			"optional": true
-        }
+			"items": [
+         "phase-fabric/1",
+         "booster": true
+      ]
+    }
 	},
-    "research": "dark-mender"
+  "research": "dark-mender"
 }
