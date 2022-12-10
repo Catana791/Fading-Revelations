@@ -8,6 +8,7 @@
   "hasLiquids": false,
   "attribute": "spores",
   "maxBoost": 1,
+  "boostScale": 0.1,
   "envRequired": 8,
   "craftTime": 60,
   "craftEffect": "smeltsmoke",
