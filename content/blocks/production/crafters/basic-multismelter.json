@@ -1,0 +1,42 @@
+{
+  "type": "GenericCrafter",
+  "name": "Basic Multismelter",
+  "description": "Uses coal, sand and lead to create metaglass, graphite and silicon all at once.",
+  "category": "crafting",
+  "research": "duo",
+  "requirements": [],
+  "consumes": {
+    "power": 1.2,
+    "items": {
+      "items": [
+        "lead/1",
+        "sand/3",
+        "coal/3"
+      ]
+    }
+  },
+  "outputItems": [
+    "graphite/1",
+    "silicon/1",
+    "metaglass/1"
+  ],
+  "craftTime": 60,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawCrucibleFlame" 
+      },
+      {
+        "type": "DrawPistons" 
+      },
+      {
+        "type": "DrawDefault" 
+      }
+    ]
+  }
+}
