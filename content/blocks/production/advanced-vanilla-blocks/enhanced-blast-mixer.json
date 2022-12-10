@@ -1,13 +1,13 @@
 {
   "type": "GenericCrafter",
-  "name": "Enhanced Blast Mixer",
+  "name": "Blast Forge",
   "description": "A better blast mixer. Gets very hot so it uses graphite for isolation.",
   "size": 3,
   "hasPower": true,
   "hasItems": true,
   "health": 240,
   "hasLiquids": false,
-  "craftTime": 85,
+  "craftTime": 90,
   "craftEffect": "plasticExplosion",
   "updateEffect": "pulverizeRed",
   "consumes": {
@@ -16,11 +16,11 @@
       "items": [
         {
           "item": "pyratite",
-          "amount": 1
+          "amount": 2
         },
         {
           "item": "spore-pod",
-          "amount": 1
+          "amount": 2
         }
       ]
     }
