@@ -7,7 +7,7 @@
   "hasItems": true,
   "hasLiquids": false,
   "health": 240,
-  "craftTime": 75,
+  "craftTime": 90,
   "craftEffect": "pulverizeRed",
   "updateEffect": "pulverizeRed",
   "consumes": {
@@ -16,15 +16,15 @@
       "items": [
         {
           "item": "coal",
-          "amount": 1
+          "amount": 2
         },
         {
           "item": "lead",
-          "amount": 2
+          "amount": 3
         },
         {
           "item": "sand",
-          "amount": 2
+          "amount": 3
         }
       ]
     }
