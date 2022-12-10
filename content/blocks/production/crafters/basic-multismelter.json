@@ -12,8 +12,8 @@
     "items": {
       "items": [
         "lead/1",
-        "sand/3",
-        "coal/3"
+        "sand/4",
+        "coal/6"
       ]
     }
   },
@@ -22,7 +22,7 @@
     "silicon/1",
     "metaglass/1"
   ],
-  "craftTime": 45,
+  "craftTime": 30,
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
