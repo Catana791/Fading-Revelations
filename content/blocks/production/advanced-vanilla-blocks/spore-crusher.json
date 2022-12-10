@@ -9,7 +9,7 @@
   "itemCapacity": 20,
   "health": 720,
   "liquidCapacity": 120,
-  "craftTime": 30,
+  "craftTime": 148,
   "craftEffect": {
      "type": "ParticleEffect",
      "particles": 8,
@@ -25,7 +25,7 @@
       "items": [
         {
           "item": "spore-pod",
-          "amount": 2
+          "amount": 1
         }
       ]
     } 
