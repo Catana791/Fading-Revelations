@@ -7,7 +7,7 @@
   "hasItems": true,
   "hasLiquids": false,
   "health": 240,
-  "craftTime": 90,
+  "craftTime": 60,
   "craftEffect": "pulverizeRed",
   "updateEffect": "pulverizeRed",
   "consumes": {
@@ -16,15 +16,15 @@
       "items": [
         {
           "item": "coal",
-          "amount": 2
+          "amount": 3
         },
         {
           "item": "lead",
-          "amount": 3
+          "amount": 6
         },
         {
           "item": "sand",
-          "amount": 3
+          "amount": 6
         }
       ]
     }
@@ -51,6 +51,6 @@
   "research": "greenhouse",
   "outputItem": {
     "item": "pyratite",
-    "amount": 2
+    "amount": 3
   }
 }
