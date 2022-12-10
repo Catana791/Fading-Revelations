@@ -21,7 +21,7 @@
     "silicon/1",
     "metaglass/1"
   ],
-  "craftTime": 60,
+  "craftTime": 45,
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
