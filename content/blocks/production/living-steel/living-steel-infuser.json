@@ -7,7 +7,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "craftTime": 60,
+  "craftTime": 120,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
@@ -20,7 +20,7 @@
         },
         {
           "item": "spore-pod",
-          "amount": 1
+          "amount": 2
         }
       ]
     }
