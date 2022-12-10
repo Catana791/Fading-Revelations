@@ -14,11 +14,19 @@
       "items": [
         {
           "item": "uraniumrod",
-          "amount": 5
+          "amount": 10
         },
         {
           "item": "graphite",
           "amount": 20
+        },
+        {
+          "item": "thorium",
+          "amount": 10
+        },
+        { 
+          "item": "blast-compound",
+          "amount": 10
         }
       ]
     }
