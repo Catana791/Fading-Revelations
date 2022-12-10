@@ -4,9 +4,13 @@
   "description": "Uses coal, sand and lead to create metaglass, graphite and silicon all at once.",
   "category": "crafting",
   "sinMag": 0.1,
-  "research": "duo",
+  "research": "mod-gate-crafters",
   "size": 3,
-  "requirements": [],
+  "requirements": [
+    "copper/100",
+    "lead/80",
+    "graphite/50"
+  ],
   "consumes": {
     "power": 1.2,
     "items": {
