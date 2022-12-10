@@ -16,14 +16,14 @@
     "power": 0.75,
     "items": {
       "items": [
-        "scrap/1"  
+        "scrap/2"  
       ]
     }
   },
-  "craftTime": 20,
+  "craftTime": 30,
   "outputItem": {
      "item": "sand",
-    "amount": 1
+    "amount": 2
   },
   "drawer": {
     "type": "DrawMulti",
