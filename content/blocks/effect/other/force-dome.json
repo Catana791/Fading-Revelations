@@ -24,7 +24,6 @@
 		"power": 5,
 	},
   "itemConsumer": {
-    "type": "consumeItem",
     "item": "phase-fabric",
     "amount": 1,
     "booster": true
