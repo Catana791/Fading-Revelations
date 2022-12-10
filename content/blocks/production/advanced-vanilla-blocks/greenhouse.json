@@ -12,14 +12,14 @@
   "baseEfficiency": 1,
   "boostScale": 0.5556,
   "envRequired": 8,
-  "craftTime": 60,
+  "craftTime": 72,
   "craftEffect": "smeltsmoke",
   "updateEffect": "pulverize",
   "consumes": {
-    "power": 1.49,
+    "power": 1.5,
     "liquid": {
       "liquid": "water",
-      "amount": 0.41,
+      "amount": 0.5
     }
   },
   "requirements": [
