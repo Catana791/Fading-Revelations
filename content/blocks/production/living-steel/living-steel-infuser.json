@@ -7,7 +7,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "craftTime": 100,
+  "craftTime": 50,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
@@ -16,11 +16,11 @@
       "items": [
         {
           "item": "titanium",
-          "amount": 4
+          "amount": 2
         },
         {
           "item": "spore-pod",
-          "amount": 2
+          "amount": 1
         }
       ]
     }
