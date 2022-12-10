@@ -7,7 +7,7 @@
   "hasItems": true,
   "hasLiquids": false,
   "attribute": "spores",
-  "maxBoost": 2,
+  "maxBoost": 1,
   "minEfficiency": 1,
   "baseEfficiency": 1,
   "boostScale": 0.5556,
