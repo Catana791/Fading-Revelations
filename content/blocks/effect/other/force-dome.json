@@ -22,10 +22,14 @@
     ],
     "consumes": {
 		"power": 5,
-    "itemConsumer": {
-      "item": "phase-fabric",
-      "amount": 1,
-      "booster": true
+      "items": {
+        "items": [
+          {
+            "item": "phase-fabric",
+            "amount": 1,
+            "booster": true
+          }
+       ]
     }
 	},
   "research": "dark-mender"
