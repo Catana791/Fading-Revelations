@@ -4,6 +4,7 @@
   "description": "Uses coal, sand and lead to create metaglass, graphite and silicon all at once.",
   "category": "crafting",
   "research": "duo",
+  "size": 3,
   "requirements": [],
   "consumes": {
     "power": 1.2,
