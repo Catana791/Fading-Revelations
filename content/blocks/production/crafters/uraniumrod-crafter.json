@@ -19,10 +19,14 @@
         },
         {
           "item": "plastanium",
-          "amount": 1
+          "amount": 2
         },
         {
           "item": "lead",
+          "amount": 3
+        },
+        {
+          "item": "phase-fabric",
           "amount": 1
         }
       ]
