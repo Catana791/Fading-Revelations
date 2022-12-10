@@ -9,7 +9,7 @@
   "itemCapacity": 20,
   "health": 720,
   "liquidCapacity": 120,
-  "craftTime": 80,
+  "craftTime": 76,
   "craftEffect": {
      "type": "ParticleEffect",
      "particles": 8,
