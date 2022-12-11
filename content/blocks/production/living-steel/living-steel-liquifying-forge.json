@@ -31,6 +31,10 @@
     {
       "item": "titanium",
       "amount": 145
+    },
+    {
+      "item": "living-steel",
+      "amount": 100
     }
   ],
   "category": "crafting",
