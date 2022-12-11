@@ -28,7 +28,7 @@
       "reload": 7,
       "shootcone": 360,
       "spacing": 0,
-      "shootSound": "shoot",
+      "shootSound": "lasershoot",
       "bullet": {
         "type": "LaserBoltBulletType",
         "speed": 6,
