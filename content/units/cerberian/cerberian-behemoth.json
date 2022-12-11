@@ -33,7 +33,7 @@
       "targetGround": false,
       "shootSound": "artillery",
       "bullet": {
-        "type": "FlakBulleType",
+        "type": "FlakBulletType",
         "height": 12,
         "width": 8,
         "frontColor": "a93e3e",
@@ -64,7 +64,7 @@
       "targetGround": false,
       "shootSound": "artillery",
       "bullet": {
-        "type": "FlakBulleType",
+        "type": "FlakBulletType",
         "damage": 8,
         "pierce": true,
         "width": 12,
