@@ -21,17 +21,13 @@
 	      {"item": "plastanium", "amount": 100}
     ],
     "consumes": {
-		"power": 5,
-      "items": {
-        "items": [
-          {
-            "item": "phase-fabric",
-            "amount": 1,
-            "optional": true,
-            "booster": true
-          }
-       ]
-    }
-	},
+		  "power": 5
+	  },
   "research": "dark-mender"
+  "itemConsumer": {
+    "item": "phase-fabric",
+    "amount": 1,
+    "optional": true,
+    "booster": true
+  }
 }
