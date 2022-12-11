@@ -7,17 +7,17 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "craftTime": 40,
+  "craftTime": 50,
   "craftEffect": "smeltsmoke",
   "updateEffect": "smeltsmoke",
   "consumes": {
     "power": 1.4,
     "items": {
       "items": [
-        "living-steel/1"
+        "living-steel/2"
       ]
     },
-    "liquid": "oil/0.3"
+    "liquid": "oil/0.6"
   },
   "requirements": [
     {
@@ -35,7 +35,7 @@
   ],
   "category": "crafting",
   "research": "living-steel-forge",
-  "outputLiquid": "living-steel-liquid/0.3",
+  "outputLiquid": "living-steel-liquid/0.4",
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
