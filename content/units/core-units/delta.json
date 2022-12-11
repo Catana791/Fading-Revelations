@@ -18,6 +18,7 @@
   "flying": true,
   "rotateWeapon": true,
   "rotateSpeed": 1,
+  "itemCapacity": 80,
   "weapons": [
     {
       "name": "nothing",
