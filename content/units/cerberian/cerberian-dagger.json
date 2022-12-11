@@ -21,7 +21,7 @@
         "homingPower": 0.2,
         "weaveMag": 4,
         "weaveScale": 4,
-        "shootEffect": "shootBig2",
+        "shootEffect": "shootSmall",
         "frontColor": "ffffff",
         "hitSound": "none",
         "width": 7,
@@ -34,8 +34,8 @@
         "trailWidth": 2.2,
         "trailLength": 18,
         "trailChance": -1,
-        "despawnSound": "dullExplosion",
         "despawnEffect": "none",
+        "despawnHit": true,
         "hitEffect": {
           "type": "ExplosionEffect",
           "lifetime": 20,
