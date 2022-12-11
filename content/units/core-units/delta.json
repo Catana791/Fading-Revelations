@@ -17,7 +17,7 @@
   "health": 260,
   "flying": true,
   "rotateWeapon": true,
-  "rotateSpeed": 100,
+  "rotateSpeed": 50,
   "itemCapacity": 80,
   "weapons": [
     {
