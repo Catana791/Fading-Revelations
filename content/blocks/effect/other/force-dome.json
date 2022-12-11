@@ -6,8 +6,7 @@
     "health": 500,
     "radius": 210,
     "shieldHealth": 1500,
-    "cooldownNormal": 1.2,
-    "cooldownLiquid": 1,
+    "cooldownNormal": 1.8,
     "cooldownBrokenBase": 0.3,
     "category": "effect",
     "requirements": [
