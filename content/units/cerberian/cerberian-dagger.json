@@ -12,7 +12,7 @@
       "x": 4,
       "y": 2,
       "top": false,
-      "shootSound": "pew",
+      "shootSound": "lasershoot",
       "ejectEffect": "casing1",
       "bullet": {
         "type": "MissileBulletType",
