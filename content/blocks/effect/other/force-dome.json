@@ -6,8 +6,8 @@
     "health": 500,
     "radius": 210,
     "shieldHealth": 1500,
-    "cooldownNormal": 1.8,
-    "cooldownBrokenBase": 0.3,
+    "cooldownNormal": 1.1,
+    "cooldownBrokenBase": 0.9,
     "category": "effect",
     "requirements": [
         {"item": "lead", "amount": 300},
