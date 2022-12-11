@@ -1,14 +1,11 @@
 {
     "type": "ForceProjector",
     "name": "Force Dome",
-    "description": "A better Force Projector with more range and shield health.",
+    "description": "A better Force Projector with more range and shield health. Cannot be boosted with Phase Fabric.",
     "size": 4,
     "health": 500,
-    "radius": 150,
-    "shieldHealth": 1000,
-    "phaseRadiusBoost": 100,
-    "phaseShieldBoost": 700,
-    "phaseUseTime": 350,
+    "radius": 210,
+    "shieldHealth": 1500,
     "cooldownNormal": 1.2,
     "cooldownLiquid": 1,
     "cooldownBrokenBase": 0.3,
@@ -23,11 +20,5 @@
     "consumes": {
 		  "power": 5
 	  },
-  "research": "dark-mender"
-  "itemConsumer": {
-    "item": "phase-fabric",
-    "amount": 1,
-    "optional": true,
-    "booster": true
-  }
+    "research": "dark-mender"
 }
