@@ -8,7 +8,8 @@
     "lead/160",
     "graphite/75",
     "silicon/45",
-    "titanium/140"
+    "titanium/140",
+    "plastanium/15"
   ],
   "craftEffect": "blastExplosion",
   "outputItem": "graphite/4",
