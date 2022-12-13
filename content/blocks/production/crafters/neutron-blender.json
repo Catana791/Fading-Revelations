@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Neutron Blender",
-  "description": "Blends decently large quantities of cryofluid, oil and liquid living steel into Neutron Fluid.
+  "description": "Blends decently large quantities of cryofluid, oil and liquid living steel into highly potent Neutron Fluid."
   "size": 3,
   "category": "crafting",
   "research": "duo",
