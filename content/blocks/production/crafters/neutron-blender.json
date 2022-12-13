@@ -4,7 +4,7 @@
   "description": "Blends decently large quantities of cryofluid, oil and liquid living steel into highly potent Neutron Fluid."
   "size": 3,
   "category": "crafting",
-  "research": "duo",
+  "research": "mod-gate-crafters",
   "requirements": [
     "metaglass/250",
     "silicon/160",
