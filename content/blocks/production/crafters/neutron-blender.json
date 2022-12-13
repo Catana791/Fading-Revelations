@@ -6,8 +6,8 @@
   "category": "crafting",
   "research": "mod-gate-crafters",
   "loopSound": "spellLoop",
-  "ambientSound": "hum",
-  "ambientSoundVolume": 0.4,
+  "ambientSound": "spellLoop",
+  "ambientSoundVolume": 0.7,
   "loopSoundVolume": 0.6,
   "requirements": [
     "metaglass/250",
