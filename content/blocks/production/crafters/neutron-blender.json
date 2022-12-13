@@ -7,8 +7,8 @@
   "research": "mod-gate-crafters",
   "loopSound": "spellLoop",
   "ambientSound": "spellLoop",
-  "ambientSoundVolume": 0.7,
-  "loopSoundVolume": 0.6,
+  "ambientSoundVolume": 0.4,
+  "loopSoundVolume": 0.4,
   "requirements": [
     "metaglass/250",
     "silicon/160",
@@ -73,14 +73,6 @@
         "reccurence": 8,
         "strokeMin": 0.1
       },
-      {
-        "type": "DrawBubbles",
-        "amount": 6,
-        "color": "313131",
-        "spread": 2,
-        "reccurence": 0.8,
-        "strokeMin": 0.1
-      }
       {
         "type": "DrawDefault" 
       }
