@@ -75,6 +75,21 @@
       },
       {
         "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawLiquidRegion",
+        "suffix": "-liquid-1",
+        "drawLiquid": "cryofluid"
+      },
+      {
+        "type": "DrawLiquidRegion",
+        "suffix": "-liquid-2",
+        "drawLiquid": "oil"
+      },
+      {
+        "type": "DrawLiquidRegion",
+        "suffix": "-liquid-3",
+        "drawLiquid": "living-steel-liquid"
       }
     ]
   }
