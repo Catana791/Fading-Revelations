@@ -10,7 +10,8 @@
   "research": "living-steel-liquid",
   "coolant": true,
   "effect": {
-    "name": "Neutron-Frozen",
+    "name": "me-neutron-frozen",
+    "localizedName": "Neutron-Frozen",
     "alwaysUnlocked": true,
     "speedMultiplier": 0.4,
     "healthMultiplier": 0.7,
