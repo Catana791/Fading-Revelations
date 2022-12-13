@@ -74,7 +74,7 @@
         "amount": 6,
         "color": "87ceeb",
         "spread": 2,
-        "reccurence": 8,
+        "reccurence": 0.8,
         "strokeMin": 0.1
       },
       {
