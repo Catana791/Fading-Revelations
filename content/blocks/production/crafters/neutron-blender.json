@@ -4,7 +4,7 @@
   "description": "Blends decently large quantities of cryofluid, oil and liquid living steel into highly potent Neutron Fluid."
   "size": 3,
   "hasItems": true,
-  "hasLiquid": true,
+  "hasLiquids": true,
   "itemCapacity": 30,
   "liquidCapacity": 120,
   "category": "crafting",
