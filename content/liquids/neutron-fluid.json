@@ -8,5 +8,12 @@
   "viscosity": 0.5,
   "flammability": 2,
   "research": "living-steel-liquid",
-  "coolant": true
+  "coolant": true,
+  "effect": {
+    "name": "Neutron-Frozen",
+    "alwaysUnlocked": true,
+    "speedMultiplier": 0.4,
+    "healthMultiplier": 0.7,
+    "damage": 0.1
+  }
 }
