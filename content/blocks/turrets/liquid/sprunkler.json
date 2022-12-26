@@ -4,8 +4,7 @@
   "size": 3,
   "shoot": {
     "shots": 100,
-    "spread": 3,
-    "shotDelay": 0
+    "spread": 30
   },
   "range": 200,
   "reload": 1,
