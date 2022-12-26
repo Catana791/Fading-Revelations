@@ -4,7 +4,7 @@
   "size": 3,
   "shoot": {
     "type": "ShootSpread",
-    "shots": 100,
+    "shots": 10,
     "spread": 1
   },
   "range": 200,
