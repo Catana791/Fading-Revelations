@@ -38,6 +38,8 @@ extends **[Mindustry]** in fun ways while keeping it balanced. <br>
 <br>
 <br>
 
+**[Fading Revelations Wiki!]**
+
 </div>
 
 ## Features
@@ -166,6 +168,8 @@ Items:
 [Issues]: https://github.com/Fresh791/Fading-Revelations/issues
 [VSCode]: https://code.visualstudio.com/
 [Piskel]: https://www.piskelapp.com/
+
+[Fading Revelations Wiki!]: https://fadingrevelations.miraheze.org/wiki/Main_Page
 
 [License]: LICENSE
 [Logo]: github/Banner.png
