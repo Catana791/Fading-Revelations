@@ -28,7 +28,7 @@
         "hitSound": "nuke-hit",
         "hitSoundVolume": 6,
         "status": {
-          "name": "radiated",
+          "name": "me-radiated",
           "localizedName": "Radiated",
           "damage": 0.125,
           "permanent": true,
