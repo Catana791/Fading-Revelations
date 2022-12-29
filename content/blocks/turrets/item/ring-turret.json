@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
-  "name": "S.E.H.R.O.B.B",
-  "description": "Stands for Super Epic Half Ring Of Bullets Bombard. Fires big fragging shells at enemies that don't deal a tonne of damage but cover a lot of area. Don't place too many or it might become laggy.",
+  "name": "C.B.S.T",
+  "description": "Stands for cluster bomb strike turret. Fires big fragging shells at enemies that don't deal a tonne of damage but cover a lot of area. Don't place too many or it might become laggy.",
   "targetAir": true,
   "targetGround": true,
   "shoot": {
