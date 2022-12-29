@@ -35,86 +35,10 @@
   "inaccuracy": 0,
   "ammoTypes": {
     "nuke": {
-      "suppressionDuration": 600,
-      "suppressionRange": 240,
-      "hitShake": 3,
-      "reflectable": false,
-      "type": "MissileBulletType",
-      "speed": 3,
-      "targetAir": false,
-      "lifetime": 999999999,
-      "widht": 100,
-      "height": 120,
-      "hitSound": "nuke-hit",
-      "hitSoundVolume": 6,
+      "speed": 0,
       "damage": 0,
-      "splashDamageRadius": 240,
-      "splashDamage": 5000,
-      "ammoMultiplier": 1,
-      "sprite": "me-nuke-bullet"
-      "frontColor": "9cb664",
-      "homingRange": 1600,
-      "homingPower": 0.9,
-      "buildingDamageMultiplier": 0.05,
-      "status": {
-        "name": "me-radiated",
-      "localizedName": "Radiated",
-      "damage": 0.125,
-      "permanent": true,
-      "alwaysUnlocked": true,
-      "speedMultiplier": 0.9,
-      "reloadMultiplier": 0.9,
-      "healthMultiplier": 0.9,
-      "effect": {
-      "type": "ParticleEffect",
-      "particles": 8,
-      "colorFrom": "30af1f",
-      "colorTo": "328926",
-      "interp": "circleOut"
-    }
-    },
-      "backColor": "000000"
-      "trailEffect": {
-    "type": "ParticleEffect",
-      "particles": 25,
-      "length": 30,
-      "offsetY": 60,
-       "lifetime": 90,
-      "useRotation": true,
-      "interp": "circleOut",
-      "cone": 360,
-      "colorFrom": "ffdd55",
-      "colorTo": "db401c",
-      "sizeFrom": 3,
-      "sizeTo": 2.8
-  },
-      "hitEffect": {
-        "type": "MultiEffect",
-        "effects": [
-      {
-      "type": "WaveEffect",
-      "sizeFrom": 0,
-      "sizeTo": 250,
-      "lifetime": 120,
-      "colorFrom": "edf3a9",
-      "colorTo": "9cb664",
-        "startDelay": 20
-    },
-    {
-    "type": "ParticleEffect",
-    "baseLength": 120,
-    "lifetime": 120,
-    "colorFrom": "edf3a9",
-    "colorTo": "fefefe",
-    "interp": "circleOut",
-    "cone": 360,
-    "particles": 32,
-    "sizeFrom": 12,
-    "sizeTo": 0,
-    "spin": 0.2,
-  }
-      ]
-      }
+      "instantDisappear": true,
+      "spawnUnit": "me-nuke-missile"
     }
   },
   "requirements": [
