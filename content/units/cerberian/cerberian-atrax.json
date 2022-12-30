@@ -1,20 +1,20 @@
 {
   "type": "legs",
   "name": "Hexathelid",
-  "description": "A unit type similar to an Atrax but shoots fragging slag bullets.",
+  "description": "A unit type similar to an Atrax but shoots fragging slag bullets. Exchanges less health and armor for a lot more damage.",
   "speed": 0.6,
   "drag": 0.4,
   "hitSize": 13,
   "rotateSpeed": 3,
   "targetAir": false,
-  "health": 600,
+  "health": 500,
   "immunities": ["burning", "melting"],
   "legCount": 4,
   "legLength": 9,
   "legForwardScl": 0.6,
   "legMoveSpace": 1.4,
   "hovering": true,
-  "armor": 3,
+  "armor": 2,
   "shadowElevation": 0.2,
   "groundLayer": 74,
   "weapons": [
@@ -25,23 +25,29 @@
     "name": "cerberian-atrax-weapon",
     "ejectEffect": "none",
     "x": 7,
+    "shootSound": "flame",
     "bullet": {
       "type": "LiquidBulletType",
       "liquid": "slag",
-      "damage": 14,
+      "damage": 30,
       "drag": 0.009,
       "speed": 2.5,
       "shootEffect": "shootSmall",
       "lifetime": 57,
       "collidesAir": false,
       "fragBullets": 2,
+      "status": "burning",
+      "statusDuration": 120,
       "fragBullet": {
         "type": "LiquidBulletType",
         "liquid": "slag",
+        "knockback": 1.6,
         "speed": 1,
-        "damage": 3,
+        "damage": 8,
         "lifetime": 40,
-        "collidesAir": false
+        "collidesAir": false,
+        "status": "melting",
+        "statusDuration": 60
       }
       }
     }
