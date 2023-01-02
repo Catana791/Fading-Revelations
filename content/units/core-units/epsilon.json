@@ -34,6 +34,7 @@
         "type": "LaserBoltBulletType",
         "speed": 6,
         "damage": 11,
+        "buildingDamageMultiplier": 0.01,
         "pierce": true,
         "pierceCap": 10,
         "splashDamage": 6,
