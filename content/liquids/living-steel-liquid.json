@@ -3,6 +3,7 @@
   "moveThroughBlocks": true,
   "canStayOn": ["oil"],
   "incinerable": true,
+  "spreadDamage": 0,
   "capPuddles": true,
   "spreadTarget": "oil",
   "name": "Living Steel Liquid",
