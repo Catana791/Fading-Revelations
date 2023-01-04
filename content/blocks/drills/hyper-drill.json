@@ -1,6 +1,6 @@
 { 
 "name": "Hyper Drill", 
-"description": "An even better airblast drill that needs cryofluid to run. Cannot mine sand as it would break.", 
+"description": "An even better Airblast Drill that needs Cryofluid to run. Cannot mine sand as it would break.", 
 "type": "Drill", 
 "blockedItem": "sand",
   "updateEffectChance": 0.1,
