@@ -29,6 +29,7 @@
         "collidesAir": true,
         "collidesGround": true,
         "collidesTiles": true,
+        "collides": true,
         "toColor": "6d7dff",
         "fromColor": "5461c5",
         "pierce": true,
