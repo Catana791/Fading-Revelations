@@ -37,9 +37,9 @@
         "width": 18,
         "lifetime": 24,
         "serrationLenScl": 8,
-        "serrationSpaceOffset": 70,
+        "serrationSpaceOffset": 300,
         "serrationFadeOffset": 0,
-        "serrations": 18,
+        "serrations": 30,
         "serrationWidth": 7,
         "splashDamage": 69,
         "splashDamageRadius": 21
