@@ -36,10 +36,10 @@
         "length": 280,
         "width": 18,
         "lifetime": 24,
-        "serrationLenScl": 3,
-        "serrationSpaceOffset": 30,
-        "serrations": 30,
-        "serrationWidth": 4,
+        "serrationLenScl": 4,
+        "serrationSpaceOffset": 50,
+        "serrations": 40,
+        "serrationWidth": 5,
         "splashDamage": 69,
         "splashDamageRadius": 21
       }
