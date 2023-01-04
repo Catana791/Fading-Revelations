@@ -16,10 +16,11 @@
     {
       "name": "cerberian-reign-weapon",
       "top": false,
+      "continuous": true,
+      "alwaysContinuous": true,
       "y": 1,
       "x": 21.5,
       "shootY": 11,
-      "reload": 9,
       "recoil": 5,
       "shake": 2,
       "shootWarmupSpeed": 0.1,
