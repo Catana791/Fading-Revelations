@@ -26,6 +26,9 @@
       "shootSound": "bang",
       "bullet": {
         "type": "ShrapnelBulletType",
+        "collidesAir": true,
+        "collidesGround": true,
+        "collidesTiles": true,
         "toColor": "6d7dff",
         "fromColor": "5461c5",
         "pierce": true,
