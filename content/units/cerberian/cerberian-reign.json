@@ -33,7 +33,7 @@
         "pierce": true,
         "pierceCap": 13,
         "hitEffect": "blastExplosion",
-        "shootEffect". "shootBig",
+        "shootEffect": "shootBig",
         "length": 280,
         "width": 6,
         "hitLarge": true,
