@@ -25,13 +25,8 @@
       "ejectEffect": "casing4",
       "shootSound": "bang",
       "bullet": {
-        "collides": true,
         "type": "ShrapnelBulletType",
-        "collidesAir": true,
-        "collidesGround": true,
-        "hitLarge": true,
-        "collidesTiles": true,
-        "collides": true,
+        "damage": 240,
         "toColor": "6d7dff",
         "fromColor": "5461c5",
         "pierce": true,
@@ -40,13 +35,10 @@
         "shootEffect": "shootBig",
         "length": 280,
         "width": 18,
-        "lifetime": 24,
         "serrationLenScl": 3,
         "serrationSpaceOffset": 50,
         "serrations": 40,
         "serrationWidth": 4,
-        "splashDamage": 255,
-        "splashDamageRadius": 25
       }
     }
   ]
