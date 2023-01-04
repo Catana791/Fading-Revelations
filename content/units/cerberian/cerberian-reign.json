@@ -25,6 +25,7 @@
       "ejectEffect": "casing4",
       "shootSound": "bang",
       "bullet": {
+        "collides": true,
         "type": "ShrapnelBulletType",
         "collidesAir": true,
         "collidesGround": true,
