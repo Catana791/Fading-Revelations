@@ -79,9 +79,6 @@ clearSectorOnLose: true
 #whether waves are re-created when a sector is lost
 allowWaves: true
 
-#icon's name displayed in top-left
-icon: "commandRally"
-
 #default core block for launching
 defaultCore: me-core-level-4
 
