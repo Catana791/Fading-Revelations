@@ -34,8 +34,13 @@
         "hitEffect": "blastExplosion",
         "shootEffect": "shootBig",
         "length": 280,
-        "width": 12,
+        "width": 18,
         "lifetime": 24,
+        "serrationLenScl": 8,
+        "serrationSpaceOffset": 70,
+        "serrationFadeOffset": 0,
+        "serrations": 18,
+        "serrationWidth": 7,
         "splashDamage": 69,
         "splashDamageRadius": 21
       }
