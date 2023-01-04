@@ -24,9 +24,8 @@
       "shake": 2,
       "ejectEffect": "casing4",
       "shootSound": "bang",
-      "alternate": false,
       "bullet": {
-        "type": "ShrapnelBulleType",
+        "type": "ShrapnelBulletType",
         "damage": 183,
         "toColor": "6d7dff",
         "fromColor": "5461c5",
