@@ -39,7 +39,7 @@
         "serrationLenScl": 2,
         "serrationSpaceOffset": 20,
         "serrations": 30,
-        "serrationWidth": 7,
+        "serrationWidth": 4,
         "splashDamage": 69,
         "splashDamageRadius": 21
       }
