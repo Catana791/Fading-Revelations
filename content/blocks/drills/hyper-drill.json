@@ -21,7 +21,7 @@
 "hasPower": true, 
 "drawRim": true, 
 "hasLiquids": true, 
-"liquidCapacity": 40, 
+"liquidCapacity": 30, 
 "hasItems": true, 
 "itemCapacity": 60, 
 "tier": 15, 
@@ -42,7 +42,7 @@
   { "item": "silicon", "amount": 120 }, 
   { "item": "titanium", "amount": 100 },
   { "item": "living-steel", "amount": 100 },
-  { "item": "thorium", "amount": 150 },
+  { "item": "living-steel-hard", "amount": 150 },
   { "item": "plastanium", "amount": 75 }
 ],
 "category": "production",
