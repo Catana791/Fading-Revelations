@@ -28,6 +28,7 @@
       "shootSound": "none",
       "loopSound": "laserbeam",
       "loopSoundVolume": 1.6,
+      "alternate": false,
       "bullet": {
         "type": "PointLaserBulletType",
         "color": "8ca9e8",
@@ -35,15 +36,15 @@
         "damage": 350,
         "shake": 1.6,
         "damageInterval": 10,
+        "speed": 7,
         "beamEffect": {
           "type": "ParticleEffect",
           "particles": 1,
           "length": 1,
-          "sizeFrom": 16,
-          "sizeTo": 6,
+          "sizeFrom": 6,
+          "sizeTo": 2,
           "colorFrom": "8ca9e8",
           "colorTo": "6d7dff",
-          "speed": 7
         }
       }
     }
