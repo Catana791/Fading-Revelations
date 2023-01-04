@@ -28,6 +28,7 @@
         "type": "ShrapnelBulletType",
         "collidesAir": true,
         "collidesGround": true,
+        "hitLarge": true,
         "collidesTiles": true,
         "collides": true,
         "toColor": "6d7dff",
