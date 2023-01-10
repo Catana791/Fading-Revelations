@@ -9,6 +9,9 @@
   "canBuild": true,
   "buildSpeed": 3,
   "mineSpeed": 16,
+  
+  "coreUnitDock": true,
+  
   "mineTier": 3,
   "armor": 10,
   "buildTier": 5,
