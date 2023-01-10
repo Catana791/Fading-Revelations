@@ -12,6 +12,9 @@
   "mineTier": 3,
   "armor": 10,
   "buildTier": 5,
+  
+  "coreUnitDock": true,
+  
   "mass": 10,
   "commandLimit": 8,
   "health": 260,
