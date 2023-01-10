@@ -44,7 +44,7 @@
   "drawMinimap": false,
   "engineSize": 0
   
-  "coreUnitDock": true,
+  "coreUnitDock": false,
   
   "createWreck": false,
   "createScorch": false,
