@@ -34,7 +34,7 @@
       {
         "type": "DrawWarmupRegion",
         "sinMag": 0.2,
-        "sinScl": 8,
+        "sinScl": 2,
         "color": "ff9b59"
       },
       {
