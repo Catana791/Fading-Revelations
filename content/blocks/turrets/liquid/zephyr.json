@@ -17,7 +17,7 @@
   ],
   "shoot": {
     "shots": 3,
-    "shotDelay": 10
+    "shotDelay": 15
   },
   "ammoTypes": {
     "steam": {
@@ -45,10 +45,10 @@
       "lightColor": "cfcfcf",
       "trailColor": "cfcfcf",
       "backColor": "cfcfcf",
-      "lightRadius": 60,
-      "lightOpacity": 0.7,
-      "trailWidth": 10,
-      "trailLength": 20,
+      "lightRadius": 10,
+      "lightOpacity": 0.8,
+      "trailWidth": 8,
+      "trailLength": 16,
       "trailChance": -1,
       "hitEffect": {
           "type": "ExplosionEffect",
