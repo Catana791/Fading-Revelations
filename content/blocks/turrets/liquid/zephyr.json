@@ -14,11 +14,15 @@
   "parts": [
     {
       "suffix": "-front-l"
-      "type": "RegionPart"
+      "type": "RegionPart",
+      "progress": "recoil",
+      "moveY": 20
     },
     {
       "suffix": "-front-r",
-      "type": "RegionPart"
+      "type": "RegionPart",
+      "progress": "recoil",
+      "moveY": 20
     }
   ],
   "requirements": [
