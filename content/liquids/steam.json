@@ -1,0 +1,13 @@
+{
+  "name": "Steam",
+  "description": "Evaporated water.",
+  "heatCapacity": 0.1,
+  "explosiveness": 0,
+  "temperature": 0.1,
+  "gas": true,
+  "color": "ececec",
+  "gasColor": "ececec"
+  "flammability": 0,
+  "research": "mod-gate-liquids",
+  "coolant": false
+}
