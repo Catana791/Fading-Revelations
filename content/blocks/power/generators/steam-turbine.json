@@ -24,8 +24,10 @@
   "ambientSound": "smelter",
   "ambientSoundVolume": 0.09,
   "filterItem": {
-    "type": "ConsumeItemFlammable",
-    "type": "ConsumeItemExplode"
+    "filter": {
+      "type": "ConsumeItemFlammable",
+      "type": "ConsumeItemExplode"
+    }
   },
   "drawer": {
     "type": "DrawMulti",
