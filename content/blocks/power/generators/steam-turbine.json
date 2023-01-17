@@ -1,0 +1,62 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Steam Turbine",
+  "description": "A better version of the Steam Turbine built using Living Steel. Uses more water in exchange for greatly improved power output.",
+  "category": "power",
+  "requirements": [
+    "copper/60",
+    "lead/60",
+    "graphite/35",
+    "silicon/40",
+    "living-steel/20"
+  ],
+  "powerProduction": 7,
+  "itemDuration": 120,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.2
+    }
+  },
+  "hasLiquids": true,
+  "size": 3,
+  "generateEffect": "generateSpark",
+  "ambientSound": "smelter",
+  "ambientSoundVolume": 0.09,
+  "consume": {
+    "type": "ConsumeItemFlammable" 
+  },
+  "consume": {
+    "type": "ConsumeItemExplode" 
+  },
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawWarmupRegion" 
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-turbine",
+        "rotateSpeed": 2
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-turbine",
+        "rotateSpeed": -2,
+        "rotation": 45
+      },
+      {
+        "type": "DrawRegion",
+        "suffix": "-cap"
+      },
+      {
+        "type": "DrawLiquidRegion" 
+      }
+    ]
+  },
+  "research": "duo"
+}
