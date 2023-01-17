@@ -10,7 +10,9 @@
     "silicon/40",
     "living-steel/20"
   ],
-  "powerProduction": 10,
+  "outputLiquid": "steam/0.05",
+  "explodeOnFull": true,
+  "powerProduction": 13.33333,
   "itemDuration": 120,
   "consumes": {
     "liquid": {
@@ -21,6 +23,7 @@
     "itemExplode": {}
   },
   "hasLiquids": true,
+  "liquidCapacity": 20,
   "size": 3,
   "generateEffect": "generatespark",
   "ambientSound": "smelter",
