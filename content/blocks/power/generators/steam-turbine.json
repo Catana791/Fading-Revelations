@@ -20,7 +20,7 @@
   },
   "hasLiquids": true,
   "size": 3,
-  "generateEffect": "generateSpark",
+  "generateEffect": "generatespark",
   "ambientSound": "smelter",
   "ambientSoundVolume": 0.09,
   "consume": {
