@@ -14,7 +14,9 @@
   "recoilTime": 300,
   "ammoUseEffect": "casing3",
   "consumes": {
-    "coolant": {} 
+    "coolant": {
+      "amount": 0.8
+    } 
   },
   "shootSound": "shootBig",
   "maxAmmo": 50,
