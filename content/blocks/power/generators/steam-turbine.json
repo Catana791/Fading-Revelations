@@ -10,7 +10,7 @@
     "silicon/40",
     "living-steel/20"
   ],
-  "powerProduction": 7,
+  "powerProduction": 10,
   "itemDuration": 120,
   "consumes": {
     "liquid": {
