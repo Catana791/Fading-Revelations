@@ -16,18 +16,15 @@
     "liquid": {
       "liquid": "water",
       "amount": 0.2
-    }
+    },
+    "itemFlammable": {},
+    "itemExplode": {}
   },
   "hasLiquids": true,
   "size": 3,
   "generateEffect": "generatespark",
   "ambientSound": "smelter",
   "ambientSoundVolume": 0.09,
-    "filter": {
-      "type": "ConsumeItemFlammable",
-      "type": "ConsumeItemExplode"
-    
-  },
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
