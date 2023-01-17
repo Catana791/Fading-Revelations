@@ -1,6 +1,6 @@
 {
   "name": "Tiny Thermal Generator",
-  "description": "Produces heat in hot locations.",
+  "description": "Produces power in hot locations.",
   "type": "ThermalGenerator",
   "attribute": "heat",
   "powerProduction": 1.6,
