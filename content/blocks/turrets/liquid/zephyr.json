@@ -7,7 +7,7 @@
   "research": "mod-gate-turrets",
   "liquidCapacity": 30,
   "shootSound": "artillery",
-  "reload": 70,
+  "reload": 80,
   "targetAir": true,
   "targetGround": true,
   "rotateSpeed": 4,
@@ -16,8 +16,8 @@
     "lead/70"
   ],
   "shoot": {
-    "shots": 3,
-    "shotDelay": 15
+    "shots": 2,
+    "shotDelay": 20
   },
   "ammoTypes": {
     "steam": {
