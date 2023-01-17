@@ -1,7 +1,7 @@
 {
   "type": "ConsumeGenerator",
   "name": "Steam Turbine",
-  "description": "A better version of the Steam Turbine built using Living Steel. Uses more water in exchange for greatly improved power output.",
+  "description": "A better version of the Steam Turbine built using Living Steel. Uses more water in exchange for greatly improved power output. Slowly produces steam and builds up pressure. Explodes when the pressure reaches a critical point.",
   "category": "power",
   "requirements": [
     "copper/60",
