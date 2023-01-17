@@ -54,7 +54,8 @@
         "suffix": "-cap"
       },
       {
-        "type": "DrawLiquidRegion" 
+        "type": "DrawLiquidRegion",
+        "drawLiquid": "water"
       }
     ]
   },
