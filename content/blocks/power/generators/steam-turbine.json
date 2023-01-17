@@ -32,7 +32,10 @@
         "type": "DrawDefault" 
       },
       {
-        "type": "DrawWarmupRegion" 
+        "type": "DrawWarmupRegion",
+        "sinMag": 0.6,
+        "sinScl": 8,
+        "color": "ff9b59"
       },
       {
         "type": "DrawRegion",
