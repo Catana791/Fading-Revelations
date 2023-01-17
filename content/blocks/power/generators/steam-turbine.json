@@ -23,11 +23,10 @@
   "generateEffect": "generatespark",
   "ambientSound": "smelter",
   "ambientSoundVolume": 0.09,
-  "filterItem": {
     "filter": {
       "type": "ConsumeItemFlammable",
       "type": "ConsumeItemExplode"
-    }
+    
   },
   "drawer": {
     "type": "DrawMulti",
