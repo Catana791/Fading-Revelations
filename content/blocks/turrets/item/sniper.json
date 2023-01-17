@@ -13,7 +13,7 @@
   "recoil": 6,
   "recoilTime": 300,
   "ammoUseEffect": "casing3",
-  "coolantMultiplier": 1.12717,
+  "coolantMultiplier": 1.11717,
   "consumes": {
     "coolant": {
       "amount": 0.8 
