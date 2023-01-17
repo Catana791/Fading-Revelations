@@ -57,7 +57,13 @@
       },
       {
         "type": "DrawLiquidRegion",
-        "drawLiquid": "water"
+        "drawLiquid": "water",
+        "suffix": "-liquid"
+      },
+      {
+        "type": "DrawLiquidRegion",
+        "suffix": "-liquid2",
+        "drawLiquid": "steam"
       }
     ]
   },
