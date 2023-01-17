@@ -11,6 +11,16 @@
   "targetAir": true,
   "targetGround": true,
   "rotateSpeed": 4,
+  "parts": [
+    {
+      "suffix": "-front-l"
+      "type": "RegionPart"
+    },
+    {
+      "suffix": "-front-r",
+      "type": "RegionPart"
+    }
+  ],
   "requirements": [
     "copper/80",
     "lead/70"
