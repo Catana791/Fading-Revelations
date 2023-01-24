@@ -13,8 +13,12 @@
   },
   "rotateSpeed": 100,
   "consumes": {
-    "power": 4
+    "power": 4,
+    "coolant": {
+      "amount": 0.1 
+    }
   },
+  "liquidBoostIntensity": 1,
   "powerUse": 3.8,
   "targetAir": false,
   "targetGround": true,
