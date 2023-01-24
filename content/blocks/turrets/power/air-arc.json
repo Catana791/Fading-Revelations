@@ -12,9 +12,13 @@
     "lightningLength": 16,
     "damage": 10
   },
+  "liquidBoostIntesity": 1,
   "rotateSpeed": 100,
   "consumes": {
-    "power": 3.5
+    "power": 3.5,
+    "coolant": {
+      "amount": 0.1 
+    }
   },
   "targetAir": true,
   "targetGround": false,
