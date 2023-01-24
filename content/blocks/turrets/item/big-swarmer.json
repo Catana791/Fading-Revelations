@@ -19,7 +19,7 @@
       "amount": 0.6
     }
   },
-  "coolantMultiplier": 0.8,
+  "coolantMultiplier": 1.6,
   "shoot": {
     "type": "ShootAlternate",
     "shots": 7,
