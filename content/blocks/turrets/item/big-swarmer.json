@@ -19,7 +19,7 @@
       "amount": 0.6
     }
   },
-  "liquidBoostIntensity": 0.4,
+  "coolantMultiplier": 0.4,
   "shoot": {
     "type": "ShootAlternate",
     "shots": 7,
