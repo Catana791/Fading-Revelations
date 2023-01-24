@@ -16,7 +16,7 @@
   "cooldown": 0.07,
   "consumes": {
     "coolant": {
-      "amount": 0.3
+      "amount": 0.6
     }
   },
   "shoot": {
@@ -26,7 +26,6 @@
     "barrels": 7,
     "shotDelay": 5
   },
-  "coolantMultiplier": 0,
   "maxAmmo": 75,
   "ammoTypes": {
     "blast-compound": {
