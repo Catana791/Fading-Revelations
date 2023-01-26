@@ -7,10 +7,16 @@
     "inaccuracy": 3,
     "category": "turret",
     "research": "duo",
-    "requirements": [],
+    "requirements": [
+      "copper/800",
+      "metaglass/500",
+      "silicon/500",
+      "plastanium/110",
+      "surge-alloy/150"
+    ],
     "shootSound": "cannon",
     "consumes": {
-        "power": 5
+        "power": 8
     },
     "shake": 3,
     "shootY": 4,
