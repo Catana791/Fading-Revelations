@@ -136,7 +136,18 @@
             },
             "buildingDamageMultiplier": 0.2,
             "homingPower": 0.1,
-        "intervalBullet": {
+          "fragBullets": 1,
+          "fragBullet": {
+            "type": "ExplosionBulletType",
+            "splashDamage": 20,
+            "splashDamageRadius": 32,
+            "speed": 0,
+            "pierce": true,
+            "buildingDamageMultiplier": 0.3,
+            "collidesAir": false,
+            "collidesGround": true
+          },
+           "intervalBullet": {
             "type": "LightningBulletType",
             "damage": 10,
             "lightningLength": 12,
