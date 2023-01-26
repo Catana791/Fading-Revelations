@@ -96,39 +96,39 @@
         "homingPower": 0.1
       },
        "intervalBullet": {
-        "type": "BasicBulletType",
-        "speed": 3,
-        "damage": 20,
-        "width": 7,
-        "hitSize": 5,
-        "height": 15,
-        "pierce": true,
-        "lifetime": 40,
-        "pierceBuilding": true,
-        "hitColor": "f3e979",
-        "backColor": "f3e979",
-        "trailColor": "f3e979",
-        "frontColor": "ffffff",
-        "trailWidth": 1.8,
-        "trailLength": 5.5,
-        "hitEffect": {
-          "type": "WaveEffect",
-          "colorFrom": "f3e979",
-          "colorTo": "f3e979",
-          "sizeTo": 3,
-          "strokeFrom": 3,
-          "lifetime": 10
-        },
-        "despawnEffect": {
-          "type": "WaveEffect",
-          "colorFrom": "f3e979",
-          "colorTo": "f3e979",
-          "sizeTo": 3,
-          "strokeFrom": 3,
-          "lifetime": 10
-        },
-        "buildingDamageMultiplier": 0.2,
-        "homingPower": 0.1
+          "type": "BasicBulletType",
+          "speed": 3,
+          "damage": 20,
+          "width": 7,
+          "hitSize": 5,
+          "height": 15,
+          "pierce": true,
+          "lifetime": 40,
+          "pierceBuilding": true,
+          "hitColor": "f3e979",
+          "backColor": "f3e979",
+          "trailColor": "f3e979",
+          "frontColor": "ffffff",
+          "trailWidth": 1.8,
+          "trailLength": 5.5,
+          "hitEffect": {
+            "type": "WaveEffect",
+            "colorFrom": "f3e979",
+            "colorTo": "f3e979",
+            "sizeTo": 3,
+            "strokeFrom": 3,
+            "lifetime": 10
+          },
+          "despawnEffect": {
+            "type": "WaveEffect",
+            "colorFrom": "f3e979",
+            "colorTo": "f3e979",
+            "sizeTo": 3,
+            "strokeFrom": 3,
+            "lifetime": 10
+          },
+          "buildingDamageMultiplier": 0.2,
+          "homingPower": 0.1
       },
       "bulletInterval": 3,
       "intervalRandomSpread": 20,
@@ -138,7 +138,12 @@
       "fragBullets": 20,
       "fragVelocityMin": 0.6,
       "fragVelocityMax": 1.6,
-      "fragLifeMin": 0.5
+      "fragLifeMin": 0.5,
+      "intervalBullet": {
+        "type": "LightningBulletType",
+        "damage": 10,
+        "lightningLength": 6
+      }
     }
   }
 }
