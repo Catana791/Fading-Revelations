@@ -9,6 +9,9 @@
     "shotDelay": 30
   },
   "inaccuracy": 3,
+  "category": "turret",
+  "research": "duo",
+  "requirements": [],
   "shootSound": "cannon",
   "consumes": {
     "power": 5,
