@@ -1,7 +1,7 @@
 {
     "type": "PowerTurret",
     "name": "Absole",
-    "description": "A powerful turret that shoots charged electric shells that also leave behind an explosive trail.",
+    "description": "A powerful turret that shoots charged electric shells.",
     "size": 4,
     "reload": 120,
     "shoot": {
@@ -136,21 +136,10 @@
             },
             "buildingDamageMultiplier": 0.2,
             "homingPower": 0.1,
-          "fragBullets": 1,
-          "fragBullet": {
-            "type": "ExplosionBulletType",
-            "splashDamage": 20,
-            "splashDamageRadius": 32,
-            "speed": 0,
-            "pierce": true,
-            "buildingDamageMultiplier": 0.3,
-            "collidesAir": false,
-            "collidesGround": true
-          },
            "intervalBullet": {
             "type": "LightningBulletType",
             "damage": 10,
-            "lightningLength": 12,
+            "lightningLength": 16,
           "hitSound": "spark",
             "lightningColor": "f3e979"
         }
