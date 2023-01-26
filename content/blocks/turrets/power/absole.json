@@ -14,7 +14,8 @@
   "requirements": [],
   "shootSound": "cannon",
   "consumes": {
-    "power": 5,
+    "power": 5
+  },
     "shake": 3,
     "shootY": 4,
     "recoil": 4,
