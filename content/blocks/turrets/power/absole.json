@@ -28,7 +28,7 @@
     "shootType": {
       "type": "BasicBulletType",
       "smokeEffect": "shootSmokeTitan",
-      "hitColor": "surge",
+      "hitColor": "f3e979",
       "sprite": "large-orb",
       "trailEffect": "missileTrail",
       "trailInterval": 2,
@@ -146,7 +146,8 @@
       "intervalBullet": {
         "type": "LightningBulletType",
         "damage": 10,
-        "lightningLength": 6
+        "lightningLength": 6,
+        "lightningColor": "f3e979"
       }
     }
   }
