@@ -6,7 +6,7 @@
   "reload": 120,
   "shoot": {
     "shots": 2,
-    "shotDelay": 30
+    "shotDelay": 18
   },
   "inaccuracy": 3,
   "category": "turret",
@@ -132,7 +132,13 @@
             "lifetime": 10
           },
           "buildingDamageMultiplier": 0.2,
-          "homingPower": 0.1
+          "homingPower": 0.1,
+               "intervalBullet": {
+        "type": "LightningBulletType",
+        "damage": 10,
+        "lightningLength": 6,
+        "lightningColor": "f3e979"
+      }
       },
       "bulletInterval": 3,
       "intervalRandomSpread": 20,
@@ -143,11 +149,5 @@
       "fragVelocityMin": 0.6,
       "fragVelocityMax": 1.6,
       "fragLifeMin": 0.5,
-      "intervalBullet": {
-        "type": "LightningBulletType",
-        "damage": 10,
-        "lightningLength": 6,
-        "lightningColor": "f3e979"
-      }
     }
   }
