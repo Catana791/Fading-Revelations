@@ -26,6 +26,32 @@
     "targetAir": true,
     "targetGround": true,
     "shootType": {
+      "spawnBullets": [
+        {
+          "type": "LightningBulletType",
+          "lightningLength": 38,
+          "lightningColor": "f3e979",
+          "lightningDamage": 12
+        },
+        {
+          "type": "LightningBulletType",
+          "lightningLength": 38,
+          "lightningColor": "f3e979",
+          "lightningDamage": 12
+        },
+        {
+          "type": "LightningBulletType",
+          "lightningLength": 38,
+          "lightningColor": "f3e979",
+          "lightningDamage": 12
+        },
+        {
+          "type": "LightningBulletType",
+          "lightningLength": 38,
+          "lightningColor": "f3e979",
+          "lightningDamage": 12
+        }
+        ],
         "type": "BasicBulletType",
         "smokeEffect": "shootSmokeTitan",
         "hitColor": "f3e979",
