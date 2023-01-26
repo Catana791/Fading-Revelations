@@ -68,7 +68,6 @@
         {
           "type": "MissileBulletType",
         "speed": 5,
-          "inaccuracy": 5,
         "damage": 32,
         "splashDamage": 66,
         "splashDamageRadius": 25,
@@ -112,7 +111,6 @@
         {
           "type": "MissileBulletType",
         "speed": 5,
-          "inaccuracy": 5,
         "damage": 32,
         "splashDamage": 66,
         "splashDamageRadius": 25,
