@@ -16,7 +16,7 @@
     "shootY": 4,
     "heatColor": "ff0000",
     "recoil": 4,
-    "cooldownTime": 60,
+    "cooldownTime": 50,
     "range": 350,
     "shootCone": 20,
     "scaledHealth": 210,
