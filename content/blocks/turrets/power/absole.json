@@ -6,7 +6,7 @@
   "reload": 120,
   "shoot": {
     "shots": 2,
-    "shotDelay": 18
+    "shotDelay": 28
   },
   "inaccuracy": 3,
   "category": "turret",
