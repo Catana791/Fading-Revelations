@@ -6,6 +6,7 @@
   "scaledHealth": 125,
   "hasPower": true,
   "category": "turret",
+  "targetAir": false,
   "research": "duo",
   "requirements": [
     "copper/210",
