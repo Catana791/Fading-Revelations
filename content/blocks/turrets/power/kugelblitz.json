@@ -12,7 +12,7 @@
     "firstShotDelay": 120 
   },
   "range": 208,
-  "shootSound": "spark",
+  "shootSound": "cannon",
   "chargeSound": "lasercharge2",
   "consumes": {
     "coolant": {
@@ -99,7 +99,7 @@
             "waveStroke": 4,
             "waveRad": 40
         },
-        "shootSound": "spark",
+        "shootSound": "cannon",
 "despawnSound": "spark",
 "hitSound": "spark",
           "intervalBullet": {
@@ -112,7 +112,7 @@
         },
 "bulletInterval": 2,
       "intervalRandomSpread": 360,
-      "intervalBullets": 10,
+      "intervalBullets": 5,
       "intervalAngle": 360,
       "intervalSpread": 300
     }
