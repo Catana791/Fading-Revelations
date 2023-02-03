@@ -9,6 +9,7 @@
   "reload": 360,
   "range": 320,
   "minRange": 64,
+  "accurateDelay": false,
   "targetAir": false,
   "targetGround": true,
   "scaledHealth": 110,
