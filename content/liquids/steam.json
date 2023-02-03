@@ -8,6 +8,6 @@
   "color": "ececec",
   "gasColor": "ececec"
   "flammability": 0,
-  "research": "mod-gate-liquids",
+  "research": "mod-gate-resources",
   "coolant": false
 }
