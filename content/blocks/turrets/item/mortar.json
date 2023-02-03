@@ -37,6 +37,7 @@
       "statusDuration": 780,
       "incendChance": 1,
       "incendSpread": 4.1,
+      "incendAmount": 12,
       "makeFire": true,
       "frontColor": "9e78dc",
       "backColor": "5541b1",
