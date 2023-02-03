@@ -6,11 +6,14 @@
   "category": "turret",
   "research": "mine-launcher",
   "requirements": [
-    "copper/40",
-    "graphite/150",
-    "titanium/80"
+    "copper/120",
+    "lead/100",
+    "graphite/50",
+    "titanium/50",
+    "metaglass/65"
   ],
   "reload": 360,
+  "coolantMultiplier": 0.9,
   "range": 320,
   "minRange": 64,
   "accurateDelay": false,
