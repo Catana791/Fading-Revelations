@@ -106,12 +106,12 @@
             "lightningLength": 28,
             "hitSound": "spark",
             "lightningColor": "f3e979"
-        }
-    },
-      "bulletInterval": 2,
+        },
+"bulletInterval": 2,
       "intervalRandomSpread": 360,
       "intervalBullets": 8,
       "intervalAngle": 360,
       "intervalSpread": 300
+    }
   }
 }
