@@ -85,7 +85,7 @@
         "pierceBuilding": true,
         "buildingDamageMultiplier": 0.4,
         "pierceCap": 30,
-        "lifetime": 300,
+        "lifetime": 420,
         "width": 36,
         "height": 36,
         "backColor": "f3e979",
