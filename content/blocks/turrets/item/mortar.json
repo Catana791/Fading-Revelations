@@ -27,10 +27,10 @@
   "ammoTypes": {
     "spore-pod": {
       "type": "ArtilleryBulletType",
-      "width": 12,
-      "height": 18,
+      "width": 30,
+      "height": 42,
       "speed": 1.6,
-      "lifetime": 96,
+      "lifetime": 116,
       "splashDamage": 134,
       "splashDamageRadius": 64,
       "status": "burning",
