@@ -1,0 +1,63 @@
+{
+  "type": "ItemTurret",
+  "name": "Kugelblitz",
+  "description": "Supercharges conductive metals using high power input, creating a powerful orb that spews bolts of lightning, obliterating anything in its path.",
+  "size": 3,
+  "scaledHealth": 125,
+  "category": "turret",
+  "research": "duo",
+  "requirements": [],
+  "reload": 600,
+  "shoot": {
+    "firstShotDelay": 120 
+  },
+  "range": 208,
+  "shootSound": "zap",
+  "consumes": {
+    "coolant": {
+      "amount": 0.3 
+    }
+  }
+  "ammoTypes": {
+    "titanium": {
+      "type": "BasicBulletType",
+        "smokeEffect": "shootSmokeTitan",
+        "hitColor": "f3e979",
+        "sprite": "large-orb",
+        "trailEffect": "missileTrail",
+        "trailInterval": 3,
+        "trailParam": 4,
+        "speed": 0.8,
+        "damage": 100,
+        "pierce": true,
+        "lifetime": 300,
+        "width": 36,
+        "height": 36,
+        "backColor": "f3e979",
+        "frontColor": "ffffff",
+        "shrinkX": 0,
+        "shrinkY": 0,
+        "trailColor": "f3e979",
+        "trailLength": 12,
+        "trailWidth": 2.2,
+        "despawnEffect": {
+            "type": "ExplosionEffect",
+            "waveColor": "f3e979",
+            "smokeColor": "7b7b7b",
+            "sparkColor": "665c9f",
+            "waveStroke": 3,
+            "waveRad": 30
+        },
+        "hitEffect": {
+            "type": "ExplosionEffect",
+            "waveColor": "f3e979",
+            "smokeColor": "7b7b7b",
+            "sparkColor": "665c9f",
+            "waveStroke": 4,
+            "waveRad": 40
+        },
+        "despawnSound": "dullExplosion",
+        "shootSound": "cannon",
+    }
+  }
+}
