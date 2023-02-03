@@ -281,7 +281,7 @@
         "pierce": true,
         "pierceBuilding": true,
         "buildingDamageMultiplier": 0.4,
-        "pierceCap": 30,
+        "pierceCap": 40,
         "lifetime": 420,
         "width": 36,
         "height": 36,
@@ -313,7 +313,7 @@
         "hitSound": "spark",
           "intervalBullet": {
             "type": "LightningBulletType",
-            "damage": 6,
+            "damage": 9,
             "lightningLength": 14,
             "hitSound": "spark",
             "despawnSound": "spark",
