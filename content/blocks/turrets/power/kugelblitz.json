@@ -215,7 +215,7 @@
         "hitSound": "spark",
           "intervalBullet": {
             "type": "LightningBulletType",
-            "damage": 7,
+            "damage": 15,
             "lightningLength": 14,
             "hitSound": "spark",
             "despawnSound": "spark",
