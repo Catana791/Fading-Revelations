@@ -221,7 +221,7 @@
             "despawnSound": "spark",
             "lightningColor": "9cb664"
         },
-        "bulletInterval": 4,
+        "bulletInterval": 3,
       "intervalRandomSpread": 360,
       "intervalBullets": 3,
       "intervalAngle": 360,
