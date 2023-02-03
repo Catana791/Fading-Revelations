@@ -3,7 +3,7 @@
   "name": "Dissolver",
   "description": "A larger and more powerful Melter.",
   "category": "crafting",
-  "research": "mod-gate-crafters",
+  "research": "powderizer",
   "requirements": [
     "copper/60",
     "lead/70",
