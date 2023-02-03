@@ -79,7 +79,7 @@
         "trailEffect": "missileTrail",
         "trailInterval": 3,
         "trailParam": 4,
-        "speed": 0.8,
+        "speed": 0.5,
         "damage": 10,
         "pierce": true,
   "pierceBuilding": true,
