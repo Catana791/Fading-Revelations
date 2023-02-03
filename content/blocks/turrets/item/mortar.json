@@ -13,7 +13,7 @@
     "metaglass/65"
   ],
   "reload": 360,
-  "coolantMultiplier": 0.9,
+  "coolantMultiplier": 1.1,
   "range": 320,
   "minRange": 64,
   "accurateDelay": false,
