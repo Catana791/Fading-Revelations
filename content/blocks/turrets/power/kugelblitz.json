@@ -4,6 +4,7 @@
   "description": "Supercharges conductive metals using high power input, creating a powerful orb that spews bolts of lightning, obliterating anything in its path.",
   "size": 3,
   "scaledHealth": 125,
+  "hasPower": true,
   "category": "turret",
   "research": "duo",
   "requirements": [
@@ -15,6 +16,7 @@
     "titanium/65"
   ],
   "reload": 600,
+  "accurateDelay": false,
   "shoot": {
     "firstShotDelay": 120 
   },
