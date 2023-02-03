@@ -27,7 +27,7 @@
     },
     "power": 4.2
   }
-  "shootSound": "artillery",
+  "shootSound": "largeCannon",
   "ammoTypes": {
     "spore-pod": {
       "type": "ArtilleryBulletType",
@@ -49,6 +49,7 @@
       "hitColor": "9e78dc",
       "hitEffect": "blastExplosion",
       "knockback": 0.6,
+      "hitSound": "largeCannon",
       "hitEffect": {
         "type": "MultiEffect",
         "effects": [
