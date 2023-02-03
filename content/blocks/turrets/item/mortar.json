@@ -9,8 +9,8 @@
     "copper/120",
     "lead/100",
     "graphite/50",
-    "titanium/50",
     "metaglass/65"
+    "titanium/50"
   ],
   "reload": 360,
   "range": 320,
