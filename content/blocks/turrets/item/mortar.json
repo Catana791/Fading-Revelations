@@ -7,10 +7,7 @@
   "research": "duo",
   "requirements": [],
   "reload": 360,
-  "shoot": {
-    "firstShotDelay": 60 
-  },
-  "range": 300,
+  "range": 320,
   "minRange": 64,
   "targetAir": false,
   "targetGround": true,
@@ -45,7 +42,7 @@
       "backColor": "5541b1",
       "hitColor": "9e78dc",
       "hitEffect": "blastExplosion",
-      "knockback": 0.6,
+      "knockback": 0.6
     }
   }
 }
