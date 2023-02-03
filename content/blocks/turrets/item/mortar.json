@@ -1,0 +1,51 @@
+{
+  "type": "ItemTurret",
+  "name": "Mortar",
+  "description": "Uses power and spore pods to fire flaming mortar shells at enemies over medium distances. Incends the ground and hit enemies on impact for a while.",
+  "size": 3,
+  "category": "turret",
+  "research": "duo",
+  "requirements": [],
+  "reload": 360,
+  "shoot": {
+    "firstShotDelay": 60 
+  },
+  "range": 300,
+  "minRange": 64,
+  "targetAir": false,
+  "targetGround": true,
+  "scaledHealth": 110,
+  "ammoUseEffect": "casing2",
+  "velocityRnd": 0.2,
+  "recoil": 6,
+  "heatColor": "ff0000",
+  "inaccuracy": 4,
+  "consumes": {
+    "coolant": {
+      "amount": 0.3 
+    },
+    "power": 4.2
+  }
+  "shootSound": "artillery",
+  "ammoTypes": {
+    "spore-pod": {
+      "type": "ArtilleryBulletType",
+      "width": 12,
+      "height": 18,
+      "speed": 1.6,
+      "lifetime": 96,
+      "splashDamage": 134,
+      "splashDamageRadius": 64,
+      "status": "burning",
+      "statusDuration": 780,
+      "incendChance": 1,
+      "incendSpread": 4.1,
+      "makeFire": true,
+      "frontColor": "9e78dc",
+      "backColor": "5541b1",
+      "hitColor": "9e78dc",
+      "hitEffect": "blastExplosion",
+      "knockback": 0.6,
+    }
+  }
+}
