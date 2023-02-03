@@ -4,8 +4,12 @@
   "description": "Uses power and spore pods to fire flaming mortar shells at enemies over medium distances. Incends the ground and hit enemies on impact for a while.",
   "size": 3,
   "category": "turret",
-  "research": "duo",
-  "requirements": [],
+  "research": "mine-launcher",
+  "requirements": [
+    "copper/40",
+    "graphite/150",
+    "titanium/80"
+  ],
   "reload": 360,
   "range": 320,
   "minRange": 64,
