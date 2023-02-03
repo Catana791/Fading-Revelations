@@ -34,12 +34,7 @@
     "coolant": {
       "amount": 0.3 
     },
-    "power": 4.2,
-    "items": {
-      "items": [
-        "coal/1"
-      ]
-    }
+    "power": 4.2
   }
   "shootSound": "largeCannon",
   "ammoTypes": {
