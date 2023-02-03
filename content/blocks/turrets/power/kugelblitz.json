@@ -12,7 +12,8 @@
     "firstShotDelay": 120 
   },
   "range": 208,
-  "shootSound": "zap",
+  "shootSound": "spark",
+  "chargeSound": "lasercharge2",
   "consumes": {
     "coolant": {
       "amount": 0.3 
@@ -98,13 +99,15 @@
             "waveStroke": 4,
             "waveRad": 40
         },
-        "despawnSound": "dullExplosion",
-        "shootSound": "cannon",
+        "shootSound": "spark",
+"despawnSound": "spark",
+"hitSound": "spark",
           "intervalBullet": {
             "type": "LightningBulletType",
             "damage": 16,
             "lightningLength": 28,
             "hitSound": "spark",
+            "despawnSound": "spark",
             "lightningColor": "f3e979"
         },
 "bulletInterval": 2,
