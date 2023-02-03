@@ -6,7 +6,14 @@
   "scaledHealth": 125,
   "category": "turret",
   "research": "duo",
-  "requirements": [],
+  "requirements": [
+    "copper/210",
+    "lead/180",
+    "graphite/110",
+    "metaglass/90",
+    "silicon/80",
+    "titanium/65"
+  ],
   "reload": 600,
   "shoot": {
     "firstShotDelay": 120 
