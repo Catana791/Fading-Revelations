@@ -46,8 +46,8 @@
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
               "lifetime": 110,
-              "colorFrom": "ffffff",
-              "colorTo": "f3e979"
+              "colorFrom": "a4b8fa",
+              "colorTo": "7575c8"
             },
             {
               "type": "WaveEffect",
@@ -57,8 +57,8 @@
               "interp": "pow5Out",
               "strokeFrom": 0,
               "strokeTo": 4,
-              "colorFrom": "ffffff",
-              "colorTo": "f3e979" 
+              "colorFrom": "a4b8fa",
+              "colorTo": "7575c8" 
             },
             {
               "type": "WaveEffect",
@@ -68,14 +68,14 @@
               "interp": "pow10Out",
               "strokeFrom": 0,
               "strokeTo": 4,
-              "colorFrom": "ffffff",
-              "colorTo": "f3e979"
+              "colorFrom": "a4b8fa",
+              "colorTo": "7575c8"
             },
         ]
       },
       "type": "BasicBulletType",
         "smokeEffect": "shootSmokeTitan",
-        "hitColor": "f3e979",
+        "hitColor": "7575c8",
         "sprite": "large-orb",
         "trailEffect": "missileTrail",
         "trailInterval": 3,
@@ -89,26 +89,26 @@
         "lifetime": 420,
         "width": 36,
         "height": 36,
-        "backColor": "f3e979",
-        "frontColor": "ffffff",
+        "backColor": "7575c8",
+        "frontColor": "a4b8fa",
         "shrinkX": 0,
         "shrinkY": 0,
-        "trailColor": "f3e979",
+        "trailColor": "7575c8",
         "trailLength": 12,
         "trailWidth": 2.2,
         "despawnEffect": {
             "type": "ExplosionEffect",
-            "waveColor": "f3e979",
-            "smokeColor": "7b7b7b",
-            "sparkColor": "665c9f",
+            "waveColor": "7575c8",
+            "smokeColor": "7575c8",
+            "sparkColor": "a4b8fa",
             "waveStroke": 3,
             "waveRad": 30
         },
         "hitEffect": {
             "type": "ExplosionEffect",
-            "waveColor": "f3e979",
-            "smokeColor": "7b7b7b",
-            "sparkColor": "665c9f",
+            "waveColor": "7575c8",
+            "smokeColor": "7575c8",
+            "sparkColor": "a4b8fa",
             "waveStroke": 4,
             "waveRad": 40
         },
@@ -121,7 +121,7 @@
             "lightningLength": 14,
             "hitSound": "spark",
             "despawnSound": "spark",
-            "lightningColor": "f3e979"
+            "lightningColor": "7575c8"
         },
         "bulletInterval": 2,
       "intervalRandomSpread": 360,
