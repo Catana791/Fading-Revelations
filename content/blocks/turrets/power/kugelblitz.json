@@ -22,7 +22,7 @@
   },
   "range": 208,
   "shootSound": "cannon",
-  "chargeSound": "lasercharge2",
+  "chargeSound": "energy-charge",
   "consumes": {
     "coolant": {
       "amount": 0.3 
