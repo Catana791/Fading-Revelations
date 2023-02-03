@@ -21,6 +21,47 @@
   }
   "ammoTypes": {
     "titanium": {
+      "chargeEffect": {
+  "type": "MultiEffect",
+  "effects": [
+  {
+              "type": "ParticleEffect",
+              "particles": 20,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 40,
+              "baseLength": -40,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 110,
+              "colorFrom": "ffffff",
+              "colorTo": "f3e979"
+            },
+          {
+              "type": "WaveEffect",
+              "lifetime": 140,
+              "sizeFrom": 50,
+              "sizeTo": 0,
+              "interp": "pow5Out",
+              "strokeFrom": 0,
+              "strokeTo": 4,
+              "colorFrom": "ffffff",
+              "colorTo": "f3e979" 
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 150,
+              "sizeFrom": 60,
+              "sizeTo": 0,
+              "interp": "pow10Out",
+              "strokeFrom": 0,
+              "strokeTo": 4,
+              "colorFrom": "ffffff",
+              "colorTo": "f3e979"
+            },
+  ]
+      },
       "type": "BasicBulletType",
         "smokeEffect": "shootSmokeTitan",
         "hitColor": "f3e979",
