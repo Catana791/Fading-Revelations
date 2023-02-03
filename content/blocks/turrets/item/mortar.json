@@ -19,6 +19,7 @@
   "shoot": {
     "firstShotDelay": 60 
   },
+  "chargeSound": "lasercharge2",
   "inaccuracy": 4,
   "consumes": {
     "coolant": {
@@ -54,10 +55,10 @@
           {
             "type": "ParticleEffect",
             "particles": 24,
-            "length": -100,
-            "baseLength": 100,
-            "sizeFrom": 19,
-            "sizeTo": 5,
+            "length": -40,
+            "baseLength": 40,
+            "sizeFrom": 8,
+            "sizeTo": 2,
             "lifetime": 68,
             "colorFrom": "9e78dc",
             "colorTo": "5541b1"
@@ -65,7 +66,7 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 92,
+            "sizeTo": 50,
             "strokeFrom": 0,
             "strokeTo": 3,
             "colorFrom": "9e78dc",
@@ -93,23 +94,23 @@
             },
           {
               "type": "WaveEffect",
-              "lifetime": 45,
-              "sizeFrom": 35,
+              "lifetime": 60,
+              "sizeFrom": 50,
               "sizeTo": 0,
               "interp": "pow5Out",
               "strokeFrom": 0,
-              "strokeTo": 3,
+              "strokeTo": 4,
               "colorFrom": "9e78dc",
               "colorTo": "5541b1" 
             },
             {
               "type": "WaveEffect",
-              "lifetime": 50,
-              "sizeFrom": 45,
+              "lifetime": 70,
+              "sizeFrom": 60,
               "sizeTo": 0,
               "interp": "pow10Out",
               "strokeFrom": 0,
-              "strokeTo": 3,
+              "strokeTo": 4,
               "colorFrom": "9e78dc",
               "colorTo": "5541b1"
             },
