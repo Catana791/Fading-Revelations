@@ -8,7 +8,7 @@
   "health": 760,
   "coreMerge": true,
   "category": "effect",
-  "research": "mod-gate-effect",
+  "research": "big-launch-pad",
   "requirements": [
     "titanium/300",
     "thorium/180"
