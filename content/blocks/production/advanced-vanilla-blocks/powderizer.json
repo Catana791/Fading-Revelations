@@ -29,8 +29,7 @@
     "type": "DrawMulti",
     "drawers": [
       {
-        "type": "DrawRegion",
-        "suffix": "-bottom"
+        "type": "DrawDefault"
       },
       {
         "type": "DrawRegion",
@@ -40,12 +39,7 @@
       },
       {
         "type": "DrawRegion",
-        "suffix": "-rotator2",
-        "spinSprite": true,
-        "rotateSpeed": -0.8
-      },
-      {
-        "type": "DrawDefault"
+        "suffix": "-top"
       }
     ]
   }
