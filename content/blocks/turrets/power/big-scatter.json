@@ -69,7 +69,8 @@
         "splashDamageRadius": 5,
         "width": 4,
         "heigth": 6,
-        "hitEffect": "flakExplosion"
+        "hitEffect": "flakExplosion",
+        "lifetime": 16
       }
     },
     "pyratite": {
@@ -85,12 +86,11 @@
       "width": 7,
       "height": 9,
       "status": "burning",
-      "fragVelocityMin": 0.9,
-      "fragVelocityMax": 1.5,
       "fragBullets": 2,
       "fragBullet": {
         "type": "FlakBulletType",
         "speed": 5,
+        "lifetime": 20,
         "collidesTiles": false,
         "damage": 3,
         "splashDamage": 2,
