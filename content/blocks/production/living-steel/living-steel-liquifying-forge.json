@@ -38,7 +38,7 @@
     }
   ],
   "category": "crafting",
-  "research": "living-steel-forge",
+  "research": "living-steel-liquifier",
   "outputLiquid": "living-steel-liquid/0.4",
   "drawer": {
     "type": "DrawMulti",
