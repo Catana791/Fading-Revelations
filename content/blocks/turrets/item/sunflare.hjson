@@ -24,7 +24,18 @@ ammoTypes: {
     despawnEffect: none
     width: 0.01
     height: 0.01
-    shootEffect: shootSmallFlame
+    smokeEffect: {
+      type: ParticleEffect
+      particles: 25
+      length: 260
+      lifetime: 36
+      interp: circleOut
+      cone: 3
+      colorFrom: ffdd55
+      colorTo: db401c
+      sizeFrom: 4
+      sizeTo: 0.6
+    }
     hitEffect: hitFlameSmall
     despawnEffect: none
     hittable: false
