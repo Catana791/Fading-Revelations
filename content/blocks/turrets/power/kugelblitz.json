@@ -277,7 +277,7 @@
         "trailInterval": 3,
         "trailParam": 4,
         "speed": 0.5,
-        "damage": 60,
+        "damage": 45,
         "pierce": true,
         "pierceBuilding": true,
         "buildingDamageMultiplier": 0.4,
