@@ -38,7 +38,7 @@
     "colorTo": "cfd712"
   },
   "category": "turret",
-  "research": "big-parallax",
+  "research": "kugelblitz",
   "requirements": [
     {"item": "copper", "amount": 300},
     {"item": "lead", "amount": 250},
