@@ -214,8 +214,10 @@ pierceCap: 2
 category: turret
 research: ring-turret
 requirements: [
-  copper/4000
+  copper/2000
   lead/3000
   graphite/2000
+  titanium/1500
+  plastanium/600
   steel-alloy/400
 ]
