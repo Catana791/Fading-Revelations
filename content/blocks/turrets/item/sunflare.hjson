@@ -6,11 +6,8 @@ health: 1720
 range: 240
 reload: 6
 shoot: {
-  type: ShootAlternate
   shots: 12
   spread: 2
-  barrels: 1
-  shotDelay: 0
 }
 shootSound: flame
 ammoTypes: {
