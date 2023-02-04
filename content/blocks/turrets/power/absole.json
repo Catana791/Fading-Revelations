@@ -6,7 +6,7 @@
     "reload": 90,
     "inaccuracy": 3,
     "category": "turret",
-    "research": "duo",
+    "research": "big-segment",
     "requirements": [
       "copper/800",
       "metaglass/500",
