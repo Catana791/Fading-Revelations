@@ -1,0 +1,16 @@
+{
+  "type": "PowerNode",
+  "name": "Reinforced Large Power Node",
+  "description": "A large power node reinforced using titanium. Is a lot more durable than a regular beam node while also maintaining slightly more range.",
+  "size": 2,
+  "health": 480,
+  "laserRange": 18,
+  "maxNodes": 15,
+  "requirements": [
+    "lead/12",
+    "silicon/5",
+    "titanium/6"
+  ],
+  "category": "power",
+  "research": "mod-gate-power"
+}
