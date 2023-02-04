@@ -215,7 +215,7 @@ pierceCap: 2
   }
 }
 category: turret
-research: missile-silo
+research: ring-turret
 requirements: [
   copper/4000
   lead/3000
