@@ -3,7 +3,7 @@
     "description": "A big turret made for firing homing rockets at flying enemies. Can shoot using Plastanium, Surge Alloy and Phase Fabric but the game decides to only display Plastanium as ammo.",
     "type": "ItemTurret",
     "category": "turret",
-    "research": "big-segment",
+    "research": "absole",
     "size": 5,
     "health": 2890,
     "requirements": [
