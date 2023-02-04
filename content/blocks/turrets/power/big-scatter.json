@@ -57,8 +57,6 @@
       "height": 8,
       "shootEffect": "shootSmall",
       "hitEffect": "flakExplosion",
-      "fragVelocityMin": 0.9,
-      "fragVelocityMax": 1.5,
       "fragBullets": 3,
       "fragBullet": {
         "type": "FlakBulletType",
