@@ -27,10 +27,10 @@ ammoTypes: {
     smokeEffect: {
       type: ParticleEffect
       particles: 25
-      length: 260
+      length: 280
       lifetime: 36
       interp: circleOut
-      cone: 3
+      cone: 9
       colorFrom: ffdd55
       colorTo: db401c
       sizeFrom: 4
@@ -54,29 +54,20 @@ pierceCap: 2
     width: 0.01
     despawnEffect: none
     height: 0.01
-    shootEffect: {
+   smokeEffect: {
       type: ParticleEffect
-      particles: 40
-      sizeFrom: 7
-      sizeTo: 1
-      length: 290
-      lifetime: 60
+      particles: 25
+      length: 280
+      lifetime: 36
       interp: circleOut
-      colorFrom: f88711
-      colorTo: f6a30c
-      cone: 16
+      cone: 9
+      colorFrom: ffdd55
+      colorTo: db401c
+      sizeFrom: 4
+      sizeTo: 0.6
     }
-    hitEffect: {
-      type: ParticleEffect
-      particles: 10
-      sizeFrom: 0
-      sizeTo: 1
-      colorFrom: f88711
-      colorTo: f6a30c
-      lifetime: 22
-      length: 20
-      cone: 16
-    }
+    hitEffect: hitFlameSmall
+    despawnEffect: none
     hittable: false
     reflectable: false
   }
@@ -93,29 +84,20 @@ pierceCap: 2
     width: 0.01
     despawnEffect: none
     height: 0.01
-    shootEffect: {
+    smokeEffect: {
       type: ParticleEffect
-      particles: 40
-      sizeFrom: 7
-      sizeTo: 1
-      length: 290
-      lifetime: 60
+      particles: 25
+      length: 280
+      lifetime: 36
       interp: circleOut
-      colorFrom: f88711
-      colorTo: f6a30c
-      cone: 16
+      cone: 9
+      colorFrom: ffdd55
+      colorTo: db401c
+      sizeFrom: 4
+      sizeTo: 0.6
     }
-    hitEffect: {
-      type: ParticleEffect
-      particles: 10
-      sizeFrom: 0
-      sizeTo: 1
-      colorFrom: f88711
-      colorTo: f6a30c
-      lifetime: 22
-      length: 20
-      cone: 16
-    }
+    hitEffect: hitFlameSmall
+    despawnEffect: none
     hittable: false
     reflectable: false
   }
@@ -132,29 +114,20 @@ pierceCap: 2
     width: 0.01
     despawnEffect: none
     height: 0.01
-    shootEffect: {
+    smokeEffect: {
       type: ParticleEffect
-      particles: 40
-      sizeFrom: 7
-      sizeTo: 1
-      length: 290
-      lifetime: 60
+      particles: 25
+      length: 280
+      lifetime: 36
       interp: circleOut
-      colorFrom: f88711
-      colorTo: f6a30c
-      cone: 16
+      cone: 9
+      colorFrom: ffdd55
+      colorTo: db401c
+      sizeFrom: 4
+      sizeTo: 0.6
     }
-    hitEffect: {
-      type: ParticleEffect
-      particles: 10
-      sizeFrom: 0
-      sizeTo: 1
-      colorFrom: f88711
-      colorTo: f6a30c
-      lifetime: 22
-      length: 20
-      cone: 16
-    }
+    hitEffect: hitFlameSmall
+    despawnEffect: none
     hittable: false
     reflectable: false
   }
@@ -175,29 +148,20 @@ pierceCap: 2
     lightningLength: 1
     lightningDamage: 6
     height: 0.01
-    shootEffect: {
+    smokeEffect: {
       type: ParticleEffect
-      particles: 40
-      sizeFrom: 7
-      sizeTo: 1
-      length: 290
-      lifetime: 60
+      particles: 25
+      length: 280
+      lifetime: 36
       interp: circleOut
-      colorFrom: f88711
-      colorTo: f6a30c
-      cone: 16
+      cone: 9
+      colorFrom: ffdd55
+      colorTo: db401c
+      sizeFrom: 4
+      sizeTo: 0.6
     }
-    hitEffect: {
-      type: ParticleEffect
-      particles: 10
-      sizeFrom: 0
-      sizeTo: 1
-      colorFrom: f88711
-      colorTo: f6a30c
-      lifetime: 22
-      length: 20
-      cone: 16
-    }
+    hitEffect: hitFlameSmall
+    despawnEffect: none
     hittable: false
     reflectable: false
   }
