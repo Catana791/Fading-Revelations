@@ -7,7 +7,7 @@ range: 240
 reload: 6
 shoot: {
   shots: 12
-  spread: 2
+  spread: 3
 }
 shootSound: flame
 ammoTypes: {
