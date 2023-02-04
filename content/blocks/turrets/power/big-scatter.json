@@ -6,7 +6,7 @@
   "targetGround": false,
   "health": 1200,
   "size": 3,
-  "inaccuracy": 8,
+  "inaccuracy": 14,
   "reload": 20,
   "recoilAmount": 1,
   "ammoUseEffect": "casing3",
