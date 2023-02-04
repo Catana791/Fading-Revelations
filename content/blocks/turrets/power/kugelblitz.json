@@ -179,7 +179,7 @@
         "trailInterval": 3,
         "trailParam": 4,
         "speed": 0.5,
-        "damage": 10,
+        "damage": 20,
         "pierce": true,
         "pierceBuilding": true,
         "buildingDamageMultiplier": 0.4,
@@ -215,7 +215,7 @@
         "hitSound": "spark",
           "intervalBullet": {
             "type": "LightningBulletType",
-            "damage": 15,
+            "damage": 23,
             "lightningLength": 14,
             "hitSound": "spark",
             "despawnSound": "spark",
@@ -277,7 +277,7 @@
         "trailInterval": 3,
         "trailParam": 4,
         "speed": 0.5,
-        "damage": 40,
+        "damage": 60,
         "pierce": true,
         "pierceBuilding": true,
         "buildingDamageMultiplier": 0.4,
@@ -313,7 +313,7 @@
         "hitSound": "spark",
           "intervalBullet": {
             "type": "LightningBulletType",
-            "damage": 9,
+            "damage": 14,
             "lightningLength": 14,
             "hitSound": "spark",
             "despawnSound": "spark",
@@ -324,6 +324,6 @@
       "intervalBullets": 8,
       "intervalAngle": 360,
       "intervalSpread": 300
-    },
+    }
   }
 }
