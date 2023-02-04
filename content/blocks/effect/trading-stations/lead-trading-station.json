@@ -30,7 +30,7 @@
     }
   ],
   "category": "effect",
-  "research": "sand-trading-station",
+  "research": "mod-gate-effect",
   "outputItem": {
     "item": "lead",
     "amount": 16
