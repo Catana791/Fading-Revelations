@@ -38,8 +38,7 @@ orbitSpacing: 12
 radius: 1.5
 
 #minimum camera zoom
-minZoom: 0.6
-maxZoom: 0.9
+minZoom: 3
 
 #whether to draw the orbit
 drawOrbit: true
