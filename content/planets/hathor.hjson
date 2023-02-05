@@ -34,7 +34,7 @@ generator: {
 orbitSpacing: 12
 
 #radius of this planet's sphere
-radius: 0.3
+radius: 7
 
 #minimum camera zoom
 minZoom: 1.8
@@ -68,7 +68,7 @@ atmosphereColor: 000000
 iconColor: 29302b
 
 #whether this has atmosphere
-hasAtmosphere: true
+hasAtmosphere: false
 
 #whether simulate waves when off-planet
 allowWaveSimulation: true
