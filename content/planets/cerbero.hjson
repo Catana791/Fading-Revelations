@@ -31,7 +31,7 @@ generator: {
 }
 
 #basically, spacing between a parent (this) and satellites
-orbitSpacing: 12
+orbitSpacing: 6
 
 #radius of this planet's sphere
 radius: 1.5
