@@ -23,7 +23,7 @@
       },
       {
         "type": "DrawBubbles",
-        "amount": 8,
+        "amount": 4,
         "fill": true,
         "color": "e9e9e9",
         "reccurence": 20,
@@ -34,6 +34,6 @@
       }
     ]
   },
-  "outputLiquid": "steam/0.0125",
+  "outputLiquid": "steam/0.025",
   "craftTime": 300
 }
