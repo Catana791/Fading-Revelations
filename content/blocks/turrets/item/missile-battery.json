@@ -1,0 +1,12 @@
+{
+  "type": "ItemTurret",
+  "category": "turret",
+  "requirements": [],
+  "research": "duo",
+  "ammoTypes": {
+    "copper": {
+      "instantDisappear": true,
+      "spawnUnit": "me-tiny-missile"
+    }
+  }
+}
