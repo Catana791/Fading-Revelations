@@ -27,13 +27,13 @@
         "fill": true,
         "color": "e9e9e9",
         "reccurence": 4,
-        "timeScl": 0.7
+        "timeScl": 6
       },
       {
         "type": "DrawDefault"
       }
     ]
   },
-  "outputLiquid": "steam/0.05",
+  "outputLiquid": "steam/0.0125",
   "craftTime": 300
 }
