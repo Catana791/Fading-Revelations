@@ -15,8 +15,8 @@
     "type": "ShootAlternate",
     "shots": 5,
     "barrels": 5,
-    "spread": 7,
-    "shotDelay": 22
+    "spread": 5,
+    "shotDelay": 20
   }
   "ammoTypes": {
     "copper": {
