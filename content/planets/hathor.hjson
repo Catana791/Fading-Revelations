@@ -35,10 +35,10 @@ generator: {
 orbitSpacing: 12
 
 #radius of this planet's sphere
-radius: 1.5
+radius: 0.5
 
 #minimum camera zoom
-minZoom: 3
+minZoom: 1.8
 
 #whether to draw the orbit
 drawOrbit: true
