@@ -1,0 +1,92 @@
+localizedName: Hathor
+
+alwaysUnlocked: true
+
+#the mesh of the planet
+mesh: {
+  type: NoiseMesh
+  planet: hathor
+  seed: 69
+  divisions: 4
+  color1: 29302b
+  color2: 39403b
+  radius: 1.2
+  octaves: 3
+  persistence: 0.8
+  scale: 1
+  mag: 1.5
+}
+
+#the mesh used for clouds. commented out since this planet has no clouds
+#cloudMesh: {}
+
+#you can't declare a type for this, but you can at least modify the existing one's fields
+generator: {
+  min: 100
+  max: 100
+  radMin: 480
+  radMax: 480
+  seed: 69420
+  berylChance: 0
+}
+
+#basically, spacing between a parent (this) and satellites
+orbitSpacing: 12
+
+#radius of this planet's sphere
+radius: 0.3
+
+#minimum camera zoom
+minZoom: 1.8
+
+#whether to draw the orbit
+drawOrbit: true
+
+#basically, atmosphere offset
+atmosphereRadIn: 0
+atmosphereRadOut: 0.3
+
+#whether this can be landed on
+accessible: true
+
+#day-night cycle
+updateLighting: true
+
+#a seed of the generator. if -1, planet id is picked instead
+sectorSeed: 0
+
+#whether this blooms
+bloom: false
+
+#this is self-explanatory
+visible: true
+
+#the color of the atmosphere
+atmosphereColor: 000000
+
+#the color of the planet's icon displayed in top-left
+iconColor: 29302b
+
+#whether this has atmosphere
+hasAtmosphere: true
+
+#whether simulate waves when off-planet
+allowWaveSimulation: true
+
+#whether sectors are cleared when lost
+clearSectorOnLose: true
+
+#whether waves are re-created when a sector is lost
+allowWaves: true
+
+#default core block for launching
+defaultCore: me-core-level-4
+
+#the parent of the planet
+parent: cerbero
+
+#the parent of the whole solar system the planet is in
+solarSystem: sun
+
+#possible planets that could be landed into from this planet. probably useless since interplanetary accelerator is still not working
+launchCandidates: []
