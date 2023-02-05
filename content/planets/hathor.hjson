@@ -11,7 +11,7 @@ mesh: {
   divisions: 4
   color1: 29302b
   color2: 39403b
-  radius: 0.2
+  radius: 0.15
   octaves: 3
   persistence: 0.8
   scale: 1
@@ -38,7 +38,8 @@ orbitSpacing: 12
 radius: 1.5
 
 #minimum camera zoom
-minZoom: 1.8
+minZoom: 0.6
+maxZoom: 0.9
 
 #whether to draw the orbit
 drawOrbit: true
