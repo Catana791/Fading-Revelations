@@ -1,0 +1,39 @@
+{
+  "type": "GenericCrafter",
+  "name": "Steam Condenser",
+  "description": "Slowly pulls moisture out of the air, condensing it and turning it into Steam.",
+  "size": 2,
+  "scaledHealth": 60,
+  "category": "crafting",
+  "research": "mod-gate-crafters",
+  "requirements": [
+    "copper/60",
+    "lead/35"
+  ],
+  "drawer": {
+    "type:" "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "steam"
+      },
+      {
+        "type": "DrawBubbles",
+        "amount": 8,
+        "fill": true,
+        "color": "e9e9e9",
+        "reccurence": 4,
+        "timeScl": 0.7
+      },
+      {
+        "type": "DrawDefault"
+      }
+    ]
+  },
+  "outputLiquid": "steam/0.05",
+  "craftTime": 300
+}
