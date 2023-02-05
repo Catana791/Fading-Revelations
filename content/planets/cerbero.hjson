@@ -3,8 +3,6 @@ description: A barren planet where tragedy struck long ago. Nothing is left here
 
 alwaysUnlocked: true
 
-icon: me-cerbero
-
 #the mesh of the planet
 mesh: {
   type: NoiseMesh
