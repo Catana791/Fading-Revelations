@@ -1,11 +1,27 @@
 {
   "type": "ItemTurret",
+  "name": "Missile Battery",
+  "description": "Fires barrages of homing rockets at enemies.",
+  "targetGround": true,
+  "targetAir": false,
   "category": "turret",
   "requirements": [],
   "research": "duo",
+  "reload": 660,
+  "size": 3,
+  "scaledHealth": 110,
+  "shoot": {
+    "type": "ShootSpread",
+    "shots": 5,
+    "spread": 7,
+    "shotDelay": 2
+  }
   "ammoTypes": {
     "copper": {
       "instantDisappear": true,
+      "shootEffect": "shootBig",
+      "smokeEffect": "shootSmokeMissile",
+      "damage": 0,
       "spawnUnit": "me-tiny-missile"
     }
   }
