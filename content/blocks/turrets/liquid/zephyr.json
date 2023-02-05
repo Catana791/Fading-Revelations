@@ -9,6 +9,7 @@
   "shootSound": "artillery",
   "reload": 80,
   "targetAir": true,
+  "ammoPerShot": 9,
   "targetGround": true,
   "rotateSpeed": 4,
   "requirements": [
