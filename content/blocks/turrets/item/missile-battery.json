@@ -10,12 +10,13 @@
   "reload": 660,
   "size": 3,
   "scaledHealth": 110,
-  "shootSound": "missile",
+  "shootSound": "missileLaunch",
   "shoot": {
-    "type": "ShootSpread",
+    "type": "ShootAlternate",
     "shots": 5,
+    "barrels": 5,
     "spread": 7,
-    "shotDelay": 30
+    "shotDelay": 22
   }
   "ammoTypes": {
     "copper": {
