@@ -3,7 +3,7 @@
   "flying": true,
   "template": "MissileUnitType",
   "speed": 6,
-  "lifetime": 120,
+  "lifetime": 60,
   "trailColor": "f3e979",
   "trailLength": 10,
   "weapons": [
