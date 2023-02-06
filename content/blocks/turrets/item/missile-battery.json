@@ -43,7 +43,7 @@
       "damage": 0,
       "spawnUnit": "me-tiny-missile"
     },
-    "blastCompound": {
+    "blast-compound": {
       "ammoMultiplier": 10,
       "reloadMultiplier": 1,
       "instantDisappear": true,
