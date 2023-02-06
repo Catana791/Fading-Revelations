@@ -1,0 +1,82 @@
+{
+  "type": "ItemTurret",
+  "name": "Missile Battery",
+  "description": "Deploys ballistic drones that fire a large barrage of homing rockets. Cannot rotate while charging.",
+  "targetGround": true,
+  "targetAir": false,
+  "category": "turret",
+  "moveWhileCharging": false,
+  "requirements": [],
+  "research": "duo",
+  "accurateDelay": false,
+  "predictTarget": false,
+  "reload": 570,
+  "size": 3,
+  "range": 304,
+  "scaledHealth": 110,
+  "shootSound": "missileLaunch",
+  "chargeSound": "lasercharge",
+  "shoot": {
+    "type": "ShootBarrel",
+    "shots": 15,
+    "barrels": [
+      0, 8, 0,
+      20, 0, 20,
+      30, 7, 25,
+      -20, 0, -20,
+      -30, 7, -25
+    ],
+    "shotDelay": 6,
+    "firstShotDelay": 120
+  },
+  "ammoTypes": {
+    "copper": {
+      "instantDisappear": true,
+      "shootEffect": "shootBig",
+      "smokeEffect": "shootSmokeMissile",
+      "damage": 0,
+      "spawnUnit": "me-tiny-missile"
+    }
+  },
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "progress": "warmup",
+        "moveY": 0,
+        "moveX": 20,
+        "suffix": "-drone-1",
+        "under": true,
+        "moveRot": 20
+      },
+      {
+        "type": "RegionPart",
+        "progress": "warmup",
+        "moveY": 7,
+        "moveX": 30,
+        "suffix": "-drone-2",
+        "under": true,
+        "moveRot": 25
+      },
+      {
+        "type": "RegionPart",
+        "progress": "warmup",
+        "moveY": 0,
+        "moveX": -20,
+        "suffix": "-drone-3",
+        "under": true,
+        "moveRot": -20
+      },
+      {
+        "type": "RegionPart",
+        "progress": "warmup",
+        "moveY": 7,
+        "moveX": -30,
+        "suffix": "-drone-4",
+        "under": true,
+        "moveRot": -25
+      }
+    ]
+  }
+}
