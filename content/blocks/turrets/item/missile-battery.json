@@ -7,8 +7,8 @@
   "category": "turret",
   "moveWhileCharging": false,
   "requirements": [
-    "copper/260",
-    "graphite/200",
+    "lead/260",
+    "metaglass/200",
     "titanium/110"
   ],
   "research": "duo",
