@@ -4,7 +4,7 @@
   "template": "MissileUnitType",
   "speed": 6,
   "lifetime": 60,
-  "trailColor": "f3e979",
+  "trailColor": "ffaa5f",
   "trailLength": 10,
   "weapons": [
     {
@@ -17,6 +17,7 @@
         "type": "ExplosionBulletType",
         "splashDamage": 180,
         "splashDamageRadius": 32,
+        "ammoMultiplier": 7
       }
     }
   ]
