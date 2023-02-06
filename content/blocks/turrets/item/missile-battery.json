@@ -36,7 +36,6 @@
   "ammoTypes": {
     "pyratite": {
       "ammoMultiplier": 7,
-      "reloadMultiplier": 0.8,
       "instantDisappear": true,
       "shootEffect": "shootBig",
       "smokeEffect": "shootSmokeMissile",
@@ -50,17 +49,16 @@
       "shootEffect": "shootBig",
       "smokeEffect": "shootSmokeMissile",
       "damage": 0,
-      "spawnUnit": "me-tiny-missile"
+      "spawnUnit": "me-tiny-missile-3"
     },
     "plastanium": {
       "ammoMultiplier": 15,
-      "reloadMultiplier": 1.2,
       "instantDisappear": true,
       "shootEffect": "shootBig",
       "smokeEffect": "shootSmokeMissile",
       "damage": 0,
       "rangeChange": 16,
-      "spawnUnit": "me-tiny-missile" 
+      "spawnUnit": "me-tiny-missile-2" 
     }
   },
   "drawer": {
