@@ -103,7 +103,7 @@
           {
             "type": "PartMove",
             "progress": "reload",
-            "x": -20
+            "x": -30
           }
         ]
       },
@@ -124,7 +124,7 @@
           {
             "type": "PartMove",
             "progress": "reload",
-            "x": -20
+            "x": 20
           }
         ]
       },
@@ -145,7 +145,7 @@
           {
             "type": "PartMove",
             "progress": "reload",
-            "x": -20
+            "x": 30
           }
         ]
       }
