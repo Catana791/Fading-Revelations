@@ -78,11 +78,6 @@
             "type": "PartMove",
             "progress": "recoil",
             "y": -4
-          },
-          {
-            "type": "PartMove",
-            "progress": "reload",
-            "x": -20
           }
         ]
       },
@@ -99,11 +94,6 @@
             "type": "PartMove",
             "progress": "recoil",
             "y": -4
-          },
-          {
-            "type": "PartMove",
-            "progress": "reload",
-            "x": -30
           }
         ]
       },
@@ -120,11 +110,6 @@
             "type": "PartMove",
             "progress": "recoil",
             "y": -4
-          },
-          {
-            "type": "PartMove",
-            "progress": "reload",
-            "x": 20
           }
         ]
       },
@@ -141,11 +126,6 @@
             "type": "PartMove",
             "progress": "recoil",
             "y": -4
-          },
-          {
-            "type": "PartMove",
-            "progress": "reload",
-            "x": 30
           }
         ]
       }
