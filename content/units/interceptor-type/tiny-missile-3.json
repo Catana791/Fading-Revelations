@@ -6,6 +6,7 @@
   "lifetime": 60,
   "trailColor": "ff795e",
   "trailLength": 11,
+  "drawCell": false,
   "weapons": [
     {
       "shootCone": 360,
