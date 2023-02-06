@@ -12,6 +12,7 @@
     "titanium/110"
   ],
   "research": "duo",
+  "recoil": 7,
   "accurateDelay": false,
   "predictTarget": false,
   "reload": 570,
@@ -71,7 +72,14 @@
         "moveX": 20,
         "suffix": "-drone-1",
         "under": true,
-        "moveRot": 20
+        "moveRot": 20,
+        "moves": [
+          {
+            "type": "PartMove",
+            "progress": "recoil",
+            "y": -4
+          }
+        ]
       },
       {
         "type": "RegionPart",
@@ -80,7 +88,14 @@
         "moveX": 30,
         "suffix": "-drone-2",
         "under": true,
-        "moveRot": 25
+        "moveRot": 25,
+        "moves": [
+          {
+            "type": "PartMove",
+            "progress": "recoil",
+            "y": -4
+          }
+        ]
       },
       {
         "type": "RegionPart",
@@ -89,7 +104,14 @@
         "moveX": -20,
         "suffix": "-drone-3",
         "under": true,
-        "moveRot": -20
+        "moveRot": -20,
+        "moves": [
+          {
+            "type": "PartMove",
+            "progress": "recoil",
+            "y": -4
+          }
+        ]
       },
       {
         "type": "RegionPart",
@@ -98,7 +120,14 @@
         "moveX": -30,
         "suffix": "-drone-4",
         "under": true,
-        "moveRot": -25
+        "moveRot": -25,
+        "moves": [
+          {
+            "type": "PartMove",
+            "progress": "recoil",
+            "y": -4
+          }
+        ]
       }
     ]
   }
