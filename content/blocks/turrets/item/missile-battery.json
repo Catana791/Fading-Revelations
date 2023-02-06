@@ -5,7 +5,7 @@
   "details": "Using Plastanium as ammo increases the fire rate by 20% and the range slightly. \n \n Using Pyratite as ammo decreases the fire rate by 20% and the range slightly. \n \n Using plastanium ammo consumes less ammo per shot.",
   "targetAir": false,
   "category": "turret",
-  "moveWhileCharging": false,
+  "moveWhileCharging": true,
   "requirements": [
     "lead/260",
     "metaglass/200",
