@@ -1,8 +1,8 @@
 {
   "type": "ItemTurret",
   "name": "Missile Battery",
-  "description": "Deploys ballistic drones that fire a large barrage of homing rockets. Cannot rotate while charging. Shoots slower with Pyratite ammo and faster with Plastanium ammo.",
-  "targetGround": true,
+  "description": "Deploys ballistic drones that fire a large barrage of homing rockets. Cannot rotate while charging",
+  "details": "Using Plastanium as ammo increases the fire rate by 20% and the range slightly. \n \n Using Pyratite as ammo decreases the fire rate by 20% and the range slightly. \n \n Using plastanium ammo consumes less ammo per shot.",
   "targetAir": false,
   "category": "turret",
   "moveWhileCharging": false,
@@ -41,6 +41,7 @@
       "shootEffect": "shootBig",
       "smokeEffect": "shootSmokeMissile",
       "damage": 0,
+      "rangeChange": 388,
       "spawnUnit": "me-tiny-missile"
     },
     "blast-compound": {
@@ -58,6 +59,7 @@
       "shootEffect": "shootBig",
       "smokeEffect": "shootSmokeMissile",
       "damage": 0,
+      "rangeChange": 320,
       "spawnUnit": "me-tiny-missile" 
     }
   },
