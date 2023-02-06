@@ -41,7 +41,7 @@
       "shootEffect": "shootBig",
       "smokeEffect": "shootSmokeMissile",
       "damage": 0,
-      "rangeChange": 388,
+      "rangeChange": -16,
       "spawnUnit": "me-tiny-missile"
     },
     "blast-compound": {
@@ -59,7 +59,7 @@
       "shootEffect": "shootBig",
       "smokeEffect": "shootSmokeMissile",
       "damage": 0,
-      "rangeChange": 320,
+      "rangeChange": 16,
       "spawnUnit": "me-tiny-missile" 
     }
   },
