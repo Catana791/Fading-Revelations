@@ -15,7 +15,7 @@
       "shake": 1,
       "bullet": {
         "type": "ExplosionBulletType",
-        "splashDamage": 60,
+        "splashDamage": 180,
         "splashDamageRadius": 32,
       }
     }
