@@ -6,7 +6,11 @@
   "targetAir": false,
   "category": "turret",
   "moveWhileCharging": false,
-  "requirements": [],
+  "requirements": [
+    "copper/260",
+    "graphite/200",
+    "titanium/110"
+  ],
   "research": "duo",
   "accurateDelay": false,
   "predictTarget": false,
@@ -30,12 +34,32 @@
     "firstShotDelay": 120
   },
   "ammoTypes": {
-    "copper": {
+    "pyratite": {
+      "ammoMultiplier": 7,
+      "reloadMultiplier": 0.8,
       "instantDisappear": true,
       "shootEffect": "shootBig",
       "smokeEffect": "shootSmokeMissile",
       "damage": 0,
       "spawnUnit": "me-tiny-missile"
+    },
+    "blastCompound": {
+      "ammoMultiplier": 10,
+      "reloadMultiplier": 1,
+      "instantDisappear": true,
+      "shootEffect": "shootBig",
+      "smokeEffect": "shootSmokeMissile",
+      "damage": 0,
+      "spawnUnit": "me-tiny-missile"
+    },
+    "plastanium": {
+      "ammoMultiplier": 15,
+      "reloadMultiplier": 1.4,
+      "instantDisappear": true,
+      "shootEffect": "shootBig",
+      "smokeEffect": "shootSmokeMissile",
+      "damage": 0,
+      "spawnUnit": "me-tiny-missile" 
     }
   },
   "drawer": {
