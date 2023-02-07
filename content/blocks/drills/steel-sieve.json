@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Steel Sieve",
-  "description": "Filters great amounts of water at even greater speeds compared to the it's predecessore and filters more gold out each time..",
+  "description": "Filters great amounts of water at even greater speeds compared to its predecessor, filtering more gold from it.",
   "health": 465,
   "size": 4,
   "hasLiquids": true,
