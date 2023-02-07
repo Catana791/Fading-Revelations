@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Alloy Forge",
-  "description": "A better forge alloy forge that is more costefficient.",
+  "description": "A better surge alloy forge that is more cost-efficient.",
   "size": 4,
   "hasPower": true,
   "hasItems": true,
