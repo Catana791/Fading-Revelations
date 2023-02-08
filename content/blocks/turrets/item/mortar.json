@@ -45,7 +45,7 @@
       "height": 42,
       "speed": 1.6,
       "lifetime": 130,
-      "splashDamage": 134,
+      "splashDamage": 160,
       "sprite": "me-mortar-shell",
       "splashDamageRadius": 64,
       "status": "burning",
@@ -124,7 +124,7 @@
               "strokeTo": 4,
               "colorFrom": "9e78dc",
               "colorTo": "5541b1"
-            },
+            }
         ]
       }
     }
