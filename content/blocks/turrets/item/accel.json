@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Accel",
-  "description": "A large turret that fires electric bolts that increase their damage the further they travel.",
+  "description": "Marks a path with a high-precision laser before shooting an expanding electric bullet down it that explodes at the end.",
   "size": 4,
   "reload": 360,
   "range": 420,
@@ -11,6 +11,9 @@
   "recoil": 5,
   "rotateSpeed": 2,
   "targetAir": true,
+  "consumes": {
+    "power": 6
+  },
   "shoot": {
     "firstShotDelay": 35
   },
