@@ -1,0 +1,271 @@
+{
+  "type": "ItemTurret",
+  "name": "Accel",
+  "description": "A large turret that fires electric bolts that increase their damage the further they travel.",
+  "size": 4,
+  "reload": 360,
+  "range": 420,
+  "shootSound": "railgun",
+  "unitSort": "strongest",
+  "shake": 5,
+  "recoil": 5,
+  "rotateSpeed": 2,
+  "targetAir": true,
+  "shoot": {
+    "firstShotDelay": 30 
+  },
+  "cooldownTime": 300,
+  "targetGround": true,
+  "ammoPerShot": 2,
+  "maxAmmo": 20,
+  "scaledHealth": 140,
+  "category": "turret",
+  "requirements": [],
+  "ammoTypes": {
+    "surge-alloy": {
+      "spawnBullets": [
+        {
+          "type": "LaserBulletType",
+          "damage": 100,
+          "pierce": true,
+          "pierceBuilding": false,
+          "status": "none",
+          "statusDuration": 0,
+          "length": 432,
+          "lifetime": 90,
+          "width": 28,
+          "colors": ["f3e979", "d99f6b", "ffffff"]
+        }
+      ],
+      "type": "MissileBulletType",
+      "hitSound": "largeCannon",
+      "despawnSound": "largeCannon",
+      "shrinkX": -1,
+      "shrinkY": -0.5,
+      "sprite": "shell",
+      "height": 34,
+      "width": 22,
+      "status": "shocked",
+      "speed": 6,
+      "lifetime": 72,
+      "optimalLifeFract": 72,
+      "pierce": true,
+      "damage": 600,
+      "frontColor": "ffffff",
+      "backColor": "f3e979",
+      "homingPower": 0,
+      "homingRange": 0,
+      "splashDamage": 150,
+      "splashDamageRadius": 24,
+      "shootEffect": "shootBig2",
+      "smokeEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "type": "ParticleEffect",
+            "particles": 8,
+            "length": 40,
+            "baseLength": 50,
+            "cone": 20,
+            "sizeFrom": 6,
+            "sizeTo": 2,
+            "colorFrom": "f3e979",
+            "colorTo": "ffffff",
+            "lifetime": 30,
+            "lighOpacity": 0,
+            "lightRadius": 0.0001
+          },
+          {
+            "type": "ParticleEffect",
+            "particles": 8,
+            "length": 40,
+            "baseLength": 50,
+            "cone": 20,
+            "sizeFrom": 6,
+            "sizeTo": 2,
+            "colorFrom": "ffffff",
+            "colorTo": "f3e979",
+            "lifetime": 30,
+            "lightOpacity": 0,
+            "lightRadius": 0.0001
+          }
+        ]
+      }
+      "status": "shocked",
+      "lightColor": "f3e979",
+      "trailColor": "f3e979",
+      "backColor": "f3e979",
+      "lightRadius": 40,
+      "lightOpacity": 0.7,
+      "trailWidth": 8,
+      "trailLength": 50,
+      "trailChance": -1,
+      "hitEffect": {
+        "type": "MultiEffect",
+        "followParent": true,
+        "effects": [
+          {
+            "type": "WaveEffect",
+            "colorFrom": "f3e979",
+            "colorTo": "ffffff",
+            "sizeFrom": 2,
+            "sizeTo": 60
+          },
+          {
+            "type": "ParticleEffect",
+            "particles": 22,
+            "length": 60,
+            "baseLength": 50,
+            "interp": "pow2Out",
+            "sizeInterp": "pow2Out",
+            "sizeFrom": 12,
+            "sizeTo": 2
+          }
+        ]
+      }
+    },
+    "steel-alloy": {
+      "spawnBullets": [
+        {
+          "type": "LaserBulletType",
+          "damage": 150,
+          "pierce": true,
+          "pierceBuilding": false,
+          "status": "none",
+          "statusDuration": 0,
+          "length": 432,
+          "lifetime": 90,
+          "width": 28,
+          "colors": ["a3506e", "dbaf85", "ffffff"]
+        }
+      ],
+      "type": "MissileBulletType",
+      "hitSound": "largeCannon",
+      "despawnSound": "largeCannon",
+      "shrinkX": -1,
+      "shrinkY": -0.5,
+      "sprite": "shell",
+      "height": 34,
+      "width": 22,
+      "status": "shocked",
+      "speed": 6,
+      "lifetime": 72,
+      "optimalLifeFract": 72,
+      "pierce": true,
+      "damage": 650,
+      "frontColor": "ffffff",
+      "backColor": "dbaf85",
+      "homingPower": 0,
+      "homingRange": 0,
+      "splashDamage": 200,
+      "splashDamageRadius": 24,
+      "shootEffect": "shootBig2",
+      "smokeEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "type": "ParticleEffect",
+            "particles": 8,
+            "length": 40,
+            "baseLength": 50,
+            "cone": 20,
+            "sizeFrom": 6,
+            "sizeTo": 2,
+            "colorFrom": "dbaf85",
+            "colorTo": "ffffff",
+            "lifetime": 30,
+            "lighOpacity": 0,
+            "lightRadius": 0.0001
+          },
+          {
+            "type": "ParticleEffect",
+            "particles": 8,
+            "length": 40,
+            "baseLength": 50,
+            "cone": 20,
+            "sizeFrom": 6,
+            "sizeTo": 2,
+            "colorFrom": "ffffff",
+            "colorTo": "dbaf85",
+            "lifetime": 30,
+            "lightOpacity": 0,
+            "lightRadius": 0.0001
+          }
+        ]
+      }
+      "status": "shocked",
+      "lightColor": "dbaf85",
+      "trailColor": "dbaf85",
+      "backColor": "dbaf85",
+      "lightRadius": 40,
+      "lightOpacity": 0.7,
+      "trailWidth": 8,
+      "trailLength": 50,
+      "trailChance": -1,
+      "hitEffect": {
+        "type": "MultiEffect",
+        "followParent": true,
+        "effects": [
+          {
+            "type": "WaveEffect",
+            "colorFrom": "f3e979",
+            "colorTo": "ffffff",
+            "sizeFrom": 2,
+            "sizeTo": 60
+          },
+          {
+            "type": "ParticleEffect",
+            "particles": 22,
+            "length": 60,
+            "baseLength": 50,
+            "interp": "pow2Out",
+            "sizeInterp": "pow2Out",
+            "sizeFrom": 12,
+            "sizeTo": 2
+          }
+        ]
+      }
+    }
+  },
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "suffix": "-front",
+        "progress": "recoil",
+        "mirror": true,
+        "under": true,
+        "moveX": 2,
+        "moveY": -1,
+        "moveRot": -7
+      },
+      {
+        "type": "RegionPart",
+        "suffix": "-back",
+        "progress": "warmup",
+        "mirror": true,
+        "moveX": 2.66667,
+        "moveY": -0.5,
+        "moveRot": -40,
+        "under": true,
+        "moves": [
+          {
+            "type": "PartMove",
+            "progress": "warmup",
+            "moveX": 0,
+            "moveY": -2,
+            "moveRot": 3
+          },
+          {
+            "type": "PartMove",
+            "progress": "recoil",
+            "moveX": 2,
+            "moveY": -1,
+            "moveRot": -25
+          }
+        ]
+      }
+    ]
+  }
+}
