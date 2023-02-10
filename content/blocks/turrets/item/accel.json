@@ -44,7 +44,7 @@
           "status": "none",
           "statusDuration": 0,
           "length": 432,
-          "lifetime": 90,
+          "lifetime": 120,
           "width": 28,
           "colors": ["f3e979", "d99f6b", "ffffff"]
         }
@@ -149,7 +149,7 @@
           "status": "none",
           "statusDuration": 0,
           "length": 432,
-          "lifetime": 90,
+          "lifetime": 120,
           "width": 28,
           "colors": ["a3506e", "dbaf85", "ffffff"]
         }
