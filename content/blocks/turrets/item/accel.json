@@ -20,7 +20,13 @@
   "maxAmmo": 20,
   "scaledHealth": 140,
   "category": "turret",
-  "requirements": [],
+  "requirements": [
+    "copper/850",
+    "metaglass/500",
+    "silicon/500",
+    "plastanium/120",
+    "surge-alloy/100"
+  ],
   "ammoTypes": {
     "surge-alloy": {
       "spawnBullets": [
