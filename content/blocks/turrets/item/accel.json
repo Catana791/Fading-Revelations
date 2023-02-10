@@ -238,16 +238,6 @@
     "parts": [
       {
         "type": "RegionPart",
-        "suffix": "-front",
-        "progress": "recoil",
-        "mirror": true,
-        "under": true,
-        "moveX": 2,
-        "moveY": -1,
-        "moveRot": -7
-      },
-      {
-        "type": "RegionPart",
         "suffix": "-back",
         "progress": "warmup",
         "mirror": true,
@@ -271,6 +261,16 @@
             "moveRot": -25
           }
         ]
+      },
+      {
+        "type": "RegionPart",
+        "suffix": "-front",
+        "progress": "recoil",
+        "mirror": true,
+        "under": true,
+        "moveX": 2,
+        "moveY": -1,
+        "moveRot": -7
       }
     ]
   }
