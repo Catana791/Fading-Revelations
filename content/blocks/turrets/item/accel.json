@@ -32,9 +32,9 @@
       "spawnBullets": [
         {
           "type": "LaserBulletType",
-          "sideWidth": 10,
-          "sideAngle": 40,
-          "sideLength": 40,
+          "sideWidth": 2.5,
+          "sideAngle": 20,
+          "sideLength": 80,
           "damage": 100,
           "pierce": true,
           "pierceBuilding": false,
@@ -138,9 +138,9 @@
         {
           "type": "LaserBulletType",
           "damage": 150,
-          "sideWidth": 10,
-          "sideAngle": 40,
-          "sideLength": 40,
+          "sideWidth": 2.5,
+          "sideAngle": 20,
+          "sideLength": 80,
           "pierce": true,
           "pierceBuilding": false,
           "status": "none",
