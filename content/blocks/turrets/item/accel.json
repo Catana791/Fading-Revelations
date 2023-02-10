@@ -12,7 +12,7 @@
   "rotateSpeed": 2,
   "targetAir": true,
   "shoot": {
-    "firstShotDelay": 30 
+    "firstShotDelay": 35
   },
   "cooldownTime": 300,
   "targetGround": true,
