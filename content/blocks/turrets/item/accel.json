@@ -62,12 +62,12 @@
       "lifetime": 72,
       "optimalLifeFract": 72,
       "pierce": true,
-      "damage": 600,
+      "damage": 900,
       "frontColor": "ffffff",
       "backColor": "f3e979",
       "homingPower": 0,
       "homingRange": 0,
-      "splashDamage": 150,
+      "splashDamage": 250,
       "splashDamageRadius": 24,
       "shootEffect": "shootBig2",
       "smokeEffect": {
@@ -167,12 +167,12 @@
       "lifetime": 72,
       "optimalLifeFract": 72,
       "pierce": true,
-      "damage": 650,
+      "damage": 1100,
       "frontColor": "ffffff",
       "backColor": "dbaf85",
       "homingPower": 0,
       "homingRange": 0,
-      "splashDamage": 200,
+      "splashDamage": 350,
       "splashDamageRadius": 24,
       "shootEffect": "shootBig2",
       "smokeEffect": {
@@ -279,7 +279,7 @@
         "under": true,
         "moveX": 2,
         "moveY": -1,
-        "moveRot": -7
+        "moveRot": -14
       }
     ]
   }
