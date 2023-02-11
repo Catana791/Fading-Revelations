@@ -20,7 +20,7 @@
     "consumes": {
       "power": 8,
       "coolant": {
-        "amount": 10
+        "amount": 1
       }
     },
     "shake": 3,
