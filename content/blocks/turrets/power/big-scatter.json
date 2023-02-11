@@ -16,7 +16,9 @@
   "range": 300,
   "coolantMultiplier": 1.9445,
   "shoot": {
-    "shots": 3,
+    "shots": 3
+  },
+  "consumes": {
     "coolant": {
       "amount": 0.3 
     }
