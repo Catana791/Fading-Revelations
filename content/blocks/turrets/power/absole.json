@@ -171,7 +171,7 @@
         "pierceCap": 3,
         "fragOnHit": false,
         "speed": 5,
-        "damage": 50,
+        "damage": 80,
         "status": "shocked",
         "lifetime": 80,
         "width": 24,
