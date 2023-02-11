@@ -11,8 +11,12 @@
   "recoil": 5,
   "rotateSpeed": 2,
   "targetAir": true,
+  "coolantMultiplier": 0.5,
   "consumes": {
-    "power": 6
+    "power": 6,
+    "coolant": {
+      "amount": 1
+    }
   },
   "shoot": {
     "firstShotDelay": 35
