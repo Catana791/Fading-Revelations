@@ -7,7 +7,7 @@
   "flying": true,
   "speed": 4,
   "payloadCapacity": 256,
-  "vulnerableWithPayload": false,
+  "vulnerableWithPayloads": false,
   "pickupUnits": true,
   "buildSpeed": 3.2,
   "mineSpeed": 6,
@@ -59,12 +59,11 @@
     },
     {
       "type": "PointDefenseWeapon",
-      "range": 120,
       "reload": 60,
       "mirror": false,
       "x": 0,
       "y": 15,
-      "rotates": true,
+      "rotate": true,
       "autoTarget": true,
       "bullet": {
         "maxRange": 120,
@@ -90,9 +89,7 @@
         "pierceBuilding": false,
         "buildingDamageMultiplier": 0.5,
         "status": "sapped",
-        "makeFire": false,
-        "explodeRange": 64,
-        "explodeDelay": 30
+        "makeFire": false
       }
     }
   ],
