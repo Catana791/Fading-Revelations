@@ -28,7 +28,6 @@
         "alpha": 0.5,
         "particleSize": 3,
         "particles": 10,
-        "particleRand": 9,
         "particleLife": 200,
         "reverse": true,
         "particleSizeInterp": "one"
