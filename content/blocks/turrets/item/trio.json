@@ -85,6 +85,7 @@
         "moveX": 1.5,
         "moveY": 1.5,
         "moveRot": -20,
+        "under": true,
         "moves": [
           { 
             "type": "PartMove",
