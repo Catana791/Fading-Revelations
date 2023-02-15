@@ -5,8 +5,6 @@
   "drag": 0.15,
   "speed": 4.25,
   "research": "delta",
-  "maxVelocity": 2,
-  "canBuild": true,
   "buildSpeed": 3,
   "mineSpeed": 16,
   
@@ -14,24 +12,17 @@
   
   "mineTier": 3,
   "armor": 10,
-  "buildTier": 5,
-  "mass": 10,
-  "commandLimit": 8,
   "health": 310,
   "flying": true,
-  "rotateWeapon": true,
-  "rotateSpeed": 60,
   "itemCapacity": 100,
   "weapons": [
     {
       "name": "nothing",
-      "range": 170,
       "x": 3,
       "y": 2,
       "reload": 5,
-      "spacing": 0,
       "mirror": true,
-        "alternate": true
+      "alternate": true
       "shootSound": "lasershoot",
       "bullet": {
         "type": "LaserBoltBulletType",
