@@ -7,8 +7,6 @@
   "lowAltitude": true,
   "rotateSpeed": 0.5,
   "accel": 1,
-  "commandLimit": 10,
-  "range": 180,
   "speed": 0.5,
   "health": 20000,
   "armor": 15,
@@ -21,7 +19,6 @@
       "rotate": true,
       "reload": 25,
       "shootCone": 30,
-      "range": 180,
       "bullet": {
         "type": "MissileBulletType",
         "damage": 5,
@@ -42,7 +39,6 @@
       "x": 25,
       "shootSound": "missile",
       "y": -25,
-      "range": 180,
       "rotate": true,
       "reload": 25,
       "shootCone": 30,
@@ -66,7 +62,6 @@
       "name": "king-heal",
       "x": 0,
       "y": 10,
-      "range": 220,
       "shootSound": "missile",
       "rotate": true,
       "reload": 25,
@@ -83,7 +78,6 @@
       "name": "king-gattling-2",
       "x": 25,
       "y": 15,
-      "range": 180,
       "shootSound": "missile",
       "rotate": true,
       "reload": 25,
@@ -108,7 +102,6 @@
       "name": "king-gattling-2",
       "x": -25,
       "y": 15,
-      "range": 180,
       "rotate": true,
       "reload": 25,
       "shootCone": 30,
@@ -130,7 +123,6 @@
       }
     }
   ],
-  "category": "units",
   "research": "tentacle",
   "shootSound": "missile",
   "hitSize": 40

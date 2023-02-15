@@ -58,7 +58,6 @@
         "amount": 6,
         "color": "8c0291",
         "spread": 2,
-        "reccurence": 0.8,
         "strokeMin": 0.1
       },
       {
@@ -66,7 +65,6 @@
         "amount": 6,
         "color": "e9e9e9",
         "spread": 2,
-        "reccurence": 0.8,
         "strokeMin": 0.1
       },
       {
@@ -74,7 +72,6 @@
         "amount": 6,
         "color": "87ceeb",
         "spread": 2,
-        "reccurence": 0.8,
         "strokeMin": 0.1
       },
       {

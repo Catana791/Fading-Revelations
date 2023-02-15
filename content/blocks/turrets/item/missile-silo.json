@@ -11,7 +11,6 @@
   "shootY": 0,
   "targetGround": true,
   "shootSound": "missile-silo-launch",
-  "shootSoundVolume": 24,
   "size": 3,
   "unitSort": "strongest",
   "hasLiquids": false,
@@ -23,7 +22,6 @@
   "shootCone": 360,
   "rotate": false,
   "shootEffect": {
-              "sprite": "me-hn-shoot",
               "particles": 1,
               "spin": 60,
               "colorFrom": "c80000",

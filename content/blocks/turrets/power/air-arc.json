@@ -6,13 +6,11 @@
   "reload": 20,
   "shootSound": "spark",
   "shootCone": 30,
-  "shots": 1,
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 16,
     "damage": 10
   },
-  "liquidBoostIntesity": 1,
   "rotateSpeed": 100,
   "consumes": {
     "power": 3.5,
@@ -24,9 +22,7 @@
   "targetGround": false,
   "heatColor": "ff0000",
   "shootEffect": "lightningShoot",
-  "recoilAmount": 1,
-  "cooldown": 0.02,
-  "restitution": 0.02,
+  "recoil": 1,
   "requirements": [
     {
       "item": "copper",

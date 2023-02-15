@@ -14,23 +14,17 @@
       }
     ]
   },
-  "maxVelocity": 2,
-  "commandLimit": 0,
   "alwaysUnlocked": false,
   "health": 1070,
   "flying": true,
-  "rotateWeapon": false,
-  "rotatespeed": 0.06,
   "baseRotateSpeed": 0.05,
   "weapons": [
     {
       "name": "nothing",
-      "range": 150,
       "x": 0,
       "y": -2,
       "reload": 50,
-      "shootcone": 360,
-      "spacing": 0,
+      "shootCone": 360,
       "shootSound": "laser",
       "bullet": {
         "type": "MissileBulletType",

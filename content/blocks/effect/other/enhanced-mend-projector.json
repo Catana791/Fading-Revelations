@@ -6,8 +6,6 @@
   "size": 3,
   "range": 120,
   "reload": 100,
-  "phase": "#720874",
-  "color": "#17C50B",
   "healPercent": 5,
   "consumes": {
     "power": 5,

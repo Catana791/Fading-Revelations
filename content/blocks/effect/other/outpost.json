@@ -3,7 +3,6 @@
   "description": "An outpost that can be built anywhere on the map and transfers all items that are inputted directly to the main core.",
   "health": 1200,
   "size": 3,
-  "buildLimit": 1,
   "solid": true,
   "update": true,
   "itemCapacity": 5,
@@ -17,10 +16,10 @@
       "item": "lead",
       "amount": 2500
     },
-{
-  "item": "silicon",
-  "amount": 2200
-}
+    {
+      "item": "silicon",
+      "amount": 2200
+    },
     {
       "item": "titanium",
       "amount": 2000

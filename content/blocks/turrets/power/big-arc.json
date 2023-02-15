@@ -18,15 +18,11 @@
       "amount": 0.1 
     }
   },
-  "liquidBoostIntensity": 1,
-  "powerUse": 3.8,
   "targetAir": false,
   "targetGround": true,
   "heatColor": "ff0000",
   "shootEffect": "lightningShoot",
-  "recoilAmount": 1,
-  "cooldown": 0.02,
-  "restitution": 0.02,
+  "recoil": 0.5,
   "requirements": [
     {
       "item": "copper",

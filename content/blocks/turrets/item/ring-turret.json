@@ -11,7 +11,7 @@
     "shotDelay": 0
   },
   "reload": 240,
-  "recoilAmount": 0,
+  "recoil": 6,
   "inaccuracy": 0,
   "size": 4,
   "health": 1000,

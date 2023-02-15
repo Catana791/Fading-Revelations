@@ -5,7 +5,7 @@ size: 2
 health: 800
 range: 112
 reload: 7
-recoilAmount: 1
+recoil: 1
 targetAir: false
 shootSound: flame
 ammoTypes: {

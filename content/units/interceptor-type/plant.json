@@ -71,8 +71,7 @@
         "colors": ["84f491", "ffffff", "62ae7f"]
         "collidesTeam": true,
         "collidesTiles": true,
-        "collidesAir": true,
-        "collidesBlocks": true,
+        "collidesAir": true
       }
     },
     {

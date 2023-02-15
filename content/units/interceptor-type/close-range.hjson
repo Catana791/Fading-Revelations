@@ -34,16 +34,11 @@ bullet: {
 type: LaserBulletType
 damage: 40
 speed: 10
-drag: -0.0015
 pierce: true
 pierceCap: 6
 width: 4
 length: 100
 lifetime: 15
-collide: true
-collideAir: false
-collideTeam: false
-collideTile: false
 hitSize: 13
 }
 }

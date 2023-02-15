@@ -50,8 +50,6 @@ A huge content extension mod!
 
 -   Custom Schematics
 
--   A unit upgrading system to buff their stats
-
 -   A trading system using gold as currency
 
 -   Distribute items across the map with <br>

@@ -204,7 +204,6 @@
             "waveRad": 40
         },
         "despawnSound": "dullExplosion",
-        "shootSound": "cannon",
         "fragBullet": {
             "type": "BasicBulletType",
             "speed": 3,

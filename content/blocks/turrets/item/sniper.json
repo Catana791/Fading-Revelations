@@ -9,7 +9,6 @@
   "inaccuracy": 0,
   "reload": 400,
   "unitSort": "strongest",
-  "recoilAmount": 6,
   "recoil": 6,
   "recoilTime": 300,
   "ammoUseEffect": "casing3",
@@ -30,23 +29,20 @@
         "type": "ParticleEffect",
         "particles": 16,
         "rotWithParent": true,
-        "followRotation": true,
         "line": true,
         "length": 10,
         "colorFrom": "b8705c",
         "colorTo": "eac2a9",
         "sizeFrom": 10,
         "sizeTo": 10,
-        "hitEffect": "none",
-        "despawnEffect": "none"
       },
       "speed": 12,
+      "hitEffect": "none",
+      "despawnEffect": "none"
       "damage": 300,
       "splashDamage": 300,
       "splashDamageRadius": 16,
       "ammoMultiplier": 2,
-      "width": 6,
-      "height": 10,
       "pierce": true,
       "pierceBuilding": true,
       "buildingDamageMultiplier": 0.2
@@ -57,7 +53,6 @@
         "type": "ParticleEffect",
         "particles": 16,
         "rotWithParent": true,
-        "followRotation": true,
         "line": true,
         "length": 10,
         "colorFrom": "7575c8",
@@ -71,9 +66,7 @@
       "splashDamageRadius": 24,
       "ammoMultiplier": 1,
       "hitEffect": "none",
-        "despawnEffect": "none"
-      "width": 8,
-      "height": 12,
+      "despawnEffect": "none",
       "pierce": true,
       "pierceBuilding": true,
       "buildingDamageMultiplier": 0.2
@@ -84,7 +77,6 @@
         "type": "ParticleEffect",
         "particles": 16,
         "rotWithParent": true,
-        "followRotation": true,
         "line": true,
         "length": 10,
         "colorFrom": "c85c51",
@@ -97,10 +89,8 @@
       "splashDamage": 500,
       "splashDamageRadius": 24,
       "hitEffect": "none",
-        "despawnEffect": "none"
+      "despawnEffect": "none"
       "ammoMultiplier": 1,
-      "width": 8,
-      "height": 12,
       "pierce": true,
       "pierceBuilding": true,
       "buildingDamageMultiplier": 0.2
@@ -111,7 +101,6 @@
         "type": "ParticleEffect",
         "particles": 16,
         "rotWithParent": true,
-        "followRotation": true,
         "line": true,
         "length": 10,
         "colorFrom": "cb8ebf",
@@ -123,11 +112,9 @@
       "damage": 600,
       "splashDamage": 600,
       "hitEffect": "none",
-        "despawnEffect": "none"
+      "despawnEffect": "none"
       "splashDamageRadius": 32,
       "ammoMultiplier": 1,
-      "width": 8,
-      "height": 12,
       "pierce": true,
       "pierceBuilding": true,
       "buildingDamageMultiplier": 0.2
@@ -139,7 +126,6 @@
         "type": "ParticleEffect",
         "particles": 16,
         "rotWithParent": true,
-        "followRotation": true,
         "line": true,
         "length": 10,
         "colorFrom": "570047",
@@ -152,8 +138,6 @@
       "splashDamage": 30,
       "splashDamageRadius": 24,
       "ammoMultiplier": 2,
-      "width": 8,
-      "height": 12,
       "pierce": true,
       "pierceBuilding": true,
       "buildingDamageMultiplier": 0.2
@@ -168,7 +152,6 @@
         "type": "ParticleEffect",
         "particles": 16,
         "rotWithParent": true,
-        "followRotation": true,
         "line": true,
         "length": 10,
         "colorFrom": "6d0071",
@@ -177,7 +160,7 @@
         "sizeTo": 10
       },
       "hitEffect": "none",
-        "despawnEffect": "none"
+      "despawnEffect": "none"
       "speed": 12,
       "damage": 600,
       "splashDamageRadius": 24,
@@ -186,20 +169,17 @@
       "pierceBuilding": true,
       "buildingDamageMultiplier": 0.2
       "ammoMultiplier": 2,
-      "width": 10,
-      "height": 14,
       "status": "slow",
       "statusDuration": 250
     },
     "steel-alloy": {
       "hitEffect": "none",
-        "despawnEffect": "none"
+      "despawnEffect": "none"
       "type": "PointBulletType",
       "trailEffect": {
         "type": "ParticleEffect",
         "particles": 16,
         "rotWithParent": true,
-        "followRotation": true,
         "line": true,
         "length": 10,
         "colorFrom": "a3506e",
@@ -212,11 +192,9 @@
       "splashDamageRadius": 24,
       "splashDamage": 800,
       "pierce": true,
-    "pierceBuilding": true,
+      "pierceBuilding": true,
       "buildingDamageMultiplier": 0.2
       "ammoMultiplier": 2,
-      "width": 10,
-      "height": 14,
       "lightning": 3,
       "lightningLength": 6,
       "lightningDamage": 20,

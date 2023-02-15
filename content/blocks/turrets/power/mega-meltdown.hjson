@@ -17,10 +17,10 @@ consumes: {
 }
 rotateSpeed: 6
 reload: 300
-recoilAmount: 8
-restitution: 0.02
+recoil: 8
 shootSound: laserbig
 shoot: {
+  type: ShootSpread
   shots: 3
   spread: 10
 }

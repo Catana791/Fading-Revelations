@@ -9,7 +9,7 @@
   "hasItems": true,
   "hasPower": false,
   "itemCapacity": 20,
-  "liquidCapactiy": 100,
+  "liquidCapacity": 100,
   "drawer": {
     "type": "DrawMulti",
     "drawers": [

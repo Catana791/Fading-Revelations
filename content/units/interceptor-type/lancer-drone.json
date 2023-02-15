@@ -1,5 +1,4 @@
 {
-  "shootSound": "lasershoot",
   "type": "flying",
   "name": "[green]Areus",
   "description": "Shoots using a miniature Lancer.",
@@ -15,19 +14,19 @@
   "flying": true,
   "health": 200,
   "armor": 1,
-  "commandLimit": 6,
   "engineOffset": 5.5,
   "weapons": [
     {
       "name": "chrome-blaster",
       "length": 1.5,
       "reload": 90,
+      "shootSound": "laser",
       "alternate": true,
       "bullet": {
         "type": "LaserBulletType",
         "damage": 40,
         "width": 15,
-        "lenght": 980,
+        "length": 180,
         "shootEffect": "shockwave",
         "colors": [
           "ec7458aa",

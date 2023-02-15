@@ -20,7 +20,7 @@
     {
       "minShootVelocity": 0.75,
       "x": 3,
-      "ShootY": 0,
+      "shootY": 0,
       "shootCone": 180,
       "ejectEffect": "none",
       "inaccuracy": 15,

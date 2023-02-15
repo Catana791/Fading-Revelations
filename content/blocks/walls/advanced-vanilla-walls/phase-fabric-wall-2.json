@@ -2,7 +2,6 @@
   "name": "Huge Phase-Fabric Wall",
   "description": "A huge wall made out of phase-fabric.",
   "type": "Wall",
-  "deflect": true,
   "flashHit": true,
   "health": 5400,
   "chanceDeflect": 15

@@ -10,7 +10,6 @@
   "legMoveSpace": 1.2,
   "hovering": true,
   "allowLegStep": true,
-  "commandLimit": 4,
   "speed": 1.5,
   "rotateSpeed": 4,
   "armor": 3,

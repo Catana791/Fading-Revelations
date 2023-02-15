@@ -36,7 +36,6 @@
         "status": "burning",
         "pierceBuilding": true,
         "speed": 8,
-        "fadeTime": 20,
         "pierceArmor": false
       }
     }

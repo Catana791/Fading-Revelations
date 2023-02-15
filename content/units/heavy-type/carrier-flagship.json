@@ -11,7 +11,6 @@
   "itemCapacity": 100,
   "range": 320,
   "itemCapacity": 100,
-  "category": "unit",
   "research": {
     "parent": "king",
     "requirements": [
@@ -33,13 +32,8 @@
       }
     ]
   },
-  "maxVelocity": 0.95,
-  "mass": 10,
-  "commandLimit": 10,
   "health": 5800,
   "armor": 9,
-  "rotateWeapon": false,
-  "rotatespeed": 0.03,
   "weapons": [
     {
       "name": "nothing",
@@ -50,7 +44,6 @@
       "mirror": true,
       "rotate": true,
       "rotateSpeed": 20,
-      "range": 64,
       "bullet": {
         "type": "LightningBulletType",
         "damage": 15,
