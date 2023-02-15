@@ -29,7 +29,7 @@
       }
     ]
   },
-  "liquidCapactiy": 100,
+  "liquidCapacity": 100,
   "craftEffect": {
     "type": "MultiEffect",
     "effects": [
