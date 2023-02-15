@@ -7,7 +7,6 @@
   "deathExplosionEffect": "massiveExplosion",
   "trailColor": "9cb664",
   "trailLength": 25,
-  "trailWidth": 11,
   "deathSound": "none",
   "weapons": [
     {
