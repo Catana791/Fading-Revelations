@@ -7,7 +7,7 @@
   "range": 120,
   "size": 2,
   "shoot": {
-    "type": "ShotAlternate",
+    "type": "ShootAlternate",
     "shots": 3,
     "spread": 5,
     "shotDelay": 15
