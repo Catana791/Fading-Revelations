@@ -12,8 +12,8 @@
   "size": 4,
   "targetAir": false,
   "targetGround": true,
-  "rotatespeed": 8,
-  "recoilAmount": 0.2,
+  "rotateSpeed": 8,
+  "recoil": 0.6,
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
   "inaccuracy": 10,
@@ -104,10 +104,9 @@
       "splashDamage": 16,
       "splashDamageRadius": 9,
       "lightning": 2,
-      "ligtningLength": 5,
+      "lightningLength": 5,
       "lightningDamage": 11,
       "shootEffect": "shootBig",
-      "explodeRange": 20,
       "collidesGround": true,
       "damage": 9
     }
