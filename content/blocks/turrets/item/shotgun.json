@@ -14,12 +14,10 @@
     "shotDelay": 0
   },
   "inaccuracy": 16,
-  "velocityInaccuracy": 0.10,
   "size": 3,
   "targetAir": false,
   "targetGround": true,
-  "rotatespeed": 5,
-  "recoilAmount": 1,
+  "rotateSpeed": 5,
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
   "ammoTypes": {
