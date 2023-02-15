@@ -9,17 +9,9 @@
   "hasPower": true,
   "shootLength": 14,
   "bulletDamage": 35,
-  "reloadTime": 5,
   "consumes": {
-    "power": 10,
-    "liquid": {
-      "liquid": "cryofluid",
-      "amount": 0.03,
-      "booster": true,
-      "optional": true
-    }
+    "power": 10
   },
-  "liquidBoostIntensity": 1.6,
   "requirements": [
     {"item": "copper", "amount": 200},
     {"item": "lead", "amount": 180},
