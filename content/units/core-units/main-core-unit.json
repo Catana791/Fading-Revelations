@@ -26,11 +26,10 @@
   "healFlash": false,
   "canBoost": false,
   "canAttack": true,
-  "canDrowm": false,
+  "canDrown": false,
   "canHeal": false,
   
   "speed": 0,
-  "rotate": false,
   "rotateSpeed": 0,
   
   "buildRange": 999999999999,
@@ -184,7 +183,7 @@
         "instantDisappear": true,
         "width": 0.001,
         "height": 0.001,
-        "length": 0.001,
+        "height": 0.001,
         "despawnHit": true,
         "hitEffect": {
           "type": "WaveEffect",
@@ -212,7 +211,7 @@
       },
       "bullet": {
         "type": "ShrapnelBulletType",
-        "length": 10,
+        "height": 10,
         "damage": 20,
         "shootEffect": "thoriumShoot",
         "smokeEffect": "thoriumShoot",
@@ -235,7 +234,7 @@
       },
       "bullet": {
         "type": "ShrapnelBulletType",
-        "length": 10,
+        "height": 10,
         "damage": 20,
         "shootEffect": "thoriumShoot",
         "smokeEffect": "thoriumShoot",
@@ -258,7 +257,7 @@
       },
       "bullet": {
         "type": "ShrapnelBulletType",
-        "length": 10,
+        "height": 10,
         "damage": 20,
         "shootEffect": "thoriumShoot",
         "smokeEffect": "thoriumShoot",
@@ -281,7 +280,7 @@
       },
       "bullet": {
         "type": "ShrapnelBulletType",
-        "length": 10,
+        "height": 10,
         "damage": 20,
         "shootEffect": "thoriumShoot",
         "smokeEffect": "thoriumShoot",
