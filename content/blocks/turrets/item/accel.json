@@ -87,9 +87,7 @@
             "sizeTo": 2,
             "colorFrom": "f3e979",
             "colorTo": "ffffff",
-            "lifetime": 30,
-            "lighOpacity": 0,
-            "lightRadius": 0.0001
+            "lifetime": 30
           },
           {
             "type": "ParticleEffect",
@@ -101,9 +99,7 @@
             "sizeTo": 2,
             "colorFrom": "ffffff",
             "colorTo": "f3e979",
-            "lifetime": 30,
-            "lightOpacity": 0,
-            "lightRadius": 0.0001
+            "lifetime": 30
           }
         ]
       }
@@ -192,9 +188,7 @@
             "sizeTo": 2,
             "colorFrom": "dbaf85",
             "colorTo": "ffffff",
-            "lifetime": 30,
-            "lighOpacity": 0,
-            "lightRadius": 0.0001
+            "lifetime": 30
           },
           {
             "type": "ParticleEffect",
@@ -206,9 +200,7 @@
             "sizeTo": 2,
             "colorFrom": "ffffff",
             "colorTo": "dbaf85",
-            "lifetime": 30,
-            "lightOpacity": 0,
-            "lightRadius": 0.0001
+            "lifetime": 30
           }
         ]
       }
