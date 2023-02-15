@@ -46,6 +46,6 @@
   ],
   "category": "crafting",
   "research": "mod-gate-crafters",
-  "idleSound": "respawning",
-  "idleSoundVolume": 0.2
+  "ambientSound": "respawning",
+  "ambientSoundVolume": 0.2
 }
