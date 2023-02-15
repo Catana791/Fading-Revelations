@@ -12,7 +12,7 @@
   "targetAir": true,
   "targetGround": true,
   "shootSound": "shootBig",
-  "recoilAmount": 0.6,
+  "recoil": 1.2,
   "recoilTime": 60,
   "ammoTypes": {
     "coal": {
