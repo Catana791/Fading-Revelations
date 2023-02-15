@@ -51,18 +51,12 @@
       }
     ]
   },
-  "maxVelocity": 1.02,
-  "mass": 10,
-  "commandLimit": 21,
   "health": 11000,
   "armor": 24,
-  "rotateWeapon": true,
-  "rotatespeed": 0.06,
   "baseRotateSpeed": 0.06,
   "weapons": [
     {
       "name": "sps-air-fr",
-      "range": 200,
       "x": -56,
       "mirror": false,
       "rotate": true,
@@ -79,7 +73,6 @@
     },
     {
       "name": "sps-air-fr",
-      "range": 200,
       "x": 56,
       "mirror": false,
       "rotate": true,
@@ -96,7 +89,6 @@
     },
     {
       "name": "sps-lancer-left",
-      "range": 250,
       "x": -32,
       "rotate": true,
       "continuous": true,
@@ -117,7 +109,6 @@
     },
     {
       "name": "sps-sps-lancer-left",
-      "range": 250,
       "x": 32,
       "rotate": true,
       "y": -12,
@@ -140,16 +131,13 @@
     },
     {
       "name": "sps-rail",
-      "range": 350,
       "x": 0,
       "y": -8,
       "recoil": 8,
       "recoilTime": 180,
-      "targetAir": false,
       "continuous": true,
       "mirror": false,
       "reload": 500,
-      "targetGround": true,
       "shootSound": "laserbig",
       "bullet": {
         "type": "ContinuousLaserBulletType",
