@@ -159,7 +159,7 @@
   "rotateSpeed": 200,
   "targetAir": false,
   "targetGround": true,
-  "recoilAmount": 1,
+  "recoil": 1,
   "requirements": [
     {
       "item": "copper",
