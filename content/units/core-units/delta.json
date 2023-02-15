@@ -5,32 +5,22 @@
   "drag": 0.15,
   "speed": 4,
   "research": "mod-gate-units",
-  "maxVelocity": 2,
-  "canBuild": true,
   "buildSpeed": 2.5,
   "mineSpeed": 14,
   "mineTier": 3,
   "armor": 10,
-  "buildTier": 5,
   
   "coreUnitDock": true,
   
-  "mass": 10,
-  "commandLimit": 8,
   "health": 260,
   "flying": true,
-  "rotateWeapon": true,
-  "rotateSpeed": 50,
   "itemCapacity": 80,
   "weapons": [
     {
       "name": "nothing",
-      "range": 150,
       "x": 0,
       "y": 2,
       "reload": 7,
-      "shootcone": 360,
-      "spacing": 0,
       "shootSound": "lasershoot",
       "bullet": {
         "type": "LaserBoltBulletType",
