@@ -26,13 +26,12 @@
     "range": 800,
     "chargeSound": "lasercharge",
     "reload": 560,
-    "shootSoundVolume": 0.6,
     "shootSound": "missile-silo-launch",
     "ammoTypes": {
         "surge-alloy": {
             "shootEffect": "shootBig",
             "smokeEffect": "shootSmokeMissile",
-            "type": "BasicBulleType",
+            "type": "BasicBulletType",
             "damage": 0,
             "speed": 0,
             "spawnUnit": "me-surge-missile",
@@ -202,7 +201,7 @@
         "plastanium": {
           "shootEffect": "shootBig",
           "smokeEffect": "shootSmokeMissile",
-          "type": "BasicBulleType",
+          "type": "BasicBulletType",
           "damage": 0,
           "speed": 0,
           "spawnUnit": "me-plast-missile",
@@ -372,7 +371,7 @@
         "phase-fabric": {
           "shootEffect": "shootBig",
           "smokeEffect": "shootSmokeMissile",
-          "type": "BasicBulleType",
+          "type": "BasicBulletType",
           "damage": 0,
           "speed": 0,
           "spawnUnit": "me-phase-missile",
