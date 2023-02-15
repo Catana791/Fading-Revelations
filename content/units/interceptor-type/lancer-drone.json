@@ -18,7 +18,6 @@
   "weapons": [
     {
       "name": "chrome-blaster",
-      "length": 1.5,
       "reload": 90,
       "shootSound": "laser",
       "alternate": true,
