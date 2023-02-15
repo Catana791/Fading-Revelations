@@ -211,7 +211,6 @@
       },
       "bullet": {
         "type": "ShrapnelBulletType",
-        "height": 10,
         "damage": 20,
         "shootEffect": "thoriumShoot",
         "smokeEffect": "thoriumShoot",
@@ -234,7 +233,6 @@
       },
       "bullet": {
         "type": "ShrapnelBulletType",
-        "height": 10,
         "damage": 20,
         "shootEffect": "thoriumShoot",
         "smokeEffect": "thoriumShoot",
@@ -257,7 +255,6 @@
       },
       "bullet": {
         "type": "ShrapnelBulletType",
-        "height": 10,
         "damage": 20,
         "shootEffect": "thoriumShoot",
         "smokeEffect": "thoriumShoot",
@@ -280,7 +277,6 @@
       },
       "bullet": {
         "type": "ShrapnelBulletType",
-        "height": 10,
         "damage": 20,
         "shootEffect": "thoriumShoot",
         "smokeEffect": "thoriumShoot",
