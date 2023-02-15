@@ -82,7 +82,6 @@
       "lightningLength": 7,
       "lightningDamage": 15,
       "shootEffect": "shootBig",
-      "explodeRange": 20,
       "collidesGround": true,
       "damage": 18
     },
@@ -96,7 +95,6 @@
       "lightningLength": 9,
       "lightningDamage": 19,
       "shootEffect": "shootBig",
-      "explodeRange": 20,
       "collidesGround": true,
       "damage": 25
     }
