@@ -3,7 +3,6 @@
   "name": "Basic Multismelter",
   "description": "Uses coal, sand and lead to create metaglass, graphite and silicon all at once.",
   "category": "crafting",
-  "sinMag": 0.1,
   "research": "mod-gate-crafters",
   "size": 3,
   "requirements": [
