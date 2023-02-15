@@ -73,5 +73,24 @@
     }
   ],
   "category": "turret",
-  "research": "mod-gate-turrets"
+  "research": "mod-gate-turrets",
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "suffix": "-back",
+        "mirror": true,
+        "progress": "warmup",
+        "moveRot": -10,
+        "moves": [
+          { 
+            "type": "PartMove",
+            "progress": "recoil",
+            "moveRot": -15
+          }
+        ]
+      }
+    ]
+  }
 }
