@@ -9,11 +9,9 @@
   "squareSprite": false,
   "targetAir": true,
   "targetGround": true,
-  "rotatespeed": 8,
   "inaccuracy": 7,
   "xRand": 4,
-  "recoilAmount": 2,
-  "restitution": 0.8,
+  "recoil": 2,
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
   "ammoTypes": {
@@ -40,7 +38,6 @@
         "frontColor": "ffffff",
         "despawnEffect": "none"
       },
-      "explodeRange": 20,
       "collidesGround": true
     },
     "blast-compound": {
@@ -66,7 +63,6 @@
       "hitEffect": "plasticExplosion",
       "shootEffect": "shootBig",
       "collidesGround": true,
-      "explodeRange": 20,
       "fragBullets": 6,
       "fragBullet": {
         "width": 10,
@@ -83,7 +79,7 @@
       "splashDamage": 82,
       "splashDamageRadius": 38,
       "lightning": 2,
-      "ligtningLength": 7,
+      "lightningLength": 7,
       "lightningDamage": 15,
       "shootEffect": "shootBig",
       "explodeRange": 20,
@@ -97,7 +93,7 @@
       "splashDamage": 91
       "splashDamageRadius": 38,
       "lightning": 3,
-      "ligtningLength": 9,
+      "lightningLength": 9,
       "lightningDamage": 19,
       "shootEffect": "shootBig",
       "explodeRange": 20,
