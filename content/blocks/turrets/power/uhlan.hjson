@@ -11,37 +11,38 @@ heatColor: 5782c2
 consumes: {
   power: 7
 }
-chargeTime: 30
-firstShotDelay: 30
-chargeBeginEffect: {
-  type: ParticleEffect
-  lifetime: 30
-  length: 0
-  particles: 1
-  sizeFrom: 0
-  sizeTo: 2
-  colorFrom: 7382f0
-}
-chargeEffects: 6
-chargeEffect: {
-  type: ParticleEffect
-  particles: 1
-  lifetime: 24
-  baseLength: 10
-  length: -10
-  line: true
-  strokeFrom: 0
-  strokeTo: 1
-  lenFrom: 0
-  lenTo: 3
-  colorFrom: 7382f0
+shoot: {
+  firstShotDelay: 30
 }
 shootType: {
   type: LaserBulletType
   length: 210
   width: 20
   damage: 140
-  colors: [7382f040, 7382f0, ffffff]
+  colors: [7382f040, 7382f0, ffffff],
+  chargeBeginEffect: {
+    type: ParticleEffect
+    lifetime: 30
+    length: 10
+    particles: 1
+    sizeFrom: 0
+    sizeTo: 2
+    colorFrom: 7382f0
+  }
+  chargeEffects: 6
+  chargeEffect: {
+    type: ParticleEffect
+    particles: 1
+    lifetime: 24
+    baseLength: 10
+    length: -10
+    line: true
+    strokeFrom: 0
+    strokeTo: 1
+    lenFrom: 0
+    lenTo: 3
+    colorFrom: 7382f0
+  }
 }
 category: turret
 research: big-arc
