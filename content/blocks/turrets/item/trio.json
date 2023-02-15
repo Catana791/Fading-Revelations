@@ -84,13 +84,13 @@
         "progress": "warmup",
         "moveX": 1.35,
         "moveY": 1.5,
-        "moveRot": -20,
+        "moveRot": -22,
         "under": true,
         "moves": [
           { 
             "type": "PartMove",
             "progress": "recoil",
-            "moveRot": -30,
+            "moveRot": -32,
             "moveY": -2
           }
         ]
