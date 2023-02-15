@@ -4,7 +4,6 @@
   "description": "Shoots out shockwaves that deal damage and shock enemies, slowing them down strongly.",
   "range": 640,
   "canOverdrive": false,
-  "liquidBoostIntensity": 0,
   "shootY": 0,
   "reload": 60,
   "consumes": {
@@ -27,7 +26,6 @@
   "rotateSpeed": 0,
   "shootCone": 360,
   "recoil": 0,
-  "recoilAmount": 0,
   "size": 3,
   "ammoUseEffect": "none",
   "shootEffect": {
