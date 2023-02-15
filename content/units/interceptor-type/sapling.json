@@ -63,7 +63,6 @@
       "reload": 30,
       "rotate": true,
       "noAttack": true,
-      "range": 260,
       "bullet": {
         "type": "LaserBulletType",
         "damage": 5,
@@ -72,8 +71,7 @@
         "colors": ["84f491", "ffffff", "62ae7f"]
         "collidesTeam": true,
         "collidesTiles": true,
-        "collidesAir": true,
-        "collidesBlocks": true,
+        "collidesAir": true
       }
     },
     {
