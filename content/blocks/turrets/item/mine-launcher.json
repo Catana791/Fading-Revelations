@@ -19,7 +19,7 @@
   "targetAir": false,
   "targetGround": true,
   "rotateSpeed": 5,
-  "recoilAmount": 1,
+  "recoil": 1,
   "shootSound": "shoot",
   "ammoTypes": {
     "blast-compound": {
