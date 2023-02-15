@@ -8,7 +8,6 @@
   "attribute": "water",
   "hasLiquids": true,
   "size": 3,
-  "affinities": ["sand"],
   "pumpAmount": 0.3,
   "consumes": {
     "power": 3.5
@@ -31,7 +30,6 @@
       "amount": 65
     }
   ],
-  "powerUse": 0.8,
   "category": "production",
   "research": "mod-gate-crafters",
   "liquidCapacity": 250
