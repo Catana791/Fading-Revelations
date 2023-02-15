@@ -19,30 +19,7 @@ shootType: {
   length: 210
   width: 20
   damage: 140
-  colors: [7382f040, 7382f0, ffffff],
-  chargeBeginEffect: {
-    type: ParticleEffect
-    lifetime: 30
-    length: 10
-    particles: 1
-    sizeFrom: 0
-    sizeTo: 2
-    colorFrom: 7382f0
-  }
-  chargeEffects: 6
-  chargeEffect: {
-    type: ParticleEffect
-    particles: 1
-    lifetime: 24
-    baseLength: 10
-    length: -10
-    line: true
-    strokeFrom: 0
-    strokeTo: 1
-    lenFrom: 0
-    lenTo: 3
-    colorFrom: 7382f0
-  }
+  colors: [7382f040, 7382f0, ffffff]
 }
 category: turret
 research: big-arc
