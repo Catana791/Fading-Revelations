@@ -7,7 +7,6 @@
   "pumpAmount": 0.35,
   "baseEfficiency": 0,
   "drawer": "DrawDefault",
-  "craftTime": 60,
   "itemUseTime": 60,
   "size": 4,
   "requirements": [
