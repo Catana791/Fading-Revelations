@@ -8,7 +8,6 @@
   "rotateSpeed": 3,
   "health": 1000,
   "legCount": 6,
-  "leglength": 13,
   "legForwardScl": 0.8,
   "legMoveSpace": 1.4,
   "legBaseOffset": 2,
