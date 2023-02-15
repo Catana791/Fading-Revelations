@@ -124,6 +124,5 @@
     }
   ],
   "research": "tentacle",
-  "shootSound": "missile",
   "hitSize": 40
 }
