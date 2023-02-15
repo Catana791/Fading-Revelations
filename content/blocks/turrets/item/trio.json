@@ -3,7 +3,7 @@
   "name": "Trio",
   "description": "The better version of the duo. Shoots out at enemies with three instead of two barrels.",
   "health": 500,
-  "reload": 60,
+  "reload": 48,
   "range": 120,
   "size": 2,
   "shoot": {
@@ -22,7 +22,7 @@
       "ammoMultiplier": 3,
       "hitSize": 8,
       "type": "BasicBulletType",
-      "width": 4,
+      "width": 8,
       "damage": 14,
       "lifetime": 50,
       "height": 8,
