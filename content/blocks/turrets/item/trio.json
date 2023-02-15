@@ -7,13 +7,13 @@
   "range": 120,
   "size": 2,
   "shoot": {
+    "type": "ShotAlternate",
     "shots": 3,
     "spread": 5,
     "shotDelay": 15
   },
   "researchCostMultiplier": 0.1,
   "inaccuracy": 3,
-  "alternate": true,
   "targetAir": true,
   "targetGround": true,
   "ammoTypes": {
