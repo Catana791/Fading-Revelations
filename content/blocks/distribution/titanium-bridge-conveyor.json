@@ -17,7 +17,7 @@
       "amount": 4
     }
   ],
-  "range": 8,
+  "range": 6,
   "transportTime": 4,
   "hasPower": false,
   "category": "distribution",
