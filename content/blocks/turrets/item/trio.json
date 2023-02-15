@@ -82,7 +82,7 @@
         "suffix": "-back",
         "mirror": true,
         "progress": "warmup",
-        "moveX": 1.5,
+        "moveX": 1.35,
         "moveY": 1.5,
         "moveRot": -20,
         "under": true,
