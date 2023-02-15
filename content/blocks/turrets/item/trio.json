@@ -82,13 +82,15 @@
         "suffix": "-back",
         "mirror": true,
         "progress": "warmup",
-        "moveY": 1,
-        "moveRot": -15,
+        "moveX": 1.5,
+        "moveY": 1.5,
+        "moveRot": -20,
         "moves": [
           { 
             "type": "PartMove",
             "progress": "recoil",
-            "moveRot": -20
+            "moveRot": -30,
+            "moveY": -2
           }
         ]
       }
