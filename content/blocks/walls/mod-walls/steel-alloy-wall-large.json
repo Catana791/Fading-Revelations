@@ -8,7 +8,6 @@
     "power": 0.3
   },
   "hasLiquids": false,
-  "liquidBoostIntensity": 0,
   "canOverdrive": false,
   "size": 2,
   "recoil": 0,
@@ -17,13 +16,10 @@
   "shootCone": 360,
   "range": 60,
   "recoilAmount": 0,
-  "shootCone": 360,
   "health": 4200,
   "targetAir": false,
   "targetGround": true,
-  "reloadTime": 90,
-  "shots": 20,
-  "spread": 30,
+  "reload": 90,
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 10,
