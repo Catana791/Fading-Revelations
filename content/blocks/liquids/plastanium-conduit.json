@@ -3,7 +3,6 @@
   "name": "Isolated Conduit",
   "description": "A decently fast conduit made from plastanium.",
   "health": 200,
-  "transportTime": 2,
   "liquidPressure": 2,
   "requirements": [
     {
