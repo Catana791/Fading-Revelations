@@ -23,7 +23,7 @@
   "ammoTypes": {
     "steam": {
       "sprite": "me-wind-blade",
-      "type": "BasicBulleType",
+      "type": "BasicBulletType",
       "lifetime": 72,
       "speed": 3,
       "damage": 0,
