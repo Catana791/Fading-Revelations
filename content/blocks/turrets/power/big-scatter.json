@@ -8,7 +8,7 @@
   "size": 3,
   "inaccuracy": 14,
   "reload": 20,
-  "recoilAmount": 1,
+  "recoil": 1,
   "ammoUseEffect": "casing3",
   "shootCone": 25,
   "maxAmmo": 50,
@@ -74,7 +74,7 @@
         "splashDamage": 8,
         "splashDamageRadius": 5,
         "width": 4,
-        "heigth": 6,
+        "height": 6,
         "hitEffect": "flakExplosion",
         "lifetime": 16
       }
@@ -83,7 +83,7 @@
       "type": "FlakBulletType",
       "speed": 5,
       "lifetime": 55,
-      "collidesTiler": false,
+      "collidesTiles": false,
       "damage": 22,
       "splashDamage": 29,
       "splashDamageRadius": 28,
@@ -103,7 +103,7 @@
         "splashDamage": 4,
         "splashDamageRadius": 8,
         "width": 5,
-        "heigth": 7,
+        "height": 7,
         "hitEffect": "flakExplosion",
       }
     },
