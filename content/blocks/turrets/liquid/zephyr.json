@@ -7,7 +7,7 @@
   "research": "mod-gate-turrets",
   "liquidCapacity": 30,
   "shootSound": "artillery",
-  "reload": 80,
+  "reload": 40,
   "targetAir": true,
   "ammoPerShot": 27,
   "targetGround": true,
@@ -16,10 +16,6 @@
     "copper/80",
     "lead/70"
   ],
-  "shoot": {
-    "shots": 2,
-    "shotDelay": 20
-  },
   "ammoTypes": {
     "steam": {
       "sprite": "me-wind-blade",
