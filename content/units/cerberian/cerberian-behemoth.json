@@ -85,7 +85,6 @@
       "x": 0,
       "y": -40,
       "shake": 11,
-      "range": 380,
       "reload": 720,
       "shoot": {
         "firstShotDelay": 420
