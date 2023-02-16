@@ -74,10 +74,10 @@
         "type": "RegionPart",
         "suffix": "-front",
         "mirror": true,
-        "progress": "warmup",
-        "moveX": -0.16,
+        "progress": "recoil",
+        "moveX": -0.24,
         "moveY": 0.6,
-        "moveRot": -12,
+        "moveRot": -18,
         "under": true,
         "moves": [
           { 
