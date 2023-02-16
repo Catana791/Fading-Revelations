@@ -18,7 +18,7 @@
   ],
   "ammoTypes": {
     "steam": {
-      "smokeEffect": {
+      "shootEffect": {
         "type": "ParticleEffect",
         "particles": 9,
         "cone": 25,
