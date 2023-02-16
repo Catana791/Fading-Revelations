@@ -66,5 +66,28 @@
           "sparkStroke": 1.5
       }
     }
+  },
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "suffix": "-front",
+        "mirror": true,
+        "progress": "warmup",
+        "moveX": -0.16,
+        "moveY": 0.6,
+        "moveRot": -12,
+        "under": true,
+        "moves": [
+          { 
+            "type": "PartMove",
+            "progress": "recoil",
+            "moveRot": -32,
+            "moveY": -2
+          }
+        ]
+      }
+    ]
   }
 }
