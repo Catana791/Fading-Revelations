@@ -18,6 +18,16 @@
   ],
   "ammoTypes": {
     "steam": {
+      "smokeEffect": {
+        "type": "ParticleEffect",
+        "particles": 9,
+        "cone": 25,
+        "length": 12,
+        "sizeFrom": 3,
+        "sizeTo": 1,
+        "colorFrom": "ffffff",
+        "colorTo": "c1c3d4"
+      }
       "sprite": "me-wind-blade",
       "type": "BasicBulletType",
       "lifetime": 72,
