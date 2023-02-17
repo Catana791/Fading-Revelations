@@ -6,7 +6,7 @@
     {
       "type": "RepairFieldAbility", 
       "range": 240, 
-      "amount": 40, 
+      "amount": 10, 
       "reload": 60, 
       "activeEffect": {
         "type": "WaveEffect", 
@@ -119,5 +119,6 @@
       {"item": "titanium", "amount": 5000},
       {"item": "thorium", "amount": 2000}
     ]
-  }
+  },
+  "hitSize": 30
 }
