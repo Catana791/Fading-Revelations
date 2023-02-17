@@ -100,11 +100,13 @@
     },
     {
       "type": "BuildWeapon",
+      "name": "building-weapon",
       "x": -20,
       "y": -20
     },
     {
       "type": "BuildWeapon",
+      "name": "building-weapon",
       "x": 20,
       "y": -20
     }
