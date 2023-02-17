@@ -32,8 +32,11 @@
     "type": "WaveEffect",
     "sizeFrom": 0,
     "sizeTo": 900,
+    "strokeFrom": 1,
+    "strokeTo": 1.4,
     "colorFrom": "e5ed2c",
-    "colorTo": "cfd712"
+    "colorTo": "cfd712",
+    "lifetime": 45
   },
   "category": "turret",
   "research": "kugelblitz",
