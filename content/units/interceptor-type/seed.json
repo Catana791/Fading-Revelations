@@ -61,5 +61,6 @@
       {"item": "lead", "amount": 300},
       {"item": "silicon", "amount": 200}
     ]
-  }
+  },
+  "hitSize": 8
 }
