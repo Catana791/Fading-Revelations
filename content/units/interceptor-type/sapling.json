@@ -98,5 +98,6 @@
       {"item": "silicon", "amount": 1000},
       {"item": "titanium", "amount": 600}
     ]
-  }
+  },
+  "hitSize": 14
 }
