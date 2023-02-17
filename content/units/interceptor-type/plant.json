@@ -101,16 +101,6 @@
     {
       "type": "BuildWeapon",
       "x": -20,
-      "y": 20
-    },
-    {
-      "type": "BuildWeapon",
-      "x": 20,
-      "y": 20
-    },
-    {
-      "type": "BuildWeapon",
-      "x": -20,
       "y": -20
     },
     {
