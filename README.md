@@ -46,7 +46,7 @@ extends **[Mindustry]** in fun ways while keeping it balanced. <br>
 
 A huge content extension mod!
 
--   `160+`  Blocks
+-   `180+`  Blocks
 
 -   Custom Schematics
 
@@ -55,7 +55,7 @@ A huge content extension mod!
 -   Distribute items across the map with <br>
     little effort using the outpost block.
 
--   Many Units  *( Some Upgradable )*
+-   Lots of units
 
 -   `2`  Larger Core Blocks
 
