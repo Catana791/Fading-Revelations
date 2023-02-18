@@ -5,10 +5,7 @@
   "targetAir": true,
   "targetGround": true,
   "shoot": {
-    "type": "ShootAlternate",
-    "shots": 21,
-    "spread": 3,
-    "shotDelay": 0
+    "shots": 21
   },
   "drawer": {
     "type": "DrawTurret",
@@ -33,7 +30,16 @@
   "range": 293,
   "ammoTypes":{
     "ammo-level-1": {
-    "type": "BasicBulletType",
+    "type": "MissileBulletType",
+    "height": 12,
+    "width": 12,
+    "lightColor": "d99d73",
+    "frontColor": "ffffff",
+    "backColor": "d99d73",
+    "trailColor": "d99d73",
+    "trailChance": -1,
+    "trailWidth": 3,
+    "trailLength": 20,
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
@@ -41,6 +47,8 @@
 		"fragBullets": 10,
 		"fragBullet":{
 		  "type": "BasicBulletType",
+      "frontColor": "ffffff",
+      "backColor": "d99d73",
 		  "speed": 3,
 		  "damage": 15, 
   		"lifetime": 45,
@@ -48,7 +56,16 @@
       }
     },
     "ammo-level-2": {
-    "type": "BasicBulletType",
+    "type": "MissileBulletType",
+    "height": 12,
+    "width": 12,
+    "lightColor": "7575c8",
+    "frontColor": "ffffff",
+    "backColor": "7575c8",
+    "trailColor": "7575c8",
+    "trailChance": -1,
+    "trailWidth": 3,
+    "trailLength": 20,
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
@@ -58,6 +75,8 @@
       "pierceCap": 4,
 		"fragBullet":{
 		  "type": "BasicBulletType",
+      "frontColor": "ffffff",
+      "backColor": "7575c8",
 		  "speed": 3,
 		  "damage": 20, 
   		"lifetime": 45,
@@ -67,7 +86,16 @@
       }
     },
     "ammo-level-3": {
-    "type": "BasicBulletType",
+    "type": "MissileBulletType",
+    "height": 12,
+    "width": 12,
+    "lightColor": "c85c51",
+    "frontColor": "ffffff",
+    "backColor": "c85c51",
+    "trailColor": "c85c51",
+    "trailChance": -1,
+    "trailWidth": 3,
+    "trailLength": 20,
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
@@ -77,6 +105,8 @@
 		"fragBullets": 10,
 		"fragBullet":{
 		  "type": "BasicBulletType",
+      "frontColor": "ffffff",
+      "backColor": "c85c51",
 		  "speed": 3,
       "status": "blasted",
       "statusDuration": 60,
@@ -86,7 +116,16 @@
       }
     },
     "nano-ammo": {
-         "type": "BasicBulletType",
+     "type": "MissileBulletType",
+    "height": 12,
+    "width": 12,
+    "lightColor": "570047",
+    "frontColor": "ffffff",
+    "backColor": "570047",
+    "trailColor": "570047",
+    "trailChance": -1,
+    "trailWidth": 3,
+    "trailLength": 20,
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
@@ -94,6 +133,8 @@
 		"fragBullets": 10,
 		"fragBullet":{
 		  "type": "BasicBulletType",
+      "frontColor": "ffffff",
+      "backColor": "570047",
 		  "speed": 3,
 		  "status": "melting",
 		  "statusDuration": 8000000,
@@ -103,7 +144,16 @@
       }
     },
     "living-steel": {
-         "type": "BasicBulletType",
+     "type": "MissileBulletType",
+    "height": 12,
+    "width": 12,
+    "lightColor": "8c0291",
+    "frontColor": "ffffff",
+    "backColor": "8c0291",
+    "trailColor": "8c0291",
+    "trailChance": -1,
+    "trailWidth": 3,
+    "trailLength": 20,
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
@@ -113,6 +163,8 @@
       "statusDuration": 60,
 		"fragBullet":{
 		  "type": "BasicBulletType",
+      "frontColor": "ffffff",
+      "backColor": "8c0291",
 		  "speed": 3,
 		  "damage": 10,
 		  "status": "slow",
@@ -124,7 +176,16 @@
       }
     },
     "steel-alloy": {
-         "type": "BasicBulletType",
+     "type": "MissileBulletType",
+    "height": 12,
+    "width": 12,
+    "lightColor": "ba6a83",
+    "frontColor": "ffffff",
+    "backColor": "ba6a83",
+    "trailColor": "ba6a83",
+    "trailChance": -1,
+    "trailWidth": 3,
+    "trailLength": 20,
 		"speed": 2,
 		"lifetime": 140,
 		"collides": true,
@@ -137,6 +198,8 @@
       "statusDuration": 60,
 		"fragBullet":{
 		  "type": "BasicBulletType",
+      "frontColor": "ffffff",
+      "backColor": "ba6a83",
 		  "speed": 3,
 		  "damage": 14,
   		"lifetime": 45,
