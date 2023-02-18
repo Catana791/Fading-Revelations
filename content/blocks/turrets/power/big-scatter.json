@@ -23,8 +23,7 @@
         "mirror": true,
         "progress": "warmup",
         "under": true,
-        "moveRot": -20
-        "moveY": -4
+        "moveRot": -10
       }
     ]
   }
