@@ -20,7 +20,7 @@
       "surge-alloy/150"
     ],
     "shootSound": "laserbig",
-    "loopSound": "beam",
+    "loopSound": "me-gas-torch-burn",
     "loopSoundVolume": 1.6,
     "coolantMultiplier": 0.5,
     "consumes": {
