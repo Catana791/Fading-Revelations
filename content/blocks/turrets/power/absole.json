@@ -1,7 +1,7 @@
 {
     "type": "LaserTurret",
     "name": "Absole",
-    "description": "A powerful turret that shoots fragging electric shells, heaps of lightning and homing electric missiles.",
+    "description": "A powerful turret that banishes enemies with highly concentrated lasers which inflict the High Energy Burn status effect.",
     "size": 4,
     "reload": 120,
     "shootWarmupSpeed": 0.025,
