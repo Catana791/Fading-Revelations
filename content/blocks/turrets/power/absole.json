@@ -47,7 +47,9 @@
           "lifetime": 180,
           "lightningDamage": 400,
           "width": 20,
-          "lightningColor": "f3e979"
+          "lightningColor": "f3e979",
+          "homingPower": 1,
+          "homingRange": 350
         }
       ],
       "type": "LightningBulletType",
@@ -55,6 +57,8 @@
       "lifetime": 180,
       "lightningDamage": 400,
       "width": 20,
-      "lightningColor": "f3e979"
+      "lightningColor": "f3e979",
+          "homingPower": 1,
+          "homingRange": 350
     }
   }
