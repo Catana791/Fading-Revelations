@@ -5,7 +5,6 @@
     "size": 4,
     "reload": 180,
     "shootDuration": 240,
-    "inaccuracy": 3,
     "category": "turret",
     "shootEffect": "shootBigSmoke2",
     "research": "big-segment",
@@ -36,28 +35,14 @@
           "suffix": "-laser-unit-l",
           "progress": "warmup",
           "moveX": -20,
-          "moveY": -2,
-          "moves": [
-            {
-              "type": "PartMove",
-              "progress": "recoil",
-              "moveY": -7
-            }
-          ]
+          "moveY": -2
         },
         {
           "type": "RegionPart",
           "mirror": false,
           "suffix": "-laser-unit-r",
           "moveX": 20,
-          "moveY": -2,
-          "moves": [
-            {
-              "type": "PartMove",
-              "progress": "recoil",
-              "moveY": -7
-            }
-          ]
+          "moveY": -2
         }
       ]
     },
@@ -74,9 +59,7 @@
       "shots": 3
     }
     "shake": 3,
-    "shootY": 4,
     "heatColor": "ff0000",
-    "recoil": 4,
     "cooldownTime": 50,
     "range": 350,
     "shootCone": 20,
