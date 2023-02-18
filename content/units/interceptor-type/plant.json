@@ -31,8 +31,7 @@
       "effect": {
         "name": "me-super-hastened",
         "localizedName": "Super Hastened",
-        "speedMultiplier": 2,
-        "reloadMultiplier": 1.6,
+        "reloadMultiplier": 2.2,
         "alwaysUnlocked": true
       }
     }
