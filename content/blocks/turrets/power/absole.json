@@ -3,7 +3,7 @@
     "name": "Absole",
     "description": "A powerful turret that shoots fragging electric shells, heaps of lightning and homing electric missiles.",
     "size": 4,
-    "reload": 180,
+    "reload": 60,
     "shootDuration": 240,
     "category": "turret",
     "shootEffect": "shootBigSmoke2",
@@ -52,8 +52,8 @@
       "type": "ShootBarrel",
       "barrels": [
         0, 2, 0,
-        -10, -5, 0,
-        10, -5, 0
+        -10, -5, 5,
+        10, -5, -5
       ],
       "barrelOffset": 1,
       "firstShotDelay": 30,
