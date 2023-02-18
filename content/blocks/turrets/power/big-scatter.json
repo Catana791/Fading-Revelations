@@ -25,7 +25,7 @@
         "progress": "recoil",
         "moveY": -2,
         "moveX": -2,
-        "moveRot": 15
+        "moveRot": -15
       }
     ]
   }
