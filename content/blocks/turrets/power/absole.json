@@ -60,7 +60,8 @@
       ],
       "barrelOffset": 1,
       "shotDelay": 15,
-      "shots": 3
+      "shots": 3,
+      "firstShotDelay": 60
     }
     "shake": 3,
     "heatColor": "ff0000",
@@ -72,6 +73,7 @@
     "targetAir": true,
     "targetGround": true,
     "shootType": {
+      "chargeSound": "me-energy-charge",
       "type": "ContinuousFlameBulletType",
       "colors": ["d99f6b", "e8d174", "fcf387", "fffab8", "ffffff"],
       "flareColor": "e8d174",
