@@ -10,6 +10,20 @@
     "spread": 3,
     "shotDelay": 0
   },
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "suffix": "-horn",
+        "mirror": true,
+        "under": true,
+        "progress": "recoil",
+        "moveY": -5,
+        "moveRot": -16
+      }
+    ]
+  },
   "reload": 240,
   "recoil": 6,
   "inaccuracy": 0,
