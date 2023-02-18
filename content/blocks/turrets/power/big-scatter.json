@@ -22,13 +22,15 @@
         "suffix": "-side",
         "mirror": true,
         "under": true,
-        "progress": "recoil",
-        "moveRot": -15
+        "progress": "warmup",
+        "moveRot": -20
       }
     ]
   }
   "shoot": {
-    "shots": 3
+    "shots": 3,
+    "shotDelay": 2,
+    "firstShotDelay": 10
   },
   "consumes": {
     "coolant": {
