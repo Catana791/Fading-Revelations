@@ -20,19 +20,5 @@
     {"item": "phase-fabric", "amount": 60}
   ],
   "category": "turret",
-  "research": "status-wave",
-  "drawer": {
-    "type": "DrawTurret",
-    "parts": [
-      {
-        "type": "RegionPart",
-        "suffix": "-side",
-        "mirror": true,
-        "progress": "warmup",
-        "moveX": -3,
-        "moveY": -1,
-        "moveRot": -14
-      }
-    ]
-  }
+  "research": "status-wave"
 }
