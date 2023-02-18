@@ -1,0 +1,16 @@
+{
+          "name": "Radiated",
+          "damage": 0.125,
+          "permanent": true,
+          "alwaysUnlocked": true,
+          "speedMultiplier": 0.9,
+          "reloadMultiplier": 0.9,
+          "healthMultiplier": 0.9,
+          "effect": {
+            "type": "ParticleEffect",
+            "particles": 8,
+            "colorFrom": "30af1f",
+            "colorTo": "328926",
+            "interp": "circleOut"
+          } 
+}
