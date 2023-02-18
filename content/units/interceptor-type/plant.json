@@ -28,12 +28,7 @@
         "colorTo": "eb7e3c"
       },
       "duration": 120,
-      "effect": {
-        "name": "me-super-hastened",
-        "localizedName": "Super Hastened",
-        "reloadMultiplier": 2.2,
-        "alwaysUnlocked": true
-      }
+      "effect": "me-super-hastened"
     }
   ],
   "lowAltitude": true,
