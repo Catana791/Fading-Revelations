@@ -46,7 +46,7 @@
           ]
         },
         {
-          "type": "RegionPart";
+          "type": "RegionPart",
           "mirror": false,
           "suffix": "-laser-unit-r",
           "moveX": 20,
