@@ -19,6 +19,8 @@
   "hasItems": true,
   "loopSound": "crush",
   "loopSoundVolume": 1,
+  "ambientSound": "crush",
+  "ambientSoundVolume": 1,
   "hasLiquids": true,
   "hasPower": true,
   "consumes": {
