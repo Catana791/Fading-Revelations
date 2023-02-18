@@ -6,10 +6,10 @@
   "force": 20,
   "targetAir": true,
   "targetGround": false,
-  "scaledForce": 22,
+  "scaledForce": 10,
   "health": 780,
   "range": 256,
-  "damage": 2,
+  "damage": 0.4,
   "rotateSpeed": 15,
   "hasPower": true,
   "consumes": {
