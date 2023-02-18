@@ -222,7 +222,7 @@
     }
   },
   "category": "turret",
-  "shootSound": "explosion",
+  "shootSound": "crush",
   "research": "sniper",
   "requirements": [
     {
