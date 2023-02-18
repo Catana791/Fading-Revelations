@@ -40,7 +40,7 @@
           "under": true,
           "moveX": -6,
           "moveY": -2,
-          "moveRot": 5
+          "moveRot": 4.5
         },
         {
           "type": "RegionPart",
@@ -49,7 +49,7 @@
           "under": true,
           "moveX": 6,
           "moveY": -2
-          "moveRot": -5
+          "moveRot": -4.5
         }
       ]
     },
@@ -65,7 +65,7 @@
       "shots": 3,
       "firstShotDelay": 110
     }
-    "shake": 3,
+    "shake": 1,
     "heatColor": "ff0000",
     "cooldownTime": 50,
     "range": 350,
@@ -76,6 +76,35 @@
     "targetGround": true,
     "chargeSound": "energy-charge",
     "shootType": {
+      "chargeEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "type": "ParticleEffect",
+            "particles": 8,
+            "colorFrom": "d99f6b",
+            "colorTo": "e8d174",
+            "sizeFrom": 4,
+            "sizeTo": 1,
+            "length": 40,
+            "baseLength": 10,
+            "sizeInterp": "pow2In",
+            "interp": "pow2Out"
+          },
+          {
+            "type": "ParticleEffect",
+            "particles": 8,
+            "colorFrom": "e8d174",
+            "colorTo": "d99f6b",
+            "sizeFrom": 4,
+            "sizeTo": 1,
+            "length": 10,
+            "baseLength": 40,
+            "sizeInterp": "pow2In",
+            "interp": "pow2Out"
+          }
+        ]
+      },
       "type": "ContinuousFlameBulletType",
       "colors": ["d99f6b", "e8d174", "fcf387", "fffab8", "ffffff"],
       "flareColor": "e8d174",
@@ -90,5 +119,5 @@
       "shake": 3,
       "pierceCap": 10,
       "despawnShake": 2
-    }
   }
+}
