@@ -23,8 +23,6 @@
         "mirror": true,
         "under": true,
         "progress": "recoil",
-        "moveY": -2,
-        "moveX": -2,
         "moveRot": -15
       }
     ]
