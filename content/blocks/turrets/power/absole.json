@@ -58,7 +58,6 @@
         12, -5, -5
       ],
       "barrelOffset": 1,
-      "firstShotDelay": 30,
       "shotDelay": 15,
       "shots": 3
     }
