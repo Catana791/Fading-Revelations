@@ -35,7 +35,7 @@
           "suffix": "-laser-unit-l",
           "progress": "warmup",
           "under": true,
-          "moveX": -5,
+          "moveX": -6.5,
           "moveY": -2
         },
         {
@@ -43,7 +43,7 @@
           "mirror": false,
           "suffix": "-laser-unit-r",
           "under": true,
-          "moveX": 5,
+          "moveX": 6.5,
           "moveY": -2
         }
       ]
