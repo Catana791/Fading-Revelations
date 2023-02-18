@@ -24,7 +24,7 @@
         "progress": "warmup",
         "under": true,
         "moveRot": -20
-        "moveY": 4
+        "moveY": -4
       }
     ]
   }
