@@ -20,7 +20,7 @@
       "surge-alloy/150"
     ],
     "shootSound": "laserbig",
-    "loopSound": "me-gas-torch-burn",
+    "loopSound": "gas-torch-burn",
     "loopSoundVolume": 1.6,
     "coolantMultiplier": 0.5,
     "consumes": {
@@ -73,7 +73,7 @@
     "targetAir": true,
     "targetGround": true,
     "shootType": {
-      "chargeSound": "me-energy-charge",
+      "chargeSound": "energy-charge",
       "type": "ContinuousFlameBulletType",
       "colors": ["d99f6b", "e8d174", "fcf387", "fffab8", "ffffff"],
       "flareColor": "e8d174",
