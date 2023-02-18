@@ -14,12 +14,7 @@
     "damage": 0,
     "splashDamage": 1,
     "splashDamageRadius": 640,
-    "status": {
-      "name": "me-shockslowed",
-      "localizedName": "Shock-Slowed",
-      "speedMultiplier": 0.3,
-      "alwaysUnlocked": true
-    },
+    "status": "me-shockslowed",
     "statusDuration": 60
   },
   "rotate": false,
