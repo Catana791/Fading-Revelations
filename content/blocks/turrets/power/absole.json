@@ -72,8 +72,8 @@
     "rotateSpeed": 1.7,
     "targetAir": true,
     "targetGround": true,
+    "chargeSound": "energy-charge",
     "shootType": {
-      "chargeSound": "energy-charge",
       "type": "ContinuousFlameBulletType",
       "colors": ["d99f6b", "e8d174", "fcf387", "fffab8", "ffffff"],
       "flareColor": "e8d174",
