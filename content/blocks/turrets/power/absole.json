@@ -35,7 +35,7 @@
           "suffix": "-laser-unit-l",
           "progress": "warmup",
           "under": true,
-          "moveX": -6.5,
+          "moveX": -6,
           "moveY": -2
         },
         {
@@ -43,7 +43,7 @@
           "mirror": false,
           "suffix": "-laser-unit-r",
           "under": true,
-          "moveX": 6.5,
+          "moveX": 6,
           "moveY": -2
         }
       ]
@@ -52,8 +52,8 @@
       "type": "ShootBarrel",
       "barrels": [
         0, 2, 0,
-        -10, -5, 5,
-        10, -5, -5
+        -12, -5, 5,
+        12, -5, -5
       ],
       "barrelOffset": 1,
       "firstShotDelay": 30,
