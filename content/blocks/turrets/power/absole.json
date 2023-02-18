@@ -1,5 +1,5 @@
 {
-    "type": "ContinuousTurret",
+    "type": "LaserTurret",
     "name": "Absole",
     "description": "A powerful turret that shoots fragging electric shells, heaps of lightning and homing electric missiles.",
     "size": 4,
@@ -81,7 +81,6 @@
       "damage": 120,
       "damageInterval": 20,
       "largeHit": true,
-      "lifetime": 240,
       "shake": 3,
       "pierceCap": 10,
       "despawnShake": 2
