@@ -14,6 +14,21 @@
   "maxAmmo": 50,
   "rotateSpeed": 10,
   "range": 300,
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "suffix": "-side",
+        "mirror": true,
+        "under": true,
+        "progress": "recoil",
+        "moveY": -4,
+        "moveX": -10,
+        "moveRot": -15
+      }
+    ]
+  }
   "shoot": {
     "shots": 3
   },
