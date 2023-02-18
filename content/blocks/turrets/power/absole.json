@@ -120,29 +120,7 @@
       "pierceCap": 10,
       "despawnShake": 2,
       "hitColor": "e8d174",
-      "status": {
-        "name": "me-high-energy-burn",
-        "localizedName": "High Energy Burn",
-        "alwaysUnlocked": true,
-        "applyColor": "e8d174",
-        "color": "e8d174",
-        "damage": 0.4,
-        "effect": {
-          "type": "ParticleEffect",
-          "particles": 8,
-          "sizeFrom": 1,
-          "sizeTo": 2.7,
-          "colorFrom": "e8d174",
-          "colorTo": "fffab8",
-          "line": true,
-          "strokeFrom": 0.6,
-          "strokeTo": 1
-          "interp": "pow2Out"
-          "sizeInterp": "pow2Out"
-        },
-        "affinities": ["wet"],
-        "opposites": ["tarred", "freezing"],
-        "reloadMultiplier": 0.85
-      }
+      "status": "me-high-energy-burn",
+      "statusDuration": 180
   }
 }
