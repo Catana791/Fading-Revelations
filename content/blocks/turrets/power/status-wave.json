@@ -12,7 +12,7 @@
   "shootType": {
     "instantDisappear": true,
     "damage": 0,
-    "splashDamage": 5,
+    "splashDamage": 1,
     "splashDamageRadius": 640,
     "status": {
       "name": "me-shockslowed",
