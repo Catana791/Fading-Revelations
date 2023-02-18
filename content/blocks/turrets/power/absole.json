@@ -39,7 +39,8 @@
           "progress": "warmup",
           "under": true,
           "moveX": -6,
-          "moveY": -2
+          "moveY": -2,
+          "moveRot": 5
         },
         {
           "type": "RegionPart",
@@ -48,6 +49,7 @@
           "under": true,
           "moveX": 6,
           "moveY": -2
+          "moveRot": -5
         }
       ]
     },
@@ -61,7 +63,7 @@
       "barrelOffset": 1,
       "shotDelay": 15,
       "shots": 3,
-      "firstShotDelay": 60
+      "firstShotDelay": 110
     }
     "shake": 3,
     "heatColor": "ff0000",
