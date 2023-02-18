@@ -123,6 +123,7 @@
       "status": {
         "name": "me-high-energy-burn",
         "localizedName": "High Energy Burn",
+        "alwaysUnlocked": true,
         "applyColor": "e8d174",
         "color": "e8d174",
         "damage": 0.4,
