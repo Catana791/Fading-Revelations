@@ -34,14 +34,14 @@
           "mirror": false,
           "suffix": "-laser-unit-l",
           "progress": "warmup",
-          "moveX": -20,
+          "moveX": -5,
           "moveY": -2
         },
         {
           "type": "RegionPart",
           "mirror": false,
           "suffix": "-laser-unit-r",
-          "moveX": 20,
+          "moveX": 5,
           "moveY": -2
         }
       ]
@@ -50,8 +50,8 @@
       "type": "ShootBarrel",
       "barrels": [
         0, 12, 0,
-        -20, -2, 0,
-        20, -2, 0
+        -5, -2, 0,
+        5, -2, 0
       ],
       "barrelOffset": 1,
       "firstShotDelay": 30,
@@ -74,11 +74,10 @@
       "flareLength": 10,
       "flareWidth": 4,
       "flareRotSpeed": 0.6,
-      "width": 16,
+      "width": 2,
       "length": 350,
       "damage": 120,
       "damageInterval": 20,
-      "lifetime": 240,
       "largeHit": true,
       "shake": 3,
       "pierceCap": 10,
