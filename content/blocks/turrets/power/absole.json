@@ -5,7 +5,7 @@
     "size": 4,
     "reload": 120,
     "shootWarmupSpeed": 0.00005,
-    "minWarmup": 1,
+    "minWarmup": 0.99,
     "warmupMaintainTime": 300,
     "shootDuration": 240,
     "category": "turret",
