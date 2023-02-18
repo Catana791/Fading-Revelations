@@ -4,7 +4,7 @@
     "description": "A powerful turret that shoots fragging electric shells, heaps of lightning and homing electric missiles.",
     "size": 4,
     "reload": 120,
-    "shootWarmupSpeed": 0.05,
+    "shootWarmupSpeed": 0.25,
     "minWarmup": 0.99,
     "warmupMaintainTime": 300,
     "shootDuration": 240,
