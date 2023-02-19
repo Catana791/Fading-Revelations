@@ -99,6 +99,8 @@
   },
   "ammoTypes": {
     "living-steel": {
+      "collidesTiles": false,
+      "collidesGround": false,
       "shootEffect": "shootTitan",
       "smokeEffect": "shootSmokeTitan",
       "chargeEffect": {
@@ -162,7 +164,6 @@
       "trailChance": -1,
       "hitColor": "8c0291",
       "homingPower": 0.9,
-      "homingRange": 480,
       "trailLength": 10,
       "trailWidth": 3,
       "fragBullets": 3,
@@ -209,6 +210,8 @@
       },
       "fragBullet": {
         "type": "LaserBulletType",
+        "collidesGround": false,
+        "collidesTiles": false,
         "length": 120,
         "damage": 600,
         "lifetime": 90,
