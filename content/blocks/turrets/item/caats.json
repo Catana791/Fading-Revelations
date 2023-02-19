@@ -24,7 +24,7 @@
       22, 0, 0
     ],
     "shots": 3,
-    "shotDelay": 15,
+    "shotDelay": 1,
     "barrelOffset": 2
   },
   "drawer": {
@@ -123,22 +123,22 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 90,
+            "sizeTo": 70,
             "sides": 3,
             "rotation": 45,
             "lifetime": 60,
-            "strokeFrom": 3,
-            "strokeTo": 4,
+            "strokeFrom": 2,
+            "strokeTo": 3,
             "colorFrom": "9e78dc",
             "colorTo": "8c0291"
           },
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 90,
+            "sizeTo": 70,
             "lifetime": 60,
-            "strokeFrom": 3,
-            "strokeTo": 4,
+            "strokeFrom": 2,
+            "strokeTo": 3,
             "sides": 3,
             "colorFrom": "9e78dc",
             "colorTo": "8c0291"
@@ -146,10 +146,10 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 90,
+            "sizeTo": 70,
             "lifetime": 60,
-            "strokeFrom": 3,
-            "strokeTo": 4,
+            "strokeFrom": 2,
+            "strokeTo": 3,
             "colorFrom": "9e78dc",
             "colorTo": "8c0291"
           }
@@ -157,10 +157,10 @@
       },
       "fragBullet": {
         "type": "LaserBulletType",
-        "length": 80,
+        "length": 120,
         "damage": 60,
         "lifetime": 90,
-        "width": 12,
+        "width": 20,
         "colors": ["6d0071", "8c0291", "9e78dc"]
       }
     }
