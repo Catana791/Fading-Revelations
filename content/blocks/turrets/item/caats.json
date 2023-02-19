@@ -115,5 +115,11 @@
           "sparkStroke": 3
         }
     }
+  },
+  "consumes": {
+    "power": 10,
+    "coolant": {
+      "amount": 2 
+    }
   }
 }
