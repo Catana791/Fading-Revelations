@@ -1,0 +1,7 @@
+{
+  "name": "EMP",
+  "speedMultiplier": 0.4,
+  "damageMultiplier": 0.6,
+  "healthMultiplier": 0.8,
+  "reloadMultiplier": 0.7
+}
