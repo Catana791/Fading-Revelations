@@ -126,23 +126,32 @@
             "sizeTo": 90,
             "sides": 3,
             "rotation": 90,
+            "lifetime": 60,
+            "strokeFrom": 3,
+            "strokeTo": 4,
             "colorFrom": "9e78dc",
-            "colorTo": "ffffff"
+            "colorTo": "8c0291"
           },
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
             "sizeTo": 90,
+            "lifetime": 60,
+            "strokeFrom": 3,
+            "strokeTo": 4,
             "sides": 3,
             "colorFrom": "9e78dc",
-            "colorTo": "ffffff"
+            "colorTo": "8c0291"
           },
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
             "sizeTo": 90,
+            "lifetime": 60,
+            "strokeFrom": 3,
+            "strokeTo": 4,
             "colorFrom": "9e78dc",
-            "colorTo": "ffffff"
+            "colorTo": "8c0291"
           }
         ]
       },
@@ -152,11 +161,11 @@
         "damage": 60,
         "lifetime": 90,
         "width": 12,
-        "colors": ["8c0291", "9e78dc", "ffffff"]
+        "colors": ["6d0071", "8c0291", "9e78dc"]
       }
     }
   },
   "consumes": {
-    "power": 10,
+    "power": 10
   }
 }
