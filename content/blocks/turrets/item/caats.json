@@ -11,6 +11,7 @@
   "range": 480,
   "minWarmup": 0.99,
   "shootSound": "none",
+  "shootSound": "extractLoop",
   "loopSound": "extractLoop",
   "warmupSpeed": 0.00125,
   "warmupMaintainTime": 600,
@@ -18,8 +19,8 @@
     "type": "ShootBarrel",
     "barrels": [
       0, -7, 0,
-      -10, 10, 0
-      10, 10, 0
+      -24, 0, 0
+      24, 0, 0
     ],
     "shots": 6,
     "shootDelay": 2,
@@ -99,8 +100,8 @@
         "backColor": "8c0291",
         "lightRadius": 80,
         "lightOpacity": 0.7,
-        "trailWidth": 12,
-        "trailLength": 60,
+        "trailWidth": 6,
+        "trailLength": 20,
         "trailChance": -1,
         "despawnEffect": "none",
         "despawnHit": true,
