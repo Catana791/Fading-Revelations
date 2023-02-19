@@ -36,12 +36,12 @@
         "hollow": true,
         "x": 0,
         "y": 0,
-        "moveY": -20
+        "moveY": -21,
         "sides": 3,
-        "layer": 51,
+        "layer": 49,
         "color": "6d7dff",
         "colorTo": "5461c5",
-        "radius": 12,
+        "radius": 6,
         "radiusTo": 13,
         "rotateSpeed": 3
       },
@@ -51,12 +51,12 @@
         "hollow": true,
         "x": 0,
         "y": 0
-        "moveY": -20,
-        "layer": 51,
+        "moveY": -21,
+        "layer": 49,
         "sides": 3,
         "color": "6d7dff",
         "colorTo": "5461c5",
-        "radius": 12,
+        "radius": 6,
         "radiusTo": 13,
         "rotateSpeed": -3
       },
