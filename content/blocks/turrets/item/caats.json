@@ -1,0 +1,119 @@
+{
+  "type": "ItemTurret",
+  "name": "CAATS",
+  "description": "Even if the name might sound cute, this is Cerbero's proudest anti-air invention: The Cerberian Anti Air Turret System.",
+  "size": 5,
+  "health": 11375,
+  "reload": 10,
+  "range": 480,
+  "minWarmup": 0.99
+  "warmupSpeed": 0.0125,
+  "warmupMaintainTime": 600,
+  "shoot": {
+    "type": "ShootBarrel",
+    "barrels": [
+      0, -7, 0,
+      -10, 10, 0
+      10, 10, 0
+    ],
+    "shots": 6,
+    "shootDelay": 2,
+    "barrelOfset": 1
+  },
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "suffix": "-body",
+        "mirror": true,
+        "under": false,
+        "progress": "warmup",
+        "moveX": -25,
+        "moveY": -1,
+        "moveRot": -5
+      },
+      {
+        "type": "RegionPart", 
+        "suffix": "-blade",
+        "mirror": true,
+        "under": true,
+        "progress": "warmup",
+        "moveX": -10,
+        "moveY": 5,
+        "moveRot": 0,
+        "moves": [
+          {
+            "type": "PartMove",
+            "progress": "recoil",
+            "moveRot": -10,
+            "moveY": -2
+          }
+        ]
+      }
+    ]
+  },
+  "ammoTypes": {
+    "living-steel": {
+      "spawnBullets": [
+        {
+          "type": "BasicBulletType",
+          "sprite": "me-liquid-vortex",
+          "frontColor": "ffffff",
+          "backColor": "8c0291",
+          "spin": 8,
+          "homingPower": 1,
+          "homingDelay": 60,
+          "damage": 1100,
+          "splashDamage": 1100,
+          "splashDamageRadius": 80,
+          "speed": 6,
+          "lifetime": 90,
+          "status": "me-emp",
+          "statusDuration": 240
+        }
+      ],
+      "type": "MissileBulletType",
+        "speed": 6,
+        "damage": 1100,
+        "splashDamage": 1100,
+        "splashDamageRadius": 80,
+        "homingDelay": 60,
+        "lifetime": 90,
+        "homingPower": 1,
+        "weaveMag": 4,
+        "weaveScale": 4,
+        "shootEffect": "shootSmall",
+        "frontColor": "ffffff",
+        "hitSound": "none",
+        "width": 28,
+        "height": 36,
+        "lightColor": "8c0291",
+        "trailColor": "8c0291",
+        "backColor": "8c0291",
+        "lightRadius": 80,
+        "lightOpacity": 0.7,
+        "trailWidth": 12,
+        "trailLength": 60,
+        "trailChance": -1,
+        "despawnEffect": "none",
+        "despawnHit": true,
+        "status": "me-emp",
+        "statusDuration": 240,
+        "hitEffect": {
+          "type": "ExplosionEffect",
+          "lifetime": 40,
+          "waveStroke": 2.6,
+          "waveColor": "8c0291",
+          "sparkColor": "8c0291",
+          "waveRad": 40,
+          "smokeSize": 0,
+          "smokeSizeBase": 0,
+          "sparks": 12,
+          "sparkRad": 35,
+          "sparkLen": 9,
+          "sparkStroke": 3
+        }
+    }
+  }
+}
