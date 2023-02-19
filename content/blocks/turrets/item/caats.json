@@ -162,7 +162,7 @@
         "damage": 600,
         "lifetime": 90,
         "width": 20,
-        "colors": ["6d0071", "8c0291", "9e78dc"]
+        "colors": ["8c0291", "9e78dc", "ffffff"]
       }
     }
   },
