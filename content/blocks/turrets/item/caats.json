@@ -103,10 +103,10 @@
             {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 30,
+            "sizeTo": 18,
             "sides": 3,
             "rotation": 45,
-            "lifetime": 110,
+            "lifetime": 115,
             "strokeFrom": 2,
             "strokeTo": 3,
             "colorFrom": "6d7dff",
@@ -116,8 +116,8 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 30,
-            "lifetime": 110,
+            "sizeTo": 18,
+            "lifetime": 115,
             "strokeFrom": 2,
             "strokeTo": 3,
             "sides": 3,
@@ -128,7 +128,7 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 30,
+            "sizeTo": 20,
             "lifetime": 110,
             "strokeFrom": 2,
             "strokeTo": 3,
