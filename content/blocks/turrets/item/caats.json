@@ -30,7 +30,7 @@
     ],
     "shots": 3,
     "shotDelay": 10,
-    "barrelOffset": 2,
+    "barrelOffset": 1,
     "firstShotDelay": 120
   },
   "drawer": {
@@ -149,8 +149,8 @@
       "width": 20,
       "speed": 6,
       "lifetime": 90,
-      "damage": 1000,
-      "splashDamage": 1000,
+      "damage": 1500,
+      "splashDamage": 800,
       "splashDamageRadius": 80,
       "frontColor": "9e78dc",
       "backColor": "6d0071",
