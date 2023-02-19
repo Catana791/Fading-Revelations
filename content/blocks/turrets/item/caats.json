@@ -13,8 +13,7 @@
   "reload": 120,
   "range": 480,
   "minWarmup": 0.99,
-  "shootSound": "none",
-  "shootSound": "malignShoot",
+  "shootSound": "largeCannon",
   "shootWarmupSpeed": 0.022,
   "warmupMaintainTime": 600,
   "shoot": {
@@ -24,8 +23,8 @@
       -22, 0, 0
       22, 0, 0
     ],
-    "shots": 6,
-    "shotDelay": 10,
+    "shots": 3,
+    "shotDelay": 15,
     "barrelOffset": 2
   },
   "drawer": {
@@ -94,9 +93,9 @@
   "ammoTypes": {
     "living-steel": {
       "type": "MissileBulletType",
-      "height": 10,
+      "height": 30,
       "pierce": false,
-      "width": 8,
+      "width": 24,
       "speed": 6,
       "lifetime": 90,
       "damage": 100,
@@ -124,20 +123,26 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 40,
+            "sizeTo": 90,
             "sides": 3,
-            "rotation": 90
+            "rotation": 90,
+            "colorFrom": "9e78dc",
+            "colorTo": "ffffff"
           },
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 40,
+            "sizeTo": 90,
             "sides": 3,
+            "colorFrom": "9e78dc",
+            "colorTo": "ffffff"
           },
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 40
+            "sizeTo": 90,
+            "colorFrom": "9e78dc",
+            "colorTo": "ffffff"
           }
         ]
       },
@@ -146,7 +151,7 @@
         "length": 80,
         "damage": 60,
         "lifetime": 90,
-        "width": 4,
+        "width": 12,
         "colors": ["8c0291", "9e78dc", "ffffff"]
       }
     }
