@@ -13,7 +13,7 @@
   "reload": 90,
   "range": 480,
   "minWarmup": 0.99,
-  "moveWhileCharging": true,
+  "moveWhileCharging": false,
   "accurateDelay": false,
   "shootSound": "largeCannon",
   "shootWarmupSpeed": 0.05,
@@ -98,6 +98,7 @@
     "living-steel": {
       "chargeEffect": {
         "type": "MultiEffect",
+        "lifetime": 110,
         "effects": [
             {
             "type": "WaveEffect",
@@ -105,11 +106,12 @@
             "sizeTo": 70,
             "sides": 3,
             "rotation": 45,
-            "lifetime": 60,
+            "lifetime": 110,
             "strokeFrom": 2,
             "strokeTo": 3,
             "colorFrom": "6d7dff",
-            "colorTo": "5461c5"
+            "colorTo": "5461c5",
+            "layer": 49
           },
           {
             "type": "WaveEffect",
@@ -120,7 +122,8 @@
             "strokeTo": 3,
             "sides": 3,
             "colorFrom": "6d7dff",
-            "colorTo": "5461c5"
+            "colorTo": "5461c5",
+            "layer": 49
           },
           {
             "type": "WaveEffect",
@@ -130,7 +133,8 @@
             "strokeFrom": 2,
             "strokeTo": 3,
             "colorFrom": "6d7dff",
-            "colorTo": "5461c5"
+            "colorTo": "5461c5",
+            "layer": 49
           }
         ]
       },
@@ -166,7 +170,7 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 70,
+            "sizeTo": 30,
             "sides": 3,
             "rotation": 45,
             "lifetime": 60,
@@ -178,7 +182,7 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 70,
+            "sizeTo": 30,
             "lifetime": 60,
             "strokeFrom": 2,
             "strokeTo": 3,
@@ -189,7 +193,7 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 70,
+            "sizeTo": 30,
             "lifetime": 60,
             "strokeFrom": 2,
             "strokeTo": 3,
