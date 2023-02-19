@@ -96,6 +96,48 @@
   },
   "ammoTypes": {
     "living-steel": {
+      "shootEffect": {
+        "type": "MultiEffect",
+        "lifetime": 60,
+        "effects": [
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 6,
+            "sizeTo": 0,
+            "sides": 3,
+            "strokeFrom": 0.4,
+            "strokeTo": 0.1,
+            "lifetime": 60,
+            "layer": 49,
+            "colorFrom": "8c0291",
+            "colorTo": "9e78dc",
+            "rotation": 30
+          },
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 6,
+            "sizeTo": 0,
+            "sides": 3,
+            "strokeFrom": 0.4,
+            "strokeTo": 0.1,
+            "lifetime": 60,
+            "layer": 49,
+            "colorFrom": "8c0291",
+            "colorTo": "9e78dc",
+          },
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 6,
+            "sizeTo": 0,
+            "strokeFrom": 0.4,
+            "strokeTo": 0.1,
+            "lifetime": 60,
+            "layer": 49,
+            "colorFrom": "8c0291",
+            "colorTo": "9e78dc",
+          }
+        ]
+      }
       "chargeEffect": {
         "type": "MultiEffect",
         "lifetime": 110,
@@ -105,7 +147,7 @@
             "sizeFrom": 2,
             "sizeTo": 18,
             "sides": 3,
-            "rotation": 45,
+            "rotation": 30,
             "lifetime": 115,
             "strokeFrom": 1,
             "strokeTo": 1.5,
@@ -172,7 +214,7 @@
             "sizeFrom": 2,
             "sizeTo": 70,
             "sides": 3,
-            "rotation": 45,
+            "rotation": 30,
             "lifetime": 60,
             "strokeFrom": 2,
             "strokeTo": 3,
