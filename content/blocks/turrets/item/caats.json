@@ -19,7 +19,7 @@
   "shootWarmupSpeed": 0.05,
   "warmupMaintainTime": 600,
   "chargeSound": "lasercharge",
-  "soundPitchMin": 0.8,
+  "soundPitchMin": 0.7,
   "soundPitchMax": 0.9,
   "shoot": {
     "type": "ShootBarrel",
@@ -98,48 +98,8 @@
   },
   "ammoTypes": {
     "living-steel": {
-      "shootEffect": {
-        "type": "MultiEffect",
-        "lifetime": 60,
-        "effects": [
-          {
-            "type": "WaveEffect",
-            "sizeFrom": 6,
-            "sizeTo": 0,
-            "sides": 3,
-            "strokeFrom": 0.4,
-            "strokeTo": 0.1,
-            "lifetime": 60,
-            "layer": 49,
-            "colorFrom": "8c0291",
-            "colorTo": "9e78dc",
-            "rotation": 30
-          },
-          {
-            "type": "WaveEffect",
-            "sizeFrom": 6,
-            "sizeTo": 0,
-            "sides": 3,
-            "strokeFrom": 0.4,
-            "strokeTo": 0.1,
-            "lifetime": 60,
-            "layer": 49,
-            "colorFrom": "8c0291",
-            "colorTo": "9e78dc",
-          },
-          {
-            "type": "WaveEffect",
-            "sizeFrom": 6,
-            "sizeTo": 0,
-            "strokeFrom": 0.4,
-            "strokeTo": 0.1,
-            "lifetime": 60,
-            "layer": 49,
-            "colorFrom": "8c0291",
-            "colorTo": "9e78dc",
-          }
-        ]
-      }
+      "shootEffect": "shootTitan",
+      "smokeEffect": "shootSmokeTitan",
       "chargeEffect": {
         "type": "MultiEffect",
         "lifetime": 110,
