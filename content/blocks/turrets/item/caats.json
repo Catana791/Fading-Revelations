@@ -33,7 +33,7 @@
         "mirror": true,
         "under": false,
         "progress": "warmup",
-        "moveX": -25,
+        "moveX": 25,
         "moveY": -1,
         "moveRot": -5
       },
@@ -43,7 +43,7 @@
         "mirror": true,
         "under": true,
         "progress": "warmup",
-        "moveX": -10,
+        "moveX": 10,
         "moveY": 5,
         "moveRot": 0,
         "moves": [
