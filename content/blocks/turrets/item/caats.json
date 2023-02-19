@@ -35,6 +35,7 @@
   },
   "drawer": {
     "type": "DrawTurret",
+    "basePrefix": "-cerberian",
     "parts": [
       {
         "type": "ShapePart",
