@@ -36,16 +36,14 @@
         "hollow": true,
         "x": 0,
         "y": 0,
-        "moveY": -21,
+        "moveY": -24,
         "sides": 3,
         "layer": 49,
         "color": "6d7dff",
         "colorTo": "5461c5",
         "radius": 6,
-        "radiusTo": 13,
-        "rotateSpeed": 1.5,
-        "stroke": 3,
-        "strokeTo": 4
+        "radiusTo": 7,
+        "rotateSpeed": 1.5
       },
       {
         "type": "ShapePart",
@@ -53,51 +51,15 @@
         "hollow": true,
         "x": 0,
         "y": 0
-        "moveY": -21,
+        "moveY": -24,
         "layer": 49,
         "sides": 3,
         "color": "6d7dff",
         "colorTo": "5461c5",
         "radius": 6,
-        "radiusTo": 13,
-        "rotateSpeed": -1.5,
-        "stroke": 3,
-        "strokeTo": 4
+        "radiusTo": 7,
+        "rotateSpeed": -1.5
       },
-      {
-        "type": "ShapePart",
-        "progress": "warmup",
-        "hollow": true,
-        "x": 0,
-        "y": 0
-        "moveY": -21,
-        "layer": 49,
-        "sides": 5,
-        "color": "6d7dff",
-        "colorTo": "5461c5",
-        "radius": 4,
-        "radiusTo": 6,
-        "rotateSpeed": -1.5,
-        "stroke": 1,
-        "strokeTo": 2
-      },
-      {
-        "type": "ShapePart",
-        "progress": "warmup",
-        "hollow": true,
-        "x": 0,
-        "y": 0
-        "moveY": -21,
-        "layer": 49,
-        "sides": 5,
-        "color": "6d7dff",
-        "colorTo": "5461c5",
-        "radius": 4,
-        "radiusTo": 6,
-        "rotateSpeed": 1.5,
-        "stroke": 1,
-        "strokeTo": 2
-      }
       {
         "type": "RegionPart",
         "suffix": "-body",
