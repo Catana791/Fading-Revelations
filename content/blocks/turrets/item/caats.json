@@ -19,6 +19,7 @@
   "shootWarmupSpeed": 0.05,
   "warmupMaintainTime": 600,
   "chargeSound": "lasercharge",
+  "soundPitchMin": 0.1,
   "shoot": {
     "type": "ShootBarrel",
     "barrels": [
