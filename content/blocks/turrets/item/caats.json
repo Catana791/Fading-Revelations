@@ -14,7 +14,7 @@
   "minWarmup": 0.99,
   "shootSound": "none",
   "shootSound": "malignShoot",
-  "shootWarmupSpeed": 0.0125,
+  "shootWarmupSpeed": 0.022,
   "warmupMaintainTime": 600,
   "shoot": {
     "type": "ShootBarrel",
@@ -35,8 +35,10 @@
         "progress": "warmup",
         "hollow": true,
         "x": 0,
-        "y": -20,
+        "y": 0,
+        "moveY": -20
         "sides": 3,
+        "layer": 51,
         "color": "6d7dff",
         "colorTo": "5461c5",
         "radius": 12,
@@ -48,7 +50,9 @@
         "progress": "warmup",
         "hollow": true,
         "x": 0,
-        "y": -20,
+        "y": 0
+        "moveY": -20,
+        "layer": 51,
         "sides": 3,
         "color": "6d7dff",
         "colorTo": "5461c5",
