@@ -14,22 +14,48 @@
   "minWarmup": 0.99,
   "shootSound": "none",
   "shootSound": "malignShoot",
-  "warmupSpeed": 0.00125,
+  "shootWarmupSpeed": 0.0125,
   "warmupMaintainTime": 600,
   "shoot": {
     "type": "ShootBarrel",
     "barrels": [
       0, -7, 0,
-      -24, 0, 0
-      24, 0, 0
+      -22, 0, 0
+      22, 0, 0
     ],
     "shots": 6,
-    "shootDelay": 2,
-    "barrelOfset": 1
+    "shotDelay": 2,
+    "barrelOffset": 1
   },
   "drawer": {
     "type": "DrawTurret",
     "parts": [
+      {
+        "type": "ShapePart",
+        "progress": "warmup",
+        "hollow": true,
+        "x": 0,
+        "y": -20,
+        "sides": 3,
+        "color": "6d7dff",
+        "colorTo": "5461c5",
+        "radius": 12,
+        "radiusTo": 13,
+        "rotateSpeed": 3
+      },
+      {
+        "type": "ShapePart",
+        "progress": "warmup",
+        "hollow": true,
+        "x": 0,
+        "y": -20,
+        "sides": 3,
+        "color": "6d7dff",
+        "colorTo": "5461c5",
+        "radius": 12,
+        "radiusTo": 13,
+        "rotateSpeed": -3
+      },
       {
         "type": "RegionPart",
         "suffix": "-body",
@@ -71,8 +97,8 @@
           "spin": 8,
           "homingPower": 1,
           "homingDelay": 60,
-          "damage": 1100,
-          "splashDamage": 1100,
+          "damage": 110,
+          "splashDamage": 110,
           "splashDamageRadius": 80,
           "speed": 6,
           "lifetime": 90,
@@ -81,10 +107,12 @@
         }
       ],
       "type": "MissileBulletType",
+        "shootEffect": "shootBig2",
+        "smokeEffect": "shootBigSmoke",
         "ammoMultiplier": 200,
         "speed": 6,
-        "damage": 1100,
-        "splashDamage": 1100,
+        "damage": 110,
+        "splashDamage": 110,
         "splashDamageRadius": 80,
         "homingDelay": 60,
         "lifetime": 90,
