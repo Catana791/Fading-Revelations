@@ -1,5 +1,5 @@
 {
-  "type": "ContinuousTurret",
+  "type": "ItemTurret",
   "name": "CAATS",
   "description": "Even if the name might sound cute, this is Cerbero's proudest anti-air invention: The Cerberian Anti Air Turret System.",
   "size": 5,
@@ -11,8 +11,7 @@
   "range": 480,
   "minWarmup": 0.99,
   "shootSound": "none",
-  "shootSound": "extractLoop",
-  "loopSound": "extractLoop",
+  "shootSound": "malignShoot",
   "warmupSpeed": 0.00125,
   "warmupMaintainTime": 600,
   "shoot": {
