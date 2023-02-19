@@ -13,9 +13,12 @@
   "reload": 90,
   "range": 480,
   "minWarmup": 0.99,
+  "moveWhileCharging": true,
+  "accurateDelay": false,
   "shootSound": "largeCannon",
-  "shootWarmupSpeed": 0.022,
+  "shootWarmupSpeed": 0.05,
   "warmupMaintainTime": 600,
+  "chargeSound": "lasercharge",
   "shoot": {
     "type": "ShootBarrel",
     "barrels": [
@@ -25,7 +28,8 @@
     ],
     "shots": 3,
     "shotDelay": 10,
-    "barrelOffset": 2
+    "barrelOffset": 2,
+    "firstShotDelay": 120
   },
   "drawer": {
     "type": "DrawTurret",
@@ -92,6 +96,44 @@
   },
   "ammoTypes": {
     "living-steel": {
+      "chargeEffect": {
+        "type": "MultiEffect",
+        "effects": [
+            {
+            "type": "WaveEffect",
+            "sizeFrom": 2,
+            "sizeTo": 70,
+            "sides": 3,
+            "rotation": 45,
+            "lifetime": 60,
+            "strokeFrom": 2,
+            "strokeTo": 3,
+            "colorFrom": "6d7dff",
+            "colorTo": "5461c5"
+          },
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 2,
+            "sizeTo": 70,
+            "lifetime": 60,
+            "strokeFrom": 2,
+            "strokeTo": 3,
+            "sides": 3,
+            "colorFrom": "6d7dff",
+            "colorTo": "5461c5"
+          },
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 2,
+            "sizeTo": 70,
+            "lifetime": 60,
+            "strokeFrom": 2,
+            "strokeTo": 3,
+            "colorFrom": "6d7dff",
+            "colorTo": "5461c5"
+          }
+        ]
+      },
       "type": "MissileBulletType",
       "sprite": "me-aa-missile",
       "height": 40,
@@ -103,7 +145,7 @@
       "splashDamage": 1000,
       "splashDamageRadius": 80,
       "frontColor": "9e78dc",
-      "backColor": "8c0291",
+      "backColor": "6d0071",
       "trailColor": "9e78dc",
       "lightColor": "8c0291",
       "lightOpacity": 0.7,
