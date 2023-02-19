@@ -10,7 +10,7 @@
   "targetGround": false,
   "maxAmmo": 1000,
   "health": 11375,
-  "reload": 120,
+  "reload": 90,
   "range": 480,
   "minWarmup": 0.99,
   "shootSound": "largeCannon",
@@ -24,7 +24,7 @@
       22, 0, 0
     ],
     "shots": 3,
-    "shotDelay": 1,
+    "shotDelay": 10,
     "barrelOffset": 2
   },
   "drawer": {
@@ -99,8 +99,8 @@
       "width": 20,
       "speed": 6,
       "lifetime": 90,
-      "damage": 100,
-      "splashDamage": 100,
+      "damage": 1000,
+      "splashDamage": 1000,
       "splashDamageRadius": 80,
       "frontColor": "9e78dc",
       "backColor": "8c0291",
@@ -159,7 +159,7 @@
       "fragBullet": {
         "type": "LaserBulletType",
         "length": 120,
-        "damage": 60,
+        "damage": 600,
         "lifetime": 90,
         "width": 20,
         "colors": ["6d0071", "8c0291", "9e78dc"]
