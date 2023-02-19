@@ -118,20 +118,11 @@
       "fragSpread": 120,
       "fragBullet": {
         "type": "LaserBulletType",
-        "length": 160,
+        "length": 80,
         "damage": 60,
         "lifetime": 90,
-        "width": 2,
-        "colors": ["8c0291", "9e78dc", "ffffff"],
-        "fragBullets": 1,
-        "fragLifeMin": 1,
-        "fragSpread": 0,
-        "fragRandomSpread": 0,
-        "fragBullet": {
-          "type": "ExplosionBulletType",
-          "splashDamageRadius": 80,
-          "splashDamage": 60
-        }
+        "width": 4,
+        "colors": ["8c0291", "9e78dc", "ffffff"]
       }
     }
   },
