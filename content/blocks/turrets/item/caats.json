@@ -10,6 +10,7 @@
   "targetGround": false,
   "maxAmmo": 1000,
   "health": 11375,
+  "reload": 120,
   "range": 480,
   "minWarmup": 0.99,
   "shootSound": "none",
@@ -24,7 +25,7 @@
       22, 0, 0
     ],
     "shots": 6,
-    "shotDelay": 2,
+    "shotDelay": 10,
     "barrelOffset": 2
   },
   "drawer": {
