@@ -43,7 +43,9 @@
         "colorTo": "5461c5",
         "radius": 6,
         "radiusTo": 13,
-        "rotateSpeed": 3
+        "rotateSpeed": 1.5,
+        "stroke": 3,
+        "strokeTo": 4
       },
       {
         "type": "ShapePart",
@@ -58,8 +60,44 @@
         "colorTo": "5461c5",
         "radius": 6,
         "radiusTo": 13,
-        "rotateSpeed": -3
+        "rotateSpeed": -1.5,
+        "stroke": 3,
+        "strokeTo": 4
       },
+      {
+        "type": "ShapePart",
+        "progress": "warmup",
+        "hollow": true,
+        "x": 0,
+        "y": 0
+        "moveY": -21,
+        "layer": 49,
+        "sides": 5,
+        "color": "6d7dff",
+        "colorTo": "5461c5",
+        "radius": 7,
+        "radiusTo": 13,
+        "rotateSpeed": -1.5,
+        "stroke": 3,
+        "strokeTo": 4
+      },
+      {
+        "type": "ShapePart",
+        "progress": "warmup",
+        "hollow": true,
+        "x": 0,
+        "y": 0
+        "moveY": -21,
+        "layer": 49,
+        "sides": 5,
+        "color": "6d7dff",
+        "colorTo": "5461c5",
+        "radius": 5,
+        "radiusTo": 13,
+        "rotateSpeed": 1.5,
+        "stroke": 3,
+        "strokeTo": 4
+      }
       {
         "type": "RegionPart",
         "suffix": "-body",
