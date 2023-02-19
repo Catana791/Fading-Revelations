@@ -25,7 +25,7 @@
     ],
     "shots": 6,
     "shotDelay": 2,
-    "barrelOffset": 1
+    "barrelOffset": 2
   },
   "drawer": {
     "type": "DrawTurret",
@@ -94,6 +94,7 @@
     "living-steel": {
       "type": "MissileBulletType",
       "height": 10,
+      "pierce": false,
       "width": 8,
       "speed": 6,
       "lifetime": 90,
@@ -116,6 +117,29 @@
       "fragLifeMin": 0.4,
       "fragLifeMax": 0.9,
       "fragSpread": 120,
+      "hitEffect": {
+        "type": "MultiEffect",
+        "effects": [
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 2,
+            "sizeTo": 40,
+            "sides": 3,
+            "rotation": 90
+          },
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 2,
+            "sizeTo": 40,
+            "sides": 3,
+          },
+          {
+            "type": "WaveEffect",
+            "sizeFrom": 2,
+            "sizeTo": 40
+          }
+        ]
+      },
       "fragBullet": {
         "type": "LaserBulletType",
         "length": 80,
