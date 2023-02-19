@@ -75,11 +75,11 @@
         "sides": 5,
         "color": "6d7dff",
         "colorTo": "5461c5",
-        "radius": 7,
-        "radiusTo": 13,
+        "radius": 4,
+        "radiusTo": 6,
         "rotateSpeed": -1.5,
-        "stroke": 3,
-        "strokeTo": 4
+        "stroke": 1,
+        "strokeTo": 2
       },
       {
         "type": "ShapePart",
@@ -92,11 +92,11 @@
         "sides": 5,
         "color": "6d7dff",
         "colorTo": "5461c5",
-        "radius": 5,
-        "radiusTo": 13,
+        "radius": 4,
+        "radiusTo": 6,
         "rotateSpeed": 1.5,
-        "stroke": 3,
-        "strokeTo": 4
+        "stroke": 1,
+        "strokeTo": 2
       }
       {
         "type": "RegionPart",
