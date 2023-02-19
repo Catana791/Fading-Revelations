@@ -103,7 +103,7 @@
             {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 70,
+            "sizeTo": 30,
             "sides": 3,
             "rotation": 45,
             "lifetime": 110,
@@ -116,8 +116,8 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 70,
-            "lifetime": 60,
+            "sizeTo": 30,
+            "lifetime": 110,
             "strokeFrom": 2,
             "strokeTo": 3,
             "sides": 3,
@@ -128,8 +128,8 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 70,
-            "lifetime": 60,
+            "sizeTo": 30,
+            "lifetime": 110,
             "strokeFrom": 2,
             "strokeTo": 3,
             "colorFrom": "6d7dff",
@@ -170,7 +170,7 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 30,
+            "sizeTo": 70,
             "sides": 3,
             "rotation": 45,
             "lifetime": 60,
@@ -182,7 +182,7 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 30,
+            "sizeTo": 70,
             "lifetime": 60,
             "strokeFrom": 2,
             "strokeTo": 3,
@@ -193,7 +193,7 @@
           {
             "type": "WaveEffect",
             "sizeFrom": 2,
-            "sizeTo": 30,
+            "sizeTo": 70,
             "lifetime": 60,
             "strokeFrom": 2,
             "strokeTo": 3,
