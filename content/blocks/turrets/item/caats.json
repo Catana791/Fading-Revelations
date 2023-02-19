@@ -7,6 +7,8 @@
   "research": "duo",
   "requirements": [],
   "buildVisibility": "editorOnly",
+  "targetGround": false,
+  "maxAmmo": 1000,
   "health": 11375,
   "range": 480,
   "minWarmup": 0.99,
