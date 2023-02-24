@@ -18,11 +18,14 @@ mesh: {
   mag: 1.5
 }
 
+sectorSize: 1
+
 #the mesh used for clouds. commented out since this planet has no clouds
 #cloudMesh: {}
 
 #you can't declare a type for this, but you can at least modify the existing one's fields
 generator: {
+  type: PlanetGenerator
   min: 100
   max: 100
   radMin: 480
