@@ -18,6 +18,7 @@ mesh: {
   mag: 1.5
 }
 
+startSector: 1
 sectorSize: 1
 
 #the mesh used for clouds. commented out since this planet has no clouds
