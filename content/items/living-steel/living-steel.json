@@ -6,8 +6,7 @@
   "color": "88299f", 
   "hardness": 3,
   "frames": 12,
-  "frameTime": 10,
-  "transitionFrames": 1,
+  "frameTime": 8,
   "flammability": 0.5,
   "explosiveness": 0,
   "research": {
