@@ -5,9 +5,8 @@
   "cost": 2.5,
   "color": "88299f", 
   "hardness": 3,
-  //no animated items :(
-  //"frames": 12,
-  //"frameTime": 5,
+  "frames": 12,
+  "frameTime": 5,
   "flammability": 0.5,
   "explosiveness": 0,
   "research": {
