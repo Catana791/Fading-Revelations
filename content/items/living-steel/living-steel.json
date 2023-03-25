@@ -5,8 +5,8 @@
   "cost": 2.5,
   "color": "88299f", 
   "hardness": 3,
-  "frames": 12,
-  "frameTime": 8,
+  "frames": 24,
+  "frameTime": 4,
   "flammability": 0.5,
   "explosiveness": 0,
   "research": {
