@@ -72,7 +72,7 @@
     },
     {
       "x": 0,
-      "y": 0,
+      "y": 8,
       "mirror": false,
       "rotate": true,
       "reload": 50,
@@ -95,7 +95,7 @@
     },
     {
       "x": 0,
-      "y": 12,
+      "y": -18,
       "reload": 320,
       "mirror": false,
       "rotate": false,
