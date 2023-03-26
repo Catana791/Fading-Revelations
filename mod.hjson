@@ -34,7 +34,7 @@
         
         
         Features
-        A custom map and many blocks, 
+        Two new planets and many blocks, 
         units, items, liquids, schematics
         & ammo types.
         
@@ -51,7 +51,7 @@
         for more information!
         '''
 
-    subtitle: "Don't forget to reinstall every so often!"
+    subtitle: "Version 2.2: The unit update!"
     minGameVersion : 140
-    version : "2.1"
+    version : "2.2"
 }
