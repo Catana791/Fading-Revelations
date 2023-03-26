@@ -1,0 +1,10 @@
+{
+  "type": "Wall",
+  "name": "Gate: Core Units",
+  "description": "Contains the tech tree for all of the core units included in the Fading Revelations Mod.",
+  "health": 0,
+  "size": 1,
+  "buildVisibility": "hidden",
+  "alwaysUnlocked": true,
+  "research": "mod-gate-units"
+}
