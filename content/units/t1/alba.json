@@ -1,6 +1,6 @@
 {
   "type": "naval",
-  "name": "Alba",
+  "name": "[green]Alba",
   "description": "A small naval support ship that is equipped with nothing but a small regeneration projector.",
   "health": 310,
   "armor": 3,
