@@ -50,7 +50,7 @@
       }
     },
     {
-      "name": "large-artillery",
+      "name": "king-heal",
       "shootStatus": "unmoving",
       "shootStatusDuration": 90,
       "parentizeEffects": true,
@@ -58,7 +58,7 @@
       "recoil": 4,
       "inaccuracy": 6,
       "x": 0,
-      "y": -7,
+      "y": -9,
       "reload": 240,
       "shootSound": "laser"
       "shoot": {
