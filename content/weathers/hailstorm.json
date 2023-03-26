@@ -1,0 +1,17 @@
+{
+  "type": "ParticleWeather",
+  "particleRegion": "particle",
+  "sizeMax": 15,
+  "sizeMin": 3,
+  "density": 950,
+  "attrs": {
+    "light": -0.25,
+    "heat": -0.4
+  },
+  "sound": "windhowl",
+  "soundVol": 0,
+  "soundVolOscMag": 1.6,
+  "soundVolOscScl": 1100,
+  "soundVolMin": 0.08,
+  "status": "freezing"
+}
