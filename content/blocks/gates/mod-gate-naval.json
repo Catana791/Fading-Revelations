@@ -1,0 +1,10 @@
+{
+  "type": "Wall",
+  "name": "Gate: Naval Units",
+  "description": "Contains the tech tree for all naval units included in the Fading Revelations mod.",
+  "buildVisibility": "hidden",
+  "research": "mod-gate-units",
+  "health": 0,
+  "size": 1,
+  "alwaysUnlocked": true
+}
