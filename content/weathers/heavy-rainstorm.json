@@ -7,5 +7,9 @@
   "density": 400,
   "stroke": 1.2,
   "liquid": "water",
-  "color": "7a95eaff"
+  "color": "7a95eaff",
+  "attrs": {
+    "water": 0.4,
+    "light": -0.35
+  }
 }
