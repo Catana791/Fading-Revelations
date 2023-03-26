@@ -40,7 +40,7 @@
     },
     {
       "type": "StatusFieldAbility",
-      "effect": "frt-polymorphous-building",
+      "effect": "me-polymorphous-building",
       "duration": 360,
       "reload": 720,
       "range": 200
