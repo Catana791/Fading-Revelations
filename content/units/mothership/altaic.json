@@ -47,6 +47,7 @@
   "weapons": [
     {
       "type": "PointDefenseWeapon",
+      "name": "point-defense-mount",
       "x": -25,
       "y": 20,
       "mirror": true,
@@ -62,6 +63,7 @@
     },
     {
       "type": "PointDefenseWeapon",
+      "name": "point-defense-mount",
       "x": -25,
       "y": -30,
       "mirror": true,
@@ -77,6 +79,7 @@
     },
     {
       "x": 0,
+      "name": "nothing",
       "y": 40,
       "reload": 170,
       "recoil": 2,
@@ -113,6 +116,7 @@
       //this weapon might turn out way too op or not fit at all; testing is required
       "x": 12,
       "y": -38,
+      "name": "plasma-laser-mount",
       "reload": 6,
       "inaccuracy": 5,
       "shoot": {
