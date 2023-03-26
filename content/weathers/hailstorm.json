@@ -3,7 +3,7 @@
   "particleRegion": "particle",
   "sizeMax": 15,
   "sizeMin": 3,
-  "density": 950,
+  "density": 1200,
   "attrs": {
     "light": -0.25,
     "heat": -0.4
