@@ -166,6 +166,6 @@
     }
   ],
   "category": "turret",
-  "research": "mortar",
+  "research": "mine-launcher",
   "buildVisibility": "shown"
 }
