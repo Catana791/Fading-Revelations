@@ -1,0 +1,10 @@
+{
+  "type": "Wall",
+  "name": "Gate: Ground Units",
+  "description": "Contains the tech tree for all ground units included in the Fading Revelations mod.",
+  "buildVisibility": "hidden",
+  "research": "mod-gate-units",
+  "health": 0,
+  "size": 1,
+  "alwaysUnlocked": true
+}
