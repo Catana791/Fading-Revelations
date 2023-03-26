@@ -36,7 +36,7 @@
       "reload": 12,
       "rotateSpeed": 1.2,
       //todo: very bad status name fr fr
-      "status": "frt-construction-shock",
+      "status": "me-construction-shock",
       "statusDuration": 360,
       //
       "targetAir": true,
