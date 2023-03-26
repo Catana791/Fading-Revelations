@@ -3,5 +3,8 @@
   "name": "Gate: Flying Units",
   "description": "Contains the tech tree for all flying units included in the Fading Revelations mod.",
   "buildVisibility": "hidden",
-  "research": "mod-gate-units"
+  "research": "mod-gate-units",
+  "health": 0,
+  "size": 1,
+  "alwaysUnlocked": true
 }
