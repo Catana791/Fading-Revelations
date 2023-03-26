@@ -1,6 +1,6 @@
 {
   "type": "flying",
-  "name": "[green]Kestrel",
+  "name": "[orange]Kestrel",
   "description": "Leaving behind the extreme fragility but also the extreme speed of the earlier stages of this unit, this units is fast and equipped with many energy weapons.",
   "speed": 3,
   "research": "close-range",
