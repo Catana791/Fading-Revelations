@@ -51,6 +51,7 @@
     {
       "unit": "annax",
       "requirements": [
+        "scrap/40",
         "silicon/30",
         "lead/20"
       ],
