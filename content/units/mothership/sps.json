@@ -39,31 +39,7 @@
       //"colorTo": "007dbc"
     //}
   //],
-  "research": {
-    "parent": "corax",
-    "requirements": [
-      {
-        "item": "silicon",
-        "amount": 8000
-      },
-      {
-        "item": "titanium",
-        "amount": 6000
-      },
-      {
-        "item": "living-steel",
-        "amount": 5000
-      },
-      {
-        "item": "thorium",
-        "amount": 5000
-      },
-      {
-        "item": "surge-alloy",
-        "amount": 4000
-      }
-    ]
-  },
+  "research": "kestrel"
   "health": 11000,
   "armor": 24,
   "baseRotateSpeed": 0.06,
