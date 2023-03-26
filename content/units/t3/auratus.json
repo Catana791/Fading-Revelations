@@ -1,7 +1,7 @@
 {
   "type": "legs",
   "name": "Auratus",
-  "description": "A large leged unit that uses elemental weapons to deal high damage.",
+  "description": "A large legged unit that uses elemental weapons to deal high damage.",
   "drag": 0.1,
   "speed": 0.62,
   "hitSize": 23,
