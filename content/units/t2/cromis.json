@@ -1,6 +1,6 @@
 {
   "type": "naval",
-  "name": "Cromis",
+  "name": "[orange]Cromis",
   "description": "A medium sized naval unit equipped with advanced weaponry that inflicts emp on hit targets.",
   "health": 1180,
   "armor": 7,
