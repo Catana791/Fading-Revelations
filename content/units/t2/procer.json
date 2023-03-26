@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "hovering": true,
-  "name": "Procer",
+  "name": "[orange]Procer",
   "description": "A medium sized unit made for assault.",
   "health": 1100,
   "hitSize": 17.5,
