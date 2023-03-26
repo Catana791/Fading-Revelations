@@ -1,0 +1,22 @@
+{
+  "type": "BuildTurret",
+  "name": "Construction Pylon",
+  "description": "Automatically builds and destroys structures and supports the player.",
+  "requirements": [
+    "copper/90",
+    "silicon/60",
+    "titanium/150",
+    "living-steel/150"
+  ],
+  "category": "effect",
+  "research": "duo",
+  "size": 3,
+  "range": 160,
+  "buildSpeed": 1,
+  "liquidBoostIntensity": 2.5,
+  "coolantMultiplier": 2.5,
+  "consumes": {
+    "power": 9,
+    "liquid": "cryofluid/0.2"
+  }
+}
