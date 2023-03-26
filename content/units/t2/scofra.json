@@ -18,7 +18,7 @@
   "groundLayer": 75,
   "weapons": [
     {
-      "name": "spiroct-weapon",
+      "name": "atrax-weapon",
       "x": 0,
       "y": -12,
       "reload": 6,
@@ -39,7 +39,7 @@
       }
     },
     {
-      "name": "spiroct-weapon",
+      "name": "atrax-weapon",
       "x": 18,
       "y": -1,
       "reload": 3,
