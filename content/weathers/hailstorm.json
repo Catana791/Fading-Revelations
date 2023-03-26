@@ -1,4 +1,5 @@
 {
+  "name": "Hailstorm",
   "type": "ParticleWeather",
   "particleRegion": "particle",
   "sizeMax": 15,
