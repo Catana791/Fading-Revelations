@@ -4,7 +4,7 @@
   "status": "wet",
   "sound": "rain",
   "soundVol": 0.4,
-  "density": 1800,
+  "density": 4000,
   "stroke": 0.82,
   "liquid": "water",
   "color": "7a95eaff"
