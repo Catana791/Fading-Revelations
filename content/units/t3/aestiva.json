@@ -29,6 +29,7 @@
       "y": -15,
       "reload": 180,
       "inaccuracy": 10,
+      "name": "heal-shotgun-weapon",
       "shoot": {
         "shots": 24,
         "spread": 1,
