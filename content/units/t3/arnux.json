@@ -75,7 +75,7 @@
       } 
     },
     {
-      "name": "large-artillery",
+      "name": "king-heal",
       "reload": 120,
       "shake": 7,
       "mirror": false,
