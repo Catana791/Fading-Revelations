@@ -40,31 +40,7 @@
   "legSpeed": 0.19,
   "legSplashDamage": 120,
   "legSplashRange": 72,
-  "research": {
-    "parent": "sps",
-    "requirements": [
-      {
-        "item": "silicon",
-        "amount": 9000
-      },
-      {
-        "item": "titanium",
-        "amount": 8000
-      },
-      {
-        "item": "living-steel",
-        "amount": 6000
-      },
-      {
-        "item": "phase-fabric",
-        "amount": 5000
-      },
-      {
-        "item": "surge-alloy",
-        "amount": 4000
-      }
-    ]
-  },
+  "research": "auratus",
   "health": 22000,
   "armor": 26,
   "baseRotateSpeed": 3,
