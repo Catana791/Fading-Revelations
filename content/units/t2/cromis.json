@@ -95,7 +95,7 @@
         "damage": 160,
         "lifetime": 90,
         "largeHit": true,
-        "status": "frt-emp",
+        "status": "me-emp",
         "statusDuration": 60,
         "sideLength": 20,
         "sideWidth": 4,
