@@ -32,7 +32,9 @@
         "liquid": "oil",
         "speed": 4,
         "lifetime": 40,
-        "damage": 8,
+        "damage": 10,
+        "status": "tarred",
+        "statusDuration": 120,
         "shootEffect": "shootSmall",
         "hitEffect": "hitBulletColor",
         "smokeEffect": "shootSmallSmoke"
@@ -50,10 +52,10 @@
       "rotate": true,
       "shootSound": "flame",
       "bullet": {
-        "damage": 3,
+        "damage": 5,
         "speed": 4,
         "lifetime": 45,
-        "status": "burning",
+        "status": "melting",
         "statusDuration": 120,
         "makeFire": true,
         "width": 0.01,
