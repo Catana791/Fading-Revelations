@@ -40,7 +40,7 @@
     },
     {
       "name": "atrax-weapon",
-      "x": 9,
+      "x": 13,
       "y": -2,
       "reload": 3,
       "shoot": {
