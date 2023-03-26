@@ -43,27 +43,7 @@
   ],
   "outlines": false,
   "flying": true,
-  "research": {
-     "parent": "test",
-     "requirements": [
-       {
-	       "item": "silicon",
-	       "amount": 10000
-       },
-	     {
-		     "item": "titanium",
-		     "amount": 9000
-	     },
-	     {
-		     "item": "living-steel",
-		     "amount": 6000
-	     },
-	     {
-		     "item": "surge-alloy",
-		     "amount": 4000
-	     }
-    ]
-  },
+  "research": "ducalis",
   "health": 9100,
   "armor": 20,
   "baseRotateSpeed": 0.06,
