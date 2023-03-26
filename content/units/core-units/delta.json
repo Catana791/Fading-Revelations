@@ -4,7 +4,7 @@
   "description": "Defends the Atom core from enemies. Builds structures quickly.",
   "drag": 0.15,
   "speed": 4,
-  "research": "mod-gate-units",
+  "research": "mod-gate-core-units",
   "buildSpeed": 2.5,
   "mineSpeed": 14,
   "mineTier": 3,
