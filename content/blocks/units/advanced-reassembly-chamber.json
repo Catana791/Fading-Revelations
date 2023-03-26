@@ -1,0 +1,39 @@
+{
+    "type": "Reconstructor",
+    "name": "Advanced Reassembly Chamber",
+    "description": "Upgrades units to the 3rd tier. These upgraded units may be upgraded a final time.",
+    "health": 3400,
+    "size": 9,
+    "constructTime": 6000,
+    "upgrades": [
+        ["sapling", "plant"],
+        ["close-range", "kestrel"],
+        ["cromis", "arnux"],
+        ["procer", "ducalis"],
+        ["arvens", "aestiva"],
+        ["scofra", "auratus"]
+    ],
+    "consumes": {
+        "power": 13.3333333333333,
+        "liquid": {
+            "liquid": "neutron-fluid",
+            "amount": 0.4
+        },
+        "items": {
+            "items": [
+              "silicon/1000",
+              "titanium/900",
+              "plastanium/720"
+            ]
+        }
+    },
+    "requirements": [
+      "lead/2200",
+      "titanium/2100",
+      "thorium/900",
+      "plastanium/520",
+      "phase-fabric/640"
+    ],
+    "category": "units",
+    "research": "basic-reassembly-chamber"
+ }
