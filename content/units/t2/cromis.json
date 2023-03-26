@@ -1,0 +1,108 @@
+{
+  "type": "naval",
+  "name": "Cromis",
+  "description": "A medium sized naval unit equipped with advanced weaponry that inflicts emp on hit targets.",
+  "health": 1180,
+  "armor": 7,
+  "hitSize": 15,
+  "speed": 0.92,
+  "accel": 0.25,
+  "drag": 0.17,
+  "faceTarget": false,
+  "rotateSpeed": 2,
+  "trailLength": 20,
+  "waveTrailX": 6,
+  "waveTrailY": -8,
+  "trailScl": 1.5,
+  "abilities": [
+    {
+      "type": "ShieldRegenFieldAbility",
+      "amount": 25,
+      "max": 42,
+      "reload": 300,
+      "range": 64
+    }
+  ],
+  "weapons": [
+    {
+      "name": "missiles-mount",
+      "reload": 40,
+      "x": 0,
+      "shake": 1,
+      "y": 7,
+      "rotate": true,
+      "mirror": false,
+      "shoot": {
+        "shots": 3,
+        "shotDelay": 8,
+      },
+      "shootSound": "missile",
+      "bullet": {
+        "type": "MissileBulletType",
+        "speed": 3,
+        "damage": 30,
+        "splashDamage": 8,
+        "splashDamageRadius": 16,
+        "homingRange": 90,
+        "lifetime": 90,
+        "pierce": true,
+        "pierceCap": 1
+      }
+    },
+    {
+      "name": "large-artillery",
+      "shootStatus": "unmoving",
+      "shootStatusDuration": 90,
+      "parentizeEffects": true,
+      "shake": 5,
+      "recoil": 4,
+      "inaccuracy": 6,
+      "x": 0,
+      "y": -7,
+      "reload": 240,
+      "shootSound": "laser"
+      "shoot": {
+        "firstShotDelay": 45,
+      },
+      "rotate": true,
+      "chargeSound": "lasercharge2",
+      "mirror": false,
+      "bullet": {
+        "chargeEffect": {
+          "type": "MultiEffect",
+          "followParent": true,
+          "lifetime": 45,
+          "effects": [
+            {
+              "type": "WaveEffect",
+              "sizeFrom": 0,
+              "sizeTo": 20,
+              "sizeInterp": "pow2Out",
+              "interp": "pow2Out"
+            },
+            {
+              "type": "WaveEffect",
+              "sizeFrom": 22,
+              "sizeTo": 2,
+              "sizeInterp": "pow2Out",
+              "interp": "pow2Out"
+            }
+          ]
+        },
+        "type": "LaserBulletType",
+        "hitShake": 4,
+        "length": 260,
+        "damage": 160,
+        "lifetime": 90,
+        "largeHit": true,
+        "status": "frt-emp",
+        "statusDuration": 60,
+        "sideLength": 20,
+        "sideWidth": 4,
+        "sideAngle": 30,
+        "colors": ["ec7458aa", "ff9c5a", "ffffff"]
+      } 
+    }
+  ],
+  "research": "mela"
+}

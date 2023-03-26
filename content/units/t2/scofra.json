@@ -1,0 +1,77 @@
+{
+  "type": "legs",
+  "name": "Scofra",
+  "description": "A medium sized legged unit that utilizes oil and fire to deal high amounts of damage.",
+  "speed": 0.54,
+  "drag": 0.4,
+  "hitSize": 15,
+  "rotateSpeed": 3,
+  "health": 1150,
+  "legCount": 6,
+  "legLength": 14,
+  "legForwardScl": 0.8,
+  "legMoveSpace": 1.5,
+  "legBaseOffset": 2,
+  "hovering": true,
+  "armor": 5,
+  "shadowElevation": 0.3,
+  "groundLayer": 75,
+  "weapons": [
+    {
+      "name": "spiroct-weapon",
+      "x": 0,
+      "y": -12,
+      "reload": 6,
+      "mirror": false,
+      "rotate": true,
+      "shootSound": "sap",
+      "recoil": 1,
+      "shootY": 4,
+      "bullet": {
+        "type": "LiquidBulletType",
+        "liquid": "oil",
+        "speed": 4,
+        "lifetime": 40,
+        "damage": 8,
+        "shootEffect": "shootSmall",
+        "hitEffect": "hitBulletColor",
+        "smokeEffect": "shootSmallSmoke"
+      }
+    },
+    {
+      "name": "spiroct-weapon",
+      "x": 18,
+      "y": -1,
+      "reload": 3,
+      "shoot": {
+        "shots": 6
+      },
+      "mirror": true,
+      "shootSound": "flame",
+      "bullet": {
+        "damage": 3,
+        "speed": 4,
+        "lifetime": 45,
+        "status": "burning",
+        "statusDuration": 120,
+        "makeFire": true,
+        "width": 0.01,
+        "height": 0.01,
+        "despawnEffect": "none",
+        "smokeEffect": {
+          "type": "ParticleEffect",
+          "particles": 12,
+          "length": 200,
+          "lifetime": 12,
+          "interp": "circleOut",
+          "cone": 7,
+          "colorFrom": "ffdd55",
+          "colorTo": "db401c",
+          "sizeFrom": 3,
+          "sizeTo": 0.4 
+        }
+      }
+    }
+  ],
+  "research": "annax"
+}

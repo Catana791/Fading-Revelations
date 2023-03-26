@@ -1,0 +1,57 @@
+{
+  "type": "naval",
+  "name": "Aestiva",
+  "description": "A large support naval ship equipped with a healing shotgun. Spawns Alba.",
+  "health": 9000,
+  "armor": 12,
+  "speed": 0.8,
+  "drag": 0.17,
+  "hitSize": 28,
+  "accel": 0.3,
+  "rotateSpeed": 1.8,
+  "faceTarget": false,
+  "trailLength": 40,
+  "waveTrailX": 15,
+  "waveTrailY": -14,
+  "trailScl": 3.6,
+  "abilities": [
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "alba",
+      //time to be tested, probably needs adjustment
+      "spawnTime": 600
+      //
+    }
+  ],
+  "weapons": [
+    {
+      "x": 0,
+      "y": -15,
+      "reload": 180,
+      "inaccuracy": 10,
+      "shoot": {
+        "shots": 24,
+        "spread": 1,
+        "shotDelay": 1
+      },
+      "mirror": false,
+      "rotate": true,
+      "shootSound": "lasershoot",
+      "rotateSpeed": 3,
+      "bullet": {
+        "speed": 5,
+        "lifetime": 45,
+        "inaccuracy": 10,
+        "type": "LaserBoltBulletType",
+        "width": 4,
+        "height": 10,
+        "frontColor": "84f491",
+        "backColor": "62ae7f",
+        "damage": 1,
+        "collidesTeam": true,
+        "healAmount": 5
+      }
+    }
+  ],
+  "research": "arvens"
+}

@@ -1,0 +1,238 @@
+{
+  "name": "[red]Lycosid",
+  "type": "legs",
+  "description": "A slow but very strong spider-like unit equipped with higly deadly weapons!",
+  "details": "The Lycosid was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
+  "speed": 0.66,
+  "legCount": 8,
+  "immunities": ["melting", "burning", "sapped", "freezing", "wet"],
+  "allowLegStep": true,
+  "hovering": true,
+  "outlines": false,
+  "speed": 0.96,
+  //"parts": [
+    //{
+      //"type": "HaloPart",
+      //"x": 35,
+      //"y": -35,
+      //"mirror": true,
+      //"color": "7433c6",
+      //"colorTo": "602da0",
+      //"hollow": true,
+      //"radius": 8,
+      //"shapes": 8,
+      //"sides": 6,
+      //"stroke": 1,
+      //"haloRotateSpeed": 1.2
+    //}
+  //],
+  "canDrown": false,
+  "legContinuousMove": false,
+  "drownTimeMultiplier": 99999999999,
+  "legMoveSpace": 0.8,
+  "legPairOffset": 3,
+  "legLength": 120,
+  "legExtension": -20,
+  "legBaseOffset": 8,
+  "stepShake": 8,
+  "legLengthScl": 0.93,
+  "rippleScale": 8,
+  "legSpeed": 0.19,
+  "legSplashDamage": 120,
+  "legSplashRange": 72,
+  "research": {
+    "parent": "sps",
+    "requirements": [
+      {
+        "item": "silicon",
+        "amount": 9000
+      },
+      {
+        "item": "titanium",
+        "amount": 8000
+      },
+      {
+        "item": "living-steel",
+        "amount": 6000
+      },
+      {
+        "item": "phase-fabric",
+        "amount": 5000
+      },
+      {
+        "item": "surge-alloy",
+        "amount": 4000
+      }
+    ]
+  },
+  "health": 22000,
+  "armor": 26,
+  "baseRotateSpeed": 3,
+  "weapons": [
+    {
+      "name": "reclusa-laser",
+      "x": -28,
+      "y": 25,
+      "reload": 30,
+      "shake": 2,
+      "rotateSpeed": 3,
+      "ejectEffect": "casing1",
+      "shootSound": "shootBig",
+      "rotate": true,
+      "mirror": false,
+      "recoil": 4,
+      "bullet": {
+         "type": "ShrapnelBulletType",
+          "damage": 90,
+        "width": 30,
+        "length": 240,
+      "serrationLenScl": 8,
+      "serrationSpaceOffset": 70,
+      "serrationFadeOffset": 0,
+      "serrations": 18,
+      "serrationWidth": 7,
+      "fromColor": "6586b0",
+      "toColor": "87ceeb",
+      "shootEffect": "sparkShoot",
+      "smokeEffect": "sparkShoot",
+      "status": "freezing",
+      "statusDuration": 30
+      }
+    },
+    {
+      "name": "reclusa-laser",
+      "x": 28,
+      "y": 25,
+      "reload": 30,
+      "shake": 2,
+      "rotateSpeed": 3,
+      "ejectEffect": "casing1",
+      "shootSound": "shootBig",
+      "rotate": true,
+      "mirror": false,
+      "recoil": 4,
+      "bullet": {
+         "type": "ShrapnelBulletType",
+          "damage": 90,
+        "width": 30,
+      "serrationLenScl": 8,
+      "serrationSpaceOffset": 70,
+      "serrationFadeOffset": 0,
+      "serrations": 18,
+        "length": 240,
+      "serrationWidth": 7,
+      "fromColor": "c85c51",
+      "toColor": "ff795e",
+      "shootEffect": "sparkShoot",
+      "smokeEffect": "sparkShoot",
+    "status": "melting",
+    "statusDuration": 30
+      }
+    },
+{
+  "name": "reclusa-main",
+  "mirror": false,
+  "reload": 300,
+  "shake": 8,
+  "recoil": 12,
+  "x": 0,
+  "y": -10,
+  "rotateSpeed": 2,
+  "ejectEffect": "casing3",
+  "shootSound": "artillery",
+  "rotate": true,
+  "rotationLimit": 90,
+  "bullet": {
+    "type": "ArtilleryBulletType",
+    "spin": 2,
+    "hitEffect": {
+      "type": "MultiEffect",
+      "effects": [
+        {
+          "type": "ParticleEffect",
+          "particles": 8,
+          "length": 20,
+          "sizeFrom": 8,
+          "sizeTo": 4,
+          "colorFrom": "bf92f9",
+          "colorTo": "665c9f",
+          "interp": "circleIn"
+        },
+        {
+            "type": "WaveEffect",
+          "sizeFrom": 14,
+          "sizeTo": 0,
+          "colorFrom": "bf92f9",
+          "colorTo": "665c9f",
+        }
+        ]
+    },
+    "knockback": 1,
+    "sprite": "me-lycosid-bullet",
+    "lifetime": 240,
+    "width": 50,
+    "damage": 50,
+    "height": 50,
+    "splashDamageRadius": 80,
+    "splashDamage": 65,
+    "backColor": "665c9f",
+    "frontColor": "bf92f9",
+    "lightningColor": "bf92f9", 
+    "lightning": 6,
+    "lightningLength": 25,
+    "lightningDamage": 35,
+    "smokeEffect": "shootBigSmoke2",
+    "hitShake": 13,
+    "lightRadius": 50,
+    "lightColor": "bf92f9",
+    "lightOpacity": 0.6,
+    "status": "sapped",
+    "statusDuration": 60,
+    "fragLifeMin": 0.4,
+    "fragBullets": 11,
+    "fragBullet": {
+      "type": "ArtilleryBulletType",
+      "hitEffect": "sapExplosion",
+      "sprite": "me-lycosid-bullet",
+      "width": 25,
+      "height": 25,
+      "lifetime": 140,
+      "knockback": 1,
+      "collidesTiles": false,
+      "splashDamageRadius": 90,
+      "splashDamage": 90,
+      "damage": 40,
+      "backColor": "665c9f",
+      "frontColor": "bf92f9",
+      "lightColor": "bf92f9",
+      "lightningColor": "bf92f9",
+      "lightning": 4,
+      "lightningLength": 7,
+      "smokeEffect": "shootBigSmoke2",
+      "hitShake": 4,
+      "lightRadius": 40,
+      "lightOpacity": 0.5,
+      "status": "sapped",
+      "statusDuration": 60
+    }
+  }
+}
+  ],
+  "abilities": [
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "cryo-crawler",
+      "spawnX": -20,
+      "spawnY": -48,
+      "spawnTime": 200
+    },
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "fire-crawler",
+      "spawnX": 20,
+      "spawnY": -48,
+      "spawnTime": 200
+    }
+  ],
+  "hitSize": 56
+}

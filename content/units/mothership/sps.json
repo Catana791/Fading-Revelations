@@ -1,0 +1,185 @@
+{
+  "type": "flying",
+  "name": "[red]Orbital Platform Strahl",
+  "description": "The orbital platform Strahl is one of the most secretive units every made. The unit is known for its destructive potential and deadly range yet it never once was mentioned in any record. While the technologies that the Strahl has seemingly pioneered are being implemented by military factions across the cluster, few will ever know that the unit truly existed. Fewer still will have ever encountered it and, the few that did will have not survived. May be flying but is so heavy that it can't fly over water without getting destroyed.",
+  "drag": 0.15,
+  "speed": 0.96,
+  "flying": true,
+  "immunities": ["melting", "burning", "sapped", "freezing", "wet"],
+  "lowAltitude": true,
+  "speed": 0.96,
+  "outlines": false,
+  "engines": [
+    {
+      "x": 35,
+      "y": -20,
+      "radius": 12,
+      "rotation": 0
+    },
+    {
+      "x": -35,
+      "y": -20,
+      "radius": 12,
+      "rotation": 0
+    }
+  ],
+  //"parts": [
+    //{
+      //"type": "HaloPart",
+      //"x": 0,
+      //"y": -32,
+      //"mirror": false,
+      //"hollow": true,
+      //"sides": 12,
+      //"shapes": 8,
+      //"radius": 12,
+      //"stroke": 2,
+      //"haloRotateSpeed": 1.1,
+      //"color": "00a2f3",
+      //"colorTo": "007dbc"
+    //}
+  //],
+  "research": {
+    "parent": "corax",
+    "requirements": [
+      {
+        "item": "silicon",
+        "amount": 8000
+      },
+      {
+        "item": "titanium",
+        "amount": 6000
+      },
+      {
+        "item": "living-steel",
+        "amount": 5000
+      },
+      {
+        "item": "thorium",
+        "amount": 5000
+      },
+      {
+        "item": "surge-alloy",
+        "amount": 4000
+      }
+    ]
+  },
+  "health": 11000,
+  "armor": 24,
+  "baseRotateSpeed": 0.06,
+  "weapons": [
+    {
+      "name": "sps-air-fr",
+      "x": -56,
+      "mirror": false,
+      "rotate": true,
+      "y": 16,
+      "reload": 30,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 100,
+        "width": 6,
+        "length": 200,
+        "colors": ["6586b0", "87ceeb", "c0ecff"]
+      }
+    },
+    {
+      "name": "sps-air-fr",
+      "x": 56,
+      "mirror": false,
+      "rotate": true,
+      "y": 16,
+      "reload": 30,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 100,
+        "width": 6,
+        "length": 200,
+        "colors": ["6586b0", "87ceeb", "c0ecff"]
+      }
+    },
+    {
+      "name": "sps-lancer-left",
+      "x": -32,
+      "rotate": true,
+      "continuous": true,
+      "y": -12,
+      "reload": 200,
+      "shootSound": "laserblast",
+      "bullet": {
+        "type": "ContinuousLaserBulletType",
+        "length": 250,
+        "width": 2,
+        "damage": 25,
+        "lifetime": 120,
+        "colors": ["6586b0", "87ceeb", "c0ecff"],
+        "fadeTime": 30,
+        "status": "freezing",
+        "statusDuration": 30,
+      }
+    },
+    {
+      "name": "sps-sps-lancer-left",
+      "x": 32,
+      "rotate": true,
+      "y": -12,
+      "continuous": true,
+      "reload": 240,
+      "recoil": 4,
+      "recoilTime": 180,
+      "shootSound": "laserblast",
+      "bullet": {
+        "type": "ContinuousLaserBulletType",
+        "length": 250,
+        "width": 2,
+        "damage": 25,
+        "lifetime": 120,
+        "colors": ["6586b0", "87ceeb", "c0ecff"],
+        "fadeTime": 30,
+        "status": "freezing",
+        "statusDuration": 30
+      }
+    },
+    {
+      "name": "sps-rail",
+      "x": 0,
+      "y": -8,
+      "recoil": 8,
+      "recoilTime": 180,
+      "continuous": true,
+      "mirror": false,
+      "reload": 500,
+      "shootSound": "laserbig",
+      "bullet": {
+        "type": "ContinuousLaserBulletType",
+        "width": 6,
+        "lifetime": 280,
+        "fadeTime": 25,
+        "colors": ["6586b0", "87ceeb", "c0ecff"],
+        "status": "freezing",
+        "statusDuration": 30,
+        "length": 350,
+        "damage": 30
+      }
+    }
+  ],
+  "abilities": [
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "close-range",
+      "spawnX": 0,
+      "spawnY": -30,
+      "spawnTime": 240
+    },
+    {
+      "type": "ForceFieldAbility",
+      "radius": 110,
+      "regen": 4,
+      "max": 9000,
+      "cooldown": 600
+    }
+  ],
+"hitSize": 90
+}

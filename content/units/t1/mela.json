@@ -1,0 +1,83 @@
+{
+  "type": "naval",
+  "name": "Mela",
+  "description": "A small naval assault unit equipped with basic weaponry.",
+  "health": 320,
+  "armor": 2,
+  "hitSize": 14,
+  "speed": 1.3,
+  "canBoost": false,
+  "faceTarget": false,
+  "drag": 0.13,
+  "accel": 0.5,
+  "rotateSpeed": 3.8,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 2,
+      "reload": 10,
+      "rotate": true,
+      "name": "missiles-mount",
+      "mirror": false,
+      "ejectEffect": "casing1",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 3,
+        "damage": 15,
+        "pierce": true,
+        "pierceCap": 3,
+        "width": 9,
+        "height": 11,
+        "lifetime": 90,
+        "ammoMultiplier": 6
+      }
+    },
+    {
+      "x": -3,
+      "shootY": 0,
+      "shootCone": 90,
+      "ejectEffect": "none",
+      "reload": 180,
+      "rotate": false,
+      "baseRotation": 180,
+      "alwaysShooting": true,
+      "minShootVelocity": 0.9,
+      "bullet": {
+        "instantDisappear": true,
+        "fragBullets": 1,
+        "fragVelocityMin": 0,
+        "fragVelocityMax": 0,
+        "fragRandomSpread": 0,
+        "shootEffect": "none",
+        "smokeEffect": "none",
+        "hitEffect": "none",
+        "despawnHit": false,
+        "fragBullet": {
+          "shootEffect": "none",
+          "smokeEffect": "none",
+          "hitEffect": "none",
+          "despawnHit": false,
+          "type": "BasicBulletType",
+          "height": 12,
+          "width": 12,
+          "hitSize": 12,
+          "damage": 5,
+          "sprite": "frt-lml-mine"
+          "frontColor": "d99f6b",
+          "shrinkX": 0,
+          "shrinkY": 0,
+          "despawnEffect": "none",
+          "backColor": "f3e979",
+          "splashDamage": 25,
+          "splashDamageRadius": 32,
+          "speed": 0,
+          "hittable": false,
+          "collides": true,
+          "pierce": false,
+          "lifetime": 720, 
+        }
+      }
+    }
+  ],
+  "research": "primary-factory"
+}

@@ -1,0 +1,94 @@
+{
+  "type": "flying",
+  "name": "[green]Kestrel",
+  "description": "Leaving behind the extreme fragility but also the extreme speed of the earlier stages of this unit, this units is fast and equipped with many energy weapons.",
+  "speed": 3,
+  "research": "close-range",
+  "flying": true,
+  "health": 8600,
+  "armor": 10,
+  "lowAltitude": true,
+  "itemCapacity": 200,
+  "engineSize": 9,
+  "engineOffset": 27,
+  "weapons": [
+    {
+      "name": "king-main",
+      "x": 0,
+      "y": -15,
+      "reload": 240,
+      "rotate": false,
+      "rotateSpeed": 0,
+      "mirror": false,
+      "recoilTime": 200,
+      "shootSound": "laserbig",
+      "continuous": true,
+      "bullet": {
+        "type": "ContinuousLaserBulletType",
+        "lifetime": 180,
+        "fadeTime": 20,
+        "colors": ["d06b53", "d18877", "ffa665"],
+        "damage": 7,
+        "length": 240,
+        "makeFire": true,
+        "pierceBuilding": false,
+        "width": 4,
+        "status": "burning"
+      }
+    },
+    {
+      "name": "arc-weapon",
+      "x": -15,
+      "y": 5,
+      "reload": 1,
+      "rotate": true,
+      "mirror": false,
+      "top": true,
+      "rotateSpeed": 6,
+      "shootSound": "spark",
+      "recoil": 0,
+      "bullet": {
+        "type": "LightningBulletType",
+        "lightningLength": 35,
+        "damage": 5
+      }
+    },
+    {
+      "name": "arc-weapon",
+      "x": 15,
+      "y": 5,
+      "reload": 1,
+      "rotate": true,
+      "mirror": false,
+      "top": true,
+      "shootSound": "spark",
+      "rotateSpeed": 6,
+      "recoil": 0,
+      "bullet": {
+        "type": "LightningBulletType",
+        "lightningLength": 35,
+        "damage": 5
+      }
+    },
+    {
+      "name": "king-heal",
+      "x": 0,
+      "y": 15,
+      "rotate": true,
+      "rotateSpeed": 4,
+      "shootSound": "laser",
+      "mirror": false,
+      "reload": 120,
+      "bullet": {
+        "type": "LaserBulletType",
+        "colors": ["d06b53", "d18877", "ffa665"],
+        "length": 200,
+        "damage": 40,
+        "makeFire": true,
+        "status": "burning",
+        "statusDuration": 60
+      }
+    }
+  ],
+  "hitSize": 27
+}

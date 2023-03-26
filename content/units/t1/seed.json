@@ -1,0 +1,39 @@
+{
+  "type": "flying",
+  "name": "[green]Seed",
+  "description": "A small support drone with low health. Similar to a Mono but has a repair field ability, can build slowly and has overall slightly improved stats.",
+  "abilities": [
+    {
+      "type": "RepairFieldAbility", 
+      "range": 40, 
+      "amount": 2, 
+      "reload": 60, 
+      "activeEffect": {
+        "type": "WaveEffect", 
+        "sizeFrom": 0, 
+        "sizeTo": 60, 
+        "colorFrom": "84f491", 
+        "colorTo": "62ae7f"
+      }
+    },
+  ],
+  "mineSpeed": 2,
+  "mineTier": 1,
+  "canAttack": false,
+  "buildSpeed": 0.2,
+  "canAttack": false,
+  "engineColor": "84f491",
+  "engineColorInner": "62ae7f",
+  "armor": 0,
+  "itemCapacity": 25,
+  "speed": 1.6,
+  "canHeal": true,
+  "drawBuildBeam": true,
+  "health": 250,
+  "mineHardnessScaling": true,
+  "flying": true,
+  "controller": "MinerAI",
+  "weapons": [],
+  "research": "primary-factory",
+  "hitSize": 8
+}

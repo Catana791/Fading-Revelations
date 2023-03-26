@@ -1,0 +1,254 @@
+{
+  "type": "flying",
+  "name": "[red]HIVE",
+  "description": "A massive spawning ship that spawns attack units. Is pretty fragile itself but has a very strong force generator that can take 20900 points of damage before shutting down. Warning! When the force field shuts down, the fragile 9100 hp of the HIVE are directly attackable!",
+  "details": "On a planet far far away, a sector's machinery and core went on its schedule like any other, units and materials meant to be inspected and sent of to other sectors were the norm in minor outposts like these, but as the day progressed several objects were detected, moving at a rapid pace, at first the core did not register these pings as a potential threat as attacks at its sector were almost nonexisten, nonetheless the core issued a report, then went dark merely a few later, however nothing was thought out of the ordinary, only after days of silence and reports of undelivered materials did the main core send out an scout to uncover what happened to the outpost, to which it found signs of weapons fire, unbeknownst to the rest of the Cluster it would be the first sign that something was wrong as not even a few days later another sector  would go dark, then another would suffer the same fate, alarmed by this the main core of the planet sent out task force after task force to hunt down these units, what they found would be the final broadcast of the planet. \n \n Much like the Strahl, the HIVE is a unit tha is not known very well, only after reports of a destroyed world brought about by the HIVE did concerns flare up, as rumors spread becoming ever distorted from reality fear came along with it. While it is not yet known what its true capability are, many are certain that it is  significantly more powerful than anything currently in their arsenals, news that a quarantine and the reassigning of fleets to that system only fueled peoples fears futher. \n \n While the creators and their intentions for making this unit remains unknown, it is known for certain is that the mentioned sector its planet were nothing more than a mere testing ground. Many believe that the destruction of the planet was prelude to something big, many more still deny its existence but with the increasing efficiency of living metal units starting to become much more apparent, more and more are going to face reality that someone or something out there can destroy their world and bring a wave of tyranny. \n \n Whatever the case maybe an arms race with innovations and weaponry never seen before has been sparked, fueled by fears and distrust of the other, one could only hope that this would be the end.",
+  "drag": 0.15,
+  "immunities": ["melting", "burning", "sapped", "freezing", "wet"],
+  "aimDst": 600,
+  "createWreck": true,
+  "lowAltitude": true,
+  "speed": 0.96,
+  "parts": [
+    {
+      "type": "HaloPart",
+      "x": 0,
+      "y": -25,
+      "color": "ff3232",
+      "colorTo": "c80000",
+      "mirror": false,
+      "hollow": true,
+      "shapes": 8,
+      "sides": 10,
+      "radius": 18,
+      "stroke": 2,
+      "haloRotateSpeed": 1,
+    },
+    {
+      "type": "HaloPart",
+      "x": 0,
+      "y": -25,
+      "color": "ff3232",
+      "colorTo": "c80000",
+      "mirror": false,
+      "hollow": true,
+      "shapes": 8,
+      "tri": true,
+      "stroke": 3,
+      "haloRadius": 27,
+      "triLength": 15,
+      "triLengthTo": 15,
+      "haloRotateSpeed": -1
+    }
+  ],
+  "outlines": false,
+  "flying": true,
+  "research": {
+     "parent": "test",
+     "requirements": [
+       {
+	       "item": "silicon",
+	       "amount": 10000
+       },
+	     {
+		     "item": "titanium",
+		     "amount": 9000
+	     },
+	     {
+		     "item": "living-steel",
+		     "amount": 6000
+	     },
+	     {
+		     "item": "surge-alloy",
+		     "amount": 4000
+	     }
+    ]
+  },
+  "health": 9100,
+  "armor": 20,
+  "baseRotateSpeed": 0.06,
+  "weapons": [
+    {
+      "name": "hive-nuke",
+            "mirror": false,
+            "alternate": false,
+            "x": -2.2,
+            "continuous": true,
+            "y": -20,
+            "reload": 600,
+            "rotate": false,
+            "shootSound": "laserbig",
+            "bullet": {
+              "type": "ContinuousLaserBulletType",
+              "length": 500,
+              "width": 16,
+              "makeFire": false,
+              "status": "melting",
+              "statusDuration": 600,
+              "damage": 75,
+              "lifetime": 280,
+              "fadeTime": 60,
+              "colors":["861303", "ff0d0d", "ff4949"],
+              "hitEffect": {
+                "type": "MultiEffect",
+                "effects": [
+                {
+                  "type": "WaveEffect",
+                  "sizeFrom": 32,
+                  "sizeTo": 22,
+                  "colorFrom": "ff0d0d",
+                  "colorTo": "ff4949",
+                  "lifetime": 120
+                },
+                { 
+                  "type": "WaveEffect",
+                  "sizeFrom": 22,
+                  "sizeTo": 32,
+                  "colorFrom": "ff4949",
+                  "colorTo": "ff0d0d",
+                  "lifetime": 120
+                },
+              {
+                "type": "ParticleEffect",
+                "particles": 8,
+                "length": 35,
+                "colorFrom": "1d1d1d",
+                "colorTo": "070707",
+                "lifetime": 420
+              },
+              {
+                "type": "ParticleEffect",
+                "particles": 8,
+                "length": 35,
+                "colorFrom": "070707",
+                "colorTo": "1d1d1d",
+                "lifetime": 420
+              }
+            ]
+          }
+       }
+	  },
+    {
+      "name": "hive-mg",
+      "rotate": true,
+      "mirror": false,
+      "rotateSpeed": 20,
+      "x": 40,
+      "y": 8,
+      "reload": 30,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 100,
+        "length": 460,
+        "status": "burning",
+        "statusDuration": 60,
+        "colors":["861303", "ff0d0d", "ff4949"]
+      }
+    },
+    {
+      "name": "hive-mg",
+      "mirror": false,
+      "rotate": true,
+      "rotateSpeed": 20,
+      "x": -40,
+      "y": 8,
+      "reload": 30,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 100,
+        "length": 460,
+        "status": "burning",
+        "statusDuration": 60,
+        "colors":["861303", "ff0d0d", "ff4949"]
+      }
+    },
+    {
+      "name": "hive-laser",
+      "x": -60,
+      "mirror": false,
+      "rotate": true,
+      "rotateSpeed": 20,
+      "y": 23,
+      "reload": 240,
+      "continuous": true,
+      "shootSound": "laserblast",
+      "bullet": {
+        "type": "ContinuousLaserBulletType",
+              "length": 400,
+              "width": 6,
+              "makeFire": false,
+              "status": "melting",
+              "statusDuration": 60,
+              "damage": 30,
+              "lifetime": 120,
+              "fadeTime": 20,
+              "colors":["861303", "ff0d0d", "ff4949"],
+        "hitEffect": {
+                  "type": "WaveEffect",
+                  "sizeFrom": 16,
+                  "sizeTo": 0,
+                  "colorFrom": "ff0d0d",
+                  "colorTo": "ff4949",
+                  "lifetime": 90 
+        }
+      }
+    },
+    {
+      "name": "hive-laser",
+      "x": 60,
+      "mirror": false,
+      "rotate": true,
+      "rotateSpeed": 20,
+      "y": 23,
+      "reload": 240,
+      "continuous": true,
+      "shootSound": "laserblast",
+      "bullet": {
+        "type": "ContinuousLaserBulletType",
+              "length": 400,
+              "width": 6,
+              "makeFire": false,
+              "status": "melting",
+              "statusDuration": 60,
+              "damage": 30,
+              "lifetime": 120,
+              "fadeTime": 20,
+              "colors":["861303", "ff0d0d", "ff4949"],
+  "hitEffect": {
+                  "type": "WaveEffect",
+                  "sizeFrom": 16,
+                  "sizeTo": 0,
+                  "colorFrom": "ff0d0d",
+                  "colorTo": "ff4949",
+                  "lifetime": 90 
+        }
+      }
+    }
+  ],
+    "abilities": [
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "hive-attack",
+      "spawnX": 42,
+      "spawnY": -12,
+      "spawnTime": 800
+    },
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "hive-attack",
+      "spawnX": -42,
+      "spawnY": -12,
+      "spawnTime": 800
+    },
+    {
+      "type": "ForceFieldAbility",
+      "radius": 115,
+      "regen": 5,
+      "max": 20900,
+      "cooldown": 600
+    }
+  ],
+  "hitSize": 85
+}

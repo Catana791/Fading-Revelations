@@ -1,0 +1,91 @@
+{
+  "type": "legs",
+  "name": "Auratus",
+  "description": "A large leged unit that uses elemental weapons to deal high damage.",
+  "drag": 0.1,
+  "speed": 0.62,
+  "hitSize": 23,
+  "health": 9100,
+  "armor": 6,
+  "rotateSpeed": 2.7,
+  "legCount": 6,
+  "legMoveSpace": 1,
+  "legPairOffset": 3,
+  "legLength": 35,
+  "legExtension": -15,
+  "legBaseOffset": 12,
+  "stepShake": 1,
+  "legLengthScl": 0.96,
+  "rippleScale": 2,
+  "legSpeed": 0.2,
+  "legSplashDamage": 40,
+  "legSplashRange": 32,
+  "drownTimeMultiplier": 2.2,
+  "hovering": true,
+  "shadowElevation": 0.65,
+  "groundLayer": 75,
+  "weapons": [
+    {
+      "x": 20,
+      "y": -1,
+      "reload": 6,
+      "mirror": false,
+      "rotate": false,
+      "name": "spiroct-weapon",
+      "shootSound": "sap",
+      "bullet": {
+        "type": "LiquidBulletType",
+        "liquid": "water",
+        "speed": 3,
+        "lifetime": 60,
+        "damage": 20,
+        "pierce": true,
+        "status": "wet"
+      }
+    },
+    {
+      "x": -20,
+      "y": -1,
+      "reload": 10,
+      "mirror": false,
+      "rotate": false,
+      "name": "spiroct-weapon",
+      "shootSound": "sap",
+      "bullet": {
+        "type": "LiquidBulletType",
+        "liquid": "slag",
+        "speed": 3,
+        "lifetime": 60,
+        "damage": 40,
+        "status": "burning"
+      }
+    },
+    {
+      "x": 0,
+      "y": -12,
+      "reload": 32,
+      "mirror": false,
+      "rotate": true,
+      "name": "spiroct-weapon",
+      "shootSound": "artillery",
+      "bullet": {
+        "type": "MissileBulletType",
+        "height": 12,
+        "width": 8,
+        "frontColor": "fcf387",
+        "backColor": "d99f6b",
+        "trailColor": "d99f6b",
+        "trailChance": -1,
+        "trailLength": 12,
+        "trailWidth": 3,
+        "speed": 5,
+        "lifetime": 60,
+        "damage": 60,
+        "pierce": true,
+        "pierceBuilding": true,
+        "pierceCap": 6
+      }
+    }
+  ],
+  "research": "scofra"
+}

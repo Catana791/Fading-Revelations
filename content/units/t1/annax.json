@@ -1,0 +1,41 @@
+{
+  "type": "mech",
+  "name": "Annax",
+  "description": "A small legged specialist unit capable of dealing high damage via twin slag guns.",
+  "speed": 1,
+  "hitSize": 8,
+  "health": 300,
+  "mechSideSway": 0.25,
+  "weapons": [
+    {
+      "name": "atrax-weapon",
+      "x": 6,
+      "y": -1,
+      "reload": 180,
+      "shootSound": "flame",
+      "rotate": false,
+      "mirror": true,
+      "shoot": {
+        "firstShotDelay": 60,
+        "shots": 12,
+        "shotDelay": 3
+      },
+      "chargeSound": "lasercharge2",
+      "alternate": false,
+      "bullet": {
+        "type": "LiquidBulletType",
+        "liquid": "slag",
+        "speed": 4,
+        "lifetime": 40,
+        "damage": 3,
+        "pierce": true,
+        "pierceCap": 2,
+        "buildingDamageMultiplier": 0.9,
+        "chargeEffect": "lightningCharge",
+        "shootEffect": "shootSmall",
+        "ejectEffect": "none"
+      }
+    }
+  ],
+  "research": "primary-factory"
+}

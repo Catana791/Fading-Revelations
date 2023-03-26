@@ -1,0 +1,96 @@
+{
+  "type": "flying",
+  "hovering": true,
+  "name": "Procer",
+  "description": "A medium sized unit made for assault.",
+  "health": 1100,
+  "hitSize": 17.5,
+  "lowAltitude": true,
+  "armor": 9,
+  "speed": 1.2,
+  "itemCapacity": 25,
+  "engineOffset": 32,
+  "engineSize": 8,
+  "parts": [
+    {
+      "type": "HoverPart",
+      "x": 8,
+      "y": -13,
+      "mirror": true,
+      "radius": 6,
+      "phase": 240,
+      "stroke": 2,
+      "rotation": 90,
+      "layerOffset": -0.001,
+      "color": "ffd59e"
+    }
+    {
+      "type": "HoverPart",
+      "x": 13,
+      "y": -6,
+      "mirror": true,
+      "radius": 6,
+      "phase": 240,
+      "stroke": 2,
+      "layerOffset": -0.001,
+      "color": "ffd59e"
+    },
+    {
+      "type": "HoverPart",
+      "x": 11,
+      "y": 6,
+      "mirror": true,
+      "radius": 6,
+      "phase": 240,
+      "stroke": 2,
+      "layerOffset": -0.001,
+      "color": "ffd59e"
+    }
+  ],
+  "weapons": [
+    {
+      "x": -6,
+      "y": -4,
+      "mirror": true,
+      "name": "missiles-mount",
+      "rotate": true,
+      "reload": 20,
+      "alternate": true,
+      "shootSound": "missile",
+      "shoot": {
+        "shots": 2,
+        "shotDelay": 2
+      },
+      "bullet": {
+        "type": "MissileBulletType",
+        "width": 8,
+        "height": 12,
+        "splashDamage": 15,
+        "splashDamageRadius": 24
+        "speed": 4,
+        "lifetime": 60,
+        "pierce": true,
+        "pierceCap": 3,
+        "damage": 10
+      }
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "mirror": false,
+      "rotate": false,
+      "reload": 120,
+      "inaccuracy": 4,
+      "shootSound": "laser",
+      "name": "missiles-mount",
+      "bullet": {
+        "type": "LaserBulletType",
+        "length": 240,
+        "damage": 110,
+        "lifetime": 60,
+        "colors": ["861303", "ff0d0d", "ff4949"]
+      }
+    }
+  ],
+  "research": "apis"
+}

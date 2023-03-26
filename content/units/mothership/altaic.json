@@ -1,0 +1,163 @@
+{
+  "type": "naval",
+  "name": "Altaic",
+  "description": "A huge support naval ship equipped with multiple healing and point defense weapons. Spawns Oxynoe. Damages enemies and slows them down using an energy field. Said energy field also target allied blocks and units and heals them",
+  "health": 21000,
+  "armor": 16,
+  "speed": 0.75,
+  "drag": 0.17,
+  "hitSize": 61,
+  "accel": 0.25,
+  "rotateSpeed": 1.6,
+  "faceTarget": false,
+  "trailLength": 85,
+  "trailScl": 5,
+  "waveTrailX": 28,
+  "waveTrailY": -39,
+  "buildSpeed": 3.8,
+  "abilities": [
+    {
+      "type": "UnitSpawnAbility",
+      "unit": "oxynoe",
+      //again, might need adjustment
+      "spawnTime": 600
+      //
+      "spawnY": -50
+    },
+    {
+      "type": "EnergyFieldAbility",
+      "color": "84f491",
+      "damage": 20,
+      "healPercent": 1,
+      "hitBuildings": true,
+      "hitUnits": true,
+      "maxTargets": 12,
+      "range": 240,
+      "reload": 12,
+      "rotateSpeed": 1.2,
+      //todo: very bad status name fr fr
+      "status": "frt-construction-shock",
+      "statusDuration": 360,
+      //
+      "targetAir": true,
+      "targetGround": true,
+      "y": 10
+    }
+  ],
+  "weapons": [
+    {
+      "type": "PointDefenseWeapon",
+      "x": -25,
+      "y": 20,
+      "mirror": true,
+      "reload": 5,
+      "targetInterval": 5,
+      "targetSwitchInterval": 8,
+      "bullet": {
+        "shootEffect": "sparkShoot",
+        "hitEffect": "pointHit",
+        "maxRange": 240,
+        "damage": 30
+      }
+    },
+    {
+      "type": "PointDefenseWeapon",
+      "x": -25,
+      "y": -30,
+      "mirror": true,
+      "reload": 7,
+      "targetInterval": 7,
+      "targetSwitchInterval": 10,
+      "bullet": {
+        "shootEffect": "sparkShoot",
+        "hitEffect": "pointHit",
+        "maxRange": 240,
+        "damage": 35
+      }
+    },
+    {
+      "x": 0,
+      "y": 40,
+      "reload": 170,
+      "recoil": 2,
+      "rotate": false,
+      "shake": 3,
+      "mirror": false,
+      "controllable": true,
+      "autoTarget": true,
+      "shootSound": "beam",
+      "continuous": true,
+      "cooldownTime": 170,
+      "bullet": {
+        "type": "ContinuousLaserBulletType",
+        "maxRange": 220,
+        "damage": 30,
+        "length": 240,
+        "hitEffect": "hitMeltHeal",
+        "drawSize": 460,
+        "lifetime": 155,
+        "shake": 1,
+        "shootEffect": "shootHeal",
+        "smokeEffect": "none",
+        "width": 6,
+        "largeHit": true,
+        "incendSpread": 0,
+        "incendChance": 0,
+        "incendAmount": 0,
+        "healPercent": 0.5,
+        "collidesTeam": true,
+        "colors": ["62ae7f", "84f491", "ffffff"]
+      }
+    },
+    {
+      //this weapon might turn out way too op or not fit at all; testing is required
+      "x": 12,
+      "y": -38,
+      "reload": 6,
+      "inaccuracy": 5,
+      "shoot": {
+        "shots": 12
+      },
+      "mirror": true,
+      "shootCone": 90,
+      "rotate": true,
+      "rotateSpeed": 2,
+      "shootSound": "flame",
+      "bullet": {
+        "type": "BasicBulletType",
+        "speed": 6,
+        "damage": 2,
+        "buildingDamageMultiplier": 0.25
+        "despawnEffect": "none",
+        "lifetime": 45,
+        "height": 0.01,
+        "width": 0.01,
+        "makeFire": false,
+        "incendSpread": 0,
+        "incendChance": 0,
+        "incendAmount": 0,
+        "pierceBuilding": true,
+        "pierceCap": 4,
+        "collidesTeam": true,
+        "healAmount": 4,
+        "smokeEffect": {
+          "type": "ParticleEffect",
+          "particles": 30,
+          "length": 300,
+          "lifetime": 30,
+          "interp": "circleOut",
+          "cone": 8,
+          "colorFrom": "84f491",
+          "colorTo": "62ae7f",
+          "sizeFrom": 6,
+          "sizeTo": 1,
+          //testing line particles
+          "line": true,
+          "strokeFrom": 0.8,
+          "strokeTo": 0.6
+        }
+      }
+    }
+  ],
+  "research": "aestiva"
+}

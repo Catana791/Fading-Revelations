@@ -1,0 +1,50 @@
+{
+  "type": "naval",
+  "name": "Arvens",
+  "description": "A medium sized naval support ship equipped without any weaponry but instead a mend projector. Buffs near allied units' build speed.",
+  "health": 920,
+  "speed": 0.96,
+  "accel": 0.27,
+  "rotateSpeed": 3,
+  "drag": 0.16,
+  "hitSize": 17,
+  "armor": 6,
+  "faceTarget": false,
+  "trailLength": 20,
+  "waveTrailX": 7,
+  "waveTrailY": -8,
+  "trailScl": 1.77,
+  "range": 200,
+  "weapons": [
+    {
+      "type": "RepairBeamWeapon",
+      "repairSpeed": 1,
+      "targetUnits": true,
+      "targetBuildings": true,
+      "x": 0,
+      "y": -10,
+      "mirror": false,
+      "rotate": true,
+      "rotateSpeed": 3,
+      "bullet": {
+        "maxRange": 160
+      }
+    }
+  ],
+  "abilities": [
+    {
+      "type": "RepairFieldAbility",
+      "reload": 90,
+      "amount": 15,
+      "range": 200
+    },
+    {
+      "type": "StatusFieldAbility",
+      "effect": "frt-polymorphous-building",
+      "duration": 360,
+      "reload": 720,
+      "range": 200
+    }
+  ],
+  "research": "alba"
+}
