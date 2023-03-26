@@ -3,6 +3,7 @@
   "name": "Arnux",
   "description": "A heavy naval unit equipped with high-tech weaponry that inflicts emp on hit targets.",
   "health": 12100,
+  "research": "cromis",
   "armor": 12,
   "hitSize": 32.5,
   "speed": 0.82,
