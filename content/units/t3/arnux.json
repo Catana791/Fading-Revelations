@@ -65,7 +65,7 @@
         "damage": 600,
         "lifetime": 90,
         "largeHit": true,
-        "status": "frt-emp",
+        "status": "me-emp",
         "statusDuration": 120,
         "sideLength": 20,
         "sideWidth": 4,
@@ -116,7 +116,7 @@
           ]
         },
         "trailChance": -1,
-        "sprite": "frt-emp-bullet",
+        "sprite": "me-emp-bullet",
         "speed": 4,
         "pierce": true,
         "spin": 60,
