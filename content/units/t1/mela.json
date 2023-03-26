@@ -62,7 +62,7 @@
           "width": 12,
           "hitSize": 12,
           "damage": 5,
-          "sprite": "frt-lml-mine"
+          "sprite": "me-lml-mine"
           "frontColor": "d99f6b",
           "shrinkX": 0,
           "shrinkY": 0,
