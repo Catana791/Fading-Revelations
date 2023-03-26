@@ -12,5 +12,7 @@
     "water": -0.5,
     "light": -0.2,
     "heat": 0.5
-  }
+  },
+  "statusGround": true,
+  "statusAir": false
 }
