@@ -4,7 +4,6 @@
   "description": "Even if the name might sound cute, this is Cerbero's proudest anti-air invention: The Cerberian Anti Air Turret System.",
   "size": 5,
   "category": "turret",
-  "research": "duo",
   "requirements": [],
   "buildVisibility": "editorOnly",
   "targetGround": false,
