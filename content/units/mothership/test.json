@@ -1,7 +1,7 @@
 {
   "name": "[red]Lycosid",
   "type": "legs",
-  "description": "A slow but very strong spider-like unit equipped with higly deadly weapons!",
+  "description": "A slow but very strong spider-like unit equipped with highly deadly weapons!",
   "details": "The Lycosid was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
   "speed": 0.66,
   "legCount": 8,
@@ -59,7 +59,7 @@
       "recoil": 4,
       "bullet": {
          "type": "ShrapnelBulletType",
-          "damage": 90,
+          "damage": 100,
         "width": 30,
         "length": 240,
       "serrationLenScl": 8,
@@ -89,7 +89,7 @@
       "recoil": 4,
       "bullet": {
          "type": "ShrapnelBulletType",
-          "damage": 90,
+          "damage": 100,
         "width": 30,
       "serrationLenScl": 8,
       "serrationSpaceOffset": 70,
@@ -165,7 +165,7 @@
     "status": "sapped",
     "statusDuration": 60,
     "fragLifeMin": 0.4,
-    "fragBullets": 11,
+    "fragBullets": 9,
     "fragBullet": {
       "type": "ArtilleryBulletType",
       "hitEffect": "sapExplosion",
@@ -176,7 +176,7 @@
       "knockback": 1,
       "collidesTiles": false,
       "splashDamageRadius": 90,
-      "splashDamage": 90,
+      "splashDamage": 80,
       "damage": 40,
       "backColor": "665c9f",
       "frontColor": "bf92f9",
