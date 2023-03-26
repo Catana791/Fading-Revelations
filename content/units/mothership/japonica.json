@@ -180,7 +180,7 @@
       "rotateSpeed": 0.2,
       "sectors": 3,
       "shootSound": "spark",
-      "status": "frt-japonica-weakened",
+      "status": "me-japonica-weakened",
       "statusDuration": 60,
       "y": 40,
       "x": 0
