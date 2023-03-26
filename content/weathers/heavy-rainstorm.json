@@ -3,9 +3,9 @@
   "name": "Heavy Rainstorm",
   "status": "wet",
   "sound": "rain",
-  "soundVol": 0.4,
-  "density": 4000,
-  "stroke": 0.82,
+  "soundVol": 0.7,
+  "density": 10,
+  "stroke": 1.2,
   "liquid": "water",
   "color": "7a95eaff"
 }
