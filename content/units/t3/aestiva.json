@@ -1,6 +1,6 @@
 {
   "type": "naval",
-  "name": "Aestiva",
+  "name": "[green]Aestiva",
   "description": "A large support naval ship equipped with a healing shotgun. Spawns Alba.",
   "health": 9000,
   "armor": 12,
