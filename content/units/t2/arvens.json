@@ -1,6 +1,6 @@
 {
   "type": "naval",
-  "name": "Arvens",
+  "name": "[green]Arvens",
   "description": "A medium sized naval support ship equipped without any weaponry but instead a mend projector. Buffs near allied units' build speed.",
   "health": 920,
   "speed": 0.96,
