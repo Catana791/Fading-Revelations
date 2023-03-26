@@ -18,6 +18,7 @@
   "weapons": [
     {
       "type": "RepairBeamWeapon",
+      "name": "repair-beam-weapon",
       "repairSpeed": 1,
       "targetUnits": true,
       "targetBuildings": true,
