@@ -1,0 +1,16 @@
+{
+  "type": "RainWeather",
+  "name": "Slack Rain",
+  "status": "burning",
+  "sound": "rain",
+  "soundVol": 0.5,
+  "density": 1200,
+  "stroke": 0.62,
+  "liquid": "slag",
+  "color": "ffcd66ff",
+  "attrs": {
+    "water": -0.5,
+    "light": -0.2,
+    "heat": 0.5
+  }
+}
