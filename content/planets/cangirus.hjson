@@ -24,17 +24,8 @@ maxZoom: 1
 minZoom: 1
 allowSectorInvasion: false
 radius: 1
-generator: {
-  type: PlanetGenerator
-  min: 100
-  max: 100
-  radMin: 480
-  radMax: 480
-  seed: 6
-  berylChance: 0
-}
+generator: PlanetGenerator
 orbitSpacing: 4
-radius: 1.1
 drawOrbit: true
 atmosphereRadIn: 0.1
 atmosphereRadOut: 0.3
