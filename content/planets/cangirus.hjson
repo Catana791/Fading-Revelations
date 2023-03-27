@@ -15,15 +15,7 @@ mesh: {
   mag: 1
 }
 #cloudMesh: {}
-generator: {
-  type: PlanetGenerator
-  min: 100
-  max: 100
-  radMin: 480
-  radMax: 480
-  seed: 69420
-  berylChance: 0
-}
+generator: PlanetGenerator
 sectorSize: 1
 startSector: 0
 orbitSpacing: 4
