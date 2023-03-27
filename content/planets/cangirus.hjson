@@ -20,6 +20,7 @@ mesh: {
 #cloudMesh: {}
 startSector: 0
 sectorSize: 1
+maxZoom: 1
 allowSectorInvasion: false
 radius: 1
 generator: {
