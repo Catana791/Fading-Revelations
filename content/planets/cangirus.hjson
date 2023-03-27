@@ -3,7 +3,7 @@ description: A planet with land and water.
 alwaysUnlocked: true
 mesh: {
   type: NoiseMesh
-  planet: cerbero
+  planet: cangirus
   seed: 6
   divisions: 5
   color1: 4b64a9
