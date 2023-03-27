@@ -19,8 +19,8 @@ generator: PlanetGenerator
 sectorSize: 1
 startSector: 0
 orbitSpacing: 4
-radius: 1.5
-minZoom: 1.8
+radius: 1.3
+minZoom: 1.5
 drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
@@ -30,7 +30,7 @@ updateLighting: true
 sectorSeed: 0
 bloom: false
 visible: true
-atmosphereColor: 925115
+atmosphereColor: 5992af
 iconColor: 4b64a9
 hasAtmosphere: true
 allowWaveSimulation: true
