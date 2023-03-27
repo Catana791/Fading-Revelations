@@ -8,9 +8,6 @@ mesh: {
   divisions: 5
   color1: 4b64a9
   color2: 59b36a
-  colorOct: 4
-  colorPersistence: 0.4
-  colorScale: 0.4
   radius: 1
   octaves: 4
   persistence: 1
@@ -20,8 +17,8 @@ mesh: {
 #cloudMesh: {}
 startSector: 0
 sectorSize: 1
-maxZoom: 1
-minZoom: 1
+maxZoom: 0.5
+minZoom: 0.5
 allowSectorInvasion: false
 radius: 1
 generator: PlanetGenerator
