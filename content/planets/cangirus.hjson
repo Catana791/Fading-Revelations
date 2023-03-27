@@ -11,8 +11,8 @@ mesh: {
   radius: 1.2
   octaves: 4
   persistence: 1
-  scale: 1
-  mag: 1.5
+  scale: 0.75
+  mag: 1
 }
 #cloudMesh: {}
 generator: {
