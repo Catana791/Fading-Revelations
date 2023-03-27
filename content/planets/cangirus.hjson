@@ -43,7 +43,7 @@ sectorSeed: 0
 bloom: false
 visible: true
 atmosphereColor: 000000
-iconColor: 29302b
+iconColor: 4174a2
 hasAtmosphere: true
 allowWaveSimulation: true
 clearSectorOnLose: true
