@@ -5,7 +5,7 @@ mesh: {
   type: NoiseMesh
   planet: cerbero
   seed: 6
-  divisions: 12
+  divisions: 6
   color1: 4b64a9
   color2: 4b64a9
   radius: 1
