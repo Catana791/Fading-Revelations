@@ -24,7 +24,7 @@ generator: {
   seed: 69420
   berylChance: 0
 }
-sectorSize: 4
+sectorSize: 0.2
 startSector: 0
 orbitSpacing: 4
 radius: 1.3
