@@ -4,7 +4,7 @@ alwaysUnlocked: true
 mesh: {
   type: NoiseMesh
   planet: cerbero
-  seed: 6181141195
+  seed: 6
   divisions: 12
   color1: 4b64a9
   color2: 4b64a9
@@ -15,6 +15,10 @@ mesh: {
   mag: 1.5
 }
 #cloudMesh: {}
+startSector: 0
+sectorSize: 1
+allowSectorInvasion: false
+radius: 1
 generator: {
   type: PlanetGenerator
   min: 100
