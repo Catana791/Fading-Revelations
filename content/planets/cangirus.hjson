@@ -1,0 +1,47 @@
+localizedName: Cerbero
+description: A barren planet where tragedy struck long ago. Nothing is left here besides destruction and death.
+alwaysUnlocked: true
+mesh: {
+  type: NoiseMesh
+  planet: cerbero
+  seed: 6181141195
+  divisions: 12
+  color1: 4b64a9
+  color2: 4b64a9
+  radius: 1
+  octaves: 12
+  persistence: 1
+  scale: 1
+  mag: 1.5
+}
+#cloudMesh: {}
+generator: {
+  type: PlanetGenerator
+  min: 100
+  max: 100
+  radMin: 480
+  radMax: 480
+  seed: 69420
+  berylChance: 0
+}
+orbitSpacing: 4
+radius: 1.5
+minZoom: 1.8
+drawOrbit: true
+atmosphereRadIn: 0.1
+atmosphereRadOut: 0.3
+accessible: true
+updateLighting: true
+sectorSeed: 0
+bloom: false
+visible: true
+atmosphereColor: 000000
+iconColor: 29302b
+hasAtmosphere: true
+allowWaveSimulation: true
+clearSectorOnLose: true
+allowWaves: true
+defaultCore: me-core-level-4
+parent: sun
+solarSystem: sun
+launchCandidates: []
