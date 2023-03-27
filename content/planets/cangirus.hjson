@@ -33,7 +33,6 @@ generator: {
 }
 orbitSpacing: 4
 radius: 1.1
-minZoom: 1.8
 drawOrbit: true
 atmosphereRadIn: 0.1
 atmosphereRadOut: 0.3
