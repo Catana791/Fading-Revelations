@@ -5,7 +5,7 @@ mesh: {
   type: NoiseMesh
   planet: cerbero
   seed: 6
-  divisions: 8
+  divisions: 5
   color1: 4b64a9
   color2: 59b36a
   colorOct: 4
@@ -14,7 +14,7 @@ mesh: {
   radius: 1
   octaves: 4
   persistence: 1
-  scale: 1
+  scale: 0.75
   mag: 1.2
 }
 #cloudMesh: {}
