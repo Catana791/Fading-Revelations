@@ -8,7 +8,7 @@ mesh: {
   divisions: 5
   color1: 4b64a9
   color2: 59b36a
-  radius: 0.9
+  radius: 1.2
   octaves: 4
   persistence: 1
   scale: 0.75
@@ -27,7 +27,7 @@ generator: {
 sectorSize: 1
 startSector: 0
 orbitSpacing: 4
-radius: 0.9
+radius: 1.5
 minZoom: 1.5
 drawOrbit: true
 atmosphereRadIn: 0
