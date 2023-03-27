@@ -27,7 +27,7 @@ atmosphereRadOut: 0.3
 accessible: true
 orbitRadius: 24
 updateLighting: true
-sectorSeed: 0
+sectorSeed: 69420
 bloom: false
 visible: true
 atmosphereColor: 5992af
