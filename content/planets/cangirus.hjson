@@ -8,8 +8,11 @@ mesh: {
   divisions: 6
   color1: 4b64a9
   color2: 4b64a9
+  colorOct: 4
+  colorPersistence: 0.4
+  colorScale: 0.4
   radius: 1
-  octaves: 12
+  octaves: 6
   persistence: 1
   scale: 1
   mag: 1.5
