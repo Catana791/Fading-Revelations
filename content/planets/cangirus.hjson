@@ -1,5 +1,5 @@
-localizedName: Cerbero
-description: A barren planet where tragedy struck long ago. Nothing is left here besides destruction and death.
+localizedName: Cangirus
+description: A planet with land and water. 
 alwaysUnlocked: true
 mesh: {
   type: NoiseMesh
