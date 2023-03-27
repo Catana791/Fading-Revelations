@@ -92,6 +92,7 @@
       "shootSound": "beam",
       "continuous": true,
       "cooldownTime": 170,
+      "ignoreRotation": true,
       "bullet": {
         "type": "ContinuousLaserBulletType",
         "maxRange": 220,
