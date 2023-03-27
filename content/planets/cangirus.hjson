@@ -5,17 +5,17 @@ mesh: {
   type: NoiseMesh
   planet: cerbero
   seed: 6
-  divisions: 6
+  divisions: 5
   color1: 4b64a9
-  color2: 4b64a9
+  color2: 59b36a
   colorOct: 4
   colorPersistence: 0.4
   colorScale: 0.4
   radius: 1
-  octaves: 6
+  octaves: 4
   persistence: 1
   scale: 1
-  mag: 1.5
+  mag: 1.2
 }
 #cloudMesh: {}
 startSector: 0
@@ -28,11 +28,11 @@ generator: {
   max: 100
   radMin: 480
   radMax: 480
-  seed: 69420
+  seed: 6
   berylChance: 0
 }
 orbitSpacing: 4
-radius: 1.5
+radius: 1.1
 minZoom: 1.8
 drawOrbit: true
 atmosphereRadIn: 0.1
