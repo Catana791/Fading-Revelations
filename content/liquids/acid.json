@@ -1,0 +1,18 @@
+{
+  "type": "CellLiquid",
+  "moveThroughBlocks": false,
+  "canStayOn": [],
+  "incinerable": false,
+  "spreadDamage": 0,
+  "capPuddles": true,
+  "maxSpread": 0,
+  "name": "Acid",
+  "description": "A dangerous liquid.",
+  "temperature": 0.2,
+  "color": "cde03a",
+  "colorFrom": "b0bf1a",
+  "colorTo": "f8f854",
+  "blockReactive": false,
+  "viscosity": 0.2,
+  "research": "living-steel-liquid"
+}
