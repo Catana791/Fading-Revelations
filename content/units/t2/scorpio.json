@@ -37,13 +37,12 @@
       "cooldownTime": 30,
       "bullet": {
         "width": 5,
-        "type": "RailBulletType",
+        "type": "LaserBulletType",
         "length": 160,
         "damage": 100,
+        "lifetime": 30,
         "hitColor": "feb380",
         "hitEffect": "hitBulletColor",
-        "endEffect": "hitBulletColor",
-        "pierceDamageFactor": 0.8,
         "smokeEffect": "shootSmallSmoke",
         "shootEffect": "lightningCharge",
       }
