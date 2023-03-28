@@ -156,9 +156,8 @@
       "status": "me-neutron-frozen",
       "statusDuration": 180,
       "pierceCap": 40,
-    }
-  },
-  "acid": {
+    },
+    "acid": {
       "damage": 40,
       "type": "BasicBulletType",
       "sprite": "me-liquid-vortex",
@@ -207,5 +206,3 @@
   "health": 420,
   "research": "sprunkler"
 }
-
-  
