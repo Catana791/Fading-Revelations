@@ -153,6 +153,8 @@
       "damage": 65,
       "knockback": 60,
       "pierce": true,
+      "status": "me-neutron-frozen",
+      "statusDuration": 180,
       "pierceCap": 40,
     }
   },
@@ -180,7 +182,8 @@
       "pierceCap": 25,
       "status": "me-acidic-burn",
       "statusDuration": 120
-    },
+    }
+  },
   "rotateSpeed": 200,
   "targetAir": false,
   "targetGround": true,
