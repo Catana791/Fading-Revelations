@@ -14,5 +14,7 @@
   "colorTo": "f8f854",
   "blockReactive": false,
   "viscosity": 0.2,
-  "research": "living-steel-liquid"
+  "research": "living-steel-liquid",
+  "status": "me-acidic-burn",
+  "statusDuration": 600
 }
