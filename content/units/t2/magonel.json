@@ -38,6 +38,7 @@
         "width": 0.01,
         "height": 0.01,
         "speed": 3,
+        "pierceArmor": true,
         "lifetime": 90,
         "damage": 20,
         "pierce": true,
