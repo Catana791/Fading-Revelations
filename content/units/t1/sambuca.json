@@ -30,7 +30,7 @@
       "rotate": true,
       "shoot": {
         "shots": 2,
-        "shotDelay": 0.5
+        "shotDelay": 2
       },
       "bullet": {
         "type": "BasicBulletType",
