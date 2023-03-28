@@ -119,7 +119,7 @@
         "lifetime": 40,
         "pierce": true,
         "hitEffect": "hitBulletColor",
-        "despawnEffect": "hitBulletColor";
+        "despawnEffect": "hitBulletColor",
         "shootEffect": "electricCharge"
       }
     },
@@ -140,7 +140,7 @@
         "lifetime": 40,
         "pierce": true,
         "hitEffect": "hitBulletColor",
-        "despawnEffect": "hitBulletColor";
+        "despawnEffect": "hitBulletColor",
         "shootEffect": "electricCharge"
       }
     }
