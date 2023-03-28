@@ -13,7 +13,7 @@
       "x": 27,
       "y": -67,
       "width": 26,
-      "height": 134
+      "height": 100
     }
   ],
   "singleTarget": false,
@@ -39,7 +39,7 @@
         "height": 0.01,
         "speed": 3,
         "lifetime": 90,
-        "damage": 7,
+        "damage": 20,
         "pierce": true,
         "hittable": false,
         "absorbable": false,
