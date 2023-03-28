@@ -15,6 +15,5 @@
   "blockReactive": false,
   "viscosity": 0.2,
   "research": "living-steel-liquid",
-  "status": "me-acidic-burn",
-  "statusDuration": 600
+  "effect": "me-acidic-burn"
 }
