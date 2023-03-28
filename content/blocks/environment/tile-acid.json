@@ -1,0 +1,20 @@
+{
+  "type": "Floor",
+  "name": "Acid",
+  "description": "A puddle of acid liquid. Beware!",
+  "status": "me-acidic-burn",
+  "statusDuration": 300,
+  "speedMultiplier": 0.3,
+  "variants": 0,
+  "liquidDrop": "acid",
+  "isLiquid": true,
+  "cacheLayer": "water",
+  "atributes": {
+    "water": -1
+  },
+  "emitLight": true,
+  "lightRadius": 5,
+  "lightColor": "9ed17161",
+  "albedo": 0.9,
+  "supportsOverlay": true
+}
