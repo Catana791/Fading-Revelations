@@ -1,0 +1,46 @@
+{
+  "type": "tank",
+  "name": "Sambuca",
+  "description": "A small tank equipped with a basic gun.",
+  "health": 500,
+  "armor": 3,
+  "squareShape": true,
+  "treadPullOffset": 8,
+  "treadRects": [
+    {
+      "x": 7,
+      "y": -26,
+      "width": 14,
+      "height": 51
+    }
+  ],
+  "singleTarget": true,
+  "omniMovement": false,
+  "rotateSpeed": 2,
+  "faceTarget": false,
+  "flying": false,
+  "range": 120,
+  "weapons": [
+    {
+      "x": 0,
+      "name": "sambuca-weapon",
+      "y": -1,
+      "reload": 18,
+      "mirror": false,
+      "rotate": true,
+      "shoot": {
+        "shots": 2,
+        "shotDelay": 0.5
+      },
+      "bullet": {
+        "type": "BasicBulletType",
+        "width": 6,
+        "height": 10,
+        "speed": 3,
+        "lifetime": 40,
+        "damage": 10,
+        "pierce": false
+      }
+    }
+  ]
+}
