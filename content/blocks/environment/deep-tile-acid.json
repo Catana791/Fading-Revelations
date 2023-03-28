@@ -4,7 +4,7 @@
   "description": "A puddle of acid liquid. Beware!",
   "status": "me-acidic-burn",
   "statusDuration": 300,
-  "speedMultiplier": 0.3,
+  "speedMultiplier": 0.4,
   "variants": 0,
   "liquidDrop": "acid",
   "liquidMultiplier": 1.3,
