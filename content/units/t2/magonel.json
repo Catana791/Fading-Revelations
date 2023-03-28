@@ -3,7 +3,6 @@
   "name": "Magonel",
   "description": "A tank unit equipped with a large flamethrower.",
   "hitSize": 26,
-  "treadPullOffset": 5,
   "speed": 0.74,
   "rotateSpeed": 1.7,
   "health": 5200,
