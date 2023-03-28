@@ -21,7 +21,7 @@
   "faceTarget": false,
   "weapons": [
     {
-      x": 0,
+      "x": 0,
       "y": 0,
       "name": "scorpio-weapon",
       "shootSound": "bolt",
