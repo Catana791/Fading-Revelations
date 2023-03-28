@@ -1,0 +1,53 @@
+{
+  "type": "tank",
+  "name": "Scorpio",
+  "description": "A tank equipped with a railgun.",
+  "hitSize": 18,
+  "treadPullOffset": 5,
+  "speed": 0.85,
+  "rotateSpeed": 3,
+  "health": 2300,
+  "armor": 8,
+  "treadRects": [
+    {
+      "x": 13,
+      "y": -38,
+      "width": 17,
+      "height": 76
+    }
+  ],
+  "singleTarget": false,
+  "omniMovement": false,
+  "faceTarget": false,
+  "weapons": [
+    {
+      x": 0,
+      "y": 0,
+      "name": "scorpio-weapon",
+      "shootSound": "bolt",
+      "layerOffset": 0.0001,
+      "reload": 18,
+      "shootY": 10,
+      "recoil": 2,
+      "rotate": true,
+      "rotateSpeed": 1.5,
+      "mirror": false,
+      "shootCone": 4,
+      "heatColor": "f9350f",
+      "cooldownTime": 30,
+      "bullet": {
+        "width": 5,
+        "type": "RailBulletType",
+        "length": 160,
+        "damage": 100,
+        "hitColor": "feb380",
+        "hitEffect": "hitBulletColor",
+        "endEffect": "hitBulletColor",
+        "pierceDamageFactor": 0.8,
+        "smokeEffect": "shootSmallSmoke",
+        "shootEffect": "lightningCharge",
+      }
+    }
+  ],
+  "research": "sambuca"
+}
