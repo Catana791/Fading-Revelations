@@ -39,7 +39,7 @@
         "width": 5,
         "type": "LaserBulletType",
         "length": 160,
-        "damage": 100,
+        "damage": 52,
         "lifetime": 30,
         "hitColor": "feb380",
         "hitEffect": "hitBulletColor",
