@@ -8,10 +8,11 @@
     "colorFrom": "f8f854",
     "colorTo": "b0bf1a",
     "interp": "circleOut",
-    "length": 30,
-    "baseLength": 40,
+    "length": 8,
+    "baseLength": 16,
     "line": true,
     "strokeFrom": 1.1,
-    "strokeTo": 0.3
+    "strokeTo": 0.3,
+    "lifetime": 120
   }
 }
