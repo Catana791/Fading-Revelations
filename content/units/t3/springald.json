@@ -23,6 +23,7 @@
     {
       "x": 0,
       "y": 0,
+      "name": "springald-weapon",
       "reload": 90,
       "shootY": 18,
       "shake": 5,
@@ -104,8 +105,8 @@
     },
     {
       "name": "springald-side-arm",
-      "x": 12,
-      "y": 16,
+      "x": 10,
+      "y": 8,
       "reload": 35,
       "shootY": 5.5,
       "recoil": 2,
@@ -124,8 +125,8 @@
     },
     {
       "name": "springald-side-arm",
-      "x": 12,
-      "y": -18,
+      "x": 11,
+      "y": -9,
       "reload": 35,
       "shootY": 5.5,
       "recoil": 2,
