@@ -84,9 +84,7 @@
         },
         "shootEffect": "shootTitan",
         "smokeEffect": "shootSmokeTitan",
-        "instantDisappear": true,
-        "damage": 0,
-        "spawnUnit": "me-onager-missile"
+        
       }
     },
     {
@@ -158,20 +156,50 @@
       "shootSound": "laser",
       "mirror": true,
       "alternate": true,
-      "reload": 167,
+      "reload": 194,
       "rotate": true,
       "inaccuracy": 7,
       "rotateSpeed": 1.4
       "bullet": {
-        "type": "LaserBulletType",
-        "width": 12,
-        "length": 240,
-        "damage": 180,
-        "pierce": true,
-        "pierceBuilding": true,
-        "buildingDamageMultiplier": 1.3,
-        "lifetime": 70,
-        "colors": ["ffa665", "d06b53", "ffffff"]
+        "type": "BasicBulletType",
+        "shootEffect": "shootTitan",
+        "smokeEffect": "shootSmokeTitan",
+        "hitColor": "d06b53",
+        "sprite": "large-orb",
+        "trailEffect": "missile-trail",
+        "trailInterval": 3,
+        "trailParam": 4,
+        "pierceCap": 3,
+        "fragOnHit": false,
+        "speed": 5,
+        "damage": 60,
+        "width": 16,
+        "height": 16,
+        "backColor": "d06b53",
+        "frontColor": "ffffff",
+        "shrinkX": 0,
+        "shrinkY": 0,
+        "trailColor": "d06b53",
+        "trailLength": 12,
+        "trailWidth": 2.2,
+        "despawnEffect": {
+          "type": "ExplosionEffect",
+          "waveColor": "d06b53",
+          "smokeColor": "6e7080",
+          "sparkColor": "7e6cba",
+          "waveStroke": 4,
+          "waveRad": 40
+        },
+        "hitEffect": {
+          "type": "ExplosionEffect",
+          "waveColor": "d06b53",
+          "smokeColor": "6e7080",
+          "sparkColor": "7e6cba",
+          "waveStroke": 4,
+          "waveRad": 40
+        },
+        "despawnSound": "dullExplosion",
+        
       }
     }
   ],
