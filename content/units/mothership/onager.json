@@ -43,7 +43,7 @@
         "height": 42,
         "hitSize": 32,
         "speed": 3,
-        "lifetime": 60,
+        "lifetime": 90,
         "shootEffect": "shootTitan",
         "smokeEffect": "shootSmokeTitan",
         "sprite": "large-orb",
