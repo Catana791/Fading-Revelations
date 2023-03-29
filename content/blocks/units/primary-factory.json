@@ -56,6 +56,15 @@
         "lead/20"
       ],
       "time": 2400
+    },
+    {
+      "unit": "sambuca",
+      "requirements": [
+        "silicon/40",
+        "lead/30",
+        "titanium/20"
+      ],
+      "time": 3000
     }
   ],
   "requirements": [
