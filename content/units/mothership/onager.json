@@ -3,7 +3,7 @@
   "name": "Onager",
   "description": "A huge tank equipped with a homing rocket cannon and several smaller weapons.",
   "hitSize": 92,
-  "treadPullOffset": 4,
+  "treadPullOffset": 8,
   "speed": 0.57,
   "health": 23000,
   "armor": 26,
