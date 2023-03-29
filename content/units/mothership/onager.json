@@ -99,7 +99,7 @@
       "rotateSpeed": 2.2,
       "shoot": {
         "shots": 3,
-        "shotDelay": 1.5
+        "shotDelay": 3
       },
       "bullet": {
         "shootEffect": "shootSmall",
@@ -130,7 +130,7 @@
       "rotateSpeed": 2.2,
       "shoot": {
         "shots": 3,
-        "shotDelay": 1.5
+        "shotDelay": 4
       },
       "bullet": {
         "shootEffect": "shootSmall",
