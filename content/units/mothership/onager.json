@@ -62,7 +62,6 @@
         "intervalBullets": 1,
         "intervalRandomSpread": 0,
         "intervalAngle": 0,
-        "intervalSpread": 0,
         "shootEffect": "shootTitan",
         "smokeEffect": "shootSmokeTitan",
         "type": "BasicBulletType",
