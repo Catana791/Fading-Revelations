@@ -166,7 +166,7 @@
         "smokeEffect": "shootSmokeTitan",
         "hitColor": "d06b53",
         "sprite": "large-orb",
-        "trailEffect": "missile-trail",
+        "trailEffect": "missileTrail",
         "trailInterval": 3,
         "trailParam": 4,
         "pierceCap": 3,
