@@ -1,6 +1,6 @@
 {
   "type": "tank",
-  "name": "Magonel",
+  "name": "[red]Magonel",
   "description": "A tank unit equipped with a large flamethrower.",
   "hitSize": 26,
   "speed": 0.74,
@@ -61,6 +61,5 @@
         }
       }
     }
-  ],
-  "research": "sambuca"
+  ]
 }
