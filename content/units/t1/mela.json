@@ -11,6 +11,7 @@
   "drag": 0.13,
   "accel": 0.5,
   "rotateSpeed": 3.8,
+  "range": 160,
   "weapons": [
     {
       "x": 0,
@@ -22,13 +23,13 @@
       "ejectEffect": "casing1",
       "bullet": {
         "type": "BasicBulletType",
-        "speed": 3,
+        "speed": 2,
         "damage": 15,
         "pierce": true,
         "pierceCap": 3,
         "width": 9,
         "height": 11,
-        "lifetime": 90,
+        "lifetime": 80,
         "ammoMultiplier": 6
       }
     },
