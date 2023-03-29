@@ -1,6 +1,6 @@
 {
   "type": "tank",
-  "name": "Onager",
+  "name": "[orange]Onager",
   "description": "A huge tank equipped with a homing rocket cannon and several smaller weapons.",
   "hitSize": 92,
   "speed": 0.36,
