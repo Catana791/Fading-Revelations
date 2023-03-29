@@ -87,7 +87,7 @@
           "trailLength": 8,
           "hitEffect": "blastExplosion",
           "splashDamageRadius": 24,
-          "splashDamage": 25,
+          "splashDamage": 55,
           "fragBullets": 8,
           "fragVelocityMin": 1,
           "fragVelocityMax": 1,
@@ -112,7 +112,7 @@
             "trailLength": 8,
             "hitEffect": "blastExplosion",
             "splashDamageRadius": 24,
-            "splashDamage": 10
+            "splashDamage": 25
           }
         }
       }
@@ -139,7 +139,7 @@
         "height": 16,
         "speed": 4,
         "lifetime": 60,
-        "damage": 30,
+        "damage": 45,
         "splashDamage": 10,
         "splashDamageRadius": 16,
         "pierce": true,
@@ -170,7 +170,7 @@
         "height": 16,
         "speed": 4,
         "lifetime": 90,
-        "damage": 30,
+        "damage": 45,
         "splashDamage": 10,
         "splashDamageRadius": 16,
         "pierce": true,
@@ -203,7 +203,7 @@
         "fragOnHit": false,
         "speed": 5,
         "lifetime": 60,
-        "damage": 60,
+        "damage": 90,
         "width": 16,
         "height": 16,
         "backColor": "d06b53",
@@ -233,7 +233,7 @@
         "fragBullet": {
           "type": "BasicBulletType",
           "speed": 2,
-          "damage": 15,
+          "damage": 25,
           "width": 8,
           "hitSize": 4,
           "height": 12,
@@ -268,7 +268,7 @@
         "intervalBullet": {
           "type": "BasicBulletType",
           "speed": 2,
-          "damage": 15,
+          "damage": 25,
           "width": 8,
           "hitSize": 4,
           "height": 12,
