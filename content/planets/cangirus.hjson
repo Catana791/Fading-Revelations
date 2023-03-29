@@ -1,5 +1,5 @@
 localizedName: Cangirus
-description: A lush planet that has land and water. This planet is tidally locked to the sun.
+description: A lush planet that has land and water.
 alwaysUnlocked: true
 mesh: {
   type: NoiseMesh
@@ -31,7 +31,7 @@ allowSectorInvasion: true
 prebuildBase: true
 startSector: 0
 orbitSpacing: 4
-radius: 1.8
+radius: 1.2
 minZoom: 1.5
 drawOrbit: true
 atmosphereRadIn: 0
@@ -52,4 +52,3 @@ defaultCore: core-shard
 parent: sun
 solarSystem: sun
 launchCandidates: []
-tidalLock: true
