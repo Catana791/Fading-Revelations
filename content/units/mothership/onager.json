@@ -102,7 +102,20 @@
             "lifetime": 60,
             "speed": 0
           }
-        }
+        },
+        "intervalBullet": {
+          "type": "ExplosionBulletType",
+          "killShooter": false,
+          "splashDamageRadius": 40,
+          "splashDamage": 25,
+          "speed": 0,
+          "lifetime": 45
+        },
+        "bulletInterval": 6,
+        "intervalRandomSpread": 0,
+        "intervalBullets": 1,
+        "intervalAngle": 180,
+        "intervalSpread": 300,
       }
     },
     {
