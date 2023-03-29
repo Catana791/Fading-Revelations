@@ -9,6 +9,7 @@
   "name": "Acid",
   "description": "A dangerous liquid.",
   "temperature": 0.2,
+  "coolant": false,
   "color": "cde03a",
   "colorFrom": "b0bf1a",
   "colorTo": "f8f854",
