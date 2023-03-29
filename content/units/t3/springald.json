@@ -72,7 +72,7 @@
           "width": 8,
           "height": 12,
           "lifetime": 15,
-          "speed": 4,
+          "speed": 2,
           "damage": 20,
           "pierce": true,
           "pierceBuilding": true,
@@ -95,6 +95,7 @@
           "despawnSound": "dullExplosion",
           "fragBullet": {
             "type": "ExplosionBulletType",
+            "killShooter": false,
             "splashDamageRadius": 40,
             "splashDamage": 30,
             "speed": 0,
