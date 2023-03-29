@@ -84,7 +84,46 @@
         },
         "shootEffect": "shootTitan",
         "smokeEffect": "shootSmokeTitan",
-        "type": "BasicBulletType"
+        "type": "BasicBulletType",
+        "speed": 4,
+        "lifetime": 80,
+        "damage": 320,
+        "sprite": "large-orb",
+        "frontColor": "ffffff",
+        "backColor": "d06b53",
+        "trailColor": "d06b53",
+        "trailLength": 21,
+        "trailWidth": 8,
+        "trailParam": 4,
+        "trailInterval": 4,
+        "trailEffect": "missileTrail",
+        "width": 48,
+        "height": 48,
+        "bulletInterval": 9,
+        "intervalBullets": 1,
+        "intervalRandomSpread": 0,
+        "intervalAngle": 0,
+        "intervalSpread": 0,
+        "intervalBullet": {
+          "type": "ExplosionBulletType",
+          "splashDamageRadius": 64,
+          "killShooter": false,
+          "splashDamage": 30,
+          "lifetime": 60
+        },
+        "fragRandomSpread": 0,
+        "fragSpread": 90,
+        "fragBullets": 4,
+        "fragVelocityMin": 0,
+        "fragVelocityMax": 0,
+        "fragLifeMin": 0.6,
+        "fragBullet": {
+          "type": "ExplosionBulletType",
+          "splashDamageRadius": 40,
+          "splashDamage": 50,
+          "killShooter": false,
+          "lifetime": 60
+        }
       }
     },
     {
