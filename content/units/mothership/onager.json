@@ -1,0 +1,198 @@
+{
+  "type": "tank",
+  "name": "Onager",
+  "description": "A huge tank equipped with a homing rocket cannon and several smaller weapons.",
+  "hitSize": 92,
+  "treadPullOffset": 1,
+  "speed": 0.57,
+  "health": 23000,
+  "armor": 26,
+  "crushDamage": 5,
+  "rotateSpeed": 0.9,
+  "abilities": [
+    {
+      "type": "ShieldArcAbility",
+      "angle": 90,
+      "x": 0,
+      "y": -35,
+      "max": 2500,
+      "regen": 1,
+      "region": "tecta-shield",
+      "width": 7,
+      "whenShooting": false,
+      "radius": -100
+    }
+  ],
+  "treadRects": [
+    {
+      "x": 60,
+      "y": -200,
+      "width": 128,
+      "height": 420
+    }
+  ],
+  "omniMovement": false,
+  "singleTarget": false,
+  "faceTarget": false,
+  "weapons": [
+    {
+      "name": "onager-weapon",
+      "shootSound": "missileLaunch",
+      "layerOffset": 0.1,
+      "reload": 300,
+      "shootY": 64,
+      "shake": 6,
+      "recoil": 6,
+      "rotate": true,
+      "rotateSpeed": 0.72,
+      "shoot": {
+         "firstShotDelay": 120
+      },
+      "chargeSound": "lasercharge",
+      "mirror": false,
+      "x": 0,
+      "y": -4,
+      "shadow": 50,
+      "heatColor": "f9350f",
+      "cooldownTime": 340,
+      "minWarmup": 0.9,
+      "bullet": {
+        "chargeEffect": {
+          "type": "MultiEffect",
+          "followParent": true,
+          "lifetime": 110,
+          "effects": [
+            {
+              "type": "ParticleEffect",
+              "length": 35,
+              "baseLength": 20,
+              "particles": 10,
+              "sizeFrom": 5,
+              "sizeTo": 0.5,
+              "colorFrom": "ffa665",
+              "colorTo": "d06b53",
+              "lifetime": 55
+            },
+            {
+              "type": "ParticleEffect",
+              "length": 35,
+              "baseLength": 20,
+              "particles": 15,
+              "sizeFrom": 5,
+              "sizeTo": 0.5,
+              "colorFrom": "ffa665",
+              "colorTo": "d06b53",
+              "lifetime": 35
+            },
+            {
+              "type": "ParticleEffect",
+              "length": 35,
+              "baseLength": 20,
+              "particles": 20,
+              "sizeFrom": 5,
+              "sizeTo": 0.5,
+              "colorFrom": "ffa665",
+              "colorTo": "d06b53",
+              "lifetime": 20
+            }
+          ]
+        },
+        "shootEffect": "shootTitan",
+        "smokeEffect": "shootSmokeTitan",
+        "instantDisappear": true,
+        "damage": 0,
+        "spawnUnit": "me-onager-missile"
+      }
+    },
+    {
+      "name": "springald-side-arm",
+      "reload": 12,
+      "mirror": true,
+      "alternate": true,
+      "x": 35,
+      "y": 25,
+      "shootSound": "shoot",
+      "rotate": true,
+      "rotateSpeed": 2.2,
+      "shoot": {
+        "shots": 3,
+        "shotDelay": 1.5
+      },
+      "bullet": {
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "type": "BasicBulletType",
+        "width": 10,
+        "height": 16,
+        "speed": 4,
+        "lifetime": 60,
+        "damage": 30,
+        "splashDamage": 10,
+        "splashDamageRadius": 16,
+        "pierce": true,
+        "pierceCap": 3,
+        "pierceBuilding": true,
+        "buildingDamageMultiplier": 1.2
+      }
+    },
+    {
+      "name": "springald-side-arm",
+      "reload": 12,
+      "mirror": true,
+      "alternate": true,
+      "x": 35,
+      "y": -35,
+      "rotate": true,
+      "shootSound": "shoot",
+      "rotateSpeed": 2.2,
+      "shoot": {
+        "shots": 3,
+        "shotDelay": 1.5
+      },
+      "bullet": {
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "type": "BasicBulletType",
+        "width": 10,
+        "height": 16,
+        "speed": 4,
+        "lifetime": 90,
+        "damage": 30,
+        "splashDamage": 10,
+        "splashDamageRadius": 16,
+        "pierce": true,
+        "pierceCap": 3,
+        "pierceBuilding": true,
+        "buildingDamageMultiplier": 1.2
+      }
+    },
+    {
+      "name": "scorpio-weapon",
+      "x": 30,
+      "y": -1,
+      "shootSound": "laser",
+      "mirror": true,
+      "alternate": true,
+      "reload": 64,
+      "rotate": true,
+      "inaccuracy": 7,
+      "rotateSpeed": 1.4,
+      "shoot": {
+        "shots": 4,
+        "shotDelay": 0.8
+      },
+      "bullet": {
+        "type": "LaserBulletType",
+        "width": 12,
+        "length": 240,
+        "damage": 180,
+        "pierce": true,
+        "pierceBuilding": true,
+        "buildingDamageMultiplier": 1.3,
+        "lifetime": 70,
+        "colors": ["ffa665", "d06b53", "ffffff"]
+      }
+    }
+  ],
+  "research": "springald"
+}
