@@ -22,7 +22,7 @@
   "weapons": [
     {
       "name": "onager-weapon",
-      "shootSound": "missileLaunch",
+      "shootSound": "largeCannon",
       "layerOffset": 0.1,
       "reload": 300,
       "shootY": 64,
@@ -30,10 +30,6 @@
       "recoil": 6,
       "rotate": true,
       "rotateSpeed": 0.72,
-      "shoot": {
-         "firstShotDelay": 120
-      },
-      "chargeSound": "lasercharge",
       "mirror": false,
       "x": 0,
       "y": -4,
@@ -41,18 +37,7 @@
       "heatColor": "f9350f",
       "cooldownTime": 340,
       "minWarmup": 0.9,
-      "bulletInterval": 9,
-        "intervalBullets": 1,
-        "intervalRandomSpread": 0,
-        "intervalAngle": 0,
-        "intervalSpread": 0,
-        "intervalBullet": {
-          "type": "ExplosionBulletType",
-          "splashDamageRadius": 64,
-          "killShooter": false,
-          "splashDamage": 30,
-          "lifetime": 60
-        },
+      "bullet": {
         "fragRandomSpread": 0,
         "fragSpread": 90,
         "fragBullets": 4,
@@ -66,7 +51,18 @@
           "killShooter": false,
           "lifetime": 60
         },
-      "bullet": {
+        "intervalBullet": {
+          "type": "ExplosionBulletType",
+          "splashDamageRadius": 64,
+          "killShooter": false,
+          "splashDamage": 30,
+          "lifetime": 60
+        },
+        "bulletInterval": 9,
+        "intervalBullets": 1,
+        "intervalRandomSpread": 0,
+        "intervalAngle": 0,
+        "intervalSpread": 0,
         "shootEffect": "shootTitan",
         "smokeEffect": "shootSmokeTitan",
         "type": "BasicBulletType",
@@ -83,47 +79,7 @@
         "trailInterval": 4,
         "trailEffect": "missileTrail",
         "width": 48,
-        "height": 48,
-        "chargeEffect": {
-          "type": "MultiEffect",
-          "followParent": true,
-          "lifetime": 110,
-          "effects": [
-            {
-              "type": "ParticleEffect",
-              "length": 35,
-              "baseLength": 20,
-              "particles": 10,
-              "sizeFrom": 5,
-              "sizeTo": 0.5,
-              "colorFrom": "ffa665",
-              "colorTo": "d06b53",
-              "lifetime": 55
-            },
-            {
-              "type": "ParticleEffect",
-              "length": 35,
-              "baseLength": 20,
-              "particles": 15,
-              "sizeFrom": 5,
-              "sizeTo": 0.5,
-              "colorFrom": "ffa665",
-              "colorTo": "d06b53",
-              "lifetime": 35
-            },
-            {
-              "type": "ParticleEffect",
-              "length": 35,
-              "baseLength": 20,
-              "particles": 20,
-              "sizeFrom": 5,
-              "sizeTo": 0.5,
-              "colorFrom": "ffa665",
-              "colorTo": "d06b53",
-              "lifetime": 20
-            }
-          ]
-        }
+        "height": 48
       }
     },
     {
