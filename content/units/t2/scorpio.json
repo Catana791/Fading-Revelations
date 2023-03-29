@@ -1,6 +1,6 @@
 {
   "type": "tank",
-  "name": "Scorpio",
+  "name": "[orange]Scorpio",
   "description": "A tank equipped with a railgun.",
   "hitSize": 18,
   "treadPullOffset": 5,
