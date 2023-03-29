@@ -1,7 +1,7 @@
 {
   "type": "tank",
-  "name": "Sambuca",
-  "description": "[orange]A small tank equipped with a basic gun.",
+  "name": "[orange]Sambuca",
+  "description": "A small tank equipped with a basic gun.",
   "health": 500,
   "armor": 3,
   "squareShape": true,
