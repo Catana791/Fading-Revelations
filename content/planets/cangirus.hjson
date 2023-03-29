@@ -17,8 +17,8 @@ mesh: {
 #cloudMesh: {}
 generator: {
   type: PlanetGenerator
-  min: 100
-  max: 100
+  min: 120
+  max: 120
   radMin: 480
   radMax: 480
   seed: 69420
@@ -31,7 +31,7 @@ allowSectorInvasion: true
 prebuildBase: true
 startSector: 0
 orbitSpacing: 4
-radius: 1.5
+radius: 1.8
 minZoom: 1.5
 drawOrbit: true
 atmosphereRadIn: 0
