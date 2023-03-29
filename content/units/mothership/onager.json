@@ -87,35 +87,34 @@
           "trailLength": 8,
           "hitEffect": "blastExplosion",
           "splashDamageRadius": 24,
-          "splashDamage": 10,
-          "fragOnHit": false,
-          "fragSpread": 0,
-          "fragBullets": 1,
-          "fragVelocityMin": 0,
-          "fragVelocityMax": 0,
-          "despawnSound": "dullExplosion",
-          "fragBullet": {
-            "type": "ExplosionBulletType",
-            "killShooter": false,
-            "splashDamageRadius": 64,
-            "splashDamage": 60,
-            "lifetime": 60,
-            "speed": 0
-          }
-        },
-        "intervalBullet": {
-          "type": "ExplosionBulletType",
-          "killShooter": false,
-          "splashDamageRadius": 40,
           "splashDamage": 25,
-          "speed": 0,
-          "lifetime": 45
-        },
-        "bulletInterval": 6,
-        "intervalRandomSpread": 0,
-        "intervalBullets": 1,
-        "intervalAngle": 180,
-        "intervalSpread": 300,
+          "fragBullets": 8,
+          "fragVelocityMin": 1,
+          "fragVelocityMax": 1,
+          "fragRandomSpread": 0,
+          "fragSpread": 45,
+          "fragBullet": {
+             "type": "BasicBulletType",
+            "sprite": "missile-large",
+            "width": 16,
+            "height": 24,
+            "lifetime": 20,
+            "speed": 2,
+            "damage": 25,
+            "pierce": true,
+            "pierceBuilding": true,
+            "hitSize": 8,
+            "hitColor": "d06b53",
+            "backColor": "d06b53",
+            "frontColor": "ffffff",
+            "trailColor": "d06b53",
+            "trailWidth": 3.2,
+            "trailLength": 8,
+            "hitEffect": "blastExplosion",
+            "splashDamageRadius": 24,
+            "splashDamage": 10
+          }
+        }
       }
     },
     {
