@@ -268,17 +268,17 @@
           },
           "buildingDamageMultiplier": 1.3,
           "homingPower": 0.2
-        }
-      },
-      "bulletInterval": 3,
-      "intervalRandomSpread": 20,
-      "intervalBullets": 1,
-      "intervalAngle": 90,
-      "intervalSpread": 150,
-      "fragBullets": 10,
-      "fragVelocityMin": 0.5,
-      "fragVelocityMax": 1.5,
-      "fragLifeMin": 0.5
+        },
+        "bulletInterval": 3,
+        "intervalRandomSpread": 20,
+        "intervalBullets": 2,
+        "intervalAngle": 180,
+        "intervalSpread": 300,
+        "fragBullets": 10,
+        "fragVelocityMin": 0.5,
+        "fragVelocityMax": 1.5,
+        "fragLifeMin": 0.5
+      }
     }
   ],
   "research": "springald"
