@@ -11,7 +11,8 @@
         ["cromis", "arnux"],
         ["procer", "ducalis"],
         ["arvens", "aestiva"],
-        ["scofra", "auratus"]
+        ["scofra", "auratus"],
+        ["scorpio", "springald"]
     ],
     "consumes": {
         "power": 13.3333333333333,
