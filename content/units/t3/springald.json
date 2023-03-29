@@ -1,6 +1,6 @@
 {
   "type": "tank",
-  "name": "Springald",
+  "name": "[orange]Springald",
   "description": "A large tank equipped with a rocket launching cannon and small laser arrays.",
   "hitSize": 28,
   "treadPullOffset": 4,
@@ -149,5 +149,5 @@
       }
     }
   ],
-  "research": "magonel"
+  "research": "scorpio"
 }
