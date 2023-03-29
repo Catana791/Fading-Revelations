@@ -153,7 +153,7 @@
       "name": "scorpio-weapon",
       "x": 35,
       "y": -1,
-      "shootSound": "laser",
+      "shootSound": "cannon",
       "mirror": true,
       "alternate": true,
       "reload": 194,
@@ -199,8 +199,86 @@
           "waveRad": 40
         },
         "despawnSound": "dullExplosion",
-        
-      }
+        "fragBullet": {
+          "type": "BasicBulletType",
+          "speed": 2,
+          "damage": 15,
+          "width": 8,
+          "hitSize": 4,
+          "height": 12,
+          "pierce": true,
+          "lifetime": 21,
+          "pierceBuilding": true,
+          "hitColor": "d06b53",
+          "backColor": "d06b53",
+          "trailColor": "d06b53",
+          "frontColor": "ffffff",
+          "trailWidth": 1.9,
+          "trailLength": 4,
+          "hitEffect": {
+            "colorFrom": "d06b53",
+            "colorTo": "d06b53",
+            "type": "WaveEffect",
+            "sizeTo": 4,
+            "strokeFrom": 4,
+            "lifetime": 10
+          },
+          "despawnEffect": {
+            "colorFrom": "d06b53",
+            "colorTo": "d06b53",
+            "type": "WaveEffect",
+            "sizeTo": 4,
+            "strokeFrom": 4,
+            "lifetime": 10
+          },
+          "buildingDamageMultiplier": 1.3,
+          "homingPower": 0.2
+        },
+        "intervalBullet": {
+          "type": "BasicBulletType",
+          "speed": 2,
+          "damage": 15,
+          "width": 8,
+          "hitSize": 4,
+          "height": 12,
+          "pierce": true,
+          "lifetime": 21,
+          "pierceBuilding": true,
+          "hitColor": "d06b53",
+          "backColor": "d06b53",
+          "trailColor": "d06b53",
+          "frontColor": "ffffff",
+          "trailWidth": 1.9,
+          "trailLength": 4,
+          "hitEffect": {
+            "colorFrom": "d06b53",
+            "colorTo": "d06b53",
+            "type": "WaveEffect",
+            "sizeTo": 4,
+            "strokeFrom": 4,
+            "lifetime": 10
+          },
+          "despawnEffect": {
+            "colorFrom": "d06b53",
+            "colorTo": "d06b53",
+            "type": "WaveEffect",
+            "sizeTo": 4,
+            "strokeFrom": 4,
+            "lifetime": 10
+          },
+          "buildingDamageMultiplier": 1.3,
+          "homingPower": 0.2
+        }
+      },
+      "bulletInterval": 3,
+      "intervalRandomSpread": 20,
+      "intervalBullets": 1,
+      "intervalAngle": 90,
+      "intervalSpread": 150,
+      "fragBullets": 10,
+      "fragVelocityMin": 0.5,
+      "fragVelocityMax": 1.5,
+      "fragLifeMin": 0.5
     }
   ],
   "research": "springald"
