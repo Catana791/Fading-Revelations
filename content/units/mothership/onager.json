@@ -9,20 +9,6 @@
   "armor": 26,
   "crushDamage": 5,
   "rotateSpeed": 0.9,
-  "abilities": [
-    {
-      "type": "ShieldArcAbility",
-      "angle": 90,
-      "x": 0,
-      "y": -35,
-      "max": 2500,
-      "regen": 1,
-      "region": "tecta-shield",
-      "width": 7,
-      "whenShooting": false,
-      "radius": -100
-    }
-  ],
   "treadRects": [
     {
       "x": 60,
@@ -106,7 +92,7 @@
     },
     {
       "name": "springald-side-arm",
-      "reload": 12,
+      "reload": 60,
       "mirror": true,
       "alternate": true,
       "x": 35,
@@ -137,7 +123,7 @@
     },
     {
       "name": "springald-side-arm",
-      "reload": 12,
+      "reload": 72,
       "mirror": true,
       "alternate": true,
       "x": 35,
@@ -168,19 +154,15 @@
     },
     {
       "name": "scorpio-weapon",
-      "x": 30,
+      "x": 35,
       "y": -1,
       "shootSound": "laser",
       "mirror": true,
       "alternate": true,
-      "reload": 64,
+      "reload": 167,
       "rotate": true,
       "inaccuracy": 7,
-      "rotateSpeed": 1.4,
-      "shoot": {
-        "shots": 4,
-        "shotDelay": 0.8
-      },
+      "rotateSpeed": 1.4
       "bullet": {
         "type": "LaserBulletType",
         "width": 12,
