@@ -42,46 +42,7 @@
       "cooldownTime": 340,
       "minWarmup": 0.9,
       "bullet": {
-        "chargeEffect": {
-          "type": "MultiEffect",
-          "followParent": true,
-          "lifetime": 110,
-          "effects": [
-            {
-              "type": "ParticleEffect",
-              "length": 35,
-              "baseLength": 20,
-              "particles": 10,
-              "sizeFrom": 5,
-              "sizeTo": 0.5,
-              "colorFrom": "ffa665",
-              "colorTo": "d06b53",
-              "lifetime": 55
-            },
-            {
-              "type": "ParticleEffect",
-              "length": 35,
-              "baseLength": 20,
-              "particles": 15,
-              "sizeFrom": 5,
-              "sizeTo": 0.5,
-              "colorFrom": "ffa665",
-              "colorTo": "d06b53",
-              "lifetime": 35
-            },
-            {
-              "type": "ParticleEffect",
-              "length": 35,
-              "baseLength": 20,
-              "particles": 20,
-              "sizeFrom": 5,
-              "sizeTo": 0.5,
-              "colorFrom": "ffa665",
-              "colorTo": "d06b53",
-              "lifetime": 20
-            }
-          ]
-        },
+        ,
         "shootEffect": "shootTitan",
         "smokeEffect": "shootSmokeTitan",
         "type": "BasicBulletType",
@@ -123,6 +84,46 @@
           "splashDamage": 50,
           "killShooter": false,
           "lifetime": 60
+        },
+        "chargeEffect": {
+          "type": "MultiEffect",
+          "followParent": true,
+          "lifetime": 110,
+          "effects": [
+            {
+              "type": "ParticleEffect",
+              "length": 35,
+              "baseLength": 20,
+              "particles": 10,
+              "sizeFrom": 5,
+              "sizeTo": 0.5,
+              "colorFrom": "ffa665",
+              "colorTo": "d06b53",
+              "lifetime": 55
+            },
+            {
+              "type": "ParticleEffect",
+              "length": 35,
+              "baseLength": 20,
+              "particles": 15,
+              "sizeFrom": 5,
+              "sizeTo": 0.5,
+              "colorFrom": "ffa665",
+              "colorTo": "d06b53",
+              "lifetime": 35
+            },
+            {
+              "type": "ParticleEffect",
+              "length": 35,
+              "baseLength": 20,
+              "particles": 20,
+              "sizeFrom": 5,
+              "sizeTo": 0.5,
+              "colorFrom": "ffa665",
+              "colorTo": "d06b53",
+              "lifetime": 20
+            }
+          ]
         }
       }
     },
