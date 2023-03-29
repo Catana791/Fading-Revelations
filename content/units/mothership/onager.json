@@ -156,7 +156,7 @@
       "shootSound": "cannon",
       "mirror": true,
       "alternate": true,
-      "reload": 194,
+      "reload": 134,
       "rotate": true,
       "inaccuracy": 7,
       "rotateSpeed": 1.4
@@ -172,6 +172,7 @@
         "pierceCap": 3,
         "fragOnHit": false,
         "speed": 5,
+        "lifetime": 60,
         "damage": 60,
         "width": 16,
         "height": 16,
