@@ -38,7 +38,7 @@
         "height": 10,
         "speed": 3,
         "lifetime": 40,
-        "damage": 10,
+        "damage": 15,
         "pierce": false
       }
     }
