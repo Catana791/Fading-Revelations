@@ -52,7 +52,6 @@
         "trailColor": "d06b53",
         "hitColor": "d06b53",
         "pierce": true,
-        "pierceCap": 3,
         "pierceBuilding": true,
         "trailWidth": 6,
         "trailLength": 28,
