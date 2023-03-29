@@ -84,7 +84,7 @@
         },
         "shootEffect": "shootTitan",
         "smokeEffect": "shootSmokeTitan",
-        
+        "type": "BasicBulletType"
       }
     },
     {
