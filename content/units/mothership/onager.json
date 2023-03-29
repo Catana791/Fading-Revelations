@@ -42,7 +42,6 @@
       "cooldownTime": 340,
       "minWarmup": 0.9,
       "bullet": {
-        ,
         "shootEffect": "shootTitan",
         "smokeEffect": "shootSmokeTitan",
         "type": "BasicBulletType",
