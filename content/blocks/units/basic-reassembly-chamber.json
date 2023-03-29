@@ -11,7 +11,8 @@
         ["mela", "cromis"],
         ["apis", "procer"],
         ["alba", "arvens"],
-        ["annax", "scofra"]
+        ["annax", "scofra"],
+        ["sambuca", "scorpio"]
     ],
     "consumes": {
         "power": 0.8,
