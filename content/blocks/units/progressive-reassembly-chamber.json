@@ -11,7 +11,8 @@
         ["arnux", "japonica"],
         ["ducalis", "hive"],
         ["aestiva", "altaic"],
-        ["auratus", "test"]
+        ["auratus", "test"],
+        ["springald", "onager"]
     ],
     "consumes": {
         "power": 30,
