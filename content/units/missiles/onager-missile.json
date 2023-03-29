@@ -3,7 +3,7 @@
   "flying": true,
   "template": "MissileUnitType",
   "speed": 6,
-  "lifetime": 60,
+  "lifetime": 90,
   "trailColor": "ffa665",
   "trailLength": 15,
   "drawCell": false,
@@ -18,56 +18,7 @@
         "type": "ExplosionBulletType",
         "splashDamage": 360,
         "splashDamageRadius": 46,
-        "hitEffect": {
-          "type": "MultiEffect",
-          "followParent": true,
-          "effects": [
-            {
-              "type": "WaveEffect",
-              "sizeFrom": 0,
-              "sizeTo": 46,
-              "colorFrom": "ffa665",
-              "colorTo": "d06b53",
-              "strokeFrom": 1,
-              "strokeTo": 2.2,
-              "lifetime": 60
-            },
-            {
-              "type": "WaveEffect",
-              "sizeFrom": 0,
-              "sizeTo": 46,
-              "colorFrom": "ffa665",
-              "colorTo": "d06b53",
-              "strokeFrom": 1,
-              "strokeTo": 2.2,
-              "lifetime": 60
-            },
-            {
-              "type": "WaveEffect",
-              "sizeFrom": 0,
-              "sizeTo": 46,
-              "colorFrom": "ffa665",
-              "colorTo": "d06b53",
-              "strokeFrom": 1,
-              "strokeTo": 2.2,
-              "lifetime": 60 
-            },
-            {
-              "type": "ExplosionEffect",
-              "sparks": 10,
-              "smokes": 6,
-              "smokeSize": 6,
-              "smokeSizeBase": 4,
-              "sparkLen": 10,
-              "sparkRad": 4,
-              "waveLife": 0,
-              "waveRad": 0,
-              "waveRadBase": 0,
-              "waveStroke": 0
-            }
-          ]
-        }
+        "hitEffect": "titanExplosion"
       }
-    }
-  ]
+   }
 }
