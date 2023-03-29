@@ -6,6 +6,11 @@
   "reload": 48,
   "range": 120,
   "size": 2,
+  "consumes": { 
+    "coolant": { 
+       "amount": 0.1 
+    } 
+  },
   "shoot": {
     "type": "ShootAlternate",
     "shots": 3,
