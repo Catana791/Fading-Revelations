@@ -2,5 +2,9 @@
   "localizedName": "Etnatic Isles",
   "difficulty": 4,
   "planet": "cangirus",
-  "sector": 0
+  "sector": 0,
+  "allowLaunchLoadout": true,
+  "addStartingItems": true,
+  "alwaysUnlocked": true,
+  "noLighting": true
 }
