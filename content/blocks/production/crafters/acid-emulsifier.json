@@ -12,9 +12,9 @@
     "liquid": "acid/0.5"
   },
   "category": "crafting",
-  "outputLiquid": "oil/0.1666667",
+  "outputLiquid": "oil/0.5",
   "requirements": [],
-  //"buildVisibility": "editorOnly",
+  "buildVisibility": "editorOnly",
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
