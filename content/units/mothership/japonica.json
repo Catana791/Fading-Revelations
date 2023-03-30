@@ -116,7 +116,7 @@
         "speed": 5,
         "statusDuration": 180,
         "sprite": "shell",
-        "lifetime": 260,
+        "lifetime": 60,
         "status": "burning",
         "homingPower": 0.09,
         "homingRange": 320,
@@ -156,7 +156,7 @@
         "homingRange": 320,
         "status": "burning",
         "statusDuration": 180,
-        "lifetime": 260,
+        "lifetime": 60,
         "sprite": "shell",
         "frontColor": "f8ae4b",
         "backColor": "e9901a"
