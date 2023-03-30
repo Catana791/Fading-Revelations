@@ -11,6 +11,7 @@
     "power": 1.5,
     "liquid": "acid/0.5"
   },
+  "category": "crafting",
   "outputLiquid": "oil/0.1666667",
   "requirements": [],
   //"buildVisibility": "editorOnly",
