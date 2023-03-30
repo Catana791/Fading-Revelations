@@ -1,0 +1,41 @@
+{
+  "type": "GenericCrafter",
+  "name": "Acid Emulsifier",
+  "description": "Creates oil from acid.",
+  "size": 2,
+  "liquidCapacity": 60,
+  "craftTime": 20,
+  "craftEffect": "none",
+  "updateEffect": "none",
+  "consumes": {
+    "power": 1.5,
+    "liquid": "acid/0.5"
+  },
+  "outputLiquid": "oil/0.1666667",
+  "requirements": [],
+  //"buildVisibility": "editorOnly",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "acid"
+      }
+      {
+        "type": "DrawBubbles",
+        "amount": 10,
+        "color": "cde03a",
+        "fill": true,
+        "sides": 8,
+        "strokeMin": 0.7
+      },
+      {
+        "type": "DrawDefault"
+      }
+    ]
+  }
+}
