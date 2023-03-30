@@ -11,9 +11,9 @@
   "treadRects": [
     {
       "x": 60,
-      "y": -245,
+      "y": -200,
       "width": 128,
-      "height": 490
+      "height": 420
     }
   ],
   "omniMovement": false,
