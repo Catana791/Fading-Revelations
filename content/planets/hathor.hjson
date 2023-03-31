@@ -48,7 +48,7 @@ atmosphereRadIn: 0
 atmosphereRadOut: 0.3
 
 #whether this can be landed on
-accessible: true
+accessible: false
 
 #day-night cycle
 updateLighting: true
