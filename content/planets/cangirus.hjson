@@ -37,7 +37,7 @@ minZoom: 1.5
 drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
-accessible: true
+accessible: false
 orbitRadius: 24
 updateLighting: true
 sectorSeed: 69420
