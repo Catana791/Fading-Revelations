@@ -5,5 +5,15 @@
   "sector": 0,
   "allowLaunchLoadout": true,
   "addStartingItems": true,
-  "alwaysUnlocked": true
+  "alwaysUnlocked": true,
+  "weather": [
+    {
+      "weather": "me-heavy-rainstorm",
+      "always": true
+    },
+    {
+      "weather": "fog",
+      "always": true
+    }
+  ]
 }
