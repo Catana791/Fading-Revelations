@@ -1,6 +1,6 @@
 {
   "type": "Floor",
-  "name": "Acid",
+  "name": "Deep Acid",
   "description": "A puddle of acid liquid. Beware!",
   "status": "me-acidic-burn",
   "statusDuration": 300,
