@@ -9,12 +9,15 @@
   "updateEffect": "none",
   "consumes": {
     "power": 1.5,
-    "liquid": "acid/0.5"
+    "liquid": "acid/0.4"
   },
   "category": "crafting",
-  "outputLiquid": "oil/0.5",
-  "requirements": [],
-  "buildVisibility": "editorOnly",
+  "outputLiquid": "oil/0.4",
+  "requirements": [
+    "copper/80",
+    "graphite/40",
+    "titanium/60"
+  ],
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
