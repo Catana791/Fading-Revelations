@@ -18,5 +18,6 @@
   "lightColor": "9ed17161",
   "albedo": 0.9,
   "shallow": false,
-  "supportsOverlay": true
+  "supportsOverlay": true,
+  "placeableOn": false
 }
