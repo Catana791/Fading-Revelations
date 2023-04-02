@@ -6,7 +6,7 @@
   "size": 2,
   "hasPower": true,
   "hasLiquids": false,
-  "powerProduction": 0.25,
+  "powerProduction": 0.4,
   "requirements": [
     "lead/20",
     "silicon/20",
