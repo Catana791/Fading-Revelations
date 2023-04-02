@@ -1,0 +1,16 @@
+{
+  "type": "RainWeather",
+  "name": "Acid Rain",
+  "status": "me-acidic-burn",
+  "sound": "rain",
+  "soundVol": 0.5,
+  "density": 1200,
+  "stroke": 0.62,
+  "liquid": "slag",
+  "color": "cde03aff",
+  "attrs": {
+    "light": -0.2
+  },
+  "statusGround": true,
+  "statusAir": false
+}
