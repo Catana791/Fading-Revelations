@@ -1,0 +1,17 @@
+{
+  "type": "SolarGenerator",
+  "name": "Titanium Solar Panel",
+  "description": "A better solar panel made with titanium. Produces more power than a regular solar panel.",
+  "health": 90,
+  "size": 2,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 0.25,
+  "requirements": [
+    "lead/20",
+    "silicon/20",
+    "titanium/10"
+  ],
+  "category": "power",
+  "research": "ls-gen"
+}
