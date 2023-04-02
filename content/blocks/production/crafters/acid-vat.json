@@ -21,8 +21,12 @@
     ]
   },
   "category": "crafting",
-  "research": "duo",
-  "requirements": [],
+  "research": "mod-gate-crafters",
+  "requirements": [
+    "copper/60",
+    "metaglass/40",
+    "titanium/30"
+  ],
   "craftTime": 20,
   "outputLiquid": "acid/0.1",
   "consumes": {
