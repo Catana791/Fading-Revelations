@@ -49,7 +49,7 @@ hasAtmosphere: true
 allowWaveSimulation: true
 clearSectorOnLose: true
 allowWaves: true
-defaultCore: mindustry-block-core-shard
+defaultCore: core-shard
 parent: sun
 solarSystem: sun
 launchCandidates: []
