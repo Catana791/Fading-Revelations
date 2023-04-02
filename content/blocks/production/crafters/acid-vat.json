@@ -27,8 +27,8 @@
     "metaglass/40",
     "titanium/30"
   ],
-  "craftTime": 20,
-  "outputLiquid": "acid/0.1",
+  "craftTime": 30,
+  "outputLiquid": "acid/0.2",
   "consumes": {
     "power": 1.25,
     "items": [
