@@ -12,6 +12,7 @@
     "liquid": "acid/0.4"
   },
   "category": "crafting",
+  "research": "acid-vat",
   "outputLiquid": "oil/0.4",
   "requirements": [
     "copper/80",
