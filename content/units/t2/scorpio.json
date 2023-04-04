@@ -42,7 +42,7 @@
         "damage": 32,
         "pierceBuilding": true,
         "laserAbsorb": false,
-        "buildingDamageMultiplier": 2.7,
+        "buildingDamageMultiplier": 1.9,
         "lifetime": 30,
         "hitColor": "feb380",
         "hitEffect": "hitBulletColor",
