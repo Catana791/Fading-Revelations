@@ -19,7 +19,7 @@
       "colorTo": "b200ff"
 },
 "hasPower": true, 
-"drawRim": true, 
+"drawRim": false, 
 "hasLiquids": true, 
 "liquidCapacity": 40, 
 "hasItems": true, 
