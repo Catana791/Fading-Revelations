@@ -1,0 +1,17 @@
+{
+  "type": "SolarGenerator",
+  "name": "Solar Array",
+  "description": "A better solar panel that takes up the same amount of space as a regular one.",
+  "health": 620,
+  "size": 6,
+  "hasPower": true,
+  "hasLiquids": false,
+  "powerProduction": 25,
+  "requirements": [
+    "lead/320",
+    "silicon/440",
+    "phase-fabric/80"
+  ],
+  "category": "power",
+  "research": "advanced-solar-panel"
+}
