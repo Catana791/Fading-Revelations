@@ -1,6 +1,7 @@
 {
   "name": "Living Steel Wall",
   "description": "A wall made from living steel that heals itself slowly.",
+  "connectedPower": false,
   "type": "MendProjector",
   "health": 960,
   "size": 1,
