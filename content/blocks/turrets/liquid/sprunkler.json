@@ -4,8 +4,8 @@
   "size": 3,
   "shoot": {
     "type": "ShootSpread",
-    "shots": 10,
-    "spread": 1
+    "shots": 120,
+    "spread": 6
   },
   "range": 200,
   "reload": 1,
