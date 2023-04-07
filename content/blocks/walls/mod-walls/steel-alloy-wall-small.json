@@ -11,6 +11,11 @@
   "canOverdrive": false,
   "size": 1,
   "recoil": 0,
+  "shoot": {
+    "type": "ShootSpread",
+    "shots": 8,
+    "spread": 10
+  },
   "health": 1200,
   "rotate": false,
   "rotateSpeed": 0,
@@ -24,7 +29,7 @@
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 7,
-    "damage": 15,
+    "damage": 3,
     "lightningColor": "bd7374",
     "hitEffect": {
       "type": "WaveEffect",
