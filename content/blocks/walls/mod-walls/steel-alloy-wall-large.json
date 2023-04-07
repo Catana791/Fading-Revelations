@@ -14,6 +14,11 @@
   "rotate": false,
   "rotateSpeed": 0,
   "shootCone": 360,
+  "shoot": {
+    "type": "ShootSpread",
+    "shots": 12,
+    "spread": 8
+  },
   "range": 60,
   "recoil": 0,
   "health": 4200,
@@ -23,7 +28,7 @@
   "shootType": {
     "type": "LightningBulletType",
     "lightningLength": 10,
-    "damage": 25,
+    "damage": 4,
     "lightningColor": "bd7374",
     "hitEffect": {
       "type": "WaveEffect",
