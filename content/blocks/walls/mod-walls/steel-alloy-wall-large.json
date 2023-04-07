@@ -12,6 +12,7 @@
   "size": 2,
   "recoil": 0,
   "rotate": false,
+  "shootY": 0,
   "rotateSpeed": 0,
   "shootCone": 360,
   "shoot": {
