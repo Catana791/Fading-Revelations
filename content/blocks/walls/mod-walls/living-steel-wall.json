@@ -10,6 +10,7 @@
   "hasItems": false,
   "hasPower": false,
   "baseColor": "8c0291",
+  "phaseColor": "8c0291",
   "insulated": true,
   "reload": 2500,
   "healPercent": 1,
