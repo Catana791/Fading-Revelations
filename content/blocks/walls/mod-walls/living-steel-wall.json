@@ -8,6 +8,8 @@
   "range": 1,
   "itemCapacity": 0,
   "hasItems": false,
+  "hasPower": false,
+  "insulated": true,
   "reload": 2500,
   "healPercent": 1,
   "requirements": [
