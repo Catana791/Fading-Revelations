@@ -17,7 +17,7 @@
   "shoot": {
     "type": "ShootSpread",
     "shots": 12,
-    "spread": 8
+    "spread": 50
   },
   "range": 60,
   "recoil": 0,
