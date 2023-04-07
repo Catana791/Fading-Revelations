@@ -9,6 +9,7 @@
   "insulated": true,
   "hasPower": false,
   "range": 1,
+  "baseColor": "8c0291",
   "hasItems": false,
   "itemCapacity": 0,
   "size": 2,
