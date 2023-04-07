@@ -14,7 +14,7 @@
   "shoot": {
     "type": "ShootSpread",
     "shots": 8,
-    "spread": 10
+    "spread": 60
   },
   "health": 1200,
   "rotate": false,
