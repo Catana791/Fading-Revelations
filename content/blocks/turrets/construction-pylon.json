@@ -13,8 +13,6 @@
   "size": 3,
   "range": 160,
   "buildSpeed": 1,
-  "liquidBoostIntensity": 2.5,
-  "coolantMultiplier": 2.5,
   "consumes": {
     "power": 9,
     "liquid": "cryofluid/0.2"
