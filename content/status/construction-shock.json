@@ -1,6 +1,6 @@
 {
-  //VERY bad name
+  //TODO: Change name; VERY bad name
   "name": "Construction Shock",
-  "buildingSpeedMultiplier": 0.8,
+  "buildSpeedMultiplier": 0.8,
   "speedMultiplier": 0.8
 }
