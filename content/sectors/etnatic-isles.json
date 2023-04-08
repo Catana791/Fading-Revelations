@@ -5,16 +5,5 @@
   "sector": 0,
   "allowLaunchLoadout": true,
   "addStartingItems": true,
-  "alwaysUnlocked": true,
-  "mission": "Destroy all enemy bases and their cores.",
-  "weather": [
-    {
-      "weather": "me-heavy-rainstorm",
-      "always": true
-    },
-    {
-      "weather": "fog",
-      "always": true
-    }
-  ]
+  "alwaysUnlocked": true
 }
