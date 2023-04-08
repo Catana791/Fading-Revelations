@@ -10,7 +10,7 @@
   "liquidMultiplier": 1.3,
   "isLiquid": true,
   "cacheLayer": "water",
-  "atributes": {
+  "attributes": {
     "water": -1
   },
   "emitLight": true,
