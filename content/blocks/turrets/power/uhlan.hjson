@@ -31,6 +31,10 @@ consumes: {
 }
 shoot: {
   firstShotDelay: 30
+  type: ShootSpread
+  shots: 3
+  spread": 10
+  shotDelay": 3.2
 }
 shootType: {
   type: LaserBulletType
