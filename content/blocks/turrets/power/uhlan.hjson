@@ -8,6 +8,24 @@ range: 220
 size: 3
 shootSound: laser
 heatColor: 5782c2
+drawer: {
+  type: DrawTurret
+  parts: [
+    {
+      type: RegionPart
+      suffix: -side
+      mirror: true,
+      progress: warmup
+      moveX: 4
+      moveY: 5
+      moves: [
+        type: PartMove
+        progress: recoil
+        y: -3
+      ]
+    }
+  ]
+}
 consumes: {
   power: 7
 }
