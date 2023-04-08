@@ -32,8 +32,7 @@
         "pierceCap": 2,
         "buildingDamageMultiplier": 0.9,
         "chargeEffect": "lightningCharge",
-        "shootEffect": "shootSmall",
-        "ejectEffect": "none"
+        "shootEffect": "shootSmall"
       }
     }
   ],
