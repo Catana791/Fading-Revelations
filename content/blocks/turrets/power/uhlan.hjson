@@ -49,7 +49,7 @@ shootType: {
   type: LaserBulletType
   length: 210
   width: 20
-  damage: 45
+  damage: 55
   chargeEffect: lightningCharge
   colors: [7382f040, 7382f0, ffffff]
 }
