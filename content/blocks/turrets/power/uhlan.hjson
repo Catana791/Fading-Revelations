@@ -19,9 +19,11 @@ drawer: {
       moveX: 4
       moveY: 5
       moves: [
-        type: PartMove
-        progress: recoil
-        y: -3
+        {
+          type: PartMove
+          progress: recoil
+          y: -3
+        }
       ]
     }
   ]
@@ -44,6 +46,7 @@ shootType: {
   colors: [7382f040, 7382f0, ffffff]
 }
 category: turret
+chargeSound: lasercharge2
 research: big-arc
 requirements: [
   copper/90
