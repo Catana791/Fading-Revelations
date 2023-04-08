@@ -36,9 +36,9 @@ shoot: {
   firstShotDelay: 30
   type: ShootBarrel
   barrels: [
-    0, 2, 0,
-    1, 4, 0,
-    -1, 4, 0
+    0, 0, 0,
+    6, 1, 0,
+    -6, 1, 0
   ],
   barrelOffset: 1
   shots: 3
@@ -53,6 +53,7 @@ shootType: {
 }
 category: turret
 chargeSound: lasercharge2
+chargeEffect: lightningCharge
 research: big-arc
 requirements: [
   copper/90
