@@ -5,10 +5,10 @@ targetAir: false
 health: 1420
 reload: 75
 range: 220
-cooldownTime: 180
 size: 3
 shootSound: laser
 heatColor: 5782c2
+inaccuracy: 3
 drawer: {
   type: DrawTurret
   parts: [
@@ -37,9 +37,9 @@ shoot: {
   firstShotDelay: 30
   type: ShootBarrel
   barrels: [
-    0, 0, 0,
-    6, 1, 0,
-    -6, 1, 0
+    0, -3, 0,
+    8, -4, 0,
+    -8, -4, 0
   ],
   barrelOffset: 1
   shots: 3
@@ -50,11 +50,11 @@ shootType: {
   length: 210
   width: 20
   damage: 45
+  chargeEffect: lightningCharge
   colors: [7382f040, 7382f0, ffffff]
 }
 category: turret
 chargeSound: lasercharge2
-chargeEffect: lightningCharge
 research: big-arc
 requirements: [
   copper/90
