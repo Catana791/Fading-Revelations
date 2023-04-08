@@ -77,14 +77,12 @@
               "type": "WaveEffect",
               "sizeFrom": 0,
               "sizeTo": 20,
-              "sizeInterp": "pow2Out",
               "interp": "pow2Out"
             },
             {
               "type": "WaveEffect",
               "sizeFrom": 22,
               "sizeTo": 2,
-              "sizeInterp": "pow2Out",
               "interp": "pow2Out"
             }
           ]
