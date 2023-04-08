@@ -16,13 +16,13 @@ drawer: {
       suffix: -side
       mirror: true,
       progress: warmup
-      moveX: 4
-      moveY: 5
+      moveX: 1
+      moveY: 2
       moves: [
         {
           type: PartMove
           progress: recoil
-          y: -3
+          y: -1
         }
       ]
     }
@@ -33,10 +33,15 @@ consumes: {
 }
 shoot: {
   firstShotDelay: 30
-  type: ShootSpread
+  type: ShootBarrel
+  barrels: [
+    0, 2, 0,
+    1, 4, 0,
+    -1, 4, 0
+  ],
+  barrelOffset: 1
   shots: 3
-  spread": 10
-  shotDelay": 3.2
+  shotDelay": 4
 }
 shootType: {
   type: LaserBulletType
