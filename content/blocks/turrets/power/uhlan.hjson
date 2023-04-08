@@ -48,7 +48,7 @@ shootType: {
   type: LaserBulletType
   length: 210
   width: 20
-  damage: 140
+  damage: 45
   colors: [7382f040, 7382f0, ffffff]
 }
 category: turret
