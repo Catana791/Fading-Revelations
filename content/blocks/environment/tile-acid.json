@@ -9,7 +9,7 @@
   "liquidDrop": "acid",
   "isLiquid": true,
   "cacheLayer": "water",
-  "atributes": {
+  "attributes": {
     "water": -1
   },
   "shallow": true,
