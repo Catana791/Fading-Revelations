@@ -32,7 +32,6 @@
       "name": "heal-shotgun-weapon",
       "shoot": {
         "shots": 24,
-        "spread": 1,
         "shotDelay": 1
       },
       "mirror": false,
