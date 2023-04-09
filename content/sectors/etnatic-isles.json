@@ -10,7 +10,8 @@
     {
       "weather": [
         {
-  
+          "weather": "heavy-rainstorm",
+          "always": true
         }
       ]
     }
