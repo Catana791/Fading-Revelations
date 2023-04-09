@@ -7,11 +7,13 @@
   "addStartingItems": true,
   "alwaysUnlocked": true
   "rules": [
-    "weather": {
+  {
+    "weather": [
       {
          "weather": "heavy-rainstorm",
         "always": true
       }
-    }
+    ]
+}
   ]
 }
