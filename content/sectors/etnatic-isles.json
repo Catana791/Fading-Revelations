@@ -8,8 +8,10 @@
   "alwaysUnlocked": true
   "rules": {
     "weather": [
-      "weather": "heavy-rainstorm",
-      "always": true
+      {
+        "weather": "heavy-rainstorm",
+        "always": true
+      }
     ]
   }
 }
