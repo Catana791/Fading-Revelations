@@ -6,14 +6,12 @@
   "allowLaunchLoadout": true,
   "addStartingItems": true,
   "alwaysUnlocked": true
-  "rules": [
-    {
-      "weather": [
-        {
-          "weather": "heavy-rainstorm",
-          "always": true
-        }
-      ]
-    }
-  ]
+  "rules": {
+    "weather": [
+  {
+  "weather": "heavy-rainstorm",
+  "always": true
+}
+    ]
+  }
 }
