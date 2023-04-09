@@ -6,4 +6,13 @@
   "allowLaunchLoadout": true,
   "addStartingItems": true,
   "alwaysUnlocked": true
+  "rules": [
+    {
+      "weather": [
+        {
+  
+        }
+      ]
+    }
+  ]
 }
