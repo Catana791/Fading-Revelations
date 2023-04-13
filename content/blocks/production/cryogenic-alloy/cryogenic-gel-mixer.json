@@ -28,7 +28,7 @@
       {
         "type": "DrawSpikes",
         "amount": 4,
-        "length": 6,
+        "length": 4,
         "radius": 3,
         "color": "4fa4c0",
         "layers": 3,
