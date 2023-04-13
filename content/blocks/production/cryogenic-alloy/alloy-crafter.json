@@ -35,5 +35,7 @@
     "graphite/250",
     "silicon/220",
     "titanium/200"
-  ]
+  ],
+  "loopSound": "smelter",
+  "loopSoundVolume": 0.3
 }
