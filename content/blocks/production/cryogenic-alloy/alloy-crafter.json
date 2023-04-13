@@ -12,7 +12,7 @@
     ]
   },
   "itemCapacity": 200,
-  "liquidCapacity": 
+  "liquidCapacity": 100,
   "outputItem": "igneous-alloy/8",
   "craftTime": 240,
   "drawer": {
