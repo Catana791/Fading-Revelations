@@ -37,7 +37,11 @@
         "type": "DrawDefault" 
       },
       {
-        "type": "DrawGlowRegion" 
+        "type": "DrawGlowRegion",
+        "alpha": 0.7,
+        "color": "c4bdf3",
+        "glowIntensity": 0.3,
+        "glowScale": 6
       }
     ]
   },
