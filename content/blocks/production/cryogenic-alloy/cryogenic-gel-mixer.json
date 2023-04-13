@@ -8,7 +8,7 @@
     "power": 3,
     "liquid": "cryofluid/0.8",
     "items": [
-      "silicon/6"  
+      "silicon/12"  
     ]
   },
   "craftTime": 120,
@@ -49,25 +49,6 @@
     "graphite/200",
     "silicon/150"
   ],
-  "updateEffectChance": 0.01,
-  "updateEffect": {
-    "type": "MultiEffect",
-    "effects": [
-      {
-        "type": "ParticleEffect",
-        "particles": 12,
-        "cone": 20,
-        "length": 15,
-        "baseLength": 25,
-        "sizeFrom": 0.8,
-        "sizeTo": 1.4,
-        "colorFrom": "4fa4c0",
-        "colorTo": "287f9c",
-        "offsetX": 3,
-        "offsetY": 3,
-        "lifetime": 90,
-        "interp": "pow5Out"
-      }
-    ]
-  }
+  "loopSound": "spellLoop",
+  "loopSoundVolume": 0.3
 }
