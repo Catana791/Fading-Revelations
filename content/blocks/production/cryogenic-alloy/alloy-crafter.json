@@ -1,0 +1,39 @@
+{
+  "type": "GenericCrafter",
+  "name": "Igneous Alloy Smelter",
+  "description": "Smelts igneous alloy from surge alloy and titanium using slag. This smelter is a part of the [cyan]Cryogenic Alloy assembly line.",
+  "size": 2,
+  "consumes": {
+    "power": 5,
+    "items": [
+      "surge-alloy/16",
+      "titanium/48"
+    ]
+  },
+  "outputItem": "igneous-alloy/8",
+  "craftTime": 240,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawCrucibleFlame" 
+      },
+      {
+        "type": "DrawDefault" 
+      }
+    ]
+  },
+  "rotate": false,
+  "category": "crafting",
+  "research": "mod-gate-crafters",
+  "requirements": [
+    "lead/300",
+    "graphite/250",
+    "silicon/220",
+    "titanium/200"
+  ]
+}
