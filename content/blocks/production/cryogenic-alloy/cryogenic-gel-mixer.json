@@ -28,8 +28,8 @@
       {
         "type": "DrawSpikes",
         "amount": 4,
-        "length": 14,
-        "radius": 12,
+        "length": 6,
+        "radius": 3,
         "color": "4fa4c0",
         "layers": 3,
         "layerSpeed": 0.34,
