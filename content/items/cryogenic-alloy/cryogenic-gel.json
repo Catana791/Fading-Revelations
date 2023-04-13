@@ -1,0 +1,11 @@
+{
+  "name": "Cryogenic Gel",
+  "description": "A very cold material made from mixing cryofluid and silicon. Used as one of the components to create [cyan]Cryogenic Alloy.",
+  "color": "4fa4c0",
+  "hardness": 0.4,
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0,
+  "research": "mod-gate-items"
+}
