@@ -1,0 +1,47 @@
+{
+  "type": "GenericCrafter",
+  "name": "Cryogenic Alloy Fusing Basin",
+  "description": "Amalgamates Igneous Alloy and Cryogenic Gel by shock-cooling it using Neutron Fluid. This basin is a part of the [cyan]Cryogenic Alloy assembly line.",
+  "size": 4,
+  "rotate": false,
+  "consumes": {
+    "power": 10,
+    "liquid": "neutron-fluid/0.4",
+    "items": [
+      "igneous-alloy/2",
+      "cryogenic-gel/4",
+      "graphite/4"
+    ]
+  },
+  "outputItem": "cryogenic-alloy/4",
+  "craftTime": 60,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "neutron-fluid",
+        "alpha": 0.6
+      },
+      {
+        "type": "DrawCrucibleFlame",
+        "alpha": 0.8,
+        "flameColor": "c7e6b0",
+        "midColor": "d4d790"
+      }
+    ]
+  },
+  "category": "crafting",
+  "research": "mod-gate-crafters",
+  "requirements": [
+    "lead/700",
+    "graphite/600",
+    "metaglass/500",
+    "silicon/500",
+    "surge-alloy/260"
+  ]
+}
