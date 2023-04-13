@@ -1,0 +1,50 @@
+{
+  "type": "GenericCrafter",
+  "name": "Cryogenic Gel Mixer",
+  "description": "Used to create Cryogenic Gel needed to craft Cryogenic Alloy. Part of the [cyan]Cryogenic Alloy Assembly line structure.",
+  "size": 2,
+  "rotate": false,
+  "consumes": {
+    "power": 3,
+    "liquid": "cryofluid/0.8",
+    "items": [
+      "silicon/6"  
+    ]
+  },
+  "craftTime": 120,
+  "outputItem": "cryogenic-gel/2",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawLiquidTile",
+        "drawLiquid": "cryofluid",
+        "alpha": 0.5
+      }
+      {
+        "type": "DrawSpikes",
+        "amount": 4,
+        "color": "4fa4c0",
+        "layers": 3,
+        "layerSpeed": 0.34,
+        "rotateSpeed": 1.1,
+        "stroke": 0.6
+      },
+      {
+        "type": "DrawDefault"
+      }
+    ]
+  },
+  "category": "crafting",
+  "research": "mod-gate-crafters",
+  "requirements": [
+    "lead/250",
+    "metaglass/210",
+    "graphite/200",
+    "silicon/150"
+  ]
+}
