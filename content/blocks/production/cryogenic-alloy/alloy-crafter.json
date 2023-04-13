@@ -5,11 +5,14 @@
   "size": 2,
   "consumes": {
     "power": 5,
+    "liquid": "slag/0.8",
     "items": [
       "surge-alloy/16",
       "titanium/48"
     ]
   },
+  "itemCapacity": 200,
+  "liquidCapacity": 
   "outputItem": "igneous-alloy/8",
   "craftTime": 240,
   "drawer": {
