@@ -32,6 +32,12 @@
         "alpha": 0.8,
         "flameColor": "c7e6b0",
         "midColor": "d4d790"
+      },
+      {
+        "type": "DrawDefault" 
+      },
+      {
+        "type": "DrawGlowRegion" 
       }
     ]
   },
