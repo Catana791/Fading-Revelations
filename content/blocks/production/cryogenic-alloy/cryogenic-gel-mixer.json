@@ -4,6 +4,8 @@
   "description": "Used to create Cryogenic Gel needed to craft Cryogenic Alloy. Part of the [cyan]Cryogenic Alloy Assembly line structure.",
   "size": 2,
   "rotate": false,
+  "itemCapacity": 30,
+  "liquidCapacity": 100,
   "consumes": {
     "power": 3,
     "liquid": "cryofluid/0.8",
