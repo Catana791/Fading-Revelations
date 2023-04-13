@@ -49,47 +49,24 @@
     "graphite/200",
     "silicon/150"
   ],
-  "craftEffect": {
+  "updateEffectChance": 0.01,
+  "updateEffect": {
     "type": "MultiEffect",
     "effects": [
       {
         "type": "ParticleEffect",
         "particles": 12,
-        "cone": 10,
+        "cone": 20,
         "length": 15,
         "baseLength": 25,
         "sizeFrom": 0.8,
         "sizeTo": 1.4,
         "colorFrom": "4fa4c0",
         "colorTo": "287f9c",
-        "offsetX": 10,
-        "offsetY": 10
-      },
-      {
-        "type": "ParticleEffect",
-        "particles": 12,
-        "cone": 10,
-        "length": 15,
-        "baseLength": 25,
-        "sizeFrom": 0.8,
-        "sizeTo": 1.4,
-        "colorFrom": "4fa4c0",
-        "colorTo": "287f9c",
-        "offsetX": 8,
-        "offsetY": 12
-      },
-      {
-        "type": "ParticleEffect",
-        "particles": 12,
-        "cone": 10,
-        "length": 15,
-        "baseLength": 25,
-        "sizeFrom": 0.8,
-        "sizeTo": 1.4,
-        "colorFrom": "4fa4c0",
-        "colorTo": "287f9c",
-        "offsetX": 12,
-        "offsetY": 8
+        "offsetX": 3,
+        "offsetY": 3,
+        "lifetime": 90,
+        "interp": "pow5Out"
       }
     ]
   }
