@@ -7,13 +7,13 @@
     "power": 5,
     "liquid": "slag/0.8",
     "items": [
-      "surge-alloy/16",
-      "titanium/48"
+      "surge-alloy/4",
+      "titanium/12"
     ]
   },
   "itemCapacity": 200,
   "liquidCapacity": 100,
-  "outputItem": "igneous-alloy/8",
+  "outputItem": "igneous-alloy/2",
   "craftTime": 240,
   "drawer": {
     "type": "DrawMulti",
