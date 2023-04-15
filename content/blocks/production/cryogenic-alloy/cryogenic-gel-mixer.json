@@ -20,7 +20,7 @@
     "type": "RadialEffect",
     "layer": 118,
     "rotationSpacing": 22,
-    "amount": 3,
+    "amount": 2,
     "lengthOffset": 2,
     "effect": {
       "type": "ParticleEffect",
@@ -32,8 +32,8 @@
       "baseRotation": 90,
       "sizeFrom": 1,
       "sizeTo": 0,
-      "colorFrom": "ffffff00",
-      "colorTo": "ffffff88",
+      "colorFrom": "8ce8f100",
+      "colorTo": "8ce8f188",
       "interp": "pow2",
       "sizeInterp": "pow3In",
       "layer": 80
