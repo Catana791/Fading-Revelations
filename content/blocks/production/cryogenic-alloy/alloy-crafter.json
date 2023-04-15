@@ -49,7 +49,7 @@
       "lifetime": 120,
       "cone": 20,
       "useRotation": false,
-      "baseRotation": 90,
+      "baseRotation": 45,
       "sizeFrom": 3,
       "sizeTo": 0.6,
       "colorFrom": "ffffff00",
