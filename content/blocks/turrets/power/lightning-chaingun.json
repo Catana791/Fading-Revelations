@@ -34,7 +34,7 @@
     "shotDelay": 8
   },
   "recoils": 2,
-  "shootSound": "lightning-chaingun-shoot",
+  "shootSound": "malignShoot",
   "loopSound": "spellLoop",
   "loopSoundVolume": 1.3,
   "drawer": {
