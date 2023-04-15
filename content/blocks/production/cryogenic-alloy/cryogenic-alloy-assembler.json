@@ -46,7 +46,10 @@
     ]
   },
   "category": "crafting",
-  "research": "mod-gate-crafters",
+  "research": {
+    "parent": "alloy-crafter",
+    "objectives": ["steel-alloy"]
+  },
   "requirements": [
     "lead/700",
     "graphite/600",
