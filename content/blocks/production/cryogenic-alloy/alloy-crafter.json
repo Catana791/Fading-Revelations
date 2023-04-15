@@ -32,7 +32,10 @@
   },
   "rotate": false,
   "category": "crafting",
-  "research": "mod-gate-crafters",
+  "research": {
+    "parent": "cryogenic-gel-mixer",
+    "objectives": ["steel-alloy"]
+  },
   "requirements": [
     "lead/300",
     "graphite/250",
