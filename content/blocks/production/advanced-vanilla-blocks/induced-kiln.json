@@ -31,40 +31,24 @@
     "power": 1.5,
     "items": {
       "items": [
-        {
-          "item": "lead",
-          "amount": 2
-        },
-        {
-          "item": "sand",
-          "amount": 2
-        }
+        "lead/3",
+        "sand/4"
       ]
     }
   },
   "requirements": [
-    {
-      "item": "copper",
-      "amount": 70
-    },
-    {
-      "item": "lead",
-      "amount": 60
-    },
-    {
-      "item": "graphite",
-      "amount": 20
-    },
-    {
-      "item": "metaglass",
-      "amount": 15
-    }
+    "copper/70",
+    "lead/60",
+    "graphite/20",
+    "metaglass/15"
   ],
   "category": "crafting",
   "research": "dissolver",
   "outputItem": {
     "item": "metaglass",
-    "amount": 3
+    "amount": 5
   },
-  "health": 320
+  "health": 320,
+  "loopSound": "smelter",
+  "loopSoundVolume": 0.35
 }
