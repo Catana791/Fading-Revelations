@@ -57,6 +57,8 @@
       "colorTo": "ffffff88",
       "interp": "pow2",
       "sizeInterp": "pow3In",
+      "offsetX": 0,
+      "offsetY": 0,
       "layer": 80
     } 
   },
