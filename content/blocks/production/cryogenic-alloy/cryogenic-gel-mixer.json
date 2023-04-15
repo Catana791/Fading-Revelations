@@ -21,7 +21,6 @@
     "layer": 118,
     "rotationSpacing": 22,
     "amount": 2,
-    "lengthOffset": 2,
     "effect": {
       "type": "ParticleEffect",
       "particles": 1,
