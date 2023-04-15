@@ -44,7 +44,10 @@
     ]
   },
   "category": "crafting",
-  "research": "mod-gate-crafters",
+  "research": {
+    "parent": "mod-gate-crafters",
+    "objectives": ["steel-alloy"]
+  },
   "requirements": [
     "lead/250",
     "metaglass/210",
