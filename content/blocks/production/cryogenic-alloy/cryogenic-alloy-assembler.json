@@ -17,7 +17,7 @@
         "type": "ParticleEffect",
           "particles": 12,
           "length": 36,
-          "lifetime": 90,
+          "lifetime": 120,
           "cone": 20,
           "useRotation": false,
           "baseRotation": 45,
