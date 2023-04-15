@@ -15,6 +15,29 @@
   },
   "craftTime": 120,
   "outputItem": "cryogenic-gel/2",
+  "updateEffect": {
+    "type": "RadialEffect",
+    "layer": 118,
+    "rotationSpacing": 40,
+    "amount": 3,
+    "lengthOffset": 4,
+    "effect": {
+      "type": "ParticleEffect",
+      "particles": 1,
+      "length": 14,
+      "lifetime": 20,
+      "cone": 20,
+      "useRotation": false,
+      "baseRotation": 90,
+      "sizeFrom": 0.5,
+      "sizeTo": 0,
+      "colorFrom": "ffffff00",
+      "colorTo": "ffffff88",
+      "interp": "pow2",
+      "sizeInterp": "pow3In",
+      "layer": 80
+    } 
+  },
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
