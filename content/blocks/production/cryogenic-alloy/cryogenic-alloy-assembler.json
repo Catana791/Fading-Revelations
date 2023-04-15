@@ -17,41 +17,18 @@
         "type": "ParticleEffect",
           "particles": 12,
           "length": 36,
-          "lifetime": 60,
+          "lifetime": 90,
           "cone": 20,
           "useRotation": false,
           "baseRotation": 45,
           "sizeFrom": 3,
           "sizeTo": 0,
-          "colorFrom": "71717100",
-          "colorTo": "71717188",
+          "colorFrom": "ffffff00",
+          "colorTo": "ffffff88",
           "interp": "pow2",
           "sizeInterp": "pow3In",
           "layer": 80
         }  
-      },
-      {
-        "type": "RadialEffect",
-        "layer": 118,
-        "rotationSpacing": 45,
-        "amount": 4,
-        "lengthOffset": 8,
-        "effect": {
-        "type": "ParticleEffect",
-          "particles": 6,
-          "length": 20,
-          "lifetime": 35,
-          "cone": 20,
-          "useRotation": false,
-          "baseRotation": 45,
-          "sizeFrom": 3,
-          "sizeTo": 0,
-          "colorFrom": "71717100",
-          "colorTo": "71717188",
-          "interp": "pow2",
-          "sizeInterp": "pow3In",
-          "layer": 80
-        }
       }
     ]
   },
