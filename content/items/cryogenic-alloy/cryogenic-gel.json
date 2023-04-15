@@ -7,5 +7,8 @@
   "explosiveness": 0,
   "radioactivity": 0,
   "charge": 0,
-  "research": "mod-gate-items"
+  "research": {
+    "parent": "mod-gate-items",
+    "objectives": ["steel-alloy"]
+  }
 }
