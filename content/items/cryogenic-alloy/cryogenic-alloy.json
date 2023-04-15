@@ -9,7 +9,7 @@
   "cost": 1.4,
   "research": {
     "parent": "igneous-alloy",
-    "objectives": ["steel-alloy", "igneous-alloy"]
+    "objectives": ["steel-alloy"]
   },
   "color": "2cbcc9",
 }
