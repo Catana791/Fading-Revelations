@@ -6,5 +6,8 @@
   "charge": 0.55,
   "explosiveness": 0,
   "radioactivity": 0,
-  "research": "cryogenic-gel"
+  "research": {
+    "parent": "cryogenic-gel",
+    "objectives": ["steel-alloy", "cryogenic-gel"]
+  }
 }
