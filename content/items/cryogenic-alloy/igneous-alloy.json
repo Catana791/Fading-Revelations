@@ -8,6 +8,6 @@
   "radioactivity": 0,
   "research": {
     "parent": "cryogenic-gel",
-    "objectives": ["steel-alloy", "cryogenic-gel"]
+    "objectives": ["steel-alloy""]
   }
 }
