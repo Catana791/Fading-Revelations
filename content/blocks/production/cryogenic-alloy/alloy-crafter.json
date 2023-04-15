@@ -36,7 +36,8 @@
     "parent": "cryogenic-gel-mixer",
     "objectives": ["steel-alloy"]
   },
-  "craftEffect": {
+  "updateEffectChance": 0.01,
+  "updateEffect": {
     "type": "RadialEffect",
     "layer": 118,
     "rotationSpacing": 12,
