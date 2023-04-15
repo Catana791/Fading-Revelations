@@ -1,0 +1,16 @@
+{
+  "type": "ItemBridge",
+  "name": "Alloy Bridge Conveyor",
+  "description": "A bridge conveyor made with surge alloy. Moves items at very high speeds.",
+  "health": 250,
+  "requirements": [
+    "copper/6",
+    "lead/6",
+    "surge-alloy/4"
+  ],
+  "range": 6,
+  "transportTime": 2,
+  "hasPower": false,
+  "category": "distribution",
+  "research": "titanium-bridge-conveyor"
+}
