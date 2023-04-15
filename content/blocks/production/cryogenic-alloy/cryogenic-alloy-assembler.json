@@ -4,6 +4,57 @@
   "description": "Amalgamates Igneous Alloy and Cryogenic Gel by shock-cooling it using Neutron Fluid. This basin is a part of the [cyan]Cryogenic Alloy assembly line.",
   "size": 4,
   "rotate": false,
+  "craftEffect": {
+    "type": "MultiEffect",
+    "effects": [
+      {
+        "type": "RadialEffect",
+        "layer": 118,
+        "rotationSpacing": 12,
+        "amount": 22,
+        "lengthOffset": 4,
+        "effect": {
+        "type": "ParticleEffect",
+          "particles": 12,
+          "length": 36,
+          "lifetime": 60,
+          "cone": 20,
+          "useRotation": false,
+          "baseRotation": 45,
+          "sizeFrom": 3,
+          "sizeTo": 0,
+          "colorFrom": "71717100",
+          "colorTo": "71717188",
+          "interp": "pow2",
+          "sizeInterp": "pow3In",
+          "layer": 80
+        }  
+      },
+      {
+        "type": "RadialEffect",
+        "layer": 118,
+        "rotationSpacing": 45,
+        "amount": 4,
+        "lengthOffset": 8,
+        "effect": {
+        "type": "ParticleEffect",
+          "particles": 6,
+          "length": 20,
+          "lifetime": 35,
+          "cone": 20,
+          "useRotation": false,
+          "baseRotation": 45,
+          "sizeFrom": 3,
+          "sizeTo": 0,
+          "colorFrom": "71717100",
+          "colorTo": "71717188",
+          "interp": "pow2",
+          "sizeInterp": "pow3In",
+          "layer": 80
+        }
+      }
+    ]
+  },
   "consumes": {
     "power": 10,
     "liquid": "neutron-fluid/0.4",
