@@ -1,0 +1,105 @@
+{
+  "type": "PowerTurret",
+  "name": "Lightning Chaingun",
+  "description": "Gradually escalates in firerate, decimating enemies with a flurry of lasers.",
+  "requirements": [
+    "copper/2400",
+    "graphite/1950",
+    "silicon/1800",
+    "cryogenic-alloy/500"
+  ],
+  "health": 5400,
+  "consumes": {
+    "power": 80,
+    "coolant": {
+      "amount": 2 
+    }
+  },
+  "coolantMultiplier": 0.1,
+  "size": 6,
+  "reload": 6,
+  "range": 400,
+  "minWarmup": 0.6,
+  "shootY": 20,
+  "shootWarmupSpeed": 0.007,
+  "warmupMaintainTime": 60,
+  "recoil": 0.5,
+  "recoilTime": 40,
+  "shake": 2,
+  "inaccuracy": 5,
+  "shoot": {
+    "type": "ShootAlternate",
+    "shots": 2,
+    "spread": 14,
+    "shotDelay": 8
+  },
+  "recoils": 2,
+  "shootSound": "malignShoot",
+  "loopSound": "spellLoop",
+  "loopSoundVolume": 1.3,
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "suffix": "-top",
+        "mirror": false,
+        "under": false,
+        "progress": "recoil",
+        "heatProgress": "recoil",
+        "heatColor": "ffffff4D"
+      },
+      {
+        "type": "RegionPart",
+        "suffix": "-barrel",
+        "progress": "recoil",
+        "heatProgress": "recoil",
+        "under": true,
+        "mirror": true,
+        "moveY": -4,
+        "heatColor": "ffffff4D"
+      },
+      {
+        "type": "RegionPart",
+        "suffix": "-wing-1",
+        "mirror": true,
+        "under": true,
+        "progress": "warmup",
+        "moveRot": 40,
+        "moveX": 9,
+        "moveY": -5
+      },
+      {
+        "type": "RegionPart",
+        "suffix": "-wing-2",
+        "mirror": true,
+        "under": true,
+        "progress": "warmup",
+        "moveRot": 40,
+        "moveX": 10
+      }
+    ]
+  },
+  "shootType": {
+    "type": "BasicBulletType",
+    "width": 12,
+    "height": 72,
+    "backColor": "a9d8ff",
+    "frontColor": "ffffff",
+    "mixColorFrom": "a9d8ff",
+    "mixColorTo": "ffffff",
+    "speed": 8,
+    "lifetime": 50,
+    "damage": 120,
+    "pierce": true,
+    "pierceBuilding": true,
+    "shootEffect": "shootBigColor",
+    "smokeEffect": "shootSmokeSquareSparse",
+    "homingPower": 0.078,
+    "homingDelay": 60,
+    "hitEffect": "none",
+    "despawnEffect": "none"
+  },
+  "category": "turret",
+  "research": "duo"
+}
