@@ -7,5 +7,9 @@
   "flammability": 0,
   "radioactivity": 0,
   "cost": 1.4,
-  "research": "igneous-alloy"
+  "research": {
+    "parent": "igneous-alloy",
+    "objectives": ["steel-alloy"]
+  },
+  "color": "2cbcc9",
 }
