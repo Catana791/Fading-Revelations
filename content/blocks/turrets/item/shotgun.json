@@ -120,6 +120,7 @@
       "amount": 120
     }
   ],
+  "shootSound": "shootAltLong",
   "category": "turret",
   "research": "missile-battery"
 }
