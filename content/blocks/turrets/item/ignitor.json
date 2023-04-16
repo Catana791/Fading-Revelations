@@ -54,5 +54,27 @@
     "graphite/400",
     "thorium/220",
     "cryogenic-alloy/80"
-  ]
+  ],
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "suffix": "-barrel",
+        "mirror": false,
+        "under": true,
+        "heatProgress": "recoil",
+        "progress": "recoil",
+        "moveY": -4
+      },
+      {
+        "type": "RegionPart",
+        "suffix": "-top",
+        "mirror": false,
+        "under": false,
+        "heatProgress": "recoil",
+        "progress": "recoil"
+      }
+    ]
+  }
 }
