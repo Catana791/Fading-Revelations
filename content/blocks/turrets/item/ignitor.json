@@ -1,0 +1,58 @@
+{
+  "type": "ItemTurret",
+  "name": "Ignitor",
+  "description": "A fuse-like turret that was built with cryogenic alloy.",
+  "reload": 45,
+  "shake": 5,
+  "recoil": 5,
+  "range": 120,
+  "shoot": {
+    "shots": 7 
+  },
+  "inaccuracy": 9,
+  "shootCone": 45,
+  "size": 5,
+  "coolantMultiplier": 0.5,
+  "shootSound": "shotgun",
+  "consumes": {
+    "coolant": {
+      "amount": 0.5
+    }
+  }
+  "ammoTypes": {
+    "titanium": {
+      "type": "ShrapnelBulletType",
+      "length": 130,
+      "damage": 82,
+      "ammoMultiplier": 5,
+      "width": 12,
+      "reloadMultiplier": 1.3
+    },
+    "thorium": {
+      "type": "ShrapnelBulletType",
+      "length": 130,
+      "damage": 132,
+      "ammoMultiplier": 6,
+      "toColor": "f9a3c7",
+      "shootEffect": "thoriumShoot",
+      "smokeEffect": "thoriumShoot"
+    },
+    "cryogenic-alloy": {
+      "type": "ShrapnelBulletType",
+      "length": 130,
+      "damage": 189,
+      "ammoMultiplier": 7,
+      "toColor": "8ce8f1",
+      "shootEffect": "thoriumShoot",
+      "smokeEffect": "thoriumShoot"
+    }
+  },
+  "category": "turret",
+  "research": "interitus",
+  "requirements": [
+    "copper/550",
+    "graphite/400",
+    "thorium/220",
+    "cryogenic-alloy/80"
+  ]
+}
