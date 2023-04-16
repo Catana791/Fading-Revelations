@@ -7,6 +7,8 @@
   "recoil": 5,
   "range": 120,
   "shoot": {
+    "type": "ShootSpread",
+    "spread": 20,
     "shots": 7 
   },
   "inaccuracy": 9,
