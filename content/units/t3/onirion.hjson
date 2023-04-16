@@ -80,6 +80,7 @@ weapons: [
       type: BasicBulletType
       width: 12
       height: 16
+      homingPower: 0.01
       weaveMag: 4
       weaveScale: 4
       lifetime: 60
@@ -104,6 +105,7 @@ weapons: [
       width: 16
       height: 22
       lifetime: 90
+      homingPower: 0.01
       speed: 3
       damage: 10
       trailWidth: 2.6
