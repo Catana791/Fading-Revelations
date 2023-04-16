@@ -17,7 +17,7 @@ weapons: [
     mirror: false
     rotate: false
     ignoreRotation: true
-    minShootVelocity: 0.5
+    minShootVelocity: 0.1
     shootCone: 180
     shootSound: none
     shootY: 0
@@ -67,8 +67,8 @@ weapons: [
     }
   }
   {
-    x: 21
-    y: 4
+    x: 18
+    y: 3
     rotate: false
     mirror: true
     alternate: false
@@ -92,10 +92,10 @@ weapons: [
   },
   {
     x: 0
-    y: 10
+    y: 16
     rotate: false
     mirror: false
-    reload: 4
+    reload: 21
     shootSound: missile
     bullet: {
       type: MissileBulletType
@@ -117,7 +117,7 @@ abilities: [
     type: StatusFieldAbility
     effect: none
     reload: 15
-    effectY: 3
+    effectY: 12
     parentizeEffects: true
     activeEffect: {
       followParent: true
@@ -126,8 +126,8 @@ abilities: [
       lifetime: 20
       length: 0
       region: me-onirion-rotor
-      sizeFrom: 16
-      sizeTo: 16
+      sizeFrom: 32
+      sizeTo: 32
       spin: 14
       layer: 95.1
     }
@@ -136,7 +136,7 @@ abilities: [
     type: StatusFieldAbility
     effect: none
     reload: 15
-    effectY: -6
+    effectY: -12
     parentizeEffects: true
     activeEffect: {
       followParent: true
@@ -145,8 +145,8 @@ abilities: [
       lifetime: 20
       length: 0
       region: me-onirion-rotor
-      sizeFrom: 13
-      sizeTo: 13
+      sizeFrom: 26
+      sizeTo: 26
       spin: 14
       layer: 95.1
     }
