@@ -3,7 +3,7 @@ flying: true
 engineSize: 0
 lowAltitude: true
 name: [orange]Onirion
-description: "A large chopper. Equipped with two miniguns, a rocket laucher and two homing rocket launchers. Also drops down bombs."
+description: AAA
 health: 9850
 armor: 9
 speed: 1
