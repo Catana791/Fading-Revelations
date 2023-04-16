@@ -10,10 +10,11 @@ speed: 2
 strafePentalty: 1
 weapons: [
   {
-    x: 1
+    x: 0
     y: 4
     rotate: false
     mirror: true
+    alternate: false
     reload: 20
     shootSound: shoot
     bullet: {
@@ -32,7 +33,7 @@ weapons: [
     }
   },
   {
-    x: 6
+    x: 7
     y: 1
     rotate: false
     mirror: true
