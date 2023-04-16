@@ -8,7 +8,7 @@
   "range": 120,
   "shoot": {
     "type": "ShootSpread",
-    "spread": 20,
+    "spread": 15,
     "shots": 7 
   },
   "inaccuracy": 9,
@@ -25,7 +25,7 @@
     "titanium": {
       "type": "ShrapnelBulletType",
       "length": 130,
-      "damage": 82,
+      "damage": 100,
       "ammoMultiplier": 5,
       "width": 12,
       "reloadMultiplier": 1.3
@@ -33,14 +33,14 @@
     "thorium": {
       "type": "ShrapnelBulletType",
       "length": 130,
-      "damage": 132,
+      "damage": 160,
       "ammoMultiplier": 6,
       "toColor": "f9a3c7"
     },
     "cryogenic-alloy": {
       "type": "ShrapnelBulletType",
       "length": 130,
-      "damage": 189,
+      "damage": 240,
       "ammoMultiplier": 7,
       "toColor": "8ce8f1"
     }
