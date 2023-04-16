@@ -14,7 +14,7 @@
   "inaccuracy": 9,
   "shootCone": 45,
   "size": 5,
-  "coolantMultiplier": 0.5,
+  "coolantMultiplier": 0.6,
   "shootSound": "shotgun",
   "consumes": {
     "coolant": {
