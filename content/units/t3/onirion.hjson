@@ -1,0 +1,154 @@
+type: flying
+flying: true
+engineSize: 0
+lowAltitude: true
+name: [orange]Onirion
+description: A large chopper. Equipped with two miniguns, a rocket laucher and two homing rocket launchers. Also drops down bombs.
+health: 9850
+armor: 9
+speed: 1
+strafePentalty: 1
+weapons: [
+  {
+    x: 0
+    y: -20
+    reload: 240
+    mirror: false
+    rotate: false
+    ignoreRotation: true
+    minShootVelocity: 0.5
+    shootCone: 180
+    shootSound: none
+    shootY: 0
+    inaccuracy: 15
+    bullet: {
+      type: BombBulletType
+      splashDamageRadius: 18
+      splashDamage: 20
+      width: 18
+      height: 18
+      hitEffect: flakExplosion
+      shootEffect: none
+      smokeEffect: none
+      status: blasted
+      statusDuration: 120
+      despawnEffect: none
+      fragSpread: 90
+      fragRandomSpread: 0
+      fragBullets: 4
+      fragBullet: {
+        type: ShrapnelBulletType
+        fromColor: ffffff00
+        toColor: ffffff88
+        length: 40
+        width: 6
+        damage: 5
+        despawnEffect: none
+        hitEffect: none
+      }
+    }
+  }
+  {
+    x: 8
+    y: -5
+    reload: 180
+    mirror: true
+    rotate: false
+    baseRotation: 90
+    alternate: false
+    shootCone: 360
+    ignoreRotation: true
+    shootSound: mediumCannon
+    bullet: {
+      instantDespawn: true
+      damage: 0
+      spawnUnit: me-tiny-missile
+    }
+  }
+  {
+    x: 21
+    y: 4
+    rotate: false
+    mirror: true
+    alternate: false
+    reload: 2
+    shootSound: shoot
+    bullet: {
+      hitEffect: flakExplosion
+      type: BasicBulletType
+      width: 12
+      height: 16
+      weaveMag: 4
+      weaveScale: 4
+      lifetime: 120
+      speed: 5
+      damage: 8
+      trailWidth: 2
+      trailColor: d9dcbc
+      trailLength: 9
+      trailChance: -1
+    }
+  },
+  {
+    x: 0
+    y: 10
+    rotate: false
+    mirror: false
+    reload: 4
+    shootSound: missile
+    bullet: {
+      type: MissileBulletType
+      hitEffect: flakExplosion
+      width: 16
+      height: 22
+      lifetime: 90
+      speed: 3
+      damage: 10
+      trailWidth: 2.6
+      trailColor: d9dcbc
+      trailLength: 11
+      trailChance: -1
+    }
+  }
+]
+abilities: [
+  {
+    type: StatusFieldAbility
+    effect: none
+    reload: 15
+    effectY: 3
+    parentizeEffects: true
+    activeEffect: {
+      followParent: true
+      rotWithParent: true
+      particles: 1
+      lifetime: 20
+      length: 0
+      region: me-onirion-rotor
+      sizeFrom: 16
+      sizeTo: 16
+      spin: 14
+      layer: 95.1
+    }
+  },
+  {
+    type: StatusFieldAbility
+    effect: none
+    reload: 15
+    effectY: -6
+    parentizeEffects: true
+    activeEffect: {
+      followParent: true
+      rotWithParent: true
+      particles: 1
+      lifetime: 20
+      length: 0
+      region: me-onirion-rotor
+      sizeFrom: 13
+      sizeTo: 13
+      spin: 14
+      layer: 95.1
+    }
+  }
+]
+research: armiger
