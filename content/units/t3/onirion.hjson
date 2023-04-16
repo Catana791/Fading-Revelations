@@ -76,6 +76,9 @@ weapons: [
     reload: 12
     shootSound: shoot
     bullet: {
+      pierce: true
+      pierceCap: 4
+      pierceArmor: true
       hitEffect: flakExplosion
       type: BasicBulletType
       width: 12
@@ -100,6 +103,9 @@ weapons: [
     reload: 21
     shootSound: missile
     bullet: {
+      pierce: true
+      pierceCap: 4
+      pierceArmor: true
       type: MissileBulletType
       hitEffect: flakExplosion
       width: 16
