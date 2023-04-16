@@ -6,7 +6,7 @@ name: Armiger
 description: A medium sized chopper equipped with rocket launchers and a minigun.
 health: 1100,
 armor: 8,
-speed: 2
+speed: 1
 strafePentalty: 1
 weapons: [
   {
@@ -72,7 +72,7 @@ abilities: [
       region: me-armiger-rotor
       sizeFrom: 13
       sizeTo: 13
-      spin: 10
+      spin: 12
       layer: 95.1
     }
   }
