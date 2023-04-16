@@ -3,8 +3,8 @@ type: flying
 flying: true
 engineSize: 0
 lowAltitude: true
-name: [orange]Onirion
-description: AAA
+name: "[orange]Onirion"
+description: "A large helicopter equipped with an array of different weapons."
 health: 9850
 armor: 9
 speed: 1
