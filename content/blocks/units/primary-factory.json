@@ -65,6 +65,15 @@
         "titanium/20"
       ],
       "time": 3000
+    },
+    {
+      "unit": "aedes",
+      "requirements": [
+        "silicon/30",
+        "lead/20",
+        "graphite/20"
+      ],
+      "time": 1600
     }
   ],
   "requirements": [
