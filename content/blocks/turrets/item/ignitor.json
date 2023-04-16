@@ -35,18 +35,14 @@
       "length": 130,
       "damage": 132,
       "ammoMultiplier": 6,
-      "toColor": "f9a3c7",
-      "shootEffect": "thoriumShoot",
-      "smokeEffect": "thoriumShoot"
+      "toColor": "f9a3c7"
     },
     "cryogenic-alloy": {
       "type": "ShrapnelBulletType",
       "length": 130,
       "damage": 189,
       "ammoMultiplier": 7,
-      "toColor": "8ce8f1",
-      "shootEffect": "thoriumShoot",
-      "smokeEffect": "thoriumShoot"
+      "toColor": "8ce8f1"
     }
   },
   "category": "turret",
