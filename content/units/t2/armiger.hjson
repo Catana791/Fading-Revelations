@@ -64,8 +64,8 @@ abilities: [
       lifetime: 20
       length: 0
       region: me-armiger-rotor
-      sizeFrom: 10
-      sizeTo: 10
+      sizeFrom: 15
+      sizeTo: 15
       spin: 18
       layer: 95.1
     }
