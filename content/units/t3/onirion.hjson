@@ -135,8 +135,8 @@ abilities: [
       lifetime: 20
       length: 0
       region: me-onirion-rotor
-      sizeFrom: 32
-      sizeTo: 32
+      sizeFrom: 24
+      sizeTo: 24
       spin: 16
       layer: 95.1
     }
@@ -154,8 +154,8 @@ abilities: [
       lifetime: 20
       length: 0
       region: me-onirion-rotor
-      sizeFrom: 26
-      sizeTo: 26
+      sizeFrom: 18
+      sizeTo: 18
       spin: 16
       layer: 95.1
     }
