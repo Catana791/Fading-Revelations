@@ -46,7 +46,7 @@ abilities: [
       region: me-aedes-rotor
       sizeFrom: 10
       sizeTo: 10
-      spin: 8
+      spin: 10
       layer: 95.1
     }
   }
