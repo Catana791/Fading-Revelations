@@ -26,8 +26,8 @@ weapons: [
       type: BombBulletType
       splashDamageRadius: 18
       splashDamage: 20
-      width: 18
-      height: 18
+      width: 36
+      height: 36
       hitEffect: flakExplosion
       shootEffect: none
       smokeEffect: none
@@ -43,6 +43,7 @@ weapons: [
         toColor: ffffff88
         length: 40
         width: 6
+        lifetime: 90
         damage: 5
         despawnEffect: none
         hitEffect: none
@@ -81,7 +82,7 @@ weapons: [
       height: 16
       weaveMag: 4
       weaveScale: 4
-      lifetime: 120
+      lifetime: 60
       speed: 5
       damage: 8
       trailWidth: 2
