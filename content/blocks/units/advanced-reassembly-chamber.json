@@ -12,7 +12,8 @@
         ["procer", "ducalis"],
         ["arvens", "aestiva"],
         ["scofra", "auratus"],
-        ["scorpio", "springald"]
+        ["scorpio", "springald"],
+        ["armiger", "onirion"]
     ],
     "consumes": {
         "power": 13.3333333333333,
