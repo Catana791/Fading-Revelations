@@ -63,16 +63,16 @@ weapons: [
     bullet: {
       instantDespawn: true
       damage: 0
-      spawnUnit: me-tiny-missile
+      spawnUnit: me-tiny-missile-4
     }
   }
   {
-    x: 18
-    y: 3
+    x: 15
+    y: 4
     rotate: false
     mirror: true
     alternate: false
-    reload: 2
+    reload: 12
     shootSound: shoot
     bullet: {
       hitEffect: flakExplosion
@@ -117,7 +117,7 @@ abilities: [
     type: StatusFieldAbility
     effect: none
     reload: 15
-    effectY: 12
+    effectY: 13
     parentizeEffects: true
     activeEffect: {
       followParent: true
@@ -128,7 +128,7 @@ abilities: [
       region: me-onirion-rotor
       sizeFrom: 32
       sizeTo: 32
-      spin: 14
+      spin: 16
       layer: 95.1
     }
   },
@@ -136,7 +136,7 @@ abilities: [
     type: StatusFieldAbility
     effect: none
     reload: 15
-    effectY: -12
+    effectY: -13
     parentizeEffects: true
     activeEffect: {
       followParent: true
@@ -147,7 +147,7 @@ abilities: [
       region: me-onirion-rotor
       sizeFrom: 26
       sizeTo: 26
-      spin: 14
+      spin: 16
       layer: 95.1
     }
   }
