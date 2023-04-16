@@ -25,7 +25,7 @@ weapons: [
       weaveScale: 4
       lifetime: 90
       speed: 3
-      damage: 12
+      damage: 6
       trailWidth: 1.7
       trailColor: d9dcbc
       trailLength: 7
@@ -37,7 +37,7 @@ weapons: [
     y: 1
     rotate: false
     mirror: true
-    reload: 24
+    reload: 26
     shoot: {
       shots: 2
       shotDelay: 1
@@ -49,7 +49,7 @@ weapons: [
       height: 12
       lifetime: 60
       speed: 3
-      damage: 16
+      damage: 7
       trailWidth: 1.7
       trailColor: d9dcbc
       trailLength: 7
