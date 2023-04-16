@@ -1,0 +1,54 @@
+type: flying
+flying: true
+engineSize: 0
+lowAltitude: true
+name: Aedes
+description: A small helicopter equipped with a gun that shoots swirving bullets.
+health: 170,
+speed: 1
+strafePentalty: 1
+weapons: [
+  {
+    x: 0
+    y: 0
+    rotate: false
+    mirror: false
+    reload: 20
+    shootSound: shoot
+    bullet: {
+      type: BasicBulletType
+      width: 6
+      height: 10
+      weaveMag: 4
+      weaveScale: 4
+      lifetime: 60
+      speed: 3
+      damage: 9
+      trailWidth: 1.5
+      trailColor: d9dcbc
+      trailLength: 6
+      trailChance: -1
+    }
+  }
+]
+abilities: [
+  {
+    type: StatusFieldAbility
+    effect: none
+    reload: 15
+    parentizeEffects: true
+    activeEffect: {
+      followParent: true
+      rotWithParent: true
+      particles: 1
+      lifetime: 20
+      length: 0
+      region: frt-try1-rotor
+      sizeFrom: 10
+      sizeTo: 10
+      spin: 16
+      layer: 95.1
+    }
+  }
+]
+research: mod-gate-flying
