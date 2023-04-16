@@ -2,8 +2,8 @@ type: flying
 flying: true
 engineSize: 0
 lowAltitude: true
-name: [orange]Armiger
-description: A medium sized chopper equipped with rocket launchers and a minigun.
+name: "[orange]Armiger"
+description: "A medium sized chopper equipped with rocket launchers and a minigun."
 health: 1100,
 armor: 8,
 speed: 1
