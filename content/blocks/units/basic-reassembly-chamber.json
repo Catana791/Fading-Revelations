@@ -12,7 +12,8 @@
         ["apis", "procer"],
         ["alba", "arvens"],
         ["annax", "scofra"],
-        ["sambuca", "scorpio"]
+        ["sambuca", "scorpio"],
+        ["aedes", "armiger"]
     ],
     "consumes": {
         "power": 0.8,
