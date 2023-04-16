@@ -36,6 +36,11 @@ weapons: [
     y: 1
     rotate: false
     mirror: true
+    reload: 24
+    shoot: {
+      shots: 2
+      shotDelay: 1
+    }
     shootSound: missile
     bullet: {
       type: MissileBulletType
