@@ -293,8 +293,8 @@ weapons: [
   },
   {
     type: PointDefenseWeapon
-    x: 31
-    y: -42
+    x: 28
+    y: -56
     mirror: true
     alternate: true
     rotate: false
@@ -316,6 +316,13 @@ abilities: [
     faceOutwards: true
     spread: 90
     unit: sambuca
+  },
+  {
+    type: SpawnDeathAbility
+    amount: 8
+    spread: 45
+    faceOutwards: true
+    unit: dagger
   }
   {
     type: StatusFieldAbility
