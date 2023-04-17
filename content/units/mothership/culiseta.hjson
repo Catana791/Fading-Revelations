@@ -75,7 +75,6 @@ weapons: [
     alternate: false
     shootCone: 32
     rotate: false
-    shootSound: fire
     bullet: {
       type: LiquidBulletType
       liquid: slag
