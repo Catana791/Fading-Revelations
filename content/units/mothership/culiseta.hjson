@@ -4,6 +4,8 @@ flying: true
 engineSize: 0
 lowAltitude: true
 name: "[orange]Culiseta"
+loopSound: me-helicopter-flapping
+loopSoundVolume: 1
 description: "A huge helicopter equipped with an array of different weapons."
 health: 16500
 armor: 3
