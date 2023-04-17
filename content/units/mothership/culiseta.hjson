@@ -299,13 +299,13 @@ weapons: [
     alternate: true
     rotate: false
     shootCone: 360
-    reload: 30
-    targetInterval: 30
-    targetSwitchInterval: 45
+    reload: 12
+    targetInterval: 6
+    targetSwitchInterval: 12
     bullet: {
       shootEffect: sparkShoot
-      maxRange: 120
-      damage: 1
+      maxRange: 160
+      damage: 8
     }
   }
 ]
