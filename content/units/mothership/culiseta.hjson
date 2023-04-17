@@ -107,8 +107,8 @@ weapons: [
       type: BombBulletType
       splashDamageRadius: 32
       splashDamage: 120
-      width: 96
-      height: 96
+      width: 48
+      height: 48
       hitEffect: massiveExplosion
       shootEffect: none
       smokeEffect: none
