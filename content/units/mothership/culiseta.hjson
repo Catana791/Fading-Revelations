@@ -9,6 +9,262 @@ armor: 3
 speed: 1
 strafePenalty: 1
 weapons: [
+  {
+    x: 0
+    y: 40
+    reload: 180
+    mirror: false
+    rotate: false
+    shootCone: 60
+    bullet: {
+      shootEffect: shootTitan
+      smokeEffect: shootSmokeTitan
+      hitEffect: blastExplosion
+      type: BasicBulletType
+      speed: 3
+      lifetime: 90
+      width: 60
+      height: 60
+      sprite: large-orb
+      pierce: true
+      pierceBuilding: true
+      damage: 100
+      knockback: -4
+      lightning: 4
+      lightningLength: 9
+      lightningDamage: 20
+    }
+  },
+  {
+    x: 30
+    y: 10
+    reload: 10
+    mirror: true
+    alternate: false
+    rotate: false
+    shootCone: 42
+    bullet: {
+      shootEffect: shootSmall
+      hitEffect: flakExplosion
+      despawnEffect: flakExplosion
+      smokeEffect: shootSmallSmoke
+      type: BasicBulletType
+      speed: 3
+      lifetime: 45
+      damage: 12
+      pierce: true
+      pierceBuilding: true
+      pierceCap: 5
+      buildingDamageMultiplier: 0.5
+      lightning: 1
+      lightningLength: 4
+      lightningDamage: 4
+    }
+  },
+  {
+    x: 15
+    y: 15
+    reload: 12
+    mirror: true
+    alternate: true
+    rotate: false
+    shootSound: missile
+    shootCone: 40
+    bullet: {
+      shootEffect: shootSmall
+      hitEffect: flakExplosion
+      despawnEffect: flakExplosion
+      smokeEffect: shootSmallSmoke
+      type: MissileBulletType
+      speed: 3
+      lifetime: 55
+      damage: 20
+      pierce: true
+      pierceCap: 5
+      pierceBuilding: true
+      buildingDamageMultiplier: 0.5
+      lightning: 1
+      lightningLength: 4
+      lightningDamage: 5
+    }
+  },
+  {
+    x: 0
+    y: -40
+    reload: 240
+    mirror: false
+    rotate: false
+    shootCone: 360
+    ignoreRotation: true
+    minShootVelocity: 0.1
+    shootSound: mediumCannon
+    bullet: {
+      type: BombBulletType
+      splashDamageRadius: 32
+      splashDamage: 120
+      width: 96
+      height: 96
+      hitEffect: massiveExplosion
+      shootEffect: none
+      smokeEffect: none
+      status: blasted
+      statusDuration: 120
+      despawnEffect: none
+      fragSpread: 45
+      fragLifeMin: 1
+      fragRandomSpread: 0
+      fragBullets: 8
+      fragBullet: {
+        type: MissileBulletType
+        width: 16
+        height: 16
+        pierce: true
+        pierceBuilding: true
+        pierceCap: 1
+        speed: 2
+        lifetime: 30
+        damage: 50
+        fragBullets: 4
+        fragLifeMin: 1
+        hitEffect: none
+        fragRandomSpread: 0
+        fragSpread: 90
+        fragBullet: {
+          type: MissileBulletType
+          width: 12
+          height: 12
+          pierce: true
+          pierceBuilding: true
+          hitEffect: none
+          pierceCap: 1
+          speed: 2
+          lifetime: 20
+          damage: 30
+          fragBullets: 1
+          fragLifeMin: 1
+          fragRandomSpread: 0
+          fragAngle: 90
+          fragBullet: {
+            type: ExplosionBulletType
+            killShooter: false
+            splashDamage: 60
+            splashDamageRadius: 24
+          }
+        }
+      }
+    }
+  },
+  {
+    x: 10
+    y: -5
+    reload: 180
+    mirror: true
+    rotate: false
+    baseRotation: 180
+    shootSound: artillery
+    ignoreRotation: true
+    shootCone: 180
+    bullet: {
+      type: ArtilleryBulletType
+      collidesAir: false
+      speed: 2
+      lifetime: 30
+      damage: 40
+      pierce: false
+      splashDamage: 20
+      splashDamageRadius: 16
+      width: 16
+      height: 16
+      fragBullets: 16
+      fragSpread: 22.5
+      hitEffect: sapExplosion
+      despawnHit: true
+      fragRandomSpread: 0
+      fragLifeMin: 1
+      fragBullet: {
+        type: MissileBulletType
+        speed: 2
+        lifetime: 15
+        hitEffect: flakExplosion
+        despawnEffect: none
+        damage: 20
+      }
+    }
+  },
+  {
+    x: 10
+    y: -8
+    reload: 200
+    mirror: true
+    rotate: false
+    baseRotation: 180
+    shootSound: artillery
+    ignoreRotation: true
+    shootCone: 180
+    bullet: {
+      type: ArtilleryBulletType
+      collidesAir: false
+      speed: 2
+      lifetime: 30
+      damage: 40
+      pierce: false
+      splashDamage: 20
+      splashDamageRadius: 16
+      width: 16
+      height: 16
+      fragBullets: 16
+      fragSpread: 22.5
+      hitEffect: sapExplosion
+      despawnHit: true
+      fragRandomSpread: 0
+      fragLifeMin: 1
+      fragBullet: {
+        type: MissileBulletType
+        speed: 2
+        lifetime: 15
+        hitEffect: flakExplosion
+        despawnEffect: none
+        damage: 20
+      }
+    }
+  },
+  {
+    x: 10
+    y: -11
+    reload: 220
+    mirror: true
+    rotate: false
+    baseRotation: 180
+    shootSound: artillery
+    ignoreRotation: true
+    shootCone: 180
+    bullet: {
+      type: ArtilleryBulletType
+      collidesAir: false
+      speed: 2
+      lifetime: 30
+      damage: 40
+      pierce: false
+      splashDamage: 20
+      splashDamageRadius: 16
+      width: 16
+      height: 16
+      fragBullets: 16
+      fragSpread: 22.5
+      hitEffect: sapExplosion
+      despawnHit: true
+      fragRandomSpread: 0
+      fragLifeMin: 1
+      fragBullet: {
+        type: MissileBulletType
+        speed: 2
+        lifetime: 15
+        hitEffect: flakExplosion
+        despawnEffect: none
+        damage: 20
+      }
+    }
+  }
 ]
 abilities: [
   {
