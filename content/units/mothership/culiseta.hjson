@@ -15,7 +15,7 @@ abilities: [
     type: StatusFieldAbility
     effect: none
     reload: 15
-    effectY: 13
+    effectY: 11
     parentizeEffects: true
     activeEffect: {
       followParent: true
@@ -24,8 +24,8 @@ abilities: [
       lifetime: 20
       length: 0
       region: me-culiseta-rotor
-      sizeFrom: 24
-      sizeTo: 24
+      sizeFrom: 60
+      sizeTo: 60
       spin: 16
       layer: 95.1
     }
@@ -34,7 +34,7 @@ abilities: [
     type: StatusFieldAbility
     effect: none
     reload: 15
-    effectY: -13
+    effectY: -26
     parentizeEffects: true
     activeEffect: {
       followParent: true
@@ -43,8 +43,8 @@ abilities: [
       lifetime: 20
       length: 0
       region: me-culiseta-rotor
-      sizeFrom: 18
-      sizeTo: 18
+      sizeFrom: 30
+      sizeTo: 30
       spin: 16
       layer: 95.1
     }
