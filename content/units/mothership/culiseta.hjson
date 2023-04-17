@@ -2,7 +2,7 @@
 type: flying
 flying: true
 engineSize: 0
-lowAltitude: false
+lowAltitude: true
 name: "[orange]Culiseta"
 description: "A huge helicopter equipped with an array of different weapons."
 health: 16500
