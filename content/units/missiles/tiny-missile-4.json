@@ -5,6 +5,7 @@
   "speed": 6,
   "lifetime": 120,
   "trailColor": "ffaa5f",
+  "rotateSpeed": 10,
   "trailLength": 10,
   "drawCell": false,
   "weapons": [
