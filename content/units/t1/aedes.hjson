@@ -4,7 +4,7 @@ engineSize: 0
 lowAltitude: true
 name: "[orange]Aedes"
 description: "A small helicopter equipped with a gun that shoots swirving bullets."
-health: 170,
+health: 55,
 speed: 1
 strafePentalty: 1
 weapons: [
