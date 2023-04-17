@@ -4,8 +4,8 @@ engineSize: 0
 lowAltitude: true
 name: "[orange]Armiger"
 description: "A medium sized chopper equipped with rocket launchers and a minigun."
-health: 1100,
-armor: 8,
+health: 525,
+armor: 6,
 speed: 1
 strafePentalty: 1
 weapons: [
