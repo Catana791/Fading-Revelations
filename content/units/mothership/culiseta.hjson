@@ -20,7 +20,7 @@ weapons: [
     shootSound: missileLaunch
     shoot: {
       type: ShootSpread
-      shots: 3
+      shots: 4
       spread: 20
       shotDelay: 6
     },
@@ -50,7 +50,8 @@ weapons: [
       sprite: large-orb
       pierce: true
       pierceBuilding: true
-      damage: 250
+      damage: 425
+      hitSize: 32
       knockback: -10
       lightning: 4
       lightningLength: 9
@@ -75,7 +76,7 @@ weapons: [
       lifetime: 80
       width: 10
       height: 14
-      damage: 24
+      damage: 40
       pierce: true
       pierceBuilding: true
       pierceCap: 5
@@ -98,7 +99,7 @@ weapons: [
     bullet: {
       type: LaserBulletType
       length: 200
-      damage: 200
+      damage: 350
       lifetime: 90
     }
   },
@@ -120,7 +121,7 @@ weapons: [
       type: MissileBulletType
       speed: 4
       lifetime: 75
-      damage: 40
+      damage: 65
       width: 10
       height: 14
       pierce: true
@@ -145,7 +146,7 @@ weapons: [
     bullet: {
       type: BombBulletType
       splashDamageRadius: 32
-      splashDamage: 220
+      splashDamage: 375
       width: 48
       height: 48
       hitEffect: massiveExplosion
@@ -167,7 +168,7 @@ weapons: [
         pierceCap: 1
         speed: 2
         lifetime: 30
-        damage: 75
+        damage: 125
         fragBullets: 4
         fragLifeMin: 1
         hitEffect: none
@@ -183,7 +184,7 @@ weapons: [
           pierceCap: 1
           speed: 2
           lifetime: 20
-          damage: 50
+          damage: 85
           fragBullets: 1
           fragLifeMin: 1
           fragRandomSpread: 0
@@ -191,7 +192,7 @@ weapons: [
           fragBullet: {
             type: ExplosionBulletType
             killShooter: false
-            splashDamage: 100
+            splashDamage: 170
             splashDamageRadius: 24
           }
         }
@@ -214,10 +215,10 @@ weapons: [
       collidesAir: false
       speed: 2
       lifetime: 60
-      damage: 75
+      damage: 127
       pierce: false
-      splashDamage: 20
-      splashDamageRadius: 16
+      splashDamage: 34
+      splashDamageRadius: 24
       width: 16
       height: 16
       fragBullets: 16
@@ -232,7 +233,7 @@ weapons: [
         lifetime: 15
         hitEffect: flakExplosion
         despawnEffect: none
-        damage: 40
+        damage: 65
       }
     }
   },
@@ -252,9 +253,9 @@ weapons: [
       collidesAir: false
       speed: 2
       lifetime: 60
-      damage: 80
+      damage: 136
       pierce: false
-      splashDamage: 20
+      splashDamage: 34
       splashDamageRadius: 16
       width: 16
       height: 16
@@ -270,7 +271,7 @@ weapons: [
         lifetime: 15
         hitEffect: flakExplosion
         despawnEffect: none
-        damage: 40
+        damage: 65
       }
     }
   },
@@ -290,9 +291,9 @@ weapons: [
       collidesAir: false
       speed: 2
       lifetime: 60
-      damage: 60
+      damage: 102
       pierce: false
-      splashDamage: 20
+      splashDamage: 34
       splashDamageRadius: 16
       width: 16
       height: 16
@@ -308,7 +309,7 @@ weapons: [
         lifetime: 15
         hitEffect: flakExplosion
         despawnEffect: none
-        damage: 30
+        damage: 50
       }
     }
   },
@@ -320,13 +321,13 @@ weapons: [
     alternate: true
     rotate: false
     shootCone: 360
-    reload: 12
+    reload: 10
     targetInterval: 6
-    targetSwitchInterval: 12
+    targetSwitchInterval: 8
     bullet: {
       shootEffect: sparkShoot
       maxRange: 160
-      damage: 10
+      damage: 15
     }
   }
 ]
