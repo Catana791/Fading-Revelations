@@ -2,7 +2,7 @@
 type: flying
 flying: true
 engineSize: 0
-lowAltitude: true
+lowAltitude: false
 name: "[orange]Culiseta"
 description: "A huge helicopter equipped with an array of different weapons."
 health: 16500
@@ -15,11 +15,13 @@ weapons: [
     y: 0
     rotate: false
     mirror: false
+    reload: 153
     shootSound: missileLaunch
     shoot: {
       type: ShootSpread
       shots: 3
       spread: 20
+      shotDelay: 6
     },
     bullet: {
       instandDisappear: true
