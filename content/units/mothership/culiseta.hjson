@@ -328,7 +328,7 @@ abilities: [
     type: ShieldArcAbility
     angle: 96
     x: 0
-    y: 0
+    y: -60
     max: 1800
     regen: 0.4
     cooldown: 2400
