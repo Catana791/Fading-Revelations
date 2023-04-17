@@ -64,7 +64,7 @@
         for more information!
         '''
 
-    subtitle: "Version 2.2: The unit update!"
+    subtitle: "Now with Helicopters!"
     minGameVersion : 140
-    version : "2.2"
+    version : "2.3"
 }
