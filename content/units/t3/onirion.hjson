@@ -7,6 +7,7 @@ name: "[orange]Onirion"
 description: "A large helicopter equipped with an array of different weapons."
 health: 5400
 armor: 6
+hitSize: 23
 speed: 1
 strafePenalty: 1
 weapons: [
