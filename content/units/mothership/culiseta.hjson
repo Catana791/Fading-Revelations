@@ -11,7 +11,7 @@ strafePenalty: 1
 weapons: [
   {
     x: 0
-    y: 40
+    y: 45
     reload: 180
     mirror: false
     rotate: false
@@ -23,8 +23,8 @@ weapons: [
       type: BasicBulletType
       speed: 3
       lifetime: 90
-      width: 60
-      height: 60
+      width: 32
+      height: 32
       sprite: large-orb
       pierce: true
       pierceBuilding: true
@@ -155,20 +155,21 @@ weapons: [
     }
   },
   {
-    x: 10
-    y: -5
+    x: 12
+    y: -4
     reload: 180
     mirror: true
     rotate: false
-    baseRotation: 180
+    baseRotation: 90
     shootSound: artillery
     ignoreRotation: true
+    alternate: false
     shootCone: 180
     bullet: {
       type: ArtilleryBulletType
       collidesAir: false
       speed: 2
-      lifetime: 30
+      lifetime: 60
       damage: 40
       pierce: false
       splashDamage: 20
@@ -192,12 +193,13 @@ weapons: [
     }
   },
   {
-    x: 10
-    y: -8
+    x: 12
+    y: -10
     reload: 200
     mirror: true
     rotate: false
-    baseRotation: 180
+    alternate: false
+    baseRotation: 90
     shootSound: artillery
     ignoreRotation: true
     shootCone: 180
@@ -205,7 +207,7 @@ weapons: [
       type: ArtilleryBulletType
       collidesAir: false
       speed: 2
-      lifetime: 30
+      lifetime: 60
       damage: 40
       pierce: false
       splashDamage: 20
@@ -229,12 +231,13 @@ weapons: [
     }
   },
   {
-    x: 10
-    y: -11
+    x: 16
+    y: -16
     reload: 220
     mirror: true
     rotate: false
-    baseRotation: 180
+    alternate: false
+    baseRotation: 90
     shootSound: artillery
     ignoreRotation: true
     shootCone: 180
@@ -242,7 +245,7 @@ weapons: [
       type: ArtilleryBulletType
       collidesAir: false
       speed: 2
-      lifetime: 30
+      lifetime: 60
       damage: 40
       pierce: false
       splashDamage: 20
