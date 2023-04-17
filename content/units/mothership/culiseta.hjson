@@ -1,0 +1,53 @@
+type: flying
+flying: true
+engineSize: 0
+lowAltitude: true
+name: "[orange]Culiseta"
+description: "A huge helicopter equipped with an array of different weapons."
+health: 16500
+armor: 3
+speed: 1
+strafePenalty: 1
+weapons: [
+]
+abilities: [
+  {
+    type: StatusFieldAbility
+    effect: none
+    reload: 15
+    effectY: 13
+    parentizeEffects: true
+    activeEffect: {
+      followParent: true
+      rotWithParent: true
+      particles: 1
+      lifetime: 20
+      length: 0
+      region: me-culiseta-rotor
+      sizeFrom: 24
+      sizeTo: 24
+      spin: 16
+      layer: 95.1
+    }
+  },
+  {
+    type: StatusFieldAbility
+    effect: none
+    reload: 15
+    effectY: -13
+    parentizeEffects: true
+    activeEffect: {
+      followParent: true
+      rotWithParent: true
+      particles: 1
+      lifetime: 20
+      length: 0
+      region: me-culiseta-rotor
+      sizeFrom: 18
+      sizeTo: 18
+      spin: 16
+      layer: 95.1
+    }
+  }
+]
+research: onirion
