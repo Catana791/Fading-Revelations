@@ -12,7 +12,8 @@
         ["ducalis", "hive"],
         ["aestiva", "altaic"],
         ["auratus", "test"],
-        ["springald", "onager"]
+        ["springald", "onager"],
+        ["onirion", "culiseta"]
     ],
     "consumes": {
         "power": 30,
