@@ -12,6 +12,23 @@ strafePenalty: 1
 weapons: [
   {
     x: 0
+    y: 0
+    rotate: false
+    mirror: false
+    shootSound: missileLaunch
+    shoot: {
+      type: ShootSpread
+      shots: 3
+      spread: 20
+    },
+    bullet: {
+      instandDisappear: true
+      damage: 0
+      spawnUnit: me-tiny-missile-4
+    }
+  }
+  {
+    x: 0
     y: 45
     reload: 180
     mirror: false
@@ -63,25 +80,6 @@ weapons: [
       lightning: 1
       lightningLength: 4
       lightningDamage: 4
-    }
-  },
-  {
-    x: 45
-    y: 12
-    reload: 9
-    mirror: true
-    alternate: false
-    shootCone: 32
-    rotate: false
-    bullet: {
-      type: LiquidBulletType
-      liquid: slag
-      speed: 5
-      lifetime: 30
-      pierce: false
-      status: burning
-      statusDuration: 180
-      damage: 16
     }
   },
   {
