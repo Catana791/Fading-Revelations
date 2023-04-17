@@ -24,8 +24,8 @@ abilities: [
       lifetime: 20
       length: 0
       region: me-culiseta-rotor
-      sizeFrom: 160
-      sizeTo: 160
+      sizeFrom: 120
+      sizeTo: 120
       spin: 16
       layer: 95.1
     }
