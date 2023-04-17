@@ -43,7 +43,6 @@ weapons: [
     mirror: true
     alternate: false
     rotate: false
-    shootCone: 42
     inaccuracy: 5
     bullet: {
       shootEffect: shootSmall
@@ -53,8 +52,8 @@ weapons: [
       type: BasicBulletType
       speed: 3
       lifetime: 80
-      width: 16
-      height: 24
+      width: 10
+      height: 14
       damage: 12
       pierce: true
       pierceBuilding: true
@@ -66,13 +65,14 @@ weapons: [
     }
   },
   {
-    x: 70
-    y: 25
+    x: 55 
+    y: 5
     reload: 120
     alternate: true
     mirror: true
     shootCone: 32
     inaccuracy: 3
+    shootSound: laser
     rotate: false
     bullet: {
       type: LaserBulletType
@@ -97,11 +97,11 @@ weapons: [
       despawnEffect: flakExplosion
       smokeEffect: shootSmallSmoke
       type: MissileBulletType
-      speed: 3
-      lifetime: 90
+      speed: 4
+      lifetime: 75
       damage: 20
-      width: 16
-      height: 24
+      width: 10
+      height: 14
       pierce: true
       pierceCap: 5
       pierceBuilding: true
