@@ -8,6 +8,7 @@ description: "A huge helicopter equipped with an array of different weapons."
 health: 16500
 armor: 3
 speed: 1
+hitSize: 64
 strafePenalty: 1
 weapons: [
   {
