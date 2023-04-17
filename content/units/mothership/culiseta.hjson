@@ -325,6 +325,18 @@ abilities: [
     unit: dagger
   }
   {
+    type: ShieldArcAbility
+    angle: 83
+    x: 0
+    y: 0
+    max: 1800
+    regen: 0.4
+    cooldown: 2400
+    width: 3
+    whenShooting: false
+    radius: 80
+  }
+  {
     type: StatusFieldAbility
     effect: none
     reload: 15
