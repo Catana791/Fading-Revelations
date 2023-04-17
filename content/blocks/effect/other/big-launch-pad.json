@@ -17,7 +17,10 @@
     }
   },
   "category": "effect",
-  "research": "mod-gate-effect",
+  "research": {
+    "parent": "depository",
+    "objectives": ["launch-pad"]
+  },
   "requirements": [
     "lead/700",
     "titanium/800",
