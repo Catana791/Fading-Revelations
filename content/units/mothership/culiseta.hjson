@@ -326,7 +326,7 @@ abilities: [
   }
   {
     type: ShieldArcAbility
-    angle: 83
+    angle: 96
     x: 0
     y: 0
     max: 1800
@@ -334,7 +334,7 @@ abilities: [
     cooldown: 2400
     width: 3
     whenShooting: false
-    radius: 80
+    radius: 120
   }
   {
     type: StatusFieldAbility
