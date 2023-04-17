@@ -290,9 +290,33 @@ weapons: [
         damage: 20
       }
     }
+  },
+  {
+    type: PointDefenseWeapon
+    x: 31
+    y: -42
+    mirror: true
+    alternate: true
+    rotate: false
+    shootCone: 360
+    reload: 12
+    targetInterval: 6
+    targetSwitchInterval: 12
+    bullet: {
+      shootEffect: sparkShoot
+      maxRange: 120
+      damage: 8
+    }
   }
 ]
 abilities: [
+  {
+    type: SpawnDeathAbility
+    amount: 4
+    faceOutwards: true
+    spread: 90
+    unit: sambuca
+  }
   {
     type: StatusFieldAbility
     effect: none
