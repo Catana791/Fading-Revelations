@@ -27,6 +27,10 @@ weapons: [
       damage: 0
       splashDamage: 26
       splashDamageRadius: 40
+      shootEffect: none
+      smokeEffect: none
+      hitEffect: none
+      despawnEffect: none
       speed: 0
     }
   }
