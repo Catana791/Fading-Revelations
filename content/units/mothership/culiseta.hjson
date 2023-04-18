@@ -125,10 +125,7 @@ weapons: [
     shootSound: laser
     rotate: false
     bullet: {
-      type: SapBulletType
-      width: 1
-      status: none
-      sapStrength: 0
+      type: LaserBulletType
       length: 200
       damage: 350
       knockback: -2
