@@ -25,7 +25,7 @@ weapons: [
       instantDisappear: true
       damage: 0
       splashDamage: 18
-      splashDamageRadius: 16
+      splashDamageRadius: 32
       speed: 0
     }
   }
