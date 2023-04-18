@@ -68,7 +68,7 @@
     }
   ],
   "category": "crafting",
-  "research": "big-phase-weaver",
+  "research": "uraniumrod-crafter",
   "outputItem": {
     "item": "surge-alloy",
     "amount": 2
