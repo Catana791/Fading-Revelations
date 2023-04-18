@@ -19,7 +19,7 @@ weapons: [
     alwaysShooting: true
     ignoreRotation: true
     shootCone: 360
-    reload: 15
+    reload: 25
     bullet: {
       instantDisappear: true
       damage: 0
