@@ -22,7 +22,7 @@ weapons: [
     shootSound: none
     ignoreRotation: true
     shootCone: 360
-    reload: 20
+    reload: 15
     bullet: {
       instantDisappear: true
       damage: 0
