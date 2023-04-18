@@ -31,6 +31,7 @@ weapons: [
       hitEffect: none
       despawnEffect: none
       splashDamageRadius: 32
+      knockback: 0.2
       speed: 0
     }
   }
