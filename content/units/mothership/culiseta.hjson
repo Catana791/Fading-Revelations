@@ -14,6 +14,25 @@ weapons: [
   {
     x: 0
     y: 0
+    shootY: 0
+    shootX: 0
+    mirror: false
+    rotate: false
+    alwaysShooting: true
+    ignoreRotation: true
+    shootCone: 360
+    reload: 10
+    bullet: {
+      instantDisappear: true
+      damage: 0
+      splashDamage: 34
+      splashDamageRadius: 96
+      speed: 0
+    }
+  }
+  {
+    x: 0
+    y: 0
     rotate: false
     mirror: false
     reload: 153
