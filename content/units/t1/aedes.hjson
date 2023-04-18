@@ -25,6 +25,7 @@ weapons: [
       instantDisappear: true
       damage: 0
       shootEffect: none
+      knockback: 0.1
       smokeEffect: none
       hitEffect: none
       despawnEffect: none
