@@ -25,6 +25,10 @@ weapons: [
       instantDisappear: true
       damage: 0
       splashDamage: 18
+      shootEffect: none
+      smokeEffect: none
+      hitEffect: none
+      despawnEffect: none
       splashDamageRadius: 32
       speed: 0
     }
