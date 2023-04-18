@@ -31,6 +31,7 @@ weapons: [
       pierceBuilding: true
       width: 0
       height: 0
+      knockback: 0.4
       shootEffect: none
       smokeEffect: none
       hitEffect: none
