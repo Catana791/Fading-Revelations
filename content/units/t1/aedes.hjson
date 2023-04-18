@@ -3,9 +3,10 @@ flying: true
 engineSize: 0
 lowAltitude: true
 name: "[orange]Aedes"
-description: "A small helicopter equipped with a gun that shoots swirving bullets."
+description: "A small helicopter equipped with a gun that shoots swirving bullets. The rotors damage nearby targets."
 health: 55
 hitSize: 9
+range: 135
 speed: 1
 strafePenalty: 1
 weapons: [
@@ -25,6 +26,7 @@ weapons: [
       instantDisappear: true
       damage: 0
       shootEffect: none
+      pierceBuilding: true
       knockback: 0.1
       smokeEffect: none
       hitEffect: none
@@ -47,7 +49,7 @@ weapons: [
       height: 10
       weaveMag: 4
       weaveScale: 4
-      lifetime: 60
+      lifetime: 45
       speed: 3
       damage: 9
       trailWidth: 1.5
