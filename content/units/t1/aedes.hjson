@@ -16,6 +16,7 @@ weapons: [
     shootX: 0
     mirror: false
     rotate: false
+    shootSound: none
     alwaysShooting: true
     ignoreRotation: true
     shootCone: 360
