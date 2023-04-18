@@ -26,7 +26,6 @@ weapons: [
     reload: 10
     bullet: {
       instantDisappear: true
-      damage: 0
       hitSize: 96
       damage: 34
       pierceBuilding: true
