@@ -23,10 +23,10 @@ weapons: [
     alwaysShooting: true
     ignoreRotation: true
     shootCone: 360
-    reload: 10
+    reload: 15
     bullet: {
       instantDisappear: true
-      splashDamage: 34
+      splashDamage: 15
       splashDamageRadius: 96
       pierceBuilding: true
       width: 0
@@ -130,6 +130,7 @@ weapons: [
       sapStrength: 0
       length: 200
       damage: 350
+      knockback: -2
       lifetime: 90
     }
   },
