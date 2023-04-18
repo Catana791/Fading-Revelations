@@ -125,7 +125,7 @@ weapons: [
     rotate: false
     bullet: {
       type: SapBulletType
-      width: 5
+      width: 1
       status: none
       sapStrength: 0
       length: 200
