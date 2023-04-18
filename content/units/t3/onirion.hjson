@@ -13,6 +13,25 @@ strafePenalty: 1
 weapons: [
   {
     x: 0
+    y: 0
+    shootY: 0
+    shootX: 0
+    mirror: false
+    rotate: false
+    alwaysShooting: true
+    ignoreRotation: true
+    shootCone: 360
+    reload: 15
+    bullet: {
+      instantDisappear: true
+      damage: 0
+      splashDamage: 26
+      splashDamageRadius: 16
+      speed: 0
+    }
+  }
+  {
+    x: 0
     y: -20
     reload: 240
     mirror: false
