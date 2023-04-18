@@ -26,8 +26,8 @@ weapons: [
     reload: 10
     bullet: {
       instantDisappear: true
-      hitSize: 96
-      damage: 34
+      splashDamage: 34
+      splashDamageRadius: 96
       pierceBuilding: true
       width: 0
       height: 0
@@ -124,7 +124,10 @@ weapons: [
     shootSound: laser
     rotate: false
     bullet: {
-      type: LaserBulletType
+      type: SapBulletType
+      width: 5
+      status: none
+      sapStrength: 0
       length: 200
       damage: 350
       lifetime: 90
