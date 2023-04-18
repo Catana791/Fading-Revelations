@@ -26,6 +26,7 @@ weapons: [
     reload: 15
     bullet: {
       instantDisappear: true
+      knockback: 0.3
       damage: 0
       pierceBuilding: true
       splashDamage: 11
