@@ -4,10 +4,11 @@ flying: true
 engineSize: 0
 lowAltitude: true
 name: "[orange]Onirion"
-description: "A large helicopter equipped with an array of different weapons. The rotating blades damage nearby units."
+description: "A large helicopter equipped with an array of different weapons. The rotating blades damage nearby targets."
 health: 5400
 armor: 6
 hitSize: 23
+range: 240
 speed: 1
 strafePenalty: 1
 weapons: [
@@ -26,7 +27,8 @@ weapons: [
     bullet: {
       instantDisappear: true
       damage: 0
-      splashDamage: 26
+      pierceBuilding: true
+      splashDamage: 11
       splashDamageRadius: 40
       shootEffect: none
       smokeEffect: none
