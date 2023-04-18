@@ -3,10 +3,11 @@ flying: true
 engineSize: 0
 lowAltitude: true
 name: "[orange]Armiger"
-description: "A medium sized chopper equipped with rocket launchers and a minigun."
-health: 525,
-armor: 6,
+description: "A medium sized chopper equipped with rocket launchers and a minigun. The rotor deals damage to near targets."
+health: 525
+armor: 6
 speed: 1
+range: 180
 hitSize: 12
 strafePenalty: 1
 weapons: [
@@ -25,7 +26,8 @@ weapons: [
     bullet: {
       instantDisappear: true
       damage: 0
-      splashDamage: 18
+      splashDamage: 7
+      pierceBuilding: true
       shootEffect: none
       smokeEffect: none
       hitEffect: none
@@ -49,7 +51,7 @@ weapons: [
       height: 12
       weaveMag: 4
       weaveScale: 4
-      lifetime: 90
+      lifetime: 60
       speed: 3
       damage: 6
       trailWidth: 1.7
