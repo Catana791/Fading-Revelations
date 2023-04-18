@@ -23,6 +23,10 @@ weapons: [
     bullet: {
       instantDisappear: true
       damage: 0
+      shootEffect: none
+      smokeEffect: none
+      hitEffect: none
+      despawnEffect: none
       splashDamage: 10
       splashDamageRadius: 16
       speed: 0
