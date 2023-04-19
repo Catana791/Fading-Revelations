@@ -68,7 +68,7 @@
     }
   ],
   "category": "crafting",
-  "research": "uraniumrod-crafter",
+  "research": "advanced-coal-centrifuge",
   "outputItem": {
     "item": "surge-alloy",
     "amount": 2
