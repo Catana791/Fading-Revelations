@@ -2,7 +2,7 @@
   "name": "Exordium",
   "description": "You arrive on Cerbero. This is the sector that the computer calculated the least danger for. Start your journey. Set up basic operations. Prepare for more difficult sectors.",
   "captureWave": 10,
-  "difficulty: 2,
+  "difficulty": 2,
   "planet": "cerbero",
   "sector": 0
 }
