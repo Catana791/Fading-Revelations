@@ -1,5 +1,6 @@
 {
   "localizedName": "Abandoned Battlefield",
+  "description": "The last sector before you conquer Cerbero. The instruments register many powerful foes here. Waves will be sent relentlessly. Try to survive!",
   "difficulty": 10,
   "planet": "cerbero",
   "captureWave": 40,
