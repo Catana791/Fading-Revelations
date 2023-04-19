@@ -81,7 +81,7 @@
     }
   ],
   "category": "crafting",
-  "research": "uraniumrod-crafter",
+  "research": "big-plastanium-press",
   "outputItem": {
     "item": "phase-fabric",
     "amount": 4
