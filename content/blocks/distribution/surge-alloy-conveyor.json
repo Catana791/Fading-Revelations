@@ -2,7 +2,7 @@
   "type": "Conveyor",
   "name": "Alloy Conveyor",
   "description": "A very fast conveyor.",
-  "details": "you hear a faint Speeeeeeedwagggoooooooon in the distance.",
+  "details": "You hear a faint Speeeeeeedwagggoooooooon in the distance.",
   "health": 350,
   "requirements": [
     {
@@ -25,5 +25,5 @@
   "category": "distribution",
   "speed": 0.2,
   "displayedSpeed": 22,
-  "research": "mod-gate-distribution"
+  "research": "titanium-bridge-conveyor"
 }
