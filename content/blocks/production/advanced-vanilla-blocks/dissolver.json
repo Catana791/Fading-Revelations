@@ -3,7 +3,7 @@
   "name": "Dissolver",
   "description": "A larger and more powerful Melter.",
   "category": "crafting",
-  "research": "powderizer",
+  "research": "steam-condenser",
   "requirements": [
     "copper/60",
     "lead/70",
