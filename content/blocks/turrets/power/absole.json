@@ -10,7 +10,7 @@
     "shootDuration": 240,
     "category": "turret",
     "shootEffect": "shootBigSmoke2",
-    "research": "big-segment",
+    "research": "big-parallax",
     "requirements": [
       "copper/800",
       "metaglass/500",
