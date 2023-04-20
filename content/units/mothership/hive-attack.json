@@ -5,15 +5,6 @@
   "drag": 0.15,
   "outlines": false,
   "speed": 2,
-  "research": {
-    "parent": "hive",
-    "requirements": [
-      {
-        "item": "titanium",
-        "amount": 1000
-      }
-    ]
-  },
   "alwaysUnlocked": false,
   "health": 1070,
   "flying": true,
