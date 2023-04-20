@@ -38,7 +38,7 @@
         "height": 10,
         "speed": 3,
         "lifetime": 40,
-        "damage": 99999999,
+        "damage": 8,
         "pierce": false,
         "buildingDamageMultiplier": 2.8
       }
