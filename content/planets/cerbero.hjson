@@ -16,9 +16,7 @@ mesh: {
 }
 #cloudMesh: {}
 startSector: 0
-sectorSize: 1
 generator: {
-  type: PlanetGenerator
   min: 100
   max: 100
   radMin: 480
