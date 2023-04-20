@@ -15,7 +15,7 @@
   ],
   "category": "defense",
   "research": {
-   "parent": "phase-fabric-wall-3"
+   "parent": "thorium-wall-2"
   },
   "envDisabled": 16
 }
