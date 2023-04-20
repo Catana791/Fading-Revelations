@@ -12,7 +12,7 @@
   ],
   "category": "defense",
   "research": {
-   "parent": "plastanium-wall-3"
+   "parent": "titanium-wall-3"
   },
   "envDisabled": 16
 }
