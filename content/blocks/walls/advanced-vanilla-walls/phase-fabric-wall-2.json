@@ -14,7 +14,7 @@
   ],
   "category": "defense",
   "research": {
-    "parent": "thorium-wall-3"
+    "parent": "surge-alloy-wall-2"
   },
   "envDisabled": 16
 }
