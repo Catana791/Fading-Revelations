@@ -17,15 +17,6 @@
   "mechSideSway": 0.25,
   "type": "legs",
   "hitSize": 10,
-  "research": {
-    "parent": "test",
-    "requirements": [
-      {
-        "item": "blast-compound",
-        "amount": 400
-      }
-    ]
-  },
   "weapons": [
     {
       "name": "nothing",
