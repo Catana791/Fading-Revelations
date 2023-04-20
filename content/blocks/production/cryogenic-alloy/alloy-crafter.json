@@ -63,7 +63,8 @@
     "lead/300",
     "graphite/250",
     "silicon/220",
-    "titanium/200"
+    "titanium/200",
+    "surge-alloy/75"
   ],
   "loopSound": "smelter",
   "loopSoundVolume": 0.3
