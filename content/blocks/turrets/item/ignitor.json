@@ -46,7 +46,7 @@
     }
   },
   "category": "turret",
-  "research": "interitus",
+  "research": "missile-silo",
   "requirements": [
     "copper/550",
     "graphite/400",
