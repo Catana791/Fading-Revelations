@@ -55,5 +55,5 @@
   "category": "turret",
   "type": "LiquidTurret",
   "health": 200,
-  "research": "mod-gate-turrets"
+  "research": "zephyr"
 }
