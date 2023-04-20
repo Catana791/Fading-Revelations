@@ -1,6 +1,6 @@
 {
     "name": "Interitus",
-    "description": "A big turret made for firing homing rockets at flying enemies. Can shoot using Plastanium, Surge Alloy and Phase Fabric but the game decides to only display Plastanium as ammo.",
+    "description": "A big turret made for firing homing rockets at flying enemies.",
     "type": "ItemTurret",
     "category": "turret",
     "research": "ring-turret",
