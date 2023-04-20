@@ -1,6 +1,6 @@
 {
   "type": "Separator",
-  "name": "Advanced Seperator",
+  "name": "Advanced Separator",
   "description": "An even more advanced Separator. Needs slag and scrap to run. Outputs a lot more items.",
   "size": 4,
   "hasPower": true,
@@ -91,6 +91,6 @@
     }
   ],
   "category": "crafting",
-  "research": "inverted-pulverizer",
+  "research": "big-phase-weaver",
   "health": 690
 }
