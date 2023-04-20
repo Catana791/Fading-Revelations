@@ -1,7 +1,7 @@
 {
   "type": "SolarGenerator",
   "name": "Solar Array",
-  "description": "A better solar panel that takes up the same amount of space as a regular one.",
+  "description": "A solar panel with a large surface area, enabling a high energy output.",
   "health": 620,
   "size": 6,
   "hasPower": true,
