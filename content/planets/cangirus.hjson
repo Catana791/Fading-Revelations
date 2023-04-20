@@ -17,6 +17,7 @@ mesh: {
 #cloudMesh: {}
 defaultEnv: 1
 generator: {
+  type: PlanetGenerator
   min: 120
   max: 120
   radMin: 480
@@ -24,6 +25,7 @@ generator: {
   seed: 69420
   berylChance: 0
 }
+sectorSize: 1
 allowLaunchSchematics: true
 allowLaunchLoadout: true
 allowSectorInvasion: true
