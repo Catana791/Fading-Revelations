@@ -68,14 +68,15 @@
   },
   "category": "crafting",
   "research": {
-    "parent": "mod-gate-crafters",
+    "parent": "surge-oven-big",
     "objectives": ["steel-alloy"]
   },
   "requirements": [
     "lead/250",
     "metaglass/210",
     "graphite/200",
-    "silicon/150"
+    "silicon/150",
+    "surge-alloy/75"
   ],
   "loopSound": "spellLoop",
   "loopSoundVolume": 0.2
