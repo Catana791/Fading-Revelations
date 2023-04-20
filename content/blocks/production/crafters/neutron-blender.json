@@ -8,7 +8,7 @@
   "itemCapacity": 30,
   "liquidCapacity": 120,
   "category": "crafting",
-  "research": "mod-gate-crafters",
+  "research": "advanced-water-extractor",
   "loopSound": "spellLoop",
   "ambientSound": "spellLoop",
   "ambientSoundVolume": 0.4,
