@@ -8,7 +8,7 @@
   "reload": 4,
   "hasPower": true,
   "shootLength": 14,
-  "bulletDamage": 40,
+  "bulletDamage": 45,
   "consumes": {
     "power": 10
   },
@@ -16,8 +16,8 @@
     {"item": "copper", "amount": 200},
     {"item": "lead", "amount": 180},
     {"item": "silicon", "amount": 180},
-    {"item": "thorium", "amount": 100},
-    {"item": "phase-fabric", "amount": 60}
+    {"item": "thorium", "amount": 200},
+    {"item": "phase-fabric", "amount": 100}
   ],
   "category": "turret",
   "research": "kugelblitz"
