@@ -43,7 +43,7 @@
     "metaglass/15"
   ],
   "category": "crafting",
-  "research": "dissolver",
+  "research": "powderizer",
   "outputItem": {
     "item": "metaglass",
     "amount": 5
