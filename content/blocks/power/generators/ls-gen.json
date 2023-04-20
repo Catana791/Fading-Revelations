@@ -14,7 +14,7 @@
     "interp": "circleOut"
   },
   "category": "power",
-  "research": "titanium-panel"
+  "research": "tiny-thermal-gen"
   "health": 240,
   "requirements": [
     {
