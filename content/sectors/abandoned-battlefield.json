@@ -6,7 +6,7 @@
   "captureWave": 40,
   "sector": 14,
   "isLastSector": true,
-  "alloLaunchLoadout": true,
+  "allowLaunchLoadout": true,
   "allowLaunchSchematics": true,
   "addStartingItems": true,
 }
