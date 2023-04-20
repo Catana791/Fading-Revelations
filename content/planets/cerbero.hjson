@@ -17,6 +17,7 @@ mesh: {
 #cloudMesh: {}
 startSector: 0
 generator: {
+  type: PlanetGenerator
   min: 100
   max: 100
   radMin: 480
@@ -24,6 +25,7 @@ generator: {
   seed: 69420
   berylChance: 0
 }
+sectorSize: 1
 orbitSpacing: 4
 radius: 1.5
 minZoom: 1.8
