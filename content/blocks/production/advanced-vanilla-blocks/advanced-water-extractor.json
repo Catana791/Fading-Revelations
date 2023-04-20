@@ -31,6 +31,9 @@
     }
   ],
   "category": "production",
-  "research": "dissolver",
+  "research": {
+    "parent": "dissolver",
+    "objectives": ["water-extractor"]
+  }
   "liquidCapacity": 250
 }
