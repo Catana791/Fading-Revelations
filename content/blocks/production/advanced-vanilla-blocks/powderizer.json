@@ -4,7 +4,7 @@
   "description": "A better and bigger version of the pulverizer.",
   "size": 2,
   "category": "crafting",
-  "research": "mod-gate-crafters",
+  "research": "inverted-pulverizer",
   "craftEffect": "pulverize",
   "ambientSound": "grinding",
   "ambientSoundVolume": 0.4,
