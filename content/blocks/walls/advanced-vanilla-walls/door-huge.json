@@ -16,6 +16,6 @@
   ],
   "category": "defense",
   "research": {
-    "parent": "mod-gate-walls"
+    "parent": "armored-door"
   }
 }
