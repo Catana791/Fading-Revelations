@@ -166,7 +166,7 @@ pierceCap: 2
   }
 }
 category: turret
-research: ring-turret
+research: interitus
 requirements: [
   copper/2000
   lead/3000
