@@ -90,7 +90,7 @@ weapons: [
     ignoreRotation: true
     shootSound: mediumCannon
     bullet: {
-      instantDespawn: true
+      instantDisappear: true
       damage: 0
       spawnUnit: me-tiny-missile-4
     }
