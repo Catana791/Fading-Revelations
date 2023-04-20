@@ -1,0 +1,9 @@
+{
+  "type": "flying",
+  "flying": true,
+  "name": "Heliaca",
+  "description": "A small figher yet equipped with two autoguns.",
+  "health": 75,
+  "circleTarget": true,
+  "speed": 1.7
+}
