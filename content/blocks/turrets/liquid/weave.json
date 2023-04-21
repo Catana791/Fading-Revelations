@@ -16,7 +16,7 @@
         "mirror": true
         "under": false
         "progress": "warmup",
-        "moveX": -6,
+        "moveX": 6,
         "moveY": 0
         "moveRot": 0
       }
