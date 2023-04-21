@@ -15,7 +15,7 @@
   "shootCone": 45,
   "size": 5,
   "coolantMultiplier": 0.6,
-  "shootSound": "ring-turret",
+  "shootSound": "shotgun",
   "consumes": {
     "coolant": {
       "amount": 0.5
@@ -46,7 +46,7 @@
     }
   },
   "category": "turret",
-  "research": "missile-silo",
+  "research": "ring-turret",
   "requirements": [
     "copper/550",
     "graphite/400",
