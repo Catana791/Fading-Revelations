@@ -1,0 +1,67 @@
+{
+  "type": "LiquidTurret",
+  "name": "Weave",
+  "description": "Fires two weaving shots of water at enemies.",
+  "range": 160,
+  "size": 2,
+  "health": 450,
+  "reload": 33,
+  "rotateSpeed": 2.6,
+  "consumes": {
+    "power": 0.75,
+    "coolant": {
+      "amount": 0.1
+    }
+  },
+  "shoot": {
+    "shots": 2,
+    "spread": 8
+  },
+  "targetAir": true,
+  "targetGround": true,
+  "ammoTypes": {
+    "water": {
+      "type": "BasicBulletType",
+      "damage": 10,
+      "splashDamage": 10,
+      "splashDamageRadius": 16,
+      "speed": 3,
+      "lifetime": 55,
+      "width": 18,
+      "height": 18
+      "sprite": "particle",
+      "frontColor": "7090ea",
+      "backColor": "363f9a",
+      "weaveMag": 5,
+      "weaveScale": 7,
+      "trailChance": -1,
+      "trailEffect": {
+        "region": "particle",
+        "length": 0,
+        "cone": 360,
+        "particles": 1,
+        "sizeFrom": 4,
+        "sizeTo": 0.5,
+        "colorFrom": "7090ea",
+        "colorTo": "363f9a"
+      },
+      "hitEffect": {
+        "type": "WaveEffect",
+        "sizeFrom": 0,
+        "sizeTo: 18,
+        "strokeFrom: 3,
+        "strokeTo": 0.2,
+        "colorFrom": "7090ea",
+        "colorTo": "363f9a"
+      },
+      "despawnHit": true
+    }
+  },
+  "category": "turret",
+  "research": "zephyr",
+  "requirements": [
+    "copper/40",
+    "lead/35",
+    "graphite/25"
+  ]
+}
