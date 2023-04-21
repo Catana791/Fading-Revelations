@@ -61,6 +61,7 @@
           "type": "BasicBulletType",
           "height": 12,
           "width": 12,
+          "collidesAir": false,
           "hitSize": 12,
           "damage": 5,
           "sprite": "me-lml-mine"
