@@ -324,21 +324,9 @@
     }
   },
   "requirements": [
-    {
-      "item": "copper",
-      "amount": 250
-    },
-    {
-      "item": "lead",
-      "amount": 200
-    },
-    {
-      "item": "graphite",
-      "amount": 150
-    },
-    {
-      "item": "silicon",
-      "amount": 100
-    }
+    "copper/220",
+    "lead/180",
+    "graphite/90",
+    "silicon/75
   ]
 }
