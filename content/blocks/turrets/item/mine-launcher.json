@@ -6,8 +6,6 @@
   "reload": 300,
   "range": 200,
   "size": 3,
-  "shootEffect": "none",
-  "smokeEffect": "none",
   "minWarmup": 0.8,
   "shootWarmupSpeed": 0.08,
   "drawer": {
@@ -24,14 +22,6 @@
       }
     ]
   },
-  "shoot": {
-    "type": "ShootAlternate",
-    "shots": 3,
-    "spread": 10,
-    "shotDelay": 0,
-    "barrels": 3
-  },
-  "squareSprite": false,
   "targetAir": false,
   "targetGround": true,
   "rotateSpeed": 5,
@@ -52,11 +42,14 @@
       "pierce": false,
       "collides": true,
       "knockback": 8,
-      "fragBullets": 1,
+      "fragBullets": 3,
+      "fragRandomSpread": 0,
+      "fragSpread": 45,
+      "fragAngle": 90,
       "fragBullet": {
         "type": "BasicBulletType",
-        "height": 32,
-        "width": 32,
+        "height": 16,
+        "width": 16,
         "hitSize": 32,
         "damage": 75,
         "sprite": "me-lml-mine"
@@ -91,11 +84,14 @@
       "pierce": false,
       "collides": true,
       "knockback": 8,
-      "fragBullets": 1,
+      "fragBullets": 3,
+      "fragRandomSpread": 0,
+      "fragSpread": 45,
+      "fragAngle": 90,
       "fragBullet": {
         "type": "BasicBulletType",
-        "height": 32,
-        "width": 32,
+        "height": 16,
+        "width": 16,
         "hitSize": 32,
         "damage": 90,
         "sprite": "me-lml-mine"
