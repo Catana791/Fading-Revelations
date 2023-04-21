@@ -68,6 +68,7 @@
     ]
   },
   "research": {
-   "parent": "tiny-thermal-gen",
-   "objectives": ["living-steel", "steam-generator"]
+    "parent": "tiny-thermal-gen",
+    "objectives": ["living-steel", "steam-generator"]
+  }
 }
