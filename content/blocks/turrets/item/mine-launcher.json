@@ -49,7 +49,7 @@
       "fragLifeMin": 1,
       "fragVelocityMin": 1,
       "fragBullet": {
-        "speed": 20,
+        "speed": 18,
         "lifetime": 2,
         "damage": 0,
         "width": 0,
@@ -58,7 +58,7 @@
         "despawnEffect": "none",
         "hitEffect": "none",
         "fragSpread": 50,
-        "fragBullets": 3,
+        "fragBullets": 1,
         "fragRandomSpread": 0,
         "fragLifeMin": 1,
         "fragBullet": {
@@ -108,7 +108,7 @@
       "fragLifeMin": 1,
       "fragVelocityMin": 1,
       "fragBullet": {
-        "speed": 20,
+        "speed": 18,
         "lifetime": 2,
         "despawnEffect": "none",
         "hitEffect": "none",
@@ -117,7 +117,7 @@
         "height": 0,
         "collides": false,
         "fragSpread": 45,
-        "fragBullets": 3,
+        "fragBullets": 1,
         "fragRandomSpread": 0,
         "fragLifeMin": 1,
         "fragBullet": {
