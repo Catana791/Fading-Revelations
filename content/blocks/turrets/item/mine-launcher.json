@@ -63,6 +63,7 @@
         "fragLifeMin": 1,
         "fragBullet": {
           "type": "BasicBulletType",
+          "collidesAir": false,
           "height": 16,
           "width": 16,
           "hitSize": 32,
@@ -127,6 +128,7 @@
           "hitSize": 32,
           "damage": 90,
           "sprite": "me-lml-mine"
+          "collidesAir": false,
           "frontColor": "d99f6b",
           "shrinkX": 0,
           "shrinkY": 0,
