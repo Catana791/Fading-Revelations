@@ -19,7 +19,8 @@
         "mirror": true,
         "under": false,
         "progress": "warmup",
-        "moveX": 2
+        "moveX": 2,
+        "moveY": 0.2
       }
     ]
   },
@@ -35,11 +36,11 @@
   "targetGround": true,
   "rotateSpeed": 5,
   "recoil": 1,
-  "shootSound": "shoot",
+  "shootSound": "mediumCannon",
   "ammoTypes": {
     "blast-compound": {
-      "smokeEffect": "none",
-      "shootEffect": "none",
+      "smokeEffect": "shootSmokeTitan",
+      "shootEffect": "shootTitan",
       "speed": 10,
       "ammoMultiplier": 3,
       "height": 0,
@@ -77,8 +78,8 @@
       }
     },
     "ammo-level-3": {
-      "smokeEffect": "none",
-      "shootEffect": "none",
+      "smokeEffect": "shootSmokeTitan",
+      "shootEffect": "shootTitan",
       "speed": 10,
       "ammoMultiplier": 3,
       "height": 0,
