@@ -50,7 +50,7 @@
       "sprite": "particle",
       "frontColor": "7090ea",
       "backColor": "363f9a",
-      "weaveMag": 3,
+      "weaveMag": 5,
       "weaveScale": 4,
       "trailChance": -1,
       "trailEffect": {
