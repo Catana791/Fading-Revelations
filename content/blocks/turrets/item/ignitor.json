@@ -15,7 +15,7 @@
   "shootCone": 45,
   "size": 5,
   "coolantMultiplier": 0.6,
-  "shootSound": "shotgun",
+  "shootSound": "ring-turret",
   "consumes": {
     "coolant": {
       "amount": 0.5
