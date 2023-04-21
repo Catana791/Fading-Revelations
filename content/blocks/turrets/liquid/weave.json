@@ -17,7 +17,7 @@
         "mirror": true
         "under": false
         "progress": "warmup",
-        "moveX": 3,
+        "moveX": 1.5,
         "moveY": 0
         "moveRot": 0
       }
@@ -30,8 +30,10 @@
     }
   },
   "shoot": {
+    "type": "ShootSpread",
     "shots": 2,
-    "spread": 8
+    "spread": 8,
+    "shotDelay": 0
   },
   "targetAir": true,
   "targetGround": true,
@@ -48,8 +50,8 @@
       "sprite": "particle",
       "frontColor": "7090ea",
       "backColor": "363f9a",
-      "weaveMag": 5,
-      "weaveScale": 7,
+      "weaveMag": 3,
+      "weaveScale": 4,
       "trailChance": -1,
       "trailEffect": {
         "region": "particle",
