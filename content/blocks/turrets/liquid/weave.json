@@ -63,8 +63,8 @@
       "hitEffect": {
         "type": "WaveEffect",
         "sizeFrom": 0,
-        "sizeTo: 18,
-        "strokeFrom: 3,
+        "sizeTo": 18,
+        "strokeFrom": 3,
         "strokeTo": 0.2,
         "colorFrom": "7090ea",
         "colorTo": "363f9a"
