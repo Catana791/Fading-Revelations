@@ -3,7 +3,7 @@
     "description": "A big turret made for firing homing rockets at flying enemies.",
     "type": "ItemTurret",
     "category": "turret",
-    "research": "ring-turret",
+    "research": "big-scatter",
     "size": 5,
     "health": 2890,
     "requirements": [

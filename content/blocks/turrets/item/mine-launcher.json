@@ -102,22 +102,10 @@
     }
   },
   "requirements": [
-    {
-      "item": "copper",
-      "amount": 180
-    },
-    {
-      "item": "lead",
-      "amount": 150
-    },
-    {
-      "item": "graphite",
-      "amount": 120
-    },
-    {
-      "item": "silicon",
-      "amount": 100
-    }
+    "copper/180",
+    "lead/150",
+    "graphite/120",
+    "silicon/100"
   ],
   "category": "turret",
   "research": "ore-turret"

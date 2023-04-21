@@ -7,7 +7,7 @@
   "hasPower": true,
   "category": "turret",
   "targetAir": false,
-  "research": "big-parallax",
+  "research": "uhlan",
   "requirements": [
     "copper/210",
     "lead/180",

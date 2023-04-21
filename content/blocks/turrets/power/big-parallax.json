@@ -16,19 +16,10 @@
     "power": 4
   },
   "requirements": [
-    {
-      "item": "graphite",
-      "amount": 90
-    },
-    {
-      "item": "silicon",
-      "amount": 210
-    },
-    {
-      "item": "titanium",
-      "amount": 270
-    }
+    "graphite/90",
+    "silicon/210",
+    "titanium/270"
   ],
   "category": "turret",
-  "research": "uhlan"
+  "research": "big-arc"
 }

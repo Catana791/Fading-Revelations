@@ -148,24 +148,12 @@
     }
   },
   "requirements": [
-    {
-      "item": "copper",
-      "amount": 200
-    },
-    {
-      "item": "lead",
-      "amount": 150
-    },
-    {
-      "item": "graphite",
-      "amount": 100
-    },
-    {
-      "item": "titanium",
-      "amount": 25
-    }
+    "copper/200",
+    "lead/150",
+    "graphite/100",
+    "titanium/25"
   ],
   "category": "turret",
-  "research": "mine-launcher",
+  "research": "trio",
   "buildVisibility": "shown"
 }

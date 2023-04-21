@@ -13,12 +13,12 @@
     "power": 10
   },
   "requirements": [
-    {"item": "copper", "amount": 200},
-    {"item": "lead", "amount": 180},
-    {"item": "silicon", "amount": 180},
-    {"item": "thorium", "amount": 200},
-    {"item": "phase-fabric", "amount": 100}
+    "copper/200",
+    "lead/180",
+    "silicon/180",
+    "thorium/200",
+    "phase-fabric/100"
   ],
   "category": "turret",
-  "research": "cavalry"
+  "research": "big-arc"
 }

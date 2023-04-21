@@ -95,24 +95,12 @@
     }
   },
   "requirements": [
-    {
-      "item": "graphite",
-      "amount": 200
-    },
-    {
-      "item": "silicon",
-      "amount": 200
-    },
-    {
-      "item": "titanium",
-      "amount": 300
-    },
-    {
-      "item": "plastanium",
-      "amount": 150
-    }
+    "graphite/200",
+    "silicon/200",
+    "titanium/300",
+    "plastanium/150"
   ],
   "shootSound": "missile",
   "category": "turret",
-  "research": "upgrade-turret"
+  "research": "trio"
 }

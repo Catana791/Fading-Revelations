@@ -5,7 +5,7 @@
   "health": 320,
   "size": 2,
   "category": "turret",
-  "research": "sear",
+  "research": "trio",
   "range": 176,
   "reload": 60,
   "rotateSpeed": 4,

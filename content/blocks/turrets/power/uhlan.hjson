@@ -55,7 +55,7 @@ shootType: {
 }
 category: turret
 chargeSound: lasercharge2
-research: big-arc
+research: air-arc
 requirements: [
   copper/90
   lead/100

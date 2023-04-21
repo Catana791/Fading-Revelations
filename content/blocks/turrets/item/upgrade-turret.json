@@ -102,22 +102,10 @@
     }
   },
   "requirements": [
-    {
-      "item": "copper",
-      "amount": 400
-    },
-    {
-      "item": "lead",
-      "amount": 300
-    },
-    {
-      "item": "titanium",
-      "amount": 200
-    },
-    {
-      "item": "plastanium",
-      "amount": 100
-    }
+    "copper/400",
+    "lead/300",
+    "titanium/200",
+    "plastanium/100"
   ],
   "category": "turret",
   "research": "shotgun"

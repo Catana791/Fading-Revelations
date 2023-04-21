@@ -103,24 +103,12 @@
     }
   },
   "requirements": [
-    {
-      "item": "copper",
-      "amount": 255
-    },
-    {
-      "item": "lead",
-      "amount": 180
-    },
-    {
-      "item": "graphite",
-      "amount": 100
-    },
-    {
-      "item": "titanium",
-      "amount": 120
-    }
+    "copper/225",
+    "lead/180",
+    "graphite/100",
+    "titanium/120"
   ],
   "shootSound": "shootAltLong",
   "category": "turret",
-  "research": "missile-battery"
+  "research": "trio"
 }

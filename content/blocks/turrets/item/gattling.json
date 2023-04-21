@@ -112,23 +112,11 @@
     }
   },
   "requirements": [
-    {
-      "item": "copper",
-      "amount": 500
-    },
-    {
-      "item": "lead",
-      "amount": 300
-    },
-    {
-      "item": "titanium",
-      "amount": 200
-    },
-    {
-      "item": "plastanium",
-      "amount": 85
-    }
+    "copper/500",
+    "lead/300",
+    "titanium/200",
+    "plastanium/85"
   ],
   "category": "turret",
-  "research": "corrupted-cyclone"
+  "research": "big-swarmer"
 }
