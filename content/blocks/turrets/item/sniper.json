@@ -203,24 +203,12 @@
     }
   },
   "requirements": [
-    {
-      "item": "copper",
-      "amount": 255
-    },
-    {
-      "item": "lead",
-      "amount": 180
-    },
-    {
-      "item": "titanium",
-      "amount": 120
-    },
-    {
-      "item": "plastanium",
-      "amount": 55
-    }
+    "copper/255",
+    "lead/180",
+    "titanium/120",
+    "plastanium/55"
   ],
   "category": "turret",
-  "research": "gattling",
+  "research": "shotgun",
   "buildVisibility": "shown"
 }
