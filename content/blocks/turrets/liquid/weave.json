@@ -45,6 +45,7 @@
       "splashDamageRadius": 16,
       "speed": 3,
       "lifetime": 55,
+      "status": "wet",
       "width": 18,
       "height": 18
       "sprite": "particle",
