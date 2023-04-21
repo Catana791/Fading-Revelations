@@ -4,7 +4,6 @@ type: LaserTurret
 size: 5
 liquidCapacity: 200
 shootDuration: 240
-category: turret
 research: absole
 health: 2150
 range: 240
