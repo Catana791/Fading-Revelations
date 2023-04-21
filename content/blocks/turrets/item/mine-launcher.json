@@ -39,7 +39,7 @@
       "sprite": "large-orb",
       "hittable": false,
       "damage": 0,
-      "lifetime": 50,
+      "lifetime": 40,
       "pierce": false,
       "collides": true,
       "knockback": 8,
@@ -104,7 +104,7 @@
       "knockback": 8,
       "fragBullets": 3,
       "fragRandomSpread": 0,
-      "fragSpread": 50,
+      "fragSpread": 40,
       "fragLifeMin": 1,
       "fragVelocityMin": 1,
       "fragBullet": {
