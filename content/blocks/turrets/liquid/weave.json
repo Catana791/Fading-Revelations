@@ -7,6 +7,21 @@
   "health": 450,
   "reload": 33,
   "rotateSpeed": 2.6,
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "suffix": "-body",
+        "mirror": true
+        "under": false
+        "progress": "warmup",
+        "moveX": -6,
+        "moveY": 0
+        "moveRot": 0
+      }
+    ]
+  },
   "consumes": {
     "power": 0.75,
     "coolant": {
