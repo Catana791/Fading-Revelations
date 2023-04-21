@@ -20,7 +20,7 @@
         "under": false,
         "progress": "warmup",
         "moveX": 2,
-        "moveY": 0.2
+        "moveY": 1
       }
     ]
   },
