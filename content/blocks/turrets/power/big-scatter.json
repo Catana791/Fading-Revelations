@@ -154,6 +154,6 @@
     "titanium/25"
   ],
   "category": "turret",
-  "research": "trio",
+  "research": "ore-turret",
   "buildVisibility": "shown"
 }
