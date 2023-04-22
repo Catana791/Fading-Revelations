@@ -1,4 +1,6 @@
 {
   "name": "Minimal Downdraft",
-  "speedMultiplier": 0.9
+  "speedMultiplier": 0.9,
+  "alwaysUnlocked": true,
+  "effect": "none"
 }
