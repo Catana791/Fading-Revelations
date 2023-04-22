@@ -1,4 +1,6 @@
 {
   "name": "Slight Downdraft",
-  "speedMultiplier": 0.8
+  "speedMultiplier": 0.8,
+  "alwaysUnlocked": true,
+  "effect": "none"
 }
