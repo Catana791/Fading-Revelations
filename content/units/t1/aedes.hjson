@@ -62,7 +62,8 @@ weapons: [
 abilities: [
   {
     type: StatusFieldAbility
-    effect: none
+    effect: me-minimal-downdraft
+    duration: 15
     reload: 15
     parentizeEffects: true
     activeEffect: {
