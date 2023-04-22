@@ -15,7 +15,6 @@ mesh: {
   mag: 1
 }
 #cloudMesh: {}
-defaultEnv: 1
 generator: {
   type: PlanetGenerator
   min: 120
