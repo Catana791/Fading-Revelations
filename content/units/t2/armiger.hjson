@@ -24,6 +24,8 @@ weapons: [
     shootCone: 360
     reload: 15
     bullet: {
+      status: me-slight-downdraft
+      statusDuration: 20
       instantDisappear: true
       damage: 0
       splashDamage: 7
@@ -88,10 +90,8 @@ weapons: [
 abilities: [
   {
     type: StatusFieldAbility
-    effect: me-slight-downdraft
-    duration: 15
+    effect: none
     reload: 15
-    range: 32
     parentizeEffects: true
     activeEffect: {
       followParent: true
