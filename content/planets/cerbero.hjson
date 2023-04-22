@@ -32,6 +32,7 @@ minZoom: 1.8
 drawOrbit: true
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
+prebuildBase: false
 accessible: true
 updateLighting: true
 sectorSeed: 0
