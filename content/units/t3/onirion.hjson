@@ -1,5 +1,6 @@
 {
-type: flying
+type: payload
+payloadCapacity: 64
 flying: true
 engineSize: 0
 lowAltitude: true
