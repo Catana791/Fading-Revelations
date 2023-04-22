@@ -65,6 +65,7 @@ abilities: [
     effect: me-minimal-downdraft
     duration: 15
     reload: 15
+    range: 16
     parentizeEffects: true
     activeEffect: {
       followParent: true
