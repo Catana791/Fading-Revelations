@@ -172,7 +172,8 @@ abilities: [
   },
   {
     type: StatusFieldAbility
-    effect: none
+    effect: me-medium-downdraft
+    duration: 15
     reload: 15
     effectY: -13
     parentizeEffects: true
