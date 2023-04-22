@@ -28,7 +28,7 @@ weapons: [
     bullet: {
       instantDisappear: true
       splashDamage: 15
-      splashDamageRadius: 96
+      splashDamageRadius: 88
       pierceBuilding: true
       width: 0
       height: 0
@@ -378,8 +378,10 @@ abilities: [
   }
   {
     type: StatusFieldAbility
-    effect: none
+    effect: me-powerful-downdraft
     reload: 15
+    range: 88
+    duration: 15
     effectY: 3
     parentizeEffects: true
     activeEffect: {
