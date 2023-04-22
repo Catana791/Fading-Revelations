@@ -29,7 +29,6 @@ sectorSize: 1
 allowLaunchSchematics: true
 allowLaunchLoadout: true
 allowSectorInvasion: true
-prebuildBase: true
 startSector: 0
 orbitSpacing: 4
 radius: 1.2
