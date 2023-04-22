@@ -23,6 +23,8 @@ weapons: [
     shootCone: 360
     reload: 25
     bullet: {
+      status: me-minimal-downdraft
+      statusDuration: 30
       instantDisappear: true
       damage: 0
       shootEffect: none
@@ -62,10 +64,8 @@ weapons: [
 abilities: [
   {
     type: StatusFieldAbility
-    effect: me-minimal-downdraft
-    duration: 15
+    effect: none
     reload: 15
-    range: 16
     parentizeEffects: true
     activeEffect: {
       followParent: true
