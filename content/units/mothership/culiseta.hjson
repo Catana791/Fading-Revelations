@@ -56,7 +56,7 @@ weapons: [
       shotDelay: 6
     },
     bullet: {
-      instandDisappear: true
+      instantDisappear: true
       damage: 0
       spawnUnit: me-tiny-missile-4
     }
