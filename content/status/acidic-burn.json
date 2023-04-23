@@ -1,19 +1,7 @@
 {
   "name": "Acidic Burn",
-  "damage": 0.1
-  "speedMultiplier": 0.9,
-  "effectChance": 0.2,
-  "effect": {
-    "type": "ParticleEffect",
-    "particles": 20,
-    "colorFrom": "f8f854",
-    "colorTo": "b0bf1a",
-    "interp": "circleOut",
-    "length": 4,
-    "baseLength": 6,
-    "line": true,
-    "strokeFrom": 1.1,
-    "strokeTo": 0.3,
-    "lifetime": 120
-  }
+  "speedMultiplier": 0.8,
+  "damageMultiplier": 0.8
+  "effectChance": 0.2
+  "effect": "none"
 }
