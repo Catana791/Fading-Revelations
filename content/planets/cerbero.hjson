@@ -44,7 +44,7 @@ hasAtmosphere: true
 allowWaveSimulation: true
 clearSectorOnLose: true
 allowWaves: true
-defaultCore: me-core-level-4
+defaultCore: core-shard
 parent: sun
 solarSystem: sun
 launchCandidates: []
