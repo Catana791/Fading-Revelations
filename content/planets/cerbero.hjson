@@ -48,3 +48,4 @@ defaultCore: core-shard
 parent: sun
 solarSystem: sun
 launchCandidates: []
+hiddenItems: ["beryllium", "carbide", "tungsten", "fissile-matter", "oxide"]
