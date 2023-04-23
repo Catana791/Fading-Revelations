@@ -71,7 +71,7 @@ abilities: [
       followParent: true
       rotWithParent: true
       particles: 1
-      lifetime: 17
+      lifetime: 20
       length: 0
       region: me-aedes-rotor
       sizeFrom: 10
