@@ -7,6 +7,7 @@
   "coolantMultiplier": 0.1,
   "range": 300,
   "reload": 240,
+  "shake": 5,
   "targetAir": false,
   "shootSound": "largeCannon",
   "consumes": {
