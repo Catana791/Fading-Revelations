@@ -9,6 +9,10 @@
     "range": 240,
     "shootCone": 0.08,
     "recoil": 0.7,
+    "shoot": {
+      "firstShotDelay": 120
+    },
+    "chargeSound": "energy-charge",
     "rotateSpeed": 10,
     "targetAir": false,
     "shootSound": "cavalry-shoot",
@@ -34,54 +38,116 @@
         ]
     },
     "shootType": {
-        "type": "BasicBulletType",
-        "speed": 5,
-        "spin": 8,
-        "pierce": true
-        "lifetime": 48,
-        "frontColor": "E4FDFF",
-        "backColor": "66B1FF",
-        "trailColor": "66B1FF",
-        "damage": 1880,
-        "homingPower": 0.10,
-        "despawnHit": false,
-        "despawnShake": 0.03,
-        "homingRange": 150,
-        "width": 25,
-        "height": 20,
-        "hitSize": 25,
-        "shrinkY": 0,
-        "hittable": false,
-        "shrinkX": 0,
-        "absorbable": false,
-        "reflectable": false,
-        "status": "burning",
-        "statusDuration": 200,
-        "status": "shocked",
-        "statusDuration": 200,
-        "lightning": 6,
-        "lightningCone": 360,
-        "lightningLength": 6,
-        "lightningDamage": 145
+      "chargeEffect": {
+        "type": "MultiEffect",
+        "effects": [
+            {
+              "type": "ParticleEffect",
+              "particles": 20,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 40,
+              "baseLength": -40,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 110,
+              "colorFrom": "a4b8fa",
+              "colorTo": "7575c8"
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 140,
+              "sizeFrom": 50,
+              "sizeTo": 0,
+              "interp": "pow5Out",
+              "strokeFrom": 0,
+              "strokeTo": 4,
+              "colorFrom": "a4b8fa",
+              "colorTo": "7575c8" 
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 150,
+              "sizeFrom": 60,
+              "sizeTo": 0,
+              "interp": "pow10Out",
+              "strokeFrom": 0,
+              "strokeTo": 4,
+              "colorFrom": "a4b8fa",
+              "colorTo": "7575c8"
+            },
+        ]
+      },
+      "type": "BasicBulletType",
+      "sprite": "large-orb",
+      "width": 0.001,
+      "hitSize": 32,
+      "hitSound": "mediumCannon",
+      "despawnSound": "mediumCannon",
+      "height": 0.001,
+      "speed": 3,
+      "lifetime": 80,
+      "spin": 9,
+      "pierce": true,
+      "damage": 1000,
+      "despawnEffect": {
+            "type": "ExplosionEffect",
+            "waveColor": "7575c8",
+            "smokeColor": "7575c8",
+            "sparkColor": "a4b8fa",
+            "waveStroke": 3,
+            "waveRad": 30
+        },
         "hitEffect": {
-            "type": "MultiEffect",
-            "effects": [
-                {
-                    "type": "WaveEffect",
-                    "colorFrom": "E4FDFF",
-                    "colorTo": "66B1FF",
-                    "sizeFrom": 25,
-                    "sizeTo": 0
-                },
-                {
-                    "type": "WaveEffect",
-                    "colorFrom": "66B1FF",
-                    "colorTo": "E4FDFF",
-                    "sizeFrom": 0,
-                    "sizeTo": 12.5
-                }
-            ]
-        }
+            "type": "ExplosionEffect",
+            "waveColor": "7575c8",
+            "smokeColor": "7575c8",
+            "sparkColor": "a4b8fa",
+            "waveStroke": 4,
+            "waveRad": 40
+        },
+      "despawnHit": true,
+      "fragBullets": 5,
+      "fragSpread": 72,
+      "trailColor": "66B1FF",
+      "backColor": "66B1FF",
+      "frontColor": "E4FDFF",
+      "trailLength": 50,
+      "trailWidth": 18,
+      "trailChance": -1,
+      "fragRandomSpread": 0,
+      "fragLifeMin": 1,
+      "fragLifeMax": 1,
+      "fragVelocityMin": 1,
+      "fragVelocityMax": 1,
+      "fragBullet": {
+        "hitSound": "laser",
+        "type": "LaserBulletType",
+        "length": 80,
+        "width": 16,
+        "lifetime": 90,
+        "damage": 60,
+        "colors": ["66B1FF", "E4FDFF", "FFFFFF"]
+      },
+      "intervalBullets": 8,
+      "intervalRandomSpread": 0,
+      "intervalSpread": 45,
+      "bulletInterval": 10,
+      "intervalBullet": {
+        "hitSound": "spark",
+        "type": "ContinuousLaserBulletType",
+        "length": 100,
+        "width": 4,
+        "lifetime": 19.5,
+        "damage": 100,
+        "damageInterval": 8,
+        "colors": ["66B1FF", "E4FDFF", "56b1d7", "91f7ff", "FFFFFF"]
+      },
+      "lightning": 6,
+      "lightningCone": 360,
+      "lightningLength": 6,
+      "lightningDamage": 145
     },
     "requirements": [
         "copper/1500",
