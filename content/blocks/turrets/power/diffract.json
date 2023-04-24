@@ -48,6 +48,20 @@
         "under": false,
         "progress": "warmup",
         "heatProgress": "recoil"
+      },
+      {
+        "type": "RegionPart",
+        "suffix": "-halo",
+        "layerOffset": -0.001,
+        "progress": "warmup",
+        "moveRot": 90,
+        "moves": [
+          {
+            "type": "PartMove",
+            "progress": "recoil",
+            "rot": -90
+          }
+        ]
       }
     ]
   },
