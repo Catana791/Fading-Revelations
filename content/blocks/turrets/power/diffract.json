@@ -375,7 +375,7 @@
     }
   },
   "category": "turret",
-  "research": "mortar",
+  "research": "ring-turret",
   "requirements": [
     "lead/700",
     "graphite/560",
