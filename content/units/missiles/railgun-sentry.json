@@ -2,6 +2,7 @@
   "type": "flying",
   "flying": false,
   "speed": 0,
+  "drawCell": false,
   "health": 1200,
   "lifetime": 660,
   "name": "Railgun Sentry",
