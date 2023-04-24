@@ -2,6 +2,8 @@
   "type": "missile",
   "drawEngine": false,
   "loopSound": "none",
+  "engineSize": 0,
+  "rotateMoveFirst": false,
   "drawMinimap": true,
   "range": 360,
   "template": "MissileUnitType",
@@ -11,7 +13,7 @@
   "drawCell": false,
   "health": 1200,
   "name": "Artillery Sentry",
-  "description": "A small sentry turret that shoots out Artillery bullets.",
+  "description": "A small sentry turret that shoots out Artillery bullets.",  
   "rotateSpeed": 2,
   "weapons": [
     {
