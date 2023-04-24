@@ -134,7 +134,7 @@
     "surge-alloy": {
       "type": "BasicBulletType",
       "speed": 3,
-      "lifetime": 35,
+      "lifetime": 30,
       "damage": 70,
       "pierce": true,
       "pierceBuilding": true,
@@ -162,7 +162,7 @@
       "fragBullet": {
         "type": "BasicBulletType",
         "speed": 3,
-        "lifetime": 35,
+        "lifetime": 30,
         "damage": 50,
         "pierce": true,
         "pierceBuilding": true,
@@ -190,7 +190,7 @@
         "fragBullet": {
           "type": "BasicBulletType",
           "speed": 3,
-          "lifetime": 35,
+          "lifetime": 30,
           "damage": 40,
           "pierce": true,
           "pierceBuilding": true,
@@ -218,7 +218,7 @@
           "fragBullet": {
             "type": "BasicBulletType",
             "speed": 3,
-            "lifetime": 35,
+            "lifetime": 30,
             "damage": 30,
             "pierce": true,
             "pierceBuilding": true,
@@ -244,7 +244,7 @@
       "rangeChange": 80,
       "type": "BasicBulletType",
       "speed": 3,
-      "lifetime": 40,
+      "lifetime": 35,
       "damage": 90,
       "pierce": true,
       "pierceBuilding": true,
@@ -272,7 +272,7 @@
       "fragBullet": {
         "type": "BasicBulletType",
         "speed": 3,
-        "lifetime": 40,
+        "lifetime": 35,
         "damage": 70,
         "pierce": true,
         "pierceBuilding": true,
@@ -300,7 +300,7 @@
         "fragBullet": {
           "type": "BasicBulletType",
           "speed": 3,
-          "lifetime": 40,
+          "lifetime": 35,
           "damage": 60,
           "pierce": true,
           "pierceBuilding": true,
@@ -328,7 +328,7 @@
           "fragBullet": {
             "type": "BasicBulletType",
             "speed": 3,
-            "lifetime": 40,
+            "lifetime": 35,
             "damage": 50,
             "width": 16,
             "height": 22,
