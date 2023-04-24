@@ -5,6 +5,7 @@ targetAir: false
 health: 1420
 reload: 75
 range: 220
+moveWhileCharging: false
 size: 3
 shootSound: laser
 heatColor: 5782c2
