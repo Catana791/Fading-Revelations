@@ -52,10 +52,10 @@
       {
         "type": "RegionPart",
         "suffix": "-halo",
-        "under": true,
+        "layerOffset": -0.01,
         "mirror": false,
         "progress": "warmup",
-        "moveRot": 90,
+        "moveRot": 135,
         "moves": [
           {
             "type": "PartMove",
