@@ -1,5 +1,9 @@
 {
   "type": "missile",
+  "drawEngine": false,
+  "loopSound": "none",
+  "drawMinimap": true,
+  "range": 360,
   "template": "MissileUnitType",
   "flying": true,
   "speed": 0,
