@@ -52,6 +52,9 @@
   },
   "ammoTypes": {
     "titanium": {
+      "lightColor": "7575c8",
+      "lightRadius": 50,
+      "lightOpacity": 0.7,
       "reloadMultiplier": 0.6,
       "rangeChange": -80,
       "type": "BasicBulletType",
@@ -84,6 +87,9 @@
       "lightningColor": "7575c8",
       "lightningDamage": 5,
       "fragBullet": {
+        "lightColor": "7575c8",
+        "lightRadius": 50,
+        "lightOpacity": 0.7,
         "type": "BasicBulletType",
         "speed": 3,
         "lifetime": 25,
@@ -114,6 +120,9 @@
         "lightningColor": "7575c8",
         "lightningDamage": 3,
         "fragBullet": {
+          "lightColor": "7575c8",
+          "lightRadius": 50,
+          "lightOpacity": 0.7,
           "type": "BasicBulletType",
           "hitSound": "dullExplosion",
           "speed": 3,
@@ -140,6 +149,9 @@
       }
     },
     "surge-alloy": {
+      "lightColor": "d99f6b",
+      "lightRadius": 50,
+      "lightOpacity": 0.7,
       "type": "BasicBulletType",
       "speed": 3,
       "lifetime": 20,
@@ -170,7 +182,23 @@
       "lightningColor": "d99f6b",
       "lightningDamage": 7,
       "fragBullet": {
+        "spawnBullets": [
+          {
+            "type": "LaserBulletType",
+            "length": 100,
+            "width": 16,
+            "damage": 30,
+            "sideAngle": 60,
+            "lifetime": 90,
+            "sideWidth": 2,
+            "sideLength": 32,
+            "colors": ["d99f6b80", "fcf38799", "ffffff"]
+          }
+        ],
         "type": "BasicBulletType",
+        "lightColor": "d99f6b",
+        "lightRadius": 50,
+        "lightOpacity": 0.7,
         "speed": 3,
         "lifetime": 30,
         "damage": 50,
@@ -200,6 +228,9 @@
         "lightningColor": "d99f6b",
         "lightningDamage": 5,
         "fragBullet": {
+          "lightColor": "d99f6b",
+          "lightRadius": 50,
+          "lightOpacity": 0.7,
           "type": "BasicBulletType",
           "speed": 3,
           "lifetime": 30,
@@ -230,6 +261,9 @@
           "fragVelocityMax": 1,
           "fragLifeMax": 1,
           "fragBullet": {
+            "lightColor": "d99f6b",
+            "lightRadius": 50,
+            "lightOpacity": 0.7,
             "type": "BasicBulletType",
             "speed": 3,
             "lifetime": 30,
@@ -258,6 +292,9 @@
     },
     "cryogenic-alloy": {
       "rangeChange": 80,
+      "lightColor": "218b8f",
+      "lightRadius": 50,
+      "lightOpacity": 0.7,
       "type": "BasicBulletType",
       "speed": 3,
       "lifetime": 25,
@@ -292,14 +329,19 @@
           {
             "type": "LaserBulletType",
             "length": 120,
-            "width": 10,
+            "width": 16,
             "damage": 50,
             "sideAngle": 60,
+            "lifetime": 90,
             "sideWidth": 2,
-            "sideLength": 40
+            "sideLength": 40,
+            "colors": ["218b8f80", "24c8cf99", "ffffff"]
           }
         ],
         "type": "BasicBulletType",
+        "lightColor": "218b8f",
+        "lightRadius": 50,
+        "lightOpacity": 0.7,
         "speed": 3,
         "lifetime": 35,
         "damage": 70,
@@ -329,6 +371,9 @@
         "lightningColor": "218b8f",
         "lightningDamage": 7,
         "fragBullet": {
+          "lightColor": "218b8f",
+          "lightRadius": 50,
+          "lightOpacity": 0.7,
           "type": "BasicBulletType",
           "speed": 3,
           "lifetime": 35,
@@ -359,6 +404,9 @@
           "fragVelocityMax": 1,
           "fragLifeMax": 1,
           "fragBullet": {
+            "lightColor": "218b8f",
+            "lightRadius": 50,
+            "lightOpacity": 0.7,
             "type": "BasicBulletType",
             "speed": 3,
             "lifetime": 35,
