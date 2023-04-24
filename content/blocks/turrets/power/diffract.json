@@ -52,6 +52,8 @@
       {
         "type": "RegionPart",
         "suffix": "-halo",
+        "under": true,
+        "mirror": false,
         "progress": "warmup",
         "moveRot": 90,
         "moves": [
