@@ -55,12 +55,17 @@
         "layerOffset": -0.01,
         "mirror": false,
         "progress": "warmup",
-        "moveRot": 135,
+        "moveRot": 160,
         "moves": [
           {
             "type": "PartMove",
             "progress": "recoil",
-            "rot": -90
+            "rot": 270
+          },
+          {
+            "type": "PartMove",
+            "progress": "reload",
+            "rot": -120
           }
         ]
       }
