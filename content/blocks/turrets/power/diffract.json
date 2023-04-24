@@ -53,6 +53,7 @@
   },
   "ammoTypes": {
     "titanium": {
+      "despawnShake": 1,
       "lightColor": "7575c8",
       "lightRadius": 50,
       "lightOpacity": 0.7,
@@ -150,6 +151,7 @@
       }
     },
     "surge-alloy": {
+      "despawnShake": 2,
       "lightColor": "d99f6b",
       "lightRadius": 50,
       "lightOpacity": 0.7,
@@ -198,6 +200,7 @@
         ],
         "type": "BasicBulletType",
         "lightColor": "d99f6b",
+        "despawnShake": 1,
         "lightRadius": 50,
         "lightOpacity": 0.7,
         "speed": 3,
@@ -292,6 +295,7 @@
       }
     },
     "cryogenic-alloy": {
+      "despawnShake": 3,
       "rangeChange": 80,
       "lightColor": "218b8f",
       "lightRadius": 50,
@@ -340,6 +344,7 @@
           }
         ],
         "type": "BasicBulletType",
+        "despawnShake": 2,
         "lightColor": "218b8f",
         "lightRadius": 50,
         "lightOpacity": 0.7,
@@ -372,6 +377,7 @@
         "lightningColor": "218b8f",
         "lightningDamage": 7,
         "fragBullet": {
+          "despawnShake": 1,
           "lightColor": "218b8f",
           "lightRadius": 50,
           "lightOpacity": 0.7,
