@@ -1,0 +1,35 @@
+{
+  "type": "flying",
+  "flying": false,
+  "speed": 0,
+  "health": 1200,
+  "name": "Artillery Sentry",
+  "description": "A small sentry turret that shoots out Artillery bullets.",
+  "rotateSpeed": 2,
+  "weapons": [
+    {
+      "x": 0,
+      "y": 1,
+      "rotate": false,
+      "alternate": false,
+      "mirror": true,
+      "inaccuracy": 7,
+      "reload": 1,
+      "shootOnDeath": true,
+      "bullet": {
+        "type": "ArtilleryBulletType",
+        "speed": 3,
+        "lifetime": 80,
+        "width": 12,
+        "height": 12,
+        "damage": 45,
+        "splashDamage": 25,
+        "splashDamageRadius": 16,
+        "pierceArmor": true,
+        "pierce": true,
+        "pierceBuilding": true,
+        "killShooter": true
+      }
+    }
+  ]
+}
