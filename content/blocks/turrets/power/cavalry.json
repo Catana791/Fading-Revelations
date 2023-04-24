@@ -7,7 +7,7 @@
     "reload": 200,
     "heatColor": "ff795e"
     "range": 240,
-    "shootCone": 0.08,
+    "shootCone": 7,
     "moveWhileCharging": false,
     "recoil": 0.7,
     "shoot": {
