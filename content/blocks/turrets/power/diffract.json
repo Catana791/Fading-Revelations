@@ -6,7 +6,7 @@
   "scaledHealth": 210,
   "coolantMultiplier": 0.1,
   "range": 300,
-  "reload": 600,
+  "reload": 240,
   "targetAir": false,
   "shootSound": "largeCannon",
   "consumes": {
