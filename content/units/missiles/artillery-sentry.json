@@ -1,6 +1,7 @@
 {
-  "type": "flying",
-  "flying": false,
+  "type": "missile",
+  "template": "MissileUnitType",
+  "flying": true,
   "speed": 0,
   "lifetime": 660,
   "drawCell": false,
