@@ -4,7 +4,7 @@
   "name": "Diffract",
   "description": "Fires high-grade piercing shells that split into more shells.",
   "scaledHealth": 210,
-  "coolantMultiplier": 0.1,
+  "coolantMultiplier": 0.25,
   "range": 300,
   "reload": 240,
   "shake": 5,
@@ -151,6 +151,7 @@
       }
     },
     "surge-alloy": {
+      "ammoMultiplier": 3,
       "despawnShake": 2,
       "lightColor": "d99f6b",
       "lightRadius": 50,
@@ -295,6 +296,7 @@
       }
     },
     "cryogenic-alloy": {
+      "ammoMultiplier": 4,
       "despawnShake": 3,
       "rangeChange": 80,
       "lightColor": "218b8f",
