@@ -8,12 +8,13 @@
     "heatColor": "ff795e"
     "range": 240,
     "shootCone": 0.08,
+    "moveWhileCharging": false,
     "recoil": 0.7,
     "shoot": {
       "firstShotDelay": 120
     },
     "chargeSound": "energy-charge",
-    "rotateSpeed": 10,
+    "rotateSpeed": 1,
     "targetAir": false,
     "shootSound": "cavalry-shoot",
     "consumes": {
