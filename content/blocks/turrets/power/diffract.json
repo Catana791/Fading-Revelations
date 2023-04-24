@@ -27,9 +27,7 @@
         "under": true,
         "heatProgress": "recoil",
         "progress": "warmup",
-        "moveX": 12,
-        "growX": 2,
-        "growY": 2,
+        "moveX": 2,
         "moves": [
           {
             "type": "PartMove",
