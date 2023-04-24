@@ -100,26 +100,11 @@
       "despawnUnit": "me-artillery-sentry"
     },
     "cryogenic-alloy": {
-      "type": "BasicBulletType",
-      "width": 10,
-      "height": 16,
-      "speed": 5,
-      "lifetime": 30,
-      "trailWidth": 4,
-      "trailLength": 20,
-      "trailChance": -1,
-      "pierceBuilding": true,
-      "pierce": true,
-      "keepVelocity": true,
-      "damage": 150,
-      "fragBullets": 2,
-      "fragRandomSpread": 0,
-      "fragSpread": 45,
-      "fragBullet": {
-        "spawnBullet": [
+      "spawnBullets": [
           {
             "type": "BasicBulletType",
             "width": 7,
+            "hitEffect": "flakExplosion",
             "height": 10,
             "speed": 5,
             "lifetime": 45,
@@ -134,8 +119,29 @@
             "despawnUnit": "me-artillery-sentry"
           }
         ],
-        "speed": 3,
-        "lifetime": 15,
+      "type": "BasicBulletType",
+      "width": 10,
+      "height": 16,
+      "hitEffect": "blastExplosion"
+      "speed": 5,
+      "lifetime": 30,
+      "trailWidth": 4,
+      "trailLength": 20,
+      "trailChance": -1,
+      "pierceBuilding": true,
+      "pierce": true,
+      "keepVelocity": true,
+      "damage": 150,
+      "fragBullets": 2,
+      "fragRandomSpread": 0,
+      "fragSpread": 45,
+      "fragBullet": {
+        "speed": 2,
+        "lifetime": 30,
+        "trailChance": -1,
+        "trailLength": 14,
+        "hitEffect": "flakExplosion",
+        "trailWidth": 3
         "width": 9,
         "height": 12,
         "damage": 20,
