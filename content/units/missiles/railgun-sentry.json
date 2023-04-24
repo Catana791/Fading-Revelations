@@ -7,7 +7,7 @@
   "drawEngine": false,
   "loopSound": "none",
   "drawMinimap": true,
-  "range": 360,
+  "range": 240,
   "health": 1200,
   "lifetime": 660,
   "name": "Laser Sentry",
