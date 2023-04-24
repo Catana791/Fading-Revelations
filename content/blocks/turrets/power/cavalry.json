@@ -164,6 +164,7 @@
       "fragVelocityMin": 1,
       "fragVelocityMax": 1,
       "fragBullet": {
+        "despawnSound": "laser",
         "hitSound": "laser",
         "type": "LaserBulletType",
         "length": 80,
@@ -177,6 +178,7 @@
       "intervalSpread": 45,
       "bulletInterval": 10,
       "intervalBullet": {
+        "despawnSound": "laser",
         "hitSound": "spark",
         "type": "ContinuousLaserBulletType",
         "length": 100,
