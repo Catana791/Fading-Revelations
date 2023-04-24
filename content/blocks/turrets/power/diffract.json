@@ -8,6 +8,7 @@
   "range": 300,
   "reload": 600,
   "targetAir": false,
+  "shootSound": "largeCannon",
   "consumes": {
     "power": 8,
     "coolant": {
@@ -27,7 +28,7 @@
         "under": true,
         "heatProgress": "recoil",
         "progress": "warmup",
-        "moveX": 2,
+        "moveX": 1.98,
         "moves": [
           {
             "type": "PartMove",
@@ -47,11 +48,6 @@
       }
     ]
   },
-  "shoot": {
-    "type": "ShootSpread",
-    "shots": 2,
-    "spread": 30
-  }
   "ammoTypes": {
     "titanium": {
       "type": "BasicBulletType",
@@ -104,38 +100,48 @@
       "despawnUnit": "me-artillery-sentry"
     },
     "cryogenic-alloy": {
-      "spawnBullets": [
-        {
-          "type": "BasicBulletType",
-          "width": 5,
-          "height": 8,
-          "speed": 5,
-          "lifetime": 30,
-          "trailWidth": 3,
-          "trailLength": 16,
-          "trailChance": -1,
-          "pierce": true,
-          "pierceBuilding": true,
-          "keepVelocity": true,
-          "reloadMultiplier": 0.5,
-          "damage": 150,
-          "despawnUnit": "me-artillery-sentry"
-        }
-      ],
       "type": "BasicBulletType",
-      "width": 5,
-      "height": 8,
+      "width": 10,
+      "height": 16,
       "speed": 5,
       "lifetime": 30,
-      "trailWidth": 2,
-      "trailLength": 12,
+      "trailWidth": 4,
+      "trailLength": 20,
       "trailChance": -1,
-      "pierce": true,
       "pierceBuilding": true,
+      "pierce": true,
       "keepVelocity": true,
-      "reloadMultiplier": 0.5,
       "damage": 150,
-      "despawnUnit": "me-railgun-sentry"
+      "fragBullets": 2,
+      "fragRandomSpread": 0,
+      "fragSpread": 45,
+      "fragBullet": {
+        "spawnBullet": [
+          {
+            "type": "BasicBulletType",
+            "width": 7,
+            "height": 10,
+            "speed": 5,
+            "lifetime": 45,
+            "trailWidth": 3,
+            "trailLength": 16,
+            "trailChance": -1,
+            "pierce": true,
+            "pierceBuilding": true,
+            "keepVelocity": true,
+            "reloadMultiplier": 0.5,
+            "damage": 120,
+            "despawnUnit": "me-artillery-sentry"
+          }
+        ],
+        "speed": 3,
+        "lifetime": 15,
+        "width": 9,
+        "height": 12,
+        "damage": 20,
+        "pierce": true,
+        "despawnUnit": "me-railgun-sentry
+      }
     }
   },
   "category": "turret",
