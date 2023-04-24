@@ -3,6 +3,7 @@
   "flying": false,
   "speed": 0,
   "health": 1200,
+  "lifetime": 660,
   "name": "Railgun Sentry",
   "description": "A small sentry turret that shoots a railgun-like bullet.",
   "rotateSpeed": 2,
