@@ -7,6 +7,8 @@
   "drawEngine": false,
   "loopSound": "none",
   "drawMinimap": true,
+  "engineSize": 0,
+  "rotateMoveFirst": false,
   "range": 240,
   "health": 1200,
   "lifetime": 660,
