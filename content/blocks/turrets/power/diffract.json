@@ -49,26 +49,27 @@
         "progress": "warmup",
         "heatProgress": "recoil"
       },
-      {
-        "type": "RegionPart",
-        "suffix": "-halo",
-        "layerOffset": -0.01,
-        "mirror": false,
-        "progress": "warmup",
-        "moveRot": 160,
-        "moves": [
-          {
-            "type": "PartMove",
-            "progress": "recoil",
-            "rot": 270
-          },
-          {
-            "type": "PartMove",
-            "progress": "reload",
-            "rot": -120
-          }
-        ]
-      }
+      //Note: I don't know if I love or hate this...
+      //{
+      //"type": "RegionPart",
+        //"suffix": "-halo",
+        //"layerOffset": -0.01,
+        //"mirror": false,
+        //"progress": "warmup",
+        //"moveRot": 160,
+        //"moves": [
+          //{
+            //"type": "PartMove",
+            //"progress": "recoil",
+            //"rot": 270
+          //},
+          //{
+            //"type": "PartMove",
+            //"progress": "reload",
+            //"rot": -120
+          //}
+        //]
+      //}
     ]
   },
   "ammoTypes": {
