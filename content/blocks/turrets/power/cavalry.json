@@ -132,7 +132,7 @@
       "lifetime": 80,
       "spin": 9,
       "pierce": true,
-      "damage": 1000,
+      "damage": 880,
       "despawnEffect": {
             "type": "ExplosionEffect",
             "waveColor": "7575c8",
@@ -184,7 +184,7 @@
         "length": 100,
         "width": 4,
         "lifetime": 19.5,
-        "damage": 100,
+        "damage": 75,
         "damageInterval": 8,
         "colors": ["66B1FF", "E4FDFF", "56b1d7", "91f7ff", "FFFFFF"]
       },
