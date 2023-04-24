@@ -5,6 +5,7 @@
   "size": 3,
   "scaledHealth": 125,
   "hasPower": true,
+  "moveWhileCharging": false,
   "category": "turret",
   "targetAir": false,
   "research": "uhlan",
