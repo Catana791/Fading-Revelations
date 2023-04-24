@@ -288,6 +288,17 @@
       "lightningColor": "218b8f",
       "lightningDamage": 9,
       "fragBullet": {
+        "spawnBullets": [
+          {
+            "type": "LaserBulletType",
+            "length": 120,
+            "width": 10,
+            "damage": 50,
+            "sideAngle": 60,
+            "sideWidth": 2,
+            "sideLength": 40
+          }
+        ],
         "type": "BasicBulletType",
         "speed": 3,
         "lifetime": 35,
