@@ -192,7 +192,7 @@
             "width": 16,
             "damage": 30,
             "sideAngle": 60,
-            "lifetime": 90,
+            "lifetime": 50,
             "sideWidth": 2,
             "sideLength": 32,
             "colors": ["d99f6b80", "fcf38799", "ffffff"]
@@ -337,7 +337,7 @@
             "width": 16,
             "damage": 50,
             "sideAngle": 60,
-            "lifetime": 90,
+            "lifetime": 50,
             "sideWidth": 2,
             "sideLength": 40,
             "colors": ["218b8f80", "24c8cf99", "ffffff"]
