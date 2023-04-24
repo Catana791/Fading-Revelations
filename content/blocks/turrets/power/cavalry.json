@@ -40,6 +40,7 @@
     "shootType": {
       "chargeEffect": {
         "type": "MultiEffect",
+        "followParent": true,
         "effects": [
             {
               "type": "ParticleEffect",
@@ -51,13 +52,13 @@
               "baseLength": -40,
               "interp": "pow3In",
               "sizeInterp": "pow5Out",
-              "lifetime": 110,
+              "lifetime": 90,
               "colorFrom": "a4b8fa",
               "colorTo": "7575c8"
             },
             {
               "type": "WaveEffect",
-              "lifetime": 140,
+              "lifetime": 110,
               "sizeFrom": 50,
               "sizeTo": 0,
               "interp": "pow5Out",
@@ -67,6 +68,46 @@
               "colorTo": "7575c8" 
             },
             {
+              "type": "WaveEffect",
+              "lifetime": 120,
+              "sizeFrom": 60,
+              "sizeTo": 0,
+              "interp": "pow10Out",
+              "strokeFrom": 0,
+              "strokeTo": 4,
+              "colorFrom": "a4b8fa",
+              "colorTo": "7575c8"
+            },
+          {
+            "type": "ParticleEffect",
+            "type": "ParticleEffect",
+              "particles": 20,
+              "offset": 130,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 50,
+              "baseLength": -40,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 90,
+              "colorFrom": "a4b8fa",
+              "colorTo": "7575c8"
+            },
+          {
+            "type": "ParticleEffect",
+              "particles": 20,
+              "offset": 140,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 60,
+              "baseLength": -40,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 90,
+              "colorFrom": "a4b8fa",
+              "colorTo": "7575c8"
+            },
+          {
               "type": "WaveEffect",
               "lifetime": 150,
               "sizeFrom": 60,
