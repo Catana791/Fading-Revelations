@@ -140,7 +140,7 @@
         "height": 12,
         "damage": 20,
         "pierce": true,
-        "despawnUnit": "me-railgun-sentry
+        "despawnUnit": "me-railgun-sentry"
       }
     }
   },
