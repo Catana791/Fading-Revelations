@@ -4,10 +4,14 @@
   "flying": true,
   "speed": 0,
   "drawCell": false,
+  "drawEngine": false,
+  "loopSound": "none",
+  "drawMinimap": true,
+  "range": 360,
   "health": 1200,
   "lifetime": 660,
-  "name": "Railgun Sentry",
-  "description": "A small sentry turret that shoots a railgun-like bullet.",
+  "name": "Laser Sentry",
+  "description": "A small sentry turret that shoots a hail of lasers.",
   "rotateSpeed": 2,
   "weapons": [
     {
@@ -17,24 +21,20 @@
       "alternate": false,
       "mirror": true,
       "inaccuracy": 7,
-      "reload": 1,
+      "reload": 60,
+      "shoot": {
+        "shots": 6,
+        "shootDelay": 1
+      }
       "shootOnDeath": true,
       "shootSound": "laser",
       "bullet": {
-        "spawnBullets": [
-          {
-            "instantDisappear": true,
-            "damage": 0,
-            "killShooter": true
-          }
-        ],
         "type": "LaserBulletType",
         "width": 3,
         "length": 240,
-        "damage": 80,
-        "pierceArmor": true,
+        "damage": 12,
         "pierce": true,
-        "pierceBuilding": true,
+        "pierceBuilding": true
       }
     }
   ]
