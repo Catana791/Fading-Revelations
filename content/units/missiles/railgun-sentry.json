@@ -17,6 +17,13 @@
       "reload": 1,
       "shootOnDeath": true,
       "bullet": {
+        "spawnBullets": [
+          {
+            "instantDisappear": true,
+            "damage": 0,
+            "killShooter": true
+          }
+        ],
         "type": "LaserBulletType",
         "width": 3,
         "length": 240,
@@ -24,7 +31,6 @@
         "pierceArmor": true,
         "pierce": true,
         "pierceBuilding": true,
-        "killShooter": true
       }
     }
   ]
