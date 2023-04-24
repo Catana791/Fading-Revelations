@@ -16,6 +16,7 @@
       "inaccuracy": 7,
       "reload": 1,
       "shootOnDeath": true,
+      "shootSound": "laser",
       "bullet": {
         "spawnBullets": [
           {
