@@ -1,0 +1,151 @@
+{
+  "type": "ItemTurret",
+  "size: 4,
+  "name": "Diffract",
+  "description": "Fires high-grade piercing shells that contain small sentries.",
+  "scaledHealth": 210,
+  "coolantMultiplier": 0.1,
+  "range": 300,
+  "reload": 600,
+  "targetAir": false,
+  "consumes": {
+    "power": 8,
+    "coolant": {
+      "amount": 1
+    }
+  },
+  "shootWarmupSpeed": 0.07,
+  "minWarmup": 0.76,
+  "warmupMaintainTime": 90,
+  "drawer": {
+    "type": "DrawTurret",
+    "parts": [
+      {
+        "type": "RegionPart",
+        "suffix": "-side",
+        "mirror": true,
+        "under": true,
+        "heatProgress": "recoil",
+        "progress": "warmup",
+        "moveX": 12,
+        "growX": 2,
+        "growY": 2,
+        "moves": [
+          {
+            "type": "PartMove",
+            "progress": "recoil",
+            "y": -4,
+            "rot": -34
+          }
+        ]
+      },
+      {
+        "type": "RegionPart",
+        "suffix": "-top",
+        "mirror": false,
+        "under": false,
+        "progress": "warmup",
+        "heatProgress": "recoil"
+      }
+    ]
+  },
+  "shoot": {
+    "type": "ShootSpread",
+    "shots": 2,
+    "spread": 30
+  }
+  "ammoTypes": {
+    "titanium": {
+      "type": "BasicBulletType",
+      "width": 5,
+      "height": 8,
+      "speed": 5,
+      "lifetime": 30,
+      "trailWidth": 2,
+      "trailLength": 12,
+      "trailChance": -1,
+      "pierce": true,
+      "pierceBuilding": true,
+      "keepVelocity": true,
+      "reloadMultiplier": 0.6,
+      "damage": 80,
+      "despawnUnit": "me-artillery-sentry"
+    },
+    "surge-alloy": {
+      "spawnBullets": [
+        {
+          "type": "BasicBulletType",
+          "width": 7,
+          "height": 10,
+          "speed": 5,
+          "lifetime": 45,
+          "trailWidth": 3,
+          "trailLength": 16,
+          "trailChance": -1,
+          "pierce": true,
+          "pierceBuilding": true,
+          "keepVelocity": true,
+          "reloadMultiplier": 0.5,
+          "damage": 120,
+          "despawnUnit": "me-railgun-sentry"
+        }
+      ],
+      "type": "BasicBulletType",
+      "width": 5,
+      "height": 8,
+      "speed": 5,
+      "lifetime": 30,
+      "trailWidth": 2,
+      "trailLength": 12,
+      "trailChance": -1,
+      "pierce": true,
+      "pierceBuilding": true,
+      "keepVelocity": true,
+      "reloadMultiplier": 0.5,
+      "damage": 120,
+      "despawnUnit": "me-artillery-sentry"
+    },
+    "cryogenic-alloy": {
+      "spawnBullets": [
+        {
+          "type": "BasicBulletType",
+          "width": 5,
+          "height": 8,
+          "speed": 5,
+          "lifetime": 30,
+          "trailWidth": 3,
+          "trailLength": 16,
+          "trailChance": -1,
+          "pierce": true,
+          "pierceBuilding": true,
+          "keepVelocity": true,
+          "reloadMultiplier": 0.5,
+          "damage": 150,
+          "despawnUnit": "me-artillery-sentry"
+        }
+      ],
+      "type": "BasicBulletType",
+      "width": 5,
+      "height": 8,
+      "speed": 5,
+      "lifetime": 30,
+      "trailWidth": 2,
+      "trailLength": 12,
+      "trailChance": -1,
+      "pierce": true,
+      "pierceBuilding": true,
+      "keepVelocity": true,
+      "reloadMultiplier": 0.5,
+      "damage": 150,
+      "despawnUnit": "me-railgun-sentry"
+    }
+  },
+  "category": "turret",
+  "research": "mortar",
+  "requirements": [
+    "lead/700",
+    "graphite/560",
+    "titanium/320",
+    "cryogenic-alloy/105"
+  ]
+}
