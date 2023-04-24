@@ -2,6 +2,8 @@
   "type": "flying",
   "flying": false,
   "speed": 0,
+  "lifetime": 660,
+  "drawCell": false,
   "health": 1200,
   "name": "Artillery Sentry",
   "description": "A small sentry turret that shoots out Artillery bullets.",
