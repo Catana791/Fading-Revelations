@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
-  "name": "C.B.S.T",
-  "description": "Stands for cluster bomb strike turret. Fires big fragging shells at enemies that don't deal a tonne of damage but cover a lot of area. Don't place too many or it might become laggy.",
+  "name": "CBST",
+  "description": "Cluster bomb strike turret. Fires fragging shells that cover a wide area.",
   "targetAir": true,
   "targetGround": true,
   "shoot": {

@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Assail",
-  "description": "A better version of the Swarmer. More damage and attack speed.",
+  "description": "Launches a flurry of homing missiles at enemies, akin to the swarmer.",
   "health": 1800,
   "reload": 37,
   "heatColor": "ff2020",

@@ -1,6 +1,6 @@
 {
     "name": "Interitus",
-    "description": "A big turret made for firing homing rockets at flying enemies.",
+    "description": "Deploys a singular homing missile at faraway enemies.",
     "type": "ItemTurret",
     "category": "turret",
     "research": "missile-battery",

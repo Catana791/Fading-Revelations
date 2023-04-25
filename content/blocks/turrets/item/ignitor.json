@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Ignitor",
-  "description": "A fuse-like turret that was built with cryogenic alloy.",
+  "description": "Fires many close-range piercing bolts at nearby enemies, akin to the fuse.",
   "reload": 45,
   "shake": 5,
   "recoil": 5,

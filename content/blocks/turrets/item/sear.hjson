@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Sear
-description: A better version of the Scorch. Burns enemies with more range and damage.
+description: Singes nearby enemies, akin to the scorch.
 size: 2
 health: 800
 range: 112

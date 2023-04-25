@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Accel",
-  "description": "Marks a path with a high-precision laser before shooting an expanding electric bullet down said path that explodes on impact. The highly concentrated marking laser also deals damage on hit.",
+  "description": "Marks a path with a damaging high-precision laser before firing an expanding electric round that explodes on impact.",
   "size": 4,
   "reload": 360,
   "range": 420,
