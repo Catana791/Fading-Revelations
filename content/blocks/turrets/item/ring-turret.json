@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
-  "name": "Cluster Bomb Strike Turret",
-  "description": "Fires fragging shells that cover a wide area.",
+  "name": "CBST",
+  "description": "Cluster bomb strike turret. Fires fragging shells that cover a wide area.",
   "targetAir": true,
   "targetGround": true,
   "shoot": {
