@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Living Steel Hardening Forge",
-  "description": "Crafts larger amounts of hardened living steel by using the same amount of resources as the Living Steel Hardener.",
+  "description": "Reinforces living steel via thorium infusion. More efficient than the hardening chamber.",
   "size": 3,
   "health": 285,
   "hasPower": true,
