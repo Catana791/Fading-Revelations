@@ -23,8 +23,8 @@ cloudMesh: {
   divisions: 8
   color: eafffd7e
   octaves: 4
-  persistence: 1
-  scl: 0.75
+  persistence: 0.7
+  scl: 1
   thresh: 0.4
 }
 generator: {
