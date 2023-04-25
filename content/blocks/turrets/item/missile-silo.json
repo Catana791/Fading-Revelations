@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Nuclear Launch Silo",
-  "description": "Launches nuclear warheads that disable healing blocks and deal heavy damage to enemies caught in its radius. High damage, low rate of fire.",
+  "description": "Launches nuclear warheads that disable healing blocks and deal heavy damage to enemies caught in its radius. Low rate of fire.",
   "health": 300,
   "maxAmmo": 10,
   "reload": 3600,
