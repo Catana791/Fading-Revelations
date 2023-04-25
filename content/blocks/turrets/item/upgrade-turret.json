@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Van Turretheim",
-  "description": "A turret that can shoot with different types of ammo.",
+  "description": "Fires bursts of powerful rounds, akin to a more concentrated shotgun.",
   "health": 900,
   "maxAmmo": 600,
   "reload": 72,
