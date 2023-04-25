@@ -19,7 +19,7 @@ cloudMesh: {
   planet: cangirus
   seed: 15
   speed: 0.32
-  radius: 0.05
+  radius: 0.08
   divisions: 10
   color: eafffd7e
   octaves: 4
