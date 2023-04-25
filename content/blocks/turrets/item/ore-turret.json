@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Itemslinger",
-  "description": "Slingshots fragments of raw material at enemies.",
+  "description": "Slingshots pieces of raw material at enemies.",
   "health": 320,
   "size": 2,
   "category": "turret",
