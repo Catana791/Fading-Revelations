@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Shotgun",
-  "description": "A shotgun turret. More damage the closer the enemies are to it's barrel.",
+  "description": "Fires many rounds at point-blank range. Deals more damage up close.",
   "health": 800,
   "maxAmmo": 10,
   "reload": 120,
