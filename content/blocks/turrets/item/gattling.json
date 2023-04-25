@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Gattling",
-  "description": "A rapid fire turret that is capable of firing with different types of ammo. Good luck keeping it supplied with ammo.",
+  "description": "Pelts nearby enemies with a storm of bullets. Good luck feeding this.",
   "health": 900,
   "hasLiquids": true,
   "liquidCapacity": 20,
