@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Hurricane",
-  "description": "An enhanced version of the Cyclone turret.",
+  "description": "Fires many clumps of explosive flak at enemies, akin to the cyclone.",
   "health": 1905,
   "reload": 9,
   "range": 224,
