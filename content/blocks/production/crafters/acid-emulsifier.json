@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Acid Emulsifier",
-  "description": "Creates oil from acid.",
+  "description": "Emulsifies acid into oil.",
   "size": 2,
   "liquidCapacity": 60,
   "craftTime": 20,
