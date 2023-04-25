@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Sniper",
-  "description": "A long range, high damage point defense turret.",
+  "description": "Long range, high damage. Useful for point defense and securing vulnerable areas.",
   "targetGround": true,
   "targetAir": false,
   "health": 1200,
