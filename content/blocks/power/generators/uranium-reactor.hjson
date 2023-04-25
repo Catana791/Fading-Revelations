@@ -17,12 +17,12 @@ explosionRadius: 500
 explosionDamage: 10000
 flashThreshold: 0.4
 coolantPower: 0.5
-fuelItem: uraniumrod
+fuelItem: fuel-rod
 consumes: {
  liquid: living-steel-liquid/0.2
  items: {
   items: [
-    {item: uraniumrod, amount: 9}
+    {item: fuel-rod, amount: 9}
   ]
  }
 }
