@@ -6,6 +6,5 @@
   "sector": 0,
   "allowLaunchLoadout": true,
   "addStartingItems": true,
-  "alwaysUnlocked": true,
   "noLighting": true
 }

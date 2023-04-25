@@ -20,14 +20,15 @@ cloudMesh: {
   seed: 15
   speed: 0.32
   radius: 0.08
-  divisions: 10
+  divisions: 6
   color: eafffd7e
-  octaves: 4
+  octaves: 3
   persistence: 0.7
   scl: 1
-  thresh: 0.4
+  thresh: 0.6
 }
 generator: {
+  allowLanding: false
   type: PlanetGenerator
   octaves: 3
   persistence: 0.52
