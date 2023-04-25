@@ -279,7 +279,7 @@
       },
       "despawnEffect": "none"
     },
-    "uraniumrod": {
+    "fuel-rod": {
       "sprite": "me-rod-bullet",
       "type": "BasicBulletType",
       "speed": 3,
