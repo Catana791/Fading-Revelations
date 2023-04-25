@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Living Steel Hardening Chamber",
-  "description": "Hardens living steel by infusing it with thorium.",
+  "description": "Reinforces living steel via thorium infusion.",
   "size": 2,
   "hasPower": true,
   "hasItems": true,
