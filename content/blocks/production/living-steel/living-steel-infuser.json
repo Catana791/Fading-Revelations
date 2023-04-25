@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Living Steel Infusion Chamber",
-  "description": "Crafts living steel by infusing titanium with spores.",
+  "description": "Infuses titanium with spore pods, creating living steel.",
   "size": 2,
   "health": 140,
   "hasPower": true,

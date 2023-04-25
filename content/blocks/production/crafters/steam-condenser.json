@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Steam Condenser",
-  "description": "Slowly pulls moisture out of the air, turning it into Steam.",
+  "description": "Pulls water vapor from the atmosphere, condensing it into steam.",
   "size": 2,
   "scaledHealth": 60,
   "category": "crafting",

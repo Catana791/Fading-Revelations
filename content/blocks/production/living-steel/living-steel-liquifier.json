@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
-  "name": "Living Steel Liquifying Chamber",
-  "description": "Liquifies living steel by infusing it with oil.",
+  "name": "Living Steel Liquefaction Chamber",
+  "description": "Melts down living steel into a versatile fluid utilizing oil.",
   "size": 2,
   "hasPower": true,
   "hasItems": true,

@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Acid Vat",
-  "description": "Liquifies lead into acid. Requires power.",
+  "description": "Acidifies lead via chemical reaction.",
   "size": 2,
   "drawer": {
     "type": "DrawMulti",

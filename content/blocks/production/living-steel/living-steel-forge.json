@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Living Steel Forge",
-  "description": "Crafts larger amounts of living steel by using the same amount of resources as the Living Steel Infuser.",
+  "description": "Fuses titanium with spore pods, creating living steel in large quantities. More efficient than the infuser.",
   "size": 3,
   "health": 285,
   "hasPower": true,
