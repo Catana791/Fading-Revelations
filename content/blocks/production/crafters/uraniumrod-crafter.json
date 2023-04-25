@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
-  "name": "Uraniumrod Crafter",
-  "description": "Crafts uraniumrods from thorium, plastanium and lead.",
+  "name": "Fuel Rod Crafter",
+  "description": "Layers a plastanium and lead core with thorium, creating fuel rods.",
   "size": 2,
   "hasPower": true,
   "hasItems": true,
@@ -53,7 +53,7 @@
   "category": "crafting",
   "research": "big-plastanium-press",
   "outputItem": {
-    "item": "uraniumrod",
+    "item": "fuel-rod",
     "amount": 3
   }
 }
