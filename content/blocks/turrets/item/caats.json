@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "CAATS",
-  "description": "The pinnacle of anti-air defense, and the crown jewel of Cerberian technology.",
+  "description": "Even if the name might sound cute, this is Cerbero's proudest anti-air invention: The Cerberian Anti Air Turret System.",
   "size": 5,
   "category": "turret",
   "requirements": [],
