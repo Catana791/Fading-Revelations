@@ -15,7 +15,7 @@ mesh: {
   mag: 1
 }
 cloudMesh: {
-  //type: HexSkyMesh
+  type: HexSkyMesh
   planet: cangirus
   seed: 15
   speed: 0.32
