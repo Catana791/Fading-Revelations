@@ -19,7 +19,7 @@
     "sizeTo": 0,
   },
   "consumes": {
-    "power": 3,
+    "power": 6,
   },
   "requirements": [
     {
@@ -43,6 +43,6 @@
   "research": "ground-miller",
   "outputItem": {
     "item": "sand",
-    "amount": 6
+    "amount": 12
   }
 }
