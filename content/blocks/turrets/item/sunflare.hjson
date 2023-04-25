@@ -1,6 +1,6 @@
 type: ItemTurret
 name: Sunflare
-description: A better version of the Sear turret. Shoots massive amounts of fire that burn everything down.
+description: Incinerates any and all enemies that walk nearby, akin to the sear.
 size: 4
 health: 1720
 range: 240
