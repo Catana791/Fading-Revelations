@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Basic Multismelter",
-  "description": "Uses coal, sand and lead to create metaglass, graphite and silicon all at once.",
+  "description": "Uses a combination of smelting and compression procedures to mass produce basic resources.",
   "category": "crafting",
   "research": "silicon-forge",
   "size": 3,
