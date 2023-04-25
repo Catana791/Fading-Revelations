@@ -17,6 +17,7 @@ mesh: {
 #cloudMesh: {}
 startSector: 0
 generator: {
+  allowLanding: false
   type: PlanetGenerator
   octaves: 3
   persistence: 0.52
