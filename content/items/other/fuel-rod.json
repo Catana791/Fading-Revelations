@@ -1,6 +1,6 @@
 {
-  "name": "Uraniumrod",
-  "description": "A rod made out of Uranium.",
+  "name": "Fuel Rod",
+  "description": "A fuel rod constructed from layering thorium on a durable plastanium and lead core.",
   "cost": 2.5,
   "color": "22b400",
   "flammability": 0.1,
