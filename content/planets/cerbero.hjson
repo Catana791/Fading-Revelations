@@ -5,9 +5,9 @@ mesh: {
   type: NoiseMesh
   planet: cerbero
   seed: 69
-  divisions: 4
-  color1: 29302b
-  color2: 39403b
+  divisions: 6
+  color1: 2b2930
+  color2: 3b3940
   radius: 1.2
   octaves: 3
   persistence: 0.8
@@ -18,12 +18,19 @@ mesh: {
 startSector: 0
 generator: {
   type: PlanetGenerator
+  octaves: 3
+  persistence: 0.52
+  scale: 22
+  mag: 0.721
+  thresh: 1.152
   min: 100
   max: 100
-  radMin: 480
-  radMax: 480
-  seed: 69420
+  radMin: 220
+  radMax: 600
+  iceChance: 0
+  carbonChance: 0.6
   berylChance: 0
+  ferricChance: 0.4
 }
 sectorSize: 1
 orbitSpacing: 4
@@ -35,7 +42,7 @@ atmosphereRadOut: 0.3
 prebuildBase: false
 accessible: true
 updateLighting: true
-sectorSeed: 0
+sectorSeed: 6
 bloom: false
 visible: true
 atmosphereColor: 000000
