@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Neutron Blender",
-  "description": "Blends large quantities of cryofluid, oil and liquefied living steel into the highly potent coolant, neutron fluid."
+  "description": "Blends large quantities of cryofluid, oil and liquefied living steel into the highly potent neutron fluid coolant."
   "size": 3,
   "hasItems": true,
   "hasLiquids": true,
