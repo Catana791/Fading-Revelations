@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Nuke Crafter",
-  "description": "Crafts nuclear warheads using uraniumrods and graphite.",
+  "description": "Crafts nuclear warheads using fuel rods and graphite.",
   "size": 2,
   "hasPower": true,
   "hasItems": true,
