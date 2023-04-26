@@ -1,6 +1,6 @@
 {
   "name": "Titanium Router",
-  "description": "A faster router that is made out of titanium.",
+  "description": "Distributes items to 3 output directions equally. Paired with the titanium conveyor.",
   "type": "Router",
   "dumpTime": 1,
   "speed": 0.1,
