@@ -1,7 +1,7 @@
 {
   "type": "TractorBeamTurret",
   "name": "Deracination",
-  "description": "Fires an intense tractor beam that pulls in air targets, damaging them in the process, akin to the parallax.",
+  "description": "Beams out an intense tractor beam that pulls in air targets, dealing heavy damage in the process. ",
   "size": 3,
   "force": 20,
   "targetAir": true,
