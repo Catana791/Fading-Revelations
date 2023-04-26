@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Kugelblitz",
-  "description": "Supercharges conductive metals using high power input, creating a powerful orb that spews bolts of lightning, obliterating anything in its path.",
+  "description": "Launches powerful lightning orbs via supercharging of metal.",
   "size": 3,
   "scaledHealth": 125,
   "hasPower": true,
