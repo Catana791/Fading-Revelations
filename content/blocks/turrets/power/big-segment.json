@@ -1,7 +1,7 @@
 {
   "type": "PointDefenseTurret",
   "name": "Fragment",
-  "description": "A better version of the Segment. Fires faster and does more damage to bullets. Can still not target lasers.",
+  "description": "Damages and destroys incoming projectiles, akin to the segment. Laser projectiles are still not targeted.",
   "size": 3,
   "health": 410,
   "range": 236,
