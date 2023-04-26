@@ -1,6 +1,6 @@
 {
   "name": "Compact Laser Drill",
-  "description": "A smaller version of the laser drill.",
+  "description": "Allows small-scale drilling via laser technology, but requires power. Capable of mining thorium.",
   "type": "Drill",
   "size": 2,
   "itemCapacity": 4,
