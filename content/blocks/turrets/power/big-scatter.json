@@ -1,7 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "Shatter",
-  "description": "Fires various clumps of flak at enemy aircraft, akin to a scatter.",
+  "description": "Fires various powerful clumps of flak at enemy aircraft.",
   "targetAir": true,
   "targetGround": false,
   "health": 1200,
