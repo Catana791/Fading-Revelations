@@ -1,7 +1,8 @@
 {
   "type": "StackConveyor",
   "name": "Amalgam Conveyor",
-  "description": "A conveyor made from Steel Amalgam that works similarly to a plastanium conveyor but transports items in bigger stacks and faster.",
+  "description": "Quickly transports items forward in larger batches, akin to the plastanium conveyor. Identical functionality.",
+  "details": "Something's wrong with my copy of Factorio...",
   "category": "distribution",
   "requirements": [
     "graphite/1",
