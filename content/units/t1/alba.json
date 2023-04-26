@@ -1,7 +1,7 @@
 {
   "type": "naval",
   "name": "[green]Alba",
-  "description": "A small naval support ship that is equipped with nothing but a small regeneration projector.",
+  "description": "Equipped with a small regeneration projector, but no weapons.",
   "health": 310,
   "armor": 3,
   "speed": 1.2,
