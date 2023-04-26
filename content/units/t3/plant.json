@@ -1,7 +1,7 @@
 {
   "type": "payload",
   "name": "[green]Sapling",
-  "description": "Capable of large-scale mining, builing, and repairing. The penultimate support drone.",
+  "description": "Capable of large-scale mining, building, and repairing. The penultimate support drone.",
   "abilities": [
     {
       "type": "RepairFieldAbility", 
