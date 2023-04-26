@@ -1,5 +1,5 @@
 name: Uhlan
-description: Charges and fires three powerful beams of energy at ground targets, akin to the lancer.
+description: Charges and fires three powerful beams of energy at ground targets.
 type: PowerTurret
 targetAir: false
 health: 1420
