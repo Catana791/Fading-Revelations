@@ -1,7 +1,7 @@
 {
   "type": "Conveyor",
   "name": "Alloy Conveyor",
-  "description": "A very fast conveyor.",
+  "description": "Transports items forward. Faster than a titanium conveyor.",
   "details": "You hear a faint Speeeeeeedwagggoooooooon in the distance.",
   "health": 350,
   "requirements": [
