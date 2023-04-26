@@ -1,7 +1,7 @@
 {
   "type": "ItemBridge",
   "name": "Titanium Bridge Conveyor",
-  "description": "Transports items over terrain or buildings. Paired with the titanium conveyor.",
+  "description": "Transports items over terrain or buildings. Faster than the regular bridge conveyor.",
   "health": 250,
   "requirements": [
     {
