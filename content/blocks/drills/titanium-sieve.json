@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Titanium Sieve",
-  "description": "Filters higher amounts of water at greater speeds compared to the pneumatic sieve.",
+  "description": "Swiftly filters gold out of water.",
   "health": 280,
   "size": 3,
   "hasLiquids": true,
