@@ -2,7 +2,7 @@
   "type": "naval",
   "naval": true,
   "localizedName": "[orange]Japonica",
-  "description": "A huge naval unit that is equipped with multiple weapons and abilities.",
+  "description": "Boasts a homing missile launcher, several persistent laser beams, and numerous autocannons. Manufactures and deploys Rissos out to sea.",
   
   "health": 20000,
   "armor": 10,
