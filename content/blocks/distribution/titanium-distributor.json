@@ -1,6 +1,6 @@
 {
   "name": "Titanium Distributor",
-  "description": "Distributes input items to 7 output directions equally. Faster than a regular distributor.",
+  "description": "Distributes input items to 7 output directions equally. Faster than the regular distributor.",
   "type": "Router",
   "dumpTime": 1,
   "speed": 0.1,
