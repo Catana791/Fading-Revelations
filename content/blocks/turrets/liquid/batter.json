@@ -1,6 +1,6 @@
 {
   "name": "Batter",
-  "description": "A turret that shoots big liquid bullets that knock back enemies or affect them with various status effects.",
+  "description": "Shoves back enemies using bolts consisting of various liquids.",
   "size": 3,
   "range": 200,
   "reload": 60,
