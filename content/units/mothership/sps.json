@@ -1,8 +1,8 @@
 {
   "type": "flying",
   "name": "[orange]Orbital Platform Strahl",
-  "description": "Boasts several highly concentrated laser beams, alongside point defense turrets. Rapidly builds and releases Alopex.",
-  "details": "One of the most secretive units ever built. Few have witnessed its power, albeit its technology being used commonly in modern-day military efforts across the cluster. Beware!
+  "description": "Boasts many highly concentrated laser beams, alongside point defense beam turrets. Rapidly builds and releases Alopex.",
+  "details": "One of the most secretive units ever built. Few have witnessed its power, albeit its technology being used commonly in modern-day military efforts across the cluster. Beware!"
   "drag": 0.15,
   "speed": 0.96,
   "flying": true,
