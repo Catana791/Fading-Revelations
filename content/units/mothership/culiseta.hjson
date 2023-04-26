@@ -5,7 +5,7 @@ flying: true
 engineSize: 0
 lowAltitude: true
 name: "[orange]Culiseta"
-description: "A huge helicopter equipped with an array of different weapons. The spinning rotors deal damage to nearby targets. Spawns small siege units upon death."
+description: "Equipped with fragging bombs, targetable missiles, railguns, and more. Manufactures assault and siege units on board to deploy upon destruction. Rotor deals damage to nearby targets."
 health: 16500
 armor: 3
 range: 270
