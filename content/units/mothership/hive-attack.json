@@ -1,7 +1,8 @@
 {
   "type": "flying",
   "name": "[purple]HIVE Heavy Assault Unit (HHAU)",
-  "description": "Spawned by the HIVE mothership and equipped with special sensors that allow it to always keep the perfect distance to the enemy, this drone attacks your enemies in the most optimal ways",
+  "description": "Equipped a high-velocity missile launcher.",
+  "details": "Has many sensors that operate off enemy positions, allowing it to stay an optimal distance away at all times. Highly reliable assault unit.
   "drag": 0.15,
   "outlines": false,
   "speed": 2,
