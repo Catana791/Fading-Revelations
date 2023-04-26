@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Pneumatic Sieve",
-  "description": "Filters water faster than the mechanical sieve to extract gold from it faster.",
+  "description": "Filters gold out of water.",
   "health": 220,
   "size": 2,
   "hasLiquids": true,
