@@ -1,7 +1,7 @@
 {
   "type": "naval",
   "name": "[green]Altaic",
-  "description": "A huge support naval ship equipped with multiple healing and point defense weapons. Spawns Oxynoe. Damages enemies and slows them down using an energy field. Said energy field also target allied blocks and units and heals them",
+  "description": "Equipped with multiple healing and point defense weapons. Deploys Oxynoe. Damages and slows down enemies via an energy field, which additionally heals nearby allied units and structures.",
   "details": "Nicknamed 'Dragonboi' due to it's flamethrowers. Thank you for your support!",
   "health": 21000,
   "armor": 16,
