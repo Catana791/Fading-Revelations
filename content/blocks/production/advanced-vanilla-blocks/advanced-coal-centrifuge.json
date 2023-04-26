@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Coal Condenser",
-  "description": "Presses Oil to coal. Is a lot more efficient than the original.",
+  "description": "Condenses oil into coal in a highly efficient process.",
   "outputItem": {
     "item": "coal",
     "amount": 6
