@@ -1,6 +1,6 @@
 {
   "name": "Arc Storm",
-  "description": "An Arc but with more range and attack speed.",
+  "description": "Swiftly fires powerful arcs of electricity at ground targets.",
   "size": 1,
   "range": 130,
   "reload": 13,

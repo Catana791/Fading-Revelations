@@ -15,7 +15,7 @@
   "loopSoundVolume": 0.4,
   "requirements": [
     "metaglass/250",
-    "silicon/160",
+    "silicon/180",
     "titanium/220",
     "living-steel/140",
   ],

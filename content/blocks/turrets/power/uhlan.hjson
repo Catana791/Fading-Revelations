@@ -1,5 +1,5 @@
 name: Uhlan
-description: A better version of the Lancer. Takes less time to charge, deals more damage and has more range.
+description: Charges and fires three powerful beams of energy at ground targets.
 type: PowerTurret
 targetAir: false
 health: 1420

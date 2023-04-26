@@ -1,6 +1,6 @@
 {
   "name": "Depository",
-  "description": "A larger Vault used to store large amounts of items. Can be placed next to a core to expand it's storage capacity.",
+  "description": "Stores a gigantic amount of items of each type, akin to a vault. Expands storage when placed next to a core. Contents can be retrieved with an unloader.",
   "type": "StorageBlock",
   "size": 4,
   "hasItems": true,

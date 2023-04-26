@@ -2,7 +2,7 @@
   "type": "MassDriver",
   "name": "Mass Accelerator",
   "health": 720,
-  "description": "A mass driver that can shoot more items and has more range.",
+  "description": "Long-range item transport structure. Collects large batches of items and shoots them to other mass accelerators.",
   "itemCapacity": 300,
   "reload": 120
   "range": 600,

@@ -1,6 +1,6 @@
 {
   "name": "Sprinkler",
-  "description": "A fast paced water spray turret that is good at putting out fires but deals no damage and has no knockback so it should probably not be used for combat.",
+  "description": "Puts out nearby fires at high efficiency. Not useful in combat, as it deals no damage.",
   "size": 3,
   "shoot": {
     "type": "ShootSpread",

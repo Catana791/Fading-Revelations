@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Ground Crusher",
-  "description": "Grinds the ground at high speeds and creates sand from it while using power.",
+  "description": "Quickly grinds up the ground it sits on to produce sand. Requires large quantities of power.",
   "size": 3,
   "hasPower": true,
   "hasItems": true,

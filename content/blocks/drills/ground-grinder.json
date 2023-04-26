@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Ground Grinder",
-  "description": "Slowly grinds the ground and creates sand from it while using minimal power.",
+  "description": "Slowly grinds up the ground it sits on to produce sand. Requires power.",
   "size": 1,
   "hasPower": true,
   "hasItems": true,

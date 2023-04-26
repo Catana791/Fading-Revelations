@@ -1,7 +1,7 @@
 {
     "type": "LaserTurret",
     "name": "Absole",
-    "description": "A powerful turret that banishes enemies with highly concentrated lasers which inflict the High Energy Burn status effect.",
+    "description": "Inflicts a high energy burn upon enemies via a highly concentrated laser.",
     "size": 4,
     "reload": 120,
     "shootWarmupSpeed": 0.025,

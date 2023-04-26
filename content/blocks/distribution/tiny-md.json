@@ -2,7 +2,7 @@
   "type": "MassDriver",
   "name": "Tiny Mass Driver",
   "health": 160,
-  "description": "A tiny mass driver that can shoot less items and has less range.",
+  "description": "Short range item transport structure. Collects small batches of items and shoots them to other tiny mass drivers.",
   "itemCapacity": 20,
   "reload": 10,
   "range": 88,

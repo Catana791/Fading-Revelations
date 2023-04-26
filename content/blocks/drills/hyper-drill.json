@@ -1,6 +1,6 @@
 { 
 "name": "Hyper Drill", 
-"description": "An even better Airblast Drill that needs Cryofluid to run. Cannot mine sand as it would break.", 
+"description": "The magnum opus of drill technology. Incapable of mining sand, but mines other ores at massive rates, consuming cryofluid in the process.", 
 "type": "Drill", 
 "blockedItem": "sand",
   "updateEffectChance": 0.1,

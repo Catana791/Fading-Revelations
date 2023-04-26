@@ -1,7 +1,7 @@
 {
   "type": "LiquidTurret",
   "name": "Zephyr",
-  "description": "Uses Steam to fire highly concentrated blasts at enemies that knock them back but don't deal damage.",
+  "description": "Fires non-damaging, high-concentration blasts of steam, dealing heavy knockback.",
   "size": 2,
   "category": "turret",
   "research": "mod-gate-turrets",

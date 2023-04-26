@@ -1,6 +1,6 @@
 {
   "name": "Air Arc",
-  "description": "An Arc against air enemies only.",
+  "description": "Fires arcs of electricity at airborne targets.",
   "size": 1,
   "range": 130,
   "reload": 20,
