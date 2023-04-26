@@ -1,7 +1,7 @@
 {
     "type": "PowerTurret",
     "name": "Cavalry",
-    "description": "The final turret of the Lancer family. Has a low fire rate but extremely high damage that even surpasses the legendary Meltdown.",
+    "description": "Launches a rapidly pulsating, cascading plasma orb.",
     "size": 5,
     "health": 2850,
     "reload": 200,
