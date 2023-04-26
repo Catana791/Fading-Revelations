@@ -1,7 +1,7 @@
 {
   "type": "ItemBridge",
   "name": "Alloy Bridge Conveyor",
-  "description": "A bridge conveyor made with surge alloy. Moves items at very high speeds.",
+  "description": "Transports items over terrain or buildings. Paired with the surge alloy conveyor.",
   "health": 250,
   "requirements": [
     "copper/6",
