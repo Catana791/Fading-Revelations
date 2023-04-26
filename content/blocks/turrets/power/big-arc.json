@@ -1,6 +1,6 @@
 {
   "name": "Arc Storm",
-  "description": "Fires many arcs of electricity at ground targets, akin to the arc turret.",
+  "description": "Swiftly fires powerful arcs of electricity at ground targets.",
   "size": 1,
   "range": 130,
   "reload": 13,
