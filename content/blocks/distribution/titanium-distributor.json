@@ -1,6 +1,6 @@
 {
   "name": "Titanium Distributor",
-  "description": "A faster distributor that is made out of titanium.",
+  "description": "Distributes input items to 7 output directions equally. Paired with the titanium conveyor.",
   "type": "Router",
   "dumpTime": 1,
   "speed": 0.1,
