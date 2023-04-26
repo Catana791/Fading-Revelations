@@ -1,7 +1,7 @@
 {
   "type": "payload",
   "name": "[green]Sprout",
-  "description": "A medium sized support drone with mediocre health but high healing capabilities.",
+  "description": "Capable of automatic mining, building, and repairing. Boosts nearby allied units' move speed.",
   "abilities": [
     {
       "type": "RepairFieldAbility", 
