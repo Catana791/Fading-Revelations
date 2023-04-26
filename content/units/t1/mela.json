@@ -1,7 +1,8 @@
 {
   "type": "naval",
   "name": "[orange]Mela",
-  "description": "A small naval assault unit equipped with basic weaponry.",
+  "description": "Swiftly fires cannon shells at nearby targets. Equipped with a mine launcher.",
+  "details": "Useful in preventing enemy pursuits. Mines explode on contact.",
   "health": 320,
   "armor": 2,
   "hitSize": 14,
