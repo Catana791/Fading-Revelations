@@ -1,7 +1,7 @@
 {
   "type": "SolidPump",
   "name": "Advanced Water Extractor",
-  "description": "A better version of the water extractor. Delivers more water.",
+  "description": "Extracts large quantities of groundwater. Used in locations with no surface water available..",
   "health": 320,
   "result": "water",
   "hasPower": true,
