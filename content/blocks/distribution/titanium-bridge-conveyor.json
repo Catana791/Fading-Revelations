@@ -1,20 +1,20 @@
 {
   "type": "ItemBridge",
   "name": "Titanium Bridge Conveyor",
-  "description": "A faster bridge conveyor with more range. Quite useful.",
+  "description": "Transports items over terrain or buildings. Paired with the titanium conveyor.",
   "health": 250,
   "requirements": [
     {
       "item": "copper",
-      "amount": 4
+      "amount": 8
     },
     {
       "item": "lead",
-      "amount": 4
+      "amount": 8
     },
     {
       "item": "titanium",
-      "amount": 4
+      "amount": 8
     }
   ],
   "range": 6,
