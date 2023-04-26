@@ -2,7 +2,7 @@
   "type": "flying",
   "hovering": true,
   "name": "[orange]Procer",
-  "description": "A medium sized unit made for assault.",
+  "description": "Rapid-fires dual salvos of missiles at enemy targets. Is also equipped with a piercing laser.",
   "health": 1100,
   "hitSize": 17.5,
   "lowAltitude": true,

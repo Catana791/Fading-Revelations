@@ -1,5 +1,5 @@
 name: "[orange]Alopex"
-description: "A close range unit with high burst damage and speed but low health."
+description: "Fires concentrated piercing lasers at nearby targets. Quick, but frail."
 flying: true
 type: "flying"
 details:

@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "name": "[yellow]Delta",
-  "description": "Defends the Atom core from enemies. Builds structures quickly.",
+  "description": "Defends the Atom core from enemies. Swiftly builds structures, and is equipped with healing beams.",
   "drag": 0.15,
   "speed": 4,
   "research": "mod-gate-core-units",

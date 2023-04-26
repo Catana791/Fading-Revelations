@@ -1,7 +1,7 @@
 {
   "type": "tank",
   "name": "[orange]Scorpio",
-  "description": "A tank equipped with a railgun. Specializes in combat versus buildings and is slighlty weaker in unit combat.",
+  "description": "Equipped with a railgun that pierces most laser-blocking defenses. Less effective against units.",
   "hitSize": 18,
   "treadPullOffset": 5,
   "speed": 0.85,

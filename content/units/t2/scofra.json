@@ -1,7 +1,7 @@
 {
   "type": "legs",
   "name": "[purple]Scofra",
-  "description": "A medium sized legged unit that utilizes oil and fire to deal high amounts of damage.",
+  "description": "Equipped with dual oil and slag guns. Can walk over walls and terrain.",
   "speed": 0.54,
   "drag": 0.4,
   "hitSize": 15,

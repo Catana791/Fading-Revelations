@@ -1,7 +1,7 @@
 {
   "type": "tank",
   "name": "[orange]Sambuca",
-  "description": "A small tank equipped with a basic gun. Specializes in combat against buildings but is slighly weaker against units.",
+  "description": "Fires standard bullets at enemy structures. Less effective against units.",
   "health": 500,
   "armor": 3,
   "squareShape": true,

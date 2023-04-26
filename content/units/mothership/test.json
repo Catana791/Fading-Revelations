@@ -1,8 +1,8 @@
 {
   "name": "[purple]Lycosid",
   "type": "legs",
-  "description": "A slow but very strong spider-like unit equipped with highly deadly weapons!",
-  "details": "The Lycosid was created by an unknown organization to remotely take over dangerous sectors but intelligent spores corrupted it's ai leading to the unit getting lost until now.",
+  "description": "Equipped with elemental cannons. Constructs and deploys Toructs and Reducts.",
+  "details": "The Lycosid was created by an unknown organization to remotely take over dangerous sectors, but intelligent spores corrupted its AI leading to the unit becoming lost, until now.",
   "speed": 0.66,
   "legCount": 8,
   "immunities": ["melting", "burning", "sapped", "freezing", "wet"],

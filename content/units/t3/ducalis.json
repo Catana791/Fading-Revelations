@@ -2,7 +2,7 @@
   "name": "[orange]Ducalis",
   "type": "flying",
   "hovering": true,
-  "description": "A large asssault unit equipped with rocket launchers and a proximity mine launcher.",
+  "description": "Equipped with rocket and proximity mine launchers. Powerful in sieges.",
   "health": 10000,
   "armor": 10,
   "hitSize": 27.5,

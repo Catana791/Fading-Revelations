@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "name": "[orange]Kestrel",
-  "description": "Leaving behind the extreme fragility but also the extreme speed of the earlier stages of this unit, this units is fast and equipped with many energy weapons.",
+  "description": "Equipped with onboard arc turrets and a concentrated laser beam. Forfeits agility and speed for power.",
   "speed": 3,
   "research": "close-range",
   "flying": true,

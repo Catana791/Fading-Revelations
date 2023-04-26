@@ -1,7 +1,7 @@
 {
   "type": "legs",
   "name": "[green]Corax",
-  "description": "A heavy unit with an appearance similar to that of Corvus. Shoots a similar laser to Corvus but also some light artillery.",
+  "description": "Charges up a gigawatt laser that obliterates enemy structures and units alike. Additionally equipped with smaller, artillery lasers.",
   "health": 18000,
   "rotateSpeed": 0.48,
   "armor": 14,

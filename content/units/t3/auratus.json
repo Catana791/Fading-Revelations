@@ -1,7 +1,7 @@
 {
   "type": "legs",
   "name": "[purple]Auratus",
-  "description": "A large legged unit that uses elemental weapons to deal high damage.",
+  "description": "Utilizes slag and water orbs to neutralize enemy targets. Additionally, it is equipped with a main railcannon.",
   "drag": 0.1,
   "speed": 0.62,
   "hitSize": 23,

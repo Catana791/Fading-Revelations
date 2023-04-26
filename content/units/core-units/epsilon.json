@@ -1,7 +1,7 @@
 {
   "type": "flying",
   "name": "[yellow]Epsilon",
-  "description": "Defends the Element core from enemies. Builds structures quickly.",
+  "description": "Defends the Element core from enemies. Rapidly builds a variety of structures, and is equipped with multiple healing beams.",
   "drag": 0.15,
   "speed": 4.25,
   "research": "delta",

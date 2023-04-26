@@ -1,6 +1,6 @@
 {
   "name": "[purple]Reduct",
-  "description": "Equipped with a small version of the Lycosid's frost laser, this unit can freeze its targets.",
+  "description": "Freezes its targets alive via a frigid laser.",
   "details": "Spawned by the Lycosid mothership.",
   "health": 660,
   "flying": false,

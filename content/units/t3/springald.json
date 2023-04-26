@@ -1,7 +1,7 @@
 {
   "type": "tank",
   "name": "[orange]Springald",
-  "description": "A large tank equipped with a rocket launching cannon and small laser arrays. Excels at combat versus buildings but is at a slight disatvantage versus units.",
+  "description": "Equipped with a rocket launching cannon and small laser arrays. Excels at siege against buildings, but is weaker against units.",
   "hitSize": 28,
   "treadPullOffset": 4,
   "health": 12000,

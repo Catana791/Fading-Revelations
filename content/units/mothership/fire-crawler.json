@@ -1,6 +1,6 @@
 {
   "name": "[purple]Toruct",
-  "description": "Equipped with a small version of the Lycosid's fire laser, this unit can set its targets on fire.",
+  "description": "Lights targets ablaze with a small, fiery laser.",
   "details": "Spawned by the Lycosid mothership.",
   "health": 660,
   "flying": false,
