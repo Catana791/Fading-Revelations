@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Advanced Cryofluid-Mixer",
-  "description": "Mixes water and titanium more efficiently to make a lot of cryofluid.",
+  "description": "Mixes large quantities of water with fine titanium powder to produce cryofluid.",
   "outputLiquid": {
     "liquid": "cryofluid",
     "amount": 0.4
