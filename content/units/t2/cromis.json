@@ -1,7 +1,7 @@
 {
   "type": "naval",
   "name": "[orange]Cromis",
-  "description": "A medium sized naval unit equipped with advanced weaponry that inflicts emp on hit targets.",
+  "description": "Fires trios of missiles. Additionally, is equipped with a laser that inflicts EMP on hit targets.",
   "health": 1180,
   "armor": 7,
   "hitSize": 15,
