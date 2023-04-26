@@ -5,7 +5,7 @@ flying: true
 engineSize: 0
 lowAltitude: true
 name: "[orange]Onirion"
-description: "A large helicopter equipped with an array of different weapons. The rotating blades damage nearby targets."
+description: "Equipped with a torpedo cannon, dual missile launchers, and swerving machine guns. Additionally, drops bombs on targets underneath it. Rotors deal large damage to nearby targets."
 health: 5400
 armor: 6
 hitSize: 23
