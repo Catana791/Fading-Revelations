@@ -1,7 +1,7 @@
 {
   "type": "tank",
   "name": "[orange]Onager",
-  "description": "A huge tank equipped with a homing rocket cannon and several smaller weapons. Specializes in destroying buildings but has a slight disatvantage at unit combat.",
+  "description": "Equipped with a homing rocket cannon and several smaller weapons. Obliterates all buildings in its path, but suffers against units. Can run over enemy structures.",
   "hitSize": 92,
   "speed": 0.36,
   "health": 23000,
