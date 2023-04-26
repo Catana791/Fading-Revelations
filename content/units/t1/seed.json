@@ -1,7 +1,8 @@
 {
   "type": "flying",
   "name": "[green]Seed",
-  "description": "A small support drone with low health. Similar to a Mono but has a repair field ability, can build slowly and has overall slightly improved stats.",
+  "description": "Capable of automatic mining, repairing, and building.",
+  "details": "A viable early support drone.",
   "abilities": [
     {
       "type": "RepairFieldAbility", 
