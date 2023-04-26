@@ -1,7 +1,7 @@
 {
   "type": "TractorBeamTurret",
   "name": "Deracination",
-  "description": "An enhanced version of the Parallax. Drags enemies faster and deals more damage in the process.",
+  "description": "Fires an intense tractor beam that pulls in air targets, damaging them in the process, akin to the parallax.",
   "size": 3,
   "force": 20,
   "targetAir": true,
