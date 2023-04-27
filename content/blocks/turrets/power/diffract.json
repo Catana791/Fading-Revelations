@@ -254,6 +254,8 @@
         "lightningColor": "d99f6b",
         "lightningDamage": 5,
         "fragBullet": {
+          "weaveMag": 3,
+          "weaveScale": 3,
           "lightColor": "d99f6b",
           "lightRadius": 50,
           "lightOpacity": 0.7,
@@ -287,6 +289,8 @@
           "fragVelocityMax": 1,
           "fragLifeMax": 1,
           "fragBullet": {
+            "weaveMag": 3,
+            "weaveScale": 3,
             "lightColor": "d99f6b",
             "lightRadius": 50,
             "lightOpacity": 0.7,
@@ -400,6 +404,8 @@
         "lightningColor": "218b8f",
         "lightningDamage": 7,
         "fragBullet": {
+          "weaveMag": 3,
+          "weaveScale": 3,
           "despawnShake": 1,
           "lightColor": "218b8f",
           "lightRadius": 50,
@@ -434,6 +440,8 @@
           "fragVelocityMax": 1,
           "fragLifeMax": 1,
           "fragBullet": {
+            "weaveMag": 3,
+            "weaveScale": 3,
             "lightColor": "218b8f",
             "lightRadius": 50,
             "lightOpacity": 0.7,
