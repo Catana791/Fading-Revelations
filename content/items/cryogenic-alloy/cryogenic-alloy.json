@@ -1,6 +1,6 @@
 {
   "name": "Cryogenic Alloy",
-  "description": "A schock-cooled material made from Igneous Alloy, Cryogenic Gel and Neutron Fluid. Is extremely durable and charged.",
+  "description": "A shock-cooled, highly durable metal made from Igneous Alloy, Cryogenic Gel and Neutron Fluid. Useful in advanced electronic components.",
   "hardness": 5,
   "charge": 0.45,
   "explosiveness": 0,
