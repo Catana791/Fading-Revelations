@@ -1,6 +1,6 @@
 {
   "type": "AttributeCrafter",
-  "attribute": "water
+  "attribute": "water",
   "maxBoost": -1,
   "baseEfficiency": 1,
   "name": "Ground Grinder",
