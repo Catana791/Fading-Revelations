@@ -1,8 +1,5 @@
 {
-  "type": "AttributeCrafter",
-  "attribute": "sand",
-  "maxBoost": 1,
-  "baseEfficiency": 1,
+  "type": "GenericCrafter",
   "name": "Ground Grinder",
   "description": "Slowly grinds up the ground it sits on to produce sand. Requires power.",
   "size": 1,
