@@ -1,7 +1,7 @@
 {
   "type": "AttributeCrafter",
-  "attribute": "water",
-  "maxBoost": -1,
+  "attribute": "sand",
+  "maxBoost": 1,
   "baseEfficiency": 1,
   "name": "Ground Grinder",
   "description": "Slowly grinds up the ground it sits on to produce sand. Requires power.",
