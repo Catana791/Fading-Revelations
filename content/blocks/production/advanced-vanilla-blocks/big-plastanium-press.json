@@ -9,6 +9,7 @@
   "updateEffect": "plasticburn",
   "craftEffect": "formsmoke",
   "craftTime": 60,
+  "itemCapacity": 20,
   "liquidCapacity": 84,
   "drawer": {
     "type": "DrawMulti",
