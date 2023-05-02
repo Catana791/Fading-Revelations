@@ -1,0 +1,10 @@
+{
+  "localizedName": "Carbonic Downpour",
+  "description": "The enemy has entrenched in an acidic, barren wasteland. Take advantage of the abundant natural resources, research acid processing, and invade the enemy position.",
+  "difficulty": 6,
+  "planet": "cangirus",
+  "sector": 14,
+  "allowLaunchLoadout": true,
+  "addStartingItems": true,
+  "noLighting": true
+}
