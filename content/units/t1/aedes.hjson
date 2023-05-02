@@ -21,13 +21,24 @@ weapons: [
     alwaysShooting: true
     ignoreRotation: true
     shootCone: 360
-    reload: 25
+    reload: 15
     bullet: {
       status: me-minimal-downdraft
       statusDuration: 30
       instantDisappear: true
       damage: 0
-      shootEffect: none
+      shootEffect: {
+        followParent: true
+        rotWithParent: true
+        particles: 1
+        lifetime: 20
+        length: 0
+        region: me-aedes-rotor
+        sizeFrom: 10
+        sizeTo: 10
+        spin: 10
+        layer: 95.1
+      }
       pierceBuilding: true
       knockback: 0.1
       smokeEffect: none
@@ -58,26 +69,6 @@ weapons: [
       trailColor: d9dcbc
       trailLength: 6
       trailChance: -1
-    }
-  }
-]
-abilities: [
-  {
-    type: StatusFieldAbility
-    effect: none
-    reload: 15
-    parentizeEffects: true
-    activeEffect: {
-      followParent: true
-      rotWithParent: true
-      particles: 1
-      lifetime: 20
-      length: 0
-      region: me-aedes-rotor
-      sizeFrom: 10
-      sizeTo: 10
-      spin: 10
-      layer: 95.1
     }
   }
 ]
