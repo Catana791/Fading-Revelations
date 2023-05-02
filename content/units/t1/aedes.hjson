@@ -20,6 +20,7 @@ weapons: [
     shootSound: none
     alwaysShooting: true
     ignoreRotation: true
+    recoil: 0
     shootCone: 360
     reload: 15
     bullet: {
