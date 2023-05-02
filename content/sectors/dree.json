@@ -1,0 +1,11 @@
+{
+  "localizedName": "Dree",
+  "description": "The next step on your journey through Cerbero. This sector has coal and water. Use coal to create primitive power. Upgrade your resources.",
+  "difficulty": 2,
+  "captureWave": 20,
+  "planet": "cerbero",
+  "allowLaunchLoadout": true,
+  "allowLaunchSchematics": true,
+  "sector": 13,
+  "addStartingItems": true
+} 
