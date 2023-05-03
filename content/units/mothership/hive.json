@@ -51,6 +51,7 @@
       "name": "hive-nuke",
             "mirror": false,
             "alternate": false,
+            "shootY": 15,
             "x": 0,
             "cooldownTime": 400,
             "continuous": true,
@@ -62,6 +63,7 @@
               "type": "ContinuousLaserBulletType",
               "length": 500,
               "width": 16,
+              "shake": 6,
               "makeFire": false,
               "status": "melting",
               "statusDuration": 600,
@@ -118,11 +120,12 @@
       "shootSound": "laser",
       "bullet": {
         "type": "LaserBulletType",
+        "shake": 1,
         "damage": 108,
         "length": 460,
         "status": "burning",
         "statusDuration": 60,
-        "colors":["861303", "ff0d0d", "ff4949"]
+        "colors" :["ec7458aa", "ff9c5a", "ffffff"]
       }
     },
     {
@@ -136,11 +139,12 @@
       "shootSound": "laser",
       "bullet": {
         "type": "LaserBulletType",
+        "shake": 1,
         "damage": 92,
         "length": 460,
         "status": "burning",
         "statusDuration": 60,
-        "colors":["861303", "ff0d0d", "ff4949"]
+        "colors": ["ec7458aa", "ff9c5a", "ffffff"]
       }
     },
     {
@@ -150,11 +154,13 @@
       "rotate": true,
       "rotateSpeed": 20,
       "y": 0,
+      "shootY": 5,
       "reload": 257,
       "continuous": true,
       "shootSound": "laserblast",
       "bullet": {
         "type": "ContinuousLaserBulletType",
+          "shake": 3,
               "length": 400,
               "width": 6,
               "makeFire": false,
@@ -179,12 +185,14 @@
       "mirror": false,
       "rotate": true,
       "rotateSpeed": 20,
+      "shootY": 5,
       "y": 0,
       "reload": 221,
       "continuous": true,
       "shootSound": "laserblast",
       "bullet": {
         "type": "ContinuousLaserBulletType",
+        "shake": 3,
               "length": 400,
               "width": 6,
               "makeFire": false,
@@ -193,7 +201,6 @@
               "damage": 29,
               "lifetime": 120,
               "fadeTime": 20,
-              "colors":["861303", "ff0d0d", "ff4949"],
   "hitEffect": {
                   "type": "WaveEffect",
                   "sizeFrom": 16,
