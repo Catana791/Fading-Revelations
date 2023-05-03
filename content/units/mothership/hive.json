@@ -81,9 +81,13 @@
   "weapons": [
     {
       "name": "hive-nuke",
-            "mirror": false,
-            "alternate": false,
-            "shootY": 50,
+      "shoot": {
+        "firstShootDelay": 87 
+      },
+      "chargeSound": "huge-laser-charge",
+      "mirror": false,
+      "alternate": false,
+      "shootY": 50,
             "x": 0,
             "cooldownTime": 400,
             "continuous": true,
@@ -94,6 +98,171 @@
             "shootSound": "laserbig",
             "bullet": {
               "type": "ContinuousLaserBulletType",
+              "chargeEffect": {
+          //This is inspired by ExoGenesis made by Aureus. (Reference file: collapse.json)
+          "type": "MultiEffect",
+          "lifetime": 600,
+          "followParent": true,
+          "effects": [
+            {
+              "type": "ParticleEffect",
+              "particles": 60,
+              "lightOpacity": 0,
+              "length": 100,
+              "baseLength": -100,
+              "lifetime": 200,
+              "layer": 106,
+              "interp": "exp5",
+              "sizeFrom": 8,
+              "sizeTo": 3,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 60,
+              "offset": 15,
+              "baseLength": 18,
+              "sizeFrom": 0,
+              "sizeTo": 4,
+              "length": 80,
+              "lifetime": 340,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a",
+              "cone": 360
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 340,
+              "sizeFrom": 55,
+              "sizeTo": 0,
+              "interp": "pow5Out",
+              "strokeFrom": 0,
+              "strokeTo": 8,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a" 
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 340,
+              "sizeFrom": 65,
+              "sizeTo": 0,
+              "interp": "pow10Out",
+              "strokeFrom": 0,
+              "strokeTo": 8,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 60,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 120,
+              "baseLength": -120,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 220,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 60,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 120,
+              "baseLength": -120,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 260,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a"
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 340,
+              "sizeFrom": 55,
+              "sizeTo": 0,
+              "interp": "pow5Out",
+              "strokeFrom": 0,
+              "strokeTo": 8,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a" 
+            },
+            {
+              "type": "WaveEffect",
+              "lifetime": 340,
+              "sizeFrom": 65,
+              "sizeTo": 0,
+              "interp": "pow10Out",
+              "strokeFrom": 0,
+              "strokeTo": 8,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 70,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 200,
+              "baseLength": -200,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 300,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 120,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 250,
+              "baseLength": -250,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 240,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 130,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 300,
+              "baseLength": -400,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 400,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a"
+            },
+            {
+              "type": "ParticleEffect",
+              "particles": 145,
+              "offset": 100,
+              "sizeFrom": 1,
+              "sizeTo": 6,
+              "length": 350,
+              "baseLength": -350,
+              "interp": "pow3In",
+              "sizeInterp": "pow5Out",
+              "lifetime": 420,
+              "colorFrom": "ec7458aa",
+              "colorTo": "ff9c5a"
+            }
+          ]
+        }
+        //ExoGenesis inspired particle magic ends here!
+      }
               "length": 500,
               "width": 16,
               "makeFire": false,
@@ -109,32 +278,32 @@
                   "type": "WaveEffect",
                   "sizeFrom": 32,
                   "sizeTo": 22,
-                  "colorFrom": "ff0d0d",
-                  "colorTo": "ff4949",
+                  "colorFrom": "ec7458aa",
+                  "colorTo": "ff9c5a",
                   "lifetime": 120
                 },
                 { 
                   "type": "WaveEffect",
                   "sizeFrom": 22,
                   "sizeTo": 32,
-                  "colorFrom": "ff4949",
-                  "colorTo": "ff0d0d",
+                  "colorFrom": "ec7458aa",
+                  "colorTo": "ff9c5a",
                   "lifetime": 120
                 },
               {
                 "type": "ParticleEffect",
                 "particles": 8,
                 "length": 35,
-                "colorFrom": "1d1d1d",
-                "colorTo": "070707",
+                "colorFrom": "ec7458aa",
+                "colorTo": "ff9c5a",
                 "lifetime": 420
               },
               {
                 "type": "ParticleEffect",
                 "particles": 8,
                 "length": 35,
-                "colorFrom": "070707",
-                "colorTo": "1d1d1d",
+                "colorFrom": "ec7458aa",
+                "colorTo": "ff9c5a",
                 "lifetime": 420
               }
             ]
@@ -157,7 +326,7 @@
         "length": 460,
         "status": "burning",
         "statusDuration": 60,
-        "colors" :["ec7458aa", "ff9c5a", "ffffff"]
+        "colors": ["ec7458aa", "ff9c5a", "ffffff"]
       }
     },
     {
@@ -200,7 +369,7 @@
         "splashDamage": 740,
         "splashDamageRadius": 24,
         "trailEffect": "instTrail",
-        "hitEffect": "instBomb",
+        "hitEffect": "massiveExplosion",
         "shootEffect": "instShoot",
         "pierce": true,
         "pierceBuilding": true
@@ -227,7 +396,7 @@
         "splashDamage": 720,
         "splashDamageRadius": 24,
         "trailEffect": "instTrail",
-        "hitEffect": "instBomb",
+        "hitEffect": "massiveExplosion",
         "shootEffect": "instShoot",
         "pierce": true,
         "pierceBuilding": true
