@@ -82,7 +82,7 @@
     {
       "name": "hive-nuke",
       "shoot": {
-        "firstShootDelay": 87 
+        "firstShotDelay": 87 
       },
       "chargeSound": "huge-laser-charge",
       "mirror": false,
@@ -358,7 +358,7 @@
       "shootY": 23,
       "reload": 257,
       "continuous": true,
-      "shootSound": "laserblast",
+      "shootSound": "railgun",
       "bullet": {
         "type": "PointBulletType",
         "speed": 12,
@@ -385,7 +385,7 @@
       "shake": 4,
       "reload": 221,
       "continuous": true,
-      "shootSound": "laserblast",
+      "shootSound": "railgun",
       "bullet": {
         "type": "PointBulletType",
         "speed": 12,
