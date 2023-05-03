@@ -192,23 +192,18 @@
       "continuous": true,
       "shootSound": "laserblast",
       "bullet": {
-        "type": "ContinuousLaserBulletType",
-              "length": 400,
-              "width": 6,
-              "makeFire": false,
-              "status": "melting",
-              "statusDuration": 60,
-              "damage": 31,
-              "lifetime": 120,
-              "fadeTime": 20,
-              "hitEffect": {
-                  "type": "WaveEffect",
-                  "sizeFrom": 16,
-                  "sizeTo": 0,
-                  "colorFrom": "ff0d0d",
-                  "colorTo": "ff4949",
-                  "lifetime": 90 
-        }
+        "type": "PointBulletType",
+        "speed": 12,
+        "lifetime": 30,
+        "maxRange": 400,
+        "damage": 740,
+        "splashDamage": 740,
+        "splashDamageRadius": 24,
+        "trailEffect": "instTrail",
+        "hitEffect": "instBomb",
+        "shootEffect": "instShoot",
+        "pierce": true,
+        "pierceBuilding": true
       }
     },
     {
@@ -224,23 +219,18 @@
       "continuous": true,
       "shootSound": "laserblast",
       "bullet": {
-        "type": "ContinuousLaserBulletType",
-              "length": 400,
-              "width": 6,
-              "makeFire": false,
-              "status": "melting",
-              "statusDuration": 60,
-              "damage": 29,
-              "lifetime": 120,
-              "fadeTime": 20,
-  "hitEffect": {
-                  "type": "WaveEffect",
-                  "sizeFrom": 16,
-                  "sizeTo": 0,
-                  "colorFrom": "ff0d0d",
-                  "colorTo": "ff4949",
-                  "lifetime": 90 
-        }
+        "type": "PointBulletType",
+        "speed": 12,
+        "lifetime": 30,
+        "maxRange": 400,
+        "damage": 720,
+        "splashDamage": 720,
+        "splashDamageRadius": 24,
+        "trailEffect": "instTrail",
+        "hitEffect": "instBomb",
+        "shootEffect": "instShoot",
+        "pierce": true,
+        "pierceBuilding": true
       }
     }
   ],
