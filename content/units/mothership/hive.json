@@ -46,7 +46,7 @@
     {
       "type": "HaloPart",
       "x": 0,
-      "y": 0,
+      "y": 4,
       "color": "ff3232",
       "colorTo": "c80000",
       "mirror": false,
@@ -60,7 +60,7 @@
     {
       "type": "HaloPart",
       "x": 0,
-      "y": 0,
+      "y": 4,
       "color": "ff3232",
       "colorTo": "c80000",
       "mirror": false,
@@ -93,6 +93,7 @@
             "cooldownTime": 400,
             "continuous": true,
             "shake": 7,
+            "recoil": 0,
             "y": 0
             "reload": 600,
             "rotate": false,
@@ -192,6 +193,7 @@
       "rotateSpeed": 20,
       "y": 0,
       "shake": 4,
+      "recoil": 3,
       "shootY": 23,
       "reload": 257,
       "continuous": true,
@@ -219,6 +221,7 @@
       "rotateSpeed": 20,
       "shootY": 23,
       "y": 0,
+      "recoil": 3,
       "shake": 4,
       "reload": 221,
       "continuous": true,
