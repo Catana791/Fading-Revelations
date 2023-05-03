@@ -10,34 +10,34 @@
   "lowAltitude": true,
   "engines": [
     {
-      "x": 72,
-      "y": -27,
+      "x": 70,
+      "y": -29,
       "rotation": 90,
       "radius": 6
     },
     {
-      "x": -72,
-      "y": -27,
+      "x": -70,
+      "y": -29,
       "rotation": 90,
       "radius": 6
     },
     {
-      "x": 40,
+      "x": 44,
       "y": -40,
-      "rotation": 90,
+      "rotation": 270,
       "radius": 4
     },
     {
-      "x": -40,
+      "x": -44,
       "y": -40,
-      "rotation": 90,
+      "rotation": 270,
       "radius": 4
     },
     {
       "x": 0,
       "y": -46,
       "rotation": 90,
-      "radius": 14
+      "radius": 15
     }
   ],
   "speed": 0.96,
