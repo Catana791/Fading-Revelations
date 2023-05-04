@@ -1,7 +1,7 @@
 {
   "localizedName": "Etnatic Isles",
   "description": "The Crux's primary manufacturing plant for flammables and circuitry. Eliminate the outposts, bust through the main gate and secure valuable resources.",
-  "difficulty": 4,
+  "difficulty": 2,
   "planet": "cangirus",
   "sector": 0,
   "allowLaunchLoadout": true,
