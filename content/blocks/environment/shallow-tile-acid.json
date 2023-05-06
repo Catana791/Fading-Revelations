@@ -1,0 +1,10 @@
+{
+  "type": "ShallowLiquid",
+  "speedMultiplier": 0.7,
+  "albedo": 0.9,
+  "supportsOverlay": true,
+  "attributes": {
+    "water": -1,
+    "sand": 0.1
+  }
+}
