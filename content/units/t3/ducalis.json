@@ -55,7 +55,7 @@
       "alternate": true,
       "shootSound": "laser",
       "shake": 3,
-      "name": "large-bullet-mount",
+      "name": "dark-large-bullet-mount",
       "bullet": {
         "type": "LaserBulletType",
         "length": 320,
@@ -78,7 +78,7 @@
       "reload": 50,
       "shootSound": "laser",
       "shake": 3,
-      "name": "large-bullet-mount",
+      "name": "dark-large-bullet-mount",
       "bullet": {
         "type": "LaserBulletType",
         "length": 300,
@@ -101,7 +101,7 @@
       "rotate": false,
       "shake": 5,
       "shootSound": "cannon",
-      "name": "large-laser-mount",
+      "name": "dark-large-laser-mount",
       "bullet": {
         "type": "MissileBulletType",
         "weaveMag": 4,
@@ -114,7 +114,7 @@
         "damage": 180,
         "pierce": false,
         "despawnHit": true,
-        "trailWidth": 12,
+        "trailWidth": 10,
         "trailLength": 40,
         "trailChance": -1,
         "trailColor": "ff0d0d",
