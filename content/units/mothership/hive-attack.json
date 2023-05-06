@@ -8,6 +8,7 @@
   "speed": 2,
   "alwaysUnlocked": false,
   "health": 1070,
+  "outlineColor": "191919",
   "flying": true,
   "baseRotateSpeed": 0.05,
   "weapons": [
