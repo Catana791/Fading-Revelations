@@ -52,7 +52,7 @@
       "x": -9,
       "y": -8,
       "mirror": true,
-      "name": "missiles-mount",
+      "name": "dark-missiles-mount",
       "rotate": true,
       "reload": 20,
       "alternate": true,
@@ -82,7 +82,7 @@
       "reload": 120,
       "inaccuracy": 4,
       "shootSound": "laser",
-      "name": "missiles-mount",
+      "name": "dark-missiles-mount",
       "bullet": {
         "type": "LaserBulletType",
         "length": 240,
