@@ -12,7 +12,6 @@
   "attributes": {
     "water": -1
   },
-  "shallow": true,
   "emitLight": true,
   "lightRadius": 5,
   "lightColor": "9ed17161",
