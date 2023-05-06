@@ -7,6 +7,7 @@
   "hitSize": 8,
   "flying": true,
   "itemCapacity": 20,
+  "outlineColor": "191919",
   "speed": 1.3,
   "weapons": [
     {
