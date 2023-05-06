@@ -6,5 +6,8 @@
   "attributes": {
     "water": -1,
     "sand": 0.1
-  }
+  },
+  "floorBase": "sand",
+  "liquidBase": "acid",
+  "liquidOpacity": 0.4
 }
