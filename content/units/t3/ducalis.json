@@ -6,6 +6,7 @@
   "health": 10000,
   "armor": 10,
   "hitSize": 27.5,
+  "outlineColor": "191919",
   "itemCapacity": 60,
   "speed": 1.8,
   "lowAltitude": true,
