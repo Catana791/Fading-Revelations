@@ -7,7 +7,7 @@
   "immunities": ["melting", "burning", "sapped", "freezing", "wet"],
   "aimDst": 600,
   "createWreck": true,
-  "outlines": false,
+  "outlineColor": "191919",
   "lowAltitude": true,
   "engines": [
     {
