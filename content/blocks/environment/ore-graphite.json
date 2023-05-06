@@ -1,0 +1,8 @@
+{
+  "type": "OreBlock",
+  "localizedName": "Graphite",
+  "itemDrop": "graphite",
+  "hasColor": true,
+  "mapColor": "7a89bc",
+  "variants": 3
+}
