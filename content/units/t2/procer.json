@@ -88,8 +88,7 @@
         "type": "LaserBulletType",
         "length": 240,
         "damage": 110,
-        "lifetime": 60,
-        "colors": ["861303", "ff0d0d", "ff4949"]
+        "lifetime": 60
       }
     }
   ],
