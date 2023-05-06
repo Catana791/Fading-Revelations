@@ -66,9 +66,7 @@
         "lightning": 3,
         "width": 16,
         "lightningLength": 12,
-        "lightningDamage": 20,
-        "lightningColor": "ff0d0d",
-        "colors": ["861303", "ff0d0d", "ff4949"],
+        "lightningDamage": 20
       }
     },
     {
@@ -89,9 +87,7 @@
         "lightning": 3,
         "lightningLength": 12,
         "width": 16,
-        "lightningDamage": 20,
-        "lightningColor": "ff0d0d",
-        "colors": ["861303", "ff0d0d", "ff4949"],
+        "lightningDamage": 20
       }
     },
     {
@@ -118,10 +114,6 @@
         "trailWidth": 10,
         "trailLength": 40,
         "trailChance": -1,
-        "trailColor": "ff0d0d",
-        "backColor": "861303",
-        "frontColor": "ff4949",
-        "lightColor": "ff0d0d",
         "lightRadius": 40,
         "lightOpacity": 0.7,
         "fragBullets": 30,
