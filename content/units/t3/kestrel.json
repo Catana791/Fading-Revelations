@@ -6,6 +6,7 @@
   "research": "close-range",
   "flying": true,
   "health": 8600,
+  "outlineColor": "191919",
   "armor": 10,
   "lowAltitude": true,
   "itemCapacity": 200,
