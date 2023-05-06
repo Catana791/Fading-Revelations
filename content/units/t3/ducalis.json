@@ -62,11 +62,13 @@
         "length": 320,
         "damage": 50,
         "lifetime": 90,
+        "colors": ["ec7458aa", "ff9c5a", "ffffff"]
         "status": "shocked",
         "lightning": 3,
         "width": 16,
         "lightningLength": 12,
-        "lightningDamage": 20
+        "lightningDamage": 20,
+        "lightningColor": "ff9c5a"
       }
     },
     {
@@ -80,6 +82,7 @@
       "name": "dark-large-bullet-mount",
       "bullet": {
         "type": "LaserBulletType",
+        "colors": ["ec7458aa", "ff9c5a", "ffffff"],
         "length": 300,
         "damage": 50,
         "lifetime": 90,
@@ -87,7 +90,8 @@
         "lightning": 3,
         "lightningLength": 12,
         "width": 16,
-        "lightningDamage": 20
+        "lightningDamage": 20,
+        "lightningColor": "ff9c5a"
       }
     },
     {
@@ -123,6 +127,8 @@
           "type": "ShrapnelBulletType",
           "hitSound": "shotgun",
           "despawnHit": true,
+          "colorFrom": "ff9c5a",
+          "colorTo": "ec7458aa",
           "length": 80,
           "damage": 80,
           "lifetime": 90,
