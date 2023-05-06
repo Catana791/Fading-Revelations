@@ -9,6 +9,7 @@
   "armor": 9,
   "speed": 1.2,
   "itemCapacity": 25,
+  "outlineColor": "191919",
   "engineOffset": 32,
   "engineSize": 8,
   "parts": [
