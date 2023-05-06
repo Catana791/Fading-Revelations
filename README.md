@@ -83,79 +83,7 @@ A huge content extension mod!
 
 <div align = center>
 
-Turrets:
-
-![Turret_Preview]
-
-<br>
-
-Production Blocks:
-
-![Production_Preview]
-
-<br>
-
-Distribution and Liquid Blocks:
-
-![Distribution_Preview]
-
-<br>
-
-Power Blocks:
-
-![Power_Preview]
-
-<br>
-
-Walls:
-
-![Wall_Preview]
-
-<br>
-
-Factories:
-
-![Factory_Preview]
-
-<br>
-
-Unit Factories:
-
-![Unit_Factory_Preview]
-
-<br>
-
-Effect Blocks:
-
-![Effect_Preview]
-
-<br>
-
-<br>
-<br>
-
-Interceptor Units (Lightweight units): 
-
-![Interceptor_Preview]
-
-<br>
-
-Heavy Units: 
-
-![Heavy_Preview]
-
-<br>
-
-Motherships:
-
-![Mothership_Preview]
-
-<br>
-<br>
-
-Items: 
-
-![Item_Preview]
+Note: Previews are being re-done right now!
 
 <!----------------------------------------------------------------------------->
 
@@ -171,22 +99,6 @@ Items:
 
 [License]: LICENSE
 [Logo]: github/Banner.png
-[Turret_Preview]: github/turret_preview.png
-[Production_Preview]: github/production_preview.png
-[Distribution_Preview]: github/distribution_preview.png
-[Power_Preview]: github/power_preview.png
-[Wall_Preview]: github/wall_preview.png
-[Factory_Preview]: github/factory_preview.png
-[Unit_Factory_Preview]: github/unit_factory_preview.png
-[Effect_Preview]: github/effect_preview.png
-[Trading_Preview]: github/trading_preview.png
-
-
-[Interceptor_Preview]: github/interceptor_preview.png
-[Heavy_Preview]: github/heavy_preview.png
-[Mothership_Preview]: github/mothership_preview.png
-
-[Item_Preview]: github/item_preview.png
 
 <!----------------------------------[ Badges ]--------------------------------->
 
