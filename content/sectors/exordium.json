@@ -5,6 +5,7 @@
   "difficulty": 2,
   "planet": "cerbero",
   "allowLaunchLoadout": true,
-  "allowLaunchSchematics": true,
+  "allowLaunchSchematics": false,
+  "addStartingItems": true,
   "sector": 0
 }
