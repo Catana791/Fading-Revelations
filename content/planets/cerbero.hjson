@@ -37,7 +37,7 @@ sectorSize: 1
 orbitSpacing: 4
 radius: 1.5
 minZoom: 1.8
-allowLaunchSchematics: true
+allowLaunchSchematics: false
 allowLaunchLoadout: false
 drawOrbit: true
 atmosphereRadIn: 0
