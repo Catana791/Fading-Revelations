@@ -6,6 +6,5 @@
   "planet": "cerbero",
   "allowLaunchLoadout": false,
   "allowLaunchSchematics": true,
-  "sector": 12,
-  "addStartingItems": true
+  "sector": 12
 } 
