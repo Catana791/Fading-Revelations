@@ -4,7 +4,8 @@
   "difficulty": 3,
   "captureWave": 20,
   "planet": "cerbero",
-  "allowLaunchLoadout": false,
+  "allowLaunchLoadout": true,
   "allowLaunchSchematics": false,
+  "addStartingItems": true,
   "sector": 12
 } 
