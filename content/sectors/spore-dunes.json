@@ -5,6 +5,6 @@
   "captureWave": 20,
   "planet": "cerbero",
   "allowLaunchLoadout": false,
-  "allowLaunchSchematics": true,
+  "allowLaunchSchematics": false,
   "sector": 12
 } 
