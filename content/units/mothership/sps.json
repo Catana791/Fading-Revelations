@@ -9,7 +9,7 @@
   "immunities": ["melting", "burning", "sapped", "freezing", "wet"],
   "lowAltitude": true,
   "speed": 0.96,
-  "outlines": false,
+  "outlineColor": "2a2a2a",
   "engines": [
     {
       "x": 35,
@@ -122,7 +122,7 @@
     {
       "name": "sps-rail",
       "x": 0,
-      "y": -8,
+      "y": -2,
       "recoil": 8,
       "recoilTime": 180,
       "continuous": true,
