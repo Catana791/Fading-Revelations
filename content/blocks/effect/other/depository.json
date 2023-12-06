@@ -1,0 +1,16 @@
+{
+  "name": "Depository",
+  "type": "StorageBlock",
+  "size": 4,
+  "hasItems": true,
+  "itemCapacity": 1800,
+  "health": 760,
+  "coreMerge": true,
+  "category": "effect",
+  "research": "mod-gate-effect",
+  "requirements": [
+    "titanium/300",
+    "thorium/180"
+    "plastanium/20"
+  ]
+}
