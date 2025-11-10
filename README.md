@@ -1,5 +1,6 @@
 
 <div align = center>
+# This mod is no longer in development and will NOT receive updates!
 
 <br>
 
